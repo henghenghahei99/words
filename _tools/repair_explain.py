@@ -5,7 +5,7 @@ import os
 import re
 import sys
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "output")
 START = "## 二、逐词说文解字"
 END = "## 三、本单元前缀 / 后缀小结"
 HEAD = re.compile(r"(?m)^### (\d+)\. ")

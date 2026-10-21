@@ -12,8 +12,8 @@ words/
 │   ├── 9A_U1.md … 9A_U8.md      九年级上册，8 个单元
 │   ├── 9B_U1.md … 9B_U6.md      九年级下册，6 个单元
 │   ├── *_EXPLAIN.md             每单元一份“说文解字”（46 份）
-│   └── all.csv                  全部条目汇总（unit,word,ipa,pos,meaning）
-├── _raw/                        抓取到的原始页面（可删）
+│   ├── all.csv                  全部条目汇总（unit,word,ipa,pos,meaning）
+│   └── source/                  原始抓取素材 + 来源说明（可删）
 ├── _tools/                      抓取 / 解析 / 生成脚本
 └── README.md
 ```
@@ -59,7 +59,7 @@ words/
    由 `eng_to_ipa` 自动生成（偏美音，如 guitar `/gɪˈtɑr/`；教材标注为 `/gɪˈtɑː(r)/`）。
    短语（含 `...`、括号、生僻词）可能没有音标。
 2. **词性为推断值**：7A、7B 与 8A 大部分来自教材配套资料；其余由 WordNet 义项占比 + 后缀规则
-   + 少量人工表补齐（脚本 `_tools/fill_pos.py`，结果缓存在 `_raw/pos_cache.json`）。
+   + 少量人工表补齐（脚本 `_tools/fill_pos.py`，结果缓存在 `output/source/pos_cache.json`）。
    短语按首词功能标注（如 `take care of` → v.、`in fact` → prep.），个别可能不准。
 3. **9B 只有 6 个单元**（教材本身如此）。
 4. 已修正的源站错误：`add` → v.、`wisely` → adv.、`spred` → `spread`、`ded` → `dead`；

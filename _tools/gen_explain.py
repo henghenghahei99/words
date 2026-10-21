@@ -16,7 +16,7 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.dirname(HERE)
+ROOT = os.path.join(os.path.dirname(HERE), "output")
 API = "https://api.deepseek.com/chat/completions"
 KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 MODEL = "deepseek-chat"

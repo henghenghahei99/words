@@ -2,7 +2,7 @@
 """Parse fetched word-list pages into per-unit files under words/.
 
 Output columns: 序号 | 英文 | 音标 | 词性 | 中文
-Sources (in _raw/):
+Sources (in output/source/):
   7A : r1.txt        (21cnjy 2024 七上 单词表, plain "word pos.meaning"; no IPA -> auto)
   7B : 7B_u1..8.md   (yy.suyang123, one unit per page, has IPA)
   8A : 8A_r4.txt     (yyld 八上, all units, has IPA)
@@ -17,8 +17,8 @@ import re
 
 import eng_to_ipa
 
-RAW = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "_raw")
-OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+RAW = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "output", "source")
+OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "output")
 
 POS_RE = re.compile(
     r"^(n|v|adj|adv|prep|conj|pron|num|int|art|aux|vt|vi|abbr)\.\s*", re.I

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Build _raw/pos_cache.json : word -> "n."/"v."/"adj."/"adv." ...
+"""Build output/source/pos_cache.json : word -> "n."/"v."/"adj."/"adv." ...
 
 Sources, in priority order:
-  1. _raw/8A_pos.txt  (21cnjy 新沪教牛津英语八上单词笔记, textbook tags)
+  1. output/source/8A_pos.txt  (21cnjy 新沪教牛津英语八上单词笔记, textbook tags)
   2. https://api.dictionaryapi.dev  (Wiktionary, cached)
   3. suffix rules (see rule_pos)
 """
@@ -18,7 +18,7 @@ from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-RAW = os.path.join(HERE, "..", "_raw")
+RAW = os.path.join(HERE, "..", "output", "source")
 CACHE = os.path.join(RAW, "pos_cache.json")
 
 POS_RE = re.compile(
@@ -132,7 +132,7 @@ def main():
     for k, v in glossary.items():
         cache.setdefault(k, v)
 
-    rows = list(csv.DictReader(open(os.path.join(HERE, "..", "all.csv"), encoding="utf-8")))
+    rows = list(csv.DictReader(open(os.path.join(HERE, "..", "output", "all.csv"), encoding="utf-8")))
     todo = {}
     for r in rows:
         if r["pos"]:
