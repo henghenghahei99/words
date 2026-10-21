@@ -4,21 +4,21 @@
 
 ```
 words/
-├── 7A_U1.md … 7A_U8.md     七年级上册，8 个单元
-├── 7B_U1.md … 7B_U8.md     七年级下册，8 个单元
-├── 8A_U1.md … 8A_U8.md     八年级上册，8 个单元
-├── 8B_U1.md … 8B_U8.md     八年级下册，8 个单元
-├── 9A_U1.md … 9A_U8.md     九年级上册，8 个单元
-├── 9B_U1.md … 9B_U6.md     九年级下册，6 个单元
-├── 7A_U1_EXPLAIN.md …      每单元一份“说文解字”（46 份）
-├── all.csv                 全部条目汇总（unit,word,ipa,pos,meaning）
-├── _raw/                   抓取到的原始页面（可删）
-└── _tools/
-    ├── ds.py               DeepSeek Search / Fetch 调用脚本
-    └── parse.py            解析原始页面 → 单元文件 + all.csv
+├── output/
+│   ├── 7A_U1.md … 7A_U8.md      七年级上册，8 个单元
+│   ├── 7B_U1.md … 7B_U8.md      七年级下册，8 个单元
+│   ├── 8A_U1.md … 8A_U8.md      八年级上册，8 个单元
+│   ├── 8B_U1.md … 8B_U8.md      八年级下册，8 个单元
+│   ├── 9A_U1.md … 9A_U8.md      九年级上册，8 个单元
+│   ├── 9B_U1.md … 9B_U6.md      九年级下册，6 个单元
+│   ├── *_EXPLAIN.md             每单元一份“说文解字”（46 份）
+│   └── all.csv                  全部条目汇总（unit,word,ipa,pos,meaning）
+├── _raw/                        抓取到的原始页面（可删）
+├── _tools/                      抓取 / 解析 / 生成脚本
+└── README.md
 ```
 
-每个 `xx_UN.md` 为一张表：序号 / **英文 / 音标 / 词性 / 中文**。
+每个 `output/xx_UN.md` 为一张表：序号 / **英文 / 音标 / 词性 / 中文**。
 共 46 个单元、1537 条（含短语）；**词性 1537/1537**、音标 1511/1537。
 
 ## 单元标题
