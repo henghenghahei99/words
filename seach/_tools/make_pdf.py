@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
 """Build a printable PDF of the dictionary (A4, TOC with page numbers).
 
+Layout: two columns, one page per letter, a clickable A-Z thumb index
+(the letter navigation block on the outer edge) and PDF bookmarks.
+
 Output: output/dictionary.pdf
 """
 import html as htmlmod
 import json
 import os
 import re
+import tempfile
 
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
@@ -28,13 +32,48 @@ ACCENT = colors.HexColor("#0d6c8a")
 MUTED = colors.HexColor("#6b7683")
 INK = colors.HexColor("#1d232b")
 
-FONT_CJK = "/tmp/NotoSerifSC-Regular.ttf"
-FONT_CJK_B = "/tmp/NotoSerifSC-Bold.ttf"
-if not os.path.exists(FONT_CJK_B):
+FONT_CACHE = os.environ.get("WORDS_FONT_DIR") or os.path.join(
+    tempfile.gettempdir(), "words_fonts")
+
+
+def _pick(*cands):
+    for p in cands:
+        if p and os.path.exists(p):
+            return p
+    return None
+
+
+def _font(env, *cands):
+    p = _pick(os.environ.get(env), *cands)
+    if not p:
+        raise SystemExit("font for %s not found; run _tools/prepare_fonts.py" % env)
+    return p
+
+
+FONT_CJK = _font("WORDS_FONT_CJK",
+                 os.path.join(FONT_CACHE, "NotoSerifSC-Regular.ttf"),
+                 "/tmp/NotoSerifSC-Regular.ttf")
+FONT_CJK_B = _pick(os.environ.get("WORDS_FONT_CJK_BOLD"),
+                   os.path.join(FONT_CACHE, "NotoSerifSC-Bold.ttf"),
+                   "/tmp/NotoSerifSC-Bold.ttf")
+if not FONT_CJK_B:
     print("bold TTF missing, falling back to regular")
     FONT_CJK_B = FONT_CJK
-FONT_LAT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-FONT_LAT_B = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+FONT_LAT = _font("WORDS_FONT_LAT",
+                 os.path.join(FONT_CACHE, "DejaVuSans.ttf"),
+                 "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+                 "C:/Windows/Fonts/segoeui.ttf",
+                 "C:/Windows/Fonts/calibri.ttf",
+                 "C:/Windows/Fonts/arial.ttf",
+                 "C:/Windows/Fonts/Vera.ttf")
+FONT_LAT_B = _pick(os.environ.get("WORDS_FONT_LAT_BOLD"),
+                   os.path.join(FONT_CACHE, "DejaVuSans-Bold.ttf"),
+                   "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+                   "C:/Windows/Fonts/segoeuib.ttf",
+                   "C:/Windows/Fonts/calibrib.ttf",
+                   "C:/Windows/Fonts/arialbd.ttf")
+if not FONT_LAT_B:
+    FONT_LAT_B = FONT_LAT
 pdfmetrics.registerFont(TTFont("CJK", FONT_CJK))
 pdfmetrics.registerFont(TTFont("CJK-Bold", FONT_CJK_B))
 pdfmetrics.registerFont(TTFont("LAT", FONT_LAT))
@@ -108,12 +147,40 @@ STY = {
                            textColor=INK),
 }
 
+# ---- letter tab: one tab on the outer edge showing the page's letter ----
+TAB_W = 15.0 * mm          # tab width (it runs off the page edge)
+TAB_H = 15.0 * mm          # tab height
+TAB_OVERHANG = 1.5 * mm    # part of the tab that sits outside the page
+TAB_RADIUS = 3.0 * mm
+TAB_EDGE = colors.HexColor("#0a5a73")
+TAB_Y_FIRST = 250 * mm     # bottom edge of the A tab
+TAB_Y_LAST = 30 * mm       # bottom edge of the Z tab
+TAB_STEPS = 25             # A..Z spans 25 steps
+
+
+def NAV_DEST(letter):
+    return "letter-" + letter
+
+
+class LetterHead(Paragraph):
+    """Letter heading that also registers a named PDF destination."""
+
+    def __init__(self, letter):
+        Paragraph.__init__(self, markup(letter), STY["h1"])
+        self.letter = letter
+
+    def draw(self):
+        self.canv.bookmarkPage(NAV_DEST(self.letter), fit="Fit")
+        Paragraph.draw(self)
+
 
 class Doc(BaseDocTemplate):
     def __init__(self, fn, **kw):
         super().__init__(fn, pagesize=A4, leftMargin=18 * mm, rightMargin=18 * mm,
                          topMargin=20 * mm, bottomMargin=17 * mm,
                          title="英语词源词典 · 说文解字", author="words_local", **kw)
+        self.letter_pages = {}     # letter -> page in the current pass
+        self.prev_pages = {}       # letter -> page from the previous pass
         gutter = 7 * mm
         col_w = (self.width - gutter) / 2
         frames = [Frame(self.leftMargin, self.bottomMargin, col_w, self.height,
@@ -124,6 +191,46 @@ class Doc(BaseDocTemplate):
                         topPadding=0, bottomPadding=0)]
         self.addPageTemplates([PageTemplate(id="main", frames=frames,
                                             onPage=self._deco)])
+
+    def build(self, flowables, **kw):
+        # multiBuild runs several passes; reuse the previous layout so that the
+        # thumb index can highlight the letter a page belongs to.
+        self.prev_pages = dict(self.letter_pages)
+        self.letter_pages = {}
+        return super().build(flowables, **kw)
+
+    def _letter_at(self, page):
+        cur = None
+        for letter, p in sorted(self.prev_pages.items(), key=lambda kv: kv[1]):
+            if p <= page:
+                cur = letter
+            else:
+                break
+        return cur
+
+    def _draw_nav(self, canv, doc):
+        """Draw a single tab with the current letter, flush to the right edge.
+
+        The tab slides down the edge as the alphabet progresses (A on top,
+        Z at the bottom), like a real thumb index.
+        """
+        letter = self._letter_at(doc.page)
+        if not letter:
+            return
+        idx = min(max(ord(letter.upper()) - ord("A"), 0), TAB_STEPS)
+        w, h = TAB_W, TAB_H
+        x = A4[0] - w + TAB_OVERHANG
+        y = TAB_Y_FIRST - (TAB_Y_FIRST - TAB_Y_LAST) * idx / float(TAB_STEPS)
+        visible_w = w - TAB_OVERHANG
+        canv.saveState()
+        canv.setFillColor(ACCENT)
+        canv.setStrokeColor(TAB_EDGE)
+        canv.setLineWidth(0.5)
+        canv.roundRect(x, y, w, h, TAB_RADIUS, stroke=1, fill=1)
+        canv.setFillColor(colors.white)
+        canv.setFont("LAT-Bold", 19)
+        canv.drawCentredString(x + visible_w / 2.0, y + h / 2.0 - 6.8, letter)
+        canv.restoreState()
 
     def _deco(self, canv, doc):
         canv.saveState()
@@ -138,11 +245,20 @@ class Doc(BaseDocTemplate):
             canv.drawRightString(A4[0] - 18 * mm, A4[1] - 11.5 * mm,
                                  "英语词源词典 · 说文解字")
         canv.restoreState()
+        if doc.page > 1:
+            self._draw_nav(canv, doc)
 
     def afterFlowable(self, flowable):
         if isinstance(flowable, Paragraph) and flowable.style.name == "LetterH":
             txt = flowable.getPlainText()
+            letter = txt.strip()
             self.notify("TOCEntry", (0, txt, self.page))
+            self.letter_pages[letter] = self.page
+            try:
+                self.canv.addOutlineEntry(txt, NAV_DEST(letter), level=0,
+                                          closed=0)
+            except Exception:  # noqa: BLE001 - outline is a nice-to-have
+                pass
 
 
 def build():
@@ -187,7 +303,7 @@ def build():
 
     # ---- entries ----
     for L in letters:
-        story.append(Paragraph(L, STY["h1"]))
+        story.append(LetterHead(L))
         for w in by_letter[L]:
             block = entries[w].strip().splitlines()
             head = block[0][4:].strip() if block[0].startswith("### ") else w
@@ -204,9 +320,18 @@ def build():
             story.append(KeepTogether(parts))
         story.append(PageBreak())
 
-    doc = Doc(os.path.join(OUT, "dictionary.pdf"))
+    target = os.path.join(OUT, "dictionary.pdf")
+    tmp = os.path.join(OUT, "dictionary.tmp.pdf")
+    doc = Doc(tmp)
     doc.multiBuild(story)
-    print("pdf:", os.path.join(OUT, "dictionary.pdf"))
+    try:
+        os.replace(tmp, target)
+    except PermissionError:
+        print("locked:", target)
+        print("built:", tmp)
+        print("close the PDF viewer and rename it (or rerun this script)")
+        return
+    print("pdf:", target)
     print("entries:", len(keys))
 
 

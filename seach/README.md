@@ -46,6 +46,7 @@ seach/
 
 **打印**
 1. 最省事：直接打印 `output/dictionary.pdf`（A4、双栏、每字母另起一页、目录带页码）。
+   PDF 右侧页边贴着一个当前页所属字母的标签（A 在最上、Z 在最下，随字母纵向错开）；阅读器书签栏另有 A–Z 目录。
 2. 或浏览器打开 `index.html` → `Ctrl/Cmd + P`。
 2. 每个字母自动另起一页（`section.letter { break-before: page }`），词条 `break-inside: avoid`，不会跨页断开。
 3. 需要 PDF：在打印对话框选择“另存为 PDF”。A4、单栏即可；正文 11.5pt。
@@ -85,8 +86,8 @@ python3 _tools/fix_edge.py           # 边界词补标签（情态动词、专�
 python3 _tools/normalize_entries.py  # 去重 + 折叠重复标签
 python3 _tools/check_dict.py         # 校验
 python3 _tools/render_dict.py        # 渲染 md / html / 分级索引
-python3 _tools/prepare_fonts.py      # 首次生成 PDF 前：Noto CJK → TTF（需 otf2ttf）
-python3 _tools/make_pdf.py           # 生成 output/dictionary.pdf
+python3 _tools/prepare_fonts.py      # 首次生成 PDF 前：Noto CJK → TTF（Linux 用 otf2ttf，Windows 用 NotoSerifSC-VF 实例化）
+python3 _tools/make_pdf.py           # 生成 output/dictionary.pdf（需 pip install reportlab fonttools）
 ```
 
 ## 已知问题
