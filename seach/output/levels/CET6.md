@@ -1,0 +1,2221 @@
+# CET6 词汇索引（2219 词）
+
+- **abandon** vt. 丢弃；放弃，抛弃
+- **abnormal** adj. 不正常的；变态的
+- **abolish** vt. 废除，取消；消除
+- **abortion** n. 流产，小产，堕胎；（计划、工程等的）中途失败，中止
+- **abrupt** adj. 突然的，出其不意的；陡峭的；粗鲁的，无礼的
+- **absence** n. 缺席，不在场；缺乏
+- **absorb** vt. 吸收；使专心
+- **abstract** adj. 抽象的；n. 摘要
+- **absurd** adj. 不合理的，荒谬的；可笑的
+- **abundance** n. 丰富，充裕；大量
+- **abundant** adj. 丰富的，充裕的；大量的
+- **abuse** vt. 滥用；虐待；n. 滥用
+- **academic** adj. 学院的；学术的；n. 大学教师，学者
+- **accelerate** vt. （使）加快；促进
+- **acceptance** n. 接受，接纳；验收；承认，认可
+- **access** n. 接近；n. 通道，入口
+- **accessory** n. 同谋，从犯；附件，配件；饰品
+- **accident** n. 意外，事故；偶然的事，偶然
+- **accommodate** vt. 容纳；供应，供给；使适应，迁就
+- **accommodation** n. 住处，膳宿；招待设备；预定铺位；适应，调节
+- **accomplish** vt. 达到（目的）；完成，实现
+- **accord** vt. 使一致；vt. 给予
+- **accordance** n. 一致，和谐；授予，给予
+- **account** n. 记述，描述；解释；帐目，账户；vi. 说明，解释
+- **accumulate** vt. 积累，积聚；vi. 堆积，积聚
+- **accurate** adj. 准确的，正确无误的；精确的
+- **accuse** v. 控告，指控；v. 指责，谴责，归咎于
+- **accustomed** a. 惯常的；a. 习惯的
+- **achievement** n. 成绩，成就；n. 完成，实现
+- **acid** n. 酸；a. 酸的，酸性的
+- **acknowledge** v. 承认；v. 告知收到（信件、礼物等）；v. 表示感谢
+- **acquaint** v. 使认识，使了解
+- **acquaintance** n. 认识；n. 了解；n. 熟人
+- **acquire** vt. 取得；vt. 获得；vt. 学到
+- **activate** v. 使活动，使活跃，使积极；v. 刺激，激化
+- **acute** adj. 尖的，锐的；adj. 敏锐的；adj. 急性的
+- **adapt** vt. 使适应；vt. 改编
+- **addict** n. 有瘾的人；n. 对某事有强烈兴趣的人
+- **addition** n. 加，加法；n. 附加物
+- **additional** adj. 附加的，追加的；额外的
+- **adequate** adj. 足够的；可以胜任的；适当的
+- **adhere** v. 粘附，粘着；坚持，遵循
+- **adjacent** adj. 邻近的；毗连的
+- **adjoin** v. 贴近，相接；毗连
+- **adjust** vt. 调整，调节；校正
+- **administration** n. 管理；管理部门；行政
+- **admit** v. （常指勉强）承认；准许进入；接纳
+- **adolescent** n. 青少年；adj. 青少年期的
+- **adopt** vt. 收养；采用；采取
+- **adore** v. 敬慕，钟爱，崇拜；(非正式) 很喜欢
+- **advantage** n. 优势；优点；有利条件
+- **adverse** adj. 不利的；相反的；敌对的
+- **advocate** v. 拥护，提倡；n. 提倡者，拥护者
+- **aerial** adj. 空气的，大气的；航空的
+- **aesthetic** adj. 美学的，审美的；有美感的
+- **affection** n. 慈爱，爱；爱慕
+- **affiliate** v. （指团体）加入（联合），使隶属，附属于
+- **affirm** v. 坚称，断言，肯定地说
+- **afflict** v. 使身体（精神）痛苦，折磨
+- **aggregate** n. 总数，合计
+- **aggressive** a. 侵略的；好斗的
+- **agony** n. 极度痛苦
+- **agreeable** adj. 惬意的，爽快的；易相处的；适宜的，适合的
+- **aid** n. 帮助，救护；助手；v. 帮助，援助
+- **air-condition** v. 设以空调设备，用空调调节
+- **aisle** n. （教堂、戏院等的）通道，走廊
+- **alarm** n. 惊恐，忧虑；警报；v. 使惊恐，使担忧
+- **album** n. 相册，影集，集邮册；专辑
+- **alcohol** n. 酒精，乙醇
+- **alert** adj. 警惕的，警觉的；adj. 敏捷的，灵活的；n. 警报
+- **alien** n. 外星人；adj. 外国的，异己的；adj. 陌生的
+- **alienate** v. 使疏远，离间；v. 转让（财产）
+- **allege** v. （在提不出证明的情况下）断言，声称；v. 指控
+- **alleviate** v. 缓和，减轻（痛苦等）；v. 缓解
+- **alliance** n. 同盟，联盟；n. 结盟
+- **allocate** v. 分配，配给；v. 拨给
+- **alloy** n. 合金；n. （金属的）成色
+- **alter** vt. 改变，变更；vt. 改做
+- **alternate** adj. 交替的，轮流的，交错的；v. （使）交替，（使）轮流
+- **alternative** n. 替换物；取舍，抉择；adj. 可供替代的；非传统的
+- **ambiguous** adj. 模棱两可的，意义不明确的
+- **ambition** n. 雄心，抱负，野心
+- **ambitious** adj. 有雄心的，野心勃勃的；劲头十足的
+- **amend** v. 修改，修正，改进
+- **ammunition** n. 弹药
+- **amplify** vt. 放大，增强；vt. 扩大
+- **analogy** n. 相似，类似；类推，类比，比拟
+- **analyse** vt. 分析，分解，解析
+- **analysis** n. 分析，分解，解析；分析报告
+- **ancestor** n. 祖宗，祖先；原型，前身
+- **ancient** adj. 古老的；adj. 很老的
+- **annoy** vt. 使恼怒；vt. 打搅
+- **annual** adj. 每年的；一年一次的
+- **anonymous** adj. 无名的，不具名的
+- **anticipate** vt. 预料，预期，期望
+- **anxiety** n. 焦虑，忧虑；渴望
+- **apartment** n. 公寓套房
+- **apology** n. 道歉；（因不能赴会的）道歉信；辩护，辩解
+- **apparatus** n. 器械，仪器；器官
+- **appeal** vi. & n. 呼吁；申述
+- **appearance** n. 外貌
+- **appease** v. 使满足，平息，抚慰
+- **appendix** n. 附录；末尾；阑尾
+- **applaud** v. 鼓掌，欢迎，欢呼；赞成，称赞
+- **appliance** n. 用具，器具，器械
+- **application** n. 请求，申请；施用，应用；申请表
+- **apply** vt. 应用，实施，使用；vi. 申请；适用
+- **appraisal** n. 评定，鉴定，评价
+- **approach** vt. 向…靠近；n. 靠近；方法，途径
+- **appropriate** adj. 适当的，恰当的；vt. 挪用，占用
+- **approve** vt. 赞成，称许；批准
+- **apt** adj. 恰当的，贴切的；易于…的，有…倾向的；聪明的
+- **arbitrary** adj. 随心所欲的；专断的；任意的
+- **arc** n. 弧线，弧形；v. 呈弧形
+- **arena** n. 竞技场；（古罗马圆形剧场中央的）竞技场地；活动场所，竞争场所
+- **argue** vi. 争论，争辩，辩论；vt. 主张，论证
+- **armor** n. 盔甲；潜水服；装甲；v. 为……装甲
+- **arouse** vt. 引起，唤起；唤醒
+- **arrange** vt. 筹备；整理；调解
+- **arrangement** n. 整理，排列；安排；筹备
+- **array** n. 展示，陈列；排列整齐的一队人，一长列（物品）；盛装；vt. 排列，部署
+- **arrest** vt. 逮捕，拘留；阻止；n. 逮捕
+- **arrogant** adj. 傲慢无礼的，骄傲自大的
+- **artery** n. 动脉；干线，要道（道路、铁路等）
+- **articulate** v. 清楚明白地表达；用关节连接；adj. 表达清晰的
+- **artificial** adj. 人工的，人造的；矫揉造作的
+- **artillery** n. 大炮；n. 炮兵部队
+- **ascend** v. 上升，升高；v. 登高，攀登
+- **ascertain** v. 查明，弄清；v. 确定，发现
+- **ascribe** v. 把…归因于；v. 认为…是某人所做
+- **aspect** n. 方面；n. 样子，外表
+- **aspiration** n. 渴望，志向，抱负
+- **assassination** n. 暗杀，行刺
+- **assault** n. 猛烈地攻击，突击，突袭；v. 突击，袭击；v. 殴打；v. 强奸
+- **assemble** vt. 集合，召集；vt. 装配
+- **assert** v. 宣称，断言；v. 维护，坚持（权利等）
+- **assess** vt. 对（财产等）估价；vt. 评估，评定
+- **asset** n. 资产，财产；n. 有价值的特性（技能）
+- **assign** vt. 指派；vt. 分配；vt. 指定
+- **assignment** n. 任务，指定的作业；n. 分配，指派
+- **assimilate** v. 消化，吸收（食物、思想等）；v. 使……同化
+- **assistance** n. 援助，帮助
+- **associate** vi. 交往；vt. 联想，联系；n. 伙伴，同事
+- **association** n. 协会，团体；联合，联系；联想
+- **assume** vt. 假定，假设；承担；呈现（面貌等）
+- **assumption** n. 假定，假设；假装；承担
+- **assurance** n. 担保，保证；肯定，确信；自信
+- **assure** vt. 使确信；向…保证；确保
+- **athlete** n. 运动员
+- **atlas** n. 地图册
+- **atmosphere** n. 大气层；大气；气氛
+- **attach** vt. 缚，系，贴；附加；使依附
+- **attack** v. 袭击，攻击；n. 攻击；发作
+- **attain** vt. 达到，获得，完成
+- **attempt** vt. 尝试，试图；n. 企图，尝试
+- **attendant** n. 侍者，服务员；护理员；a. 伴随的
+- **attitude** n. 态度，看法；姿势
+- **attract** v. 吸引；招引
+- **attractive** a. 有吸引力的；迷人的
+- **attribute** vt. 把…归因于；n. 属性，特征
+- **auction** n. 拍卖；v. 以拍卖方式出售，拍卖
+- **audience** n. 观众；听众
+- **authentic** adj. 真正的，真迹的，原作的，正宗的
+- **author** n. 作者，作家
+- **authoritative** adj. 具权威性的，可信赖的；adj. 命令式的，专断的
+- **authority** n. 当局，官方；n. 权力，职权；n. 权威，威信
+- **authorize** v. 授权，批准，委托
+- **autonomous** adj. 自治的，自主的，有自治权的
+- **autonomy** n. 自治，自治权
+- **avail** v. 利用；有助于；n. 效用，利益
+- **available** adj. 可利用的；通用的；可获得的
+- **avert** v. 防止，避免；移开（目光），避开不看
+- **aviation** n. 航空，航空学
+- **avoid** v. 避免；避开
+- **award** v. 授予；奖励；n. 奖，奖品
+- **aware** adj. 知道的，意识到的
+- **awkward** adj. 笨拙的，不灵巧的；尴尬的；难处理的
+- **axis** n. 轴，轴线；中心线；轴心（如轴心国）
+- **background** n. 背景，后景；经历，出身；背景情况
+- **bacteria** n. 细菌（bacterium 的复数）
+- **ballet** n. 芭蕾舞剧；芭蕾舞团；芭蕾舞；芭蕾舞曲
+- **bamboo** n. 竹子
+- **band** n. 乐队；波段；一伙，一帮；带（状物）
+- **bandage** n. 绷带；v. 用绷带包扎
+- **bang** int. 砰；n. 巨响，砰的一声；v. 猛击，猛撞
+- **banquet** n. 宴会；v. 宴请，参加宴会
+- **barely** adv. 勉强，好容易才；adv. 几乎不
+- **bargain** n. 交易，协议；n. 便宜货；vi. 议价，讨价还价
+- **barren** adj.（土地）贫瘠的；adj. 不孕的，不育的，不结果实的；adj. 无用的，无效果的
+- **barricade** n. 路障，街垒；v. 设路障，封闭，拦阻
+- **barrier** n. 栅栏，屏障；障碍
+- **basis** n. 基础，根据；基准
+- **batch** n. 一批，一组，一群；v. 分批处理
+- **batter** v. 连续猛击，炮击；打烂，用旧
+- **beam** n. 梁，横梁；束，柱（光线）；v. 发光；微笑
+- **beforehand** adv. 预先，事先；adv. 提前
+- **behave** vi. 表现，举止；vi. 运转；vt. 使守规矩
+- **behavior** n. 行为，举止，态度；n. （事物的）活动方式，反应
+- **belly** n. 腹部；胃部
+- **beneficial** adj. 有利的，有益的
+- **benefit** n. 利益，好处；恩惠；津贴；v. 有益于，受益
+- **betray** vt. 背叛；辜负；泄漏
+- **bewilder** v. 迷惑，把……弄糊涂
+- **beyond** prep. 在……另一边；超出；adv. 在另一边；在更远处
+- **bibliography** n. 书目，目录，参考书目
+- **biography** n. 传记；传记文学
+- **bizarre** adj. 古怪的，怪诞的
+- **blank** n. 空格，空白（处）；a. 空的；茫然无表情的
+- **blaze** n. 火；闪光；vi. 燃烧
+- **bleed** vi. 出血，流血；泌脂
+- **blink** v. (星星)闪烁；v. (眼睛)眨眼；n. 眨眼
+- **blossom** n. 花，开花；vi. 开花
+- **blunder** n. 错误；v. 弄错，犯大错
+- **blunt** adj. 钝的，不锋利的；adj. (举止言谈)生硬的，直率的；adj. (感觉、理解)迟钝的；v. 把…弄钝
+- **blur** n. 模糊不清的事物；v. 使模糊，使看不清楚
+- **blush** n. 脸红；v. 感到羞愧；v. 脸红
+- **bonus** n. 额外给予的东西；n. 奖金；n. 红利
+- **booklet** n. 小册子
+- **boom** n. 繁荣；v. 激增；v. 发出轰鸣声
+- **booth** n. 货摊；公用电话亭；隔间
+- **border** n. 边界；n. 边缘；v. 与…接界
+- **boring** adj. 乏味的；adj. 无聊的
+- **bounce** v. 反弹，弹起；跳起；n. 弹跳，反弹
+- **bound** a. 一定的，必定的；有义务的；受约束的
+- **bowel** n. 肠，内脏；（pl.）内部，深处；v. 挖……的内脏
+- **boycott** v. 联合抵制；n. 联合抵制
+- **brace** n. 支柱，支架；一双，一对；大括号；v. 拉紧，系紧；支住，撑牢；激励，振奋；打起精神
+- **bracket** n. 架子，托架；n.（复数）括号；vt. 用括号括起
+- **brand** n. 商品，品牌；n. 烙印；vt. 铭刻，打烙印
+- **breach** n. 违反，不履行；n. 破洞，裂缝；v. 冲破，攻破
+- **breakdown** n. 崩溃，故障；n. 分类，细目；n. 分解
+- **breakthrough** n.（敌方防卫线的）突破；n. 重大发现，突破性进展
+- **breed** n. 品种；vt. 使繁殖；vi. 繁殖，饲养
+- **brew** v. 酿造（啤酒）；泡（茶），煮（咖啡）；酝酿；n. 酿造物；（酿造饮料的）质量，品味
+- **bribe** n. 贿赂；v. 贿赂，收买
+- **brief** a. 简短的；短暂的
+- **brilliant** adj. 光辉的，灿烂的；卓越的，才华横溢的
+- **brink** n. （峭壁顶上的）边缘，（河流等的）边沿，边；边缘（濒临的状态）
+- **brisk** adj. 活泼的，轻快的；清新的，凉爽的
+- **bronze** n. 青铜；青铜制品；青铜色；a. 青铜制的
+- **brood** n. 同窝幼鸟；v. 孵（蛋）；沉思
+- **bruise** n. 青肿，伤痕；擦伤；v. 使受瘀伤；碰伤
+- **brutal** adj. 残忍的，兽性的；野蛮的；严酷的
+- **buck** n. 雄鹿，雄兔；a. 雄的（动物）
+- **bud** n. 芽，萌芽；蓓蕾；v. 发芽，萌芽
+- **budget** n. 预算；金额，预算拨款；v. 编制预算，安排开支
+- **bug** n. 小虫；n. 病菌；n. （电脑等的）故障；n. 窃听器；v. 装窃听器；v. 不断地烦扰，纠缠
+- **bulk** n. 物体；容积；大批
+- **bull** n. 公牛；雄的象（及其他大型雄性动物）
+- **bulletin** n. 公报，公告
+- **bully** v. 欺侮；v. 强迫…（做某事）；n. 恃强凌弱的人
+- **bump** v. 碰撞；v. 撞击；v. 颠簸地行驶；n. 碰撞；n. 肿块
+- **burden** n. 担子，重担；n. 装载量
+- **bureaucracy** n. 官僚制度，官僚体制；官僚作风
+- **burial** n. 埋葬，葬礼
+- **bust** n. 半身雕塑像；n. （妇女的）乳房、胸部
+- **buzz** n. 嗡嗡声；嘈杂声；v. 发出嗡嗡声；发出嘈杂声
+- **bypass** n. （绕过市镇的）旁道，迂回道；v. 绕过，回避
+- **cabin** n. 小屋；船舱，机舱
+- **cabinet** n. 橱，柜；内阁
+- **cable** n. 缆，索；电缆；电报
+- **cafeteria** n. 自助食堂，自助餐厅
+- **calcium** n. 钙（化学元素）
+- **calorie** n. 卡路里（热量单位）
+- **cancel** v. 取消；终止
+- **cancer** n. 癌，癌症；弊端，社会恶习
+- **candidate** n. 候选人；投考者
+- **cane** n. 细长而有节的茎；手杖
+- **cannon** n. 大炮
+- **canon** n. 教会法规；（行为或思想的）规范，准则；（任职大教堂的）教士
+- **canvas** n. 粗帆布；一块油画布
+- **capable** adj. 有能力的；adj. 有才能的
+- **capacity** n. 容量，容积；能力；能量
+- **cape** n. 披肩，斗篷；海角，岬
+- **capsule** n. 胶囊，药丸；太空舱；荚膜，蒴果
+- **caption** n.（图片、漫画等的）说明文字；标题；（影视）字幕
+- **captive** n. 俘虏；n. 被监禁的人
+- **cardinal** adj. 主要的；基本的；深红的；n. 深红色；基数；红衣主教
+- **carve** vt. 刻；雕刻；切开
+- **cast** vt. 投，扔，抛；vt. 浇铸
+- **casual** a. 偶然的；a. 随便的
+- **casualty** n. 意外或战争中的伤亡者
+- **catastrophe** n. （突然的）大灾祸，大灾害
+- **cater** v. 供应伙食，提供娱乐节目，为（宴会等）供应酒菜；v. 迎合，投合
+- **cathedral** n. 总教堂；n. 大教堂
+- **Catholic** n. 天主教徒；a. 天主教的；a. 普遍的，广泛的，宽宏大量的
+- **caution** n. 当心，谨慎；n. 告诫，警告；v. 警告，告诫
+- **cautious** adj. 细心的，谨慎的
+- **cavity** n. 洞，穴
+- **cellar** n. 地窖，地下室
+- **cemetery** n. 墓地，公墓
+- **census** n. 人口调查，人口普查
+- **ceramic** n. 制陶业，陶器，陶瓷工艺；adj. 陶瓷的
+- **cereal** n. 谷类食物，谷物；adj. 谷类的
+- **certainty** n. 必然；肯定；确定的事
+- **certify** v. 证明，证实；发证书给
+- **challenge** n. 挑战；考验；向（某人）挑战；v. 向…挑战；质疑
+- **champagne** n. 香槟酒
+- **champion** n. 冠军，得胜者；拥护者；v. 拥护，支持
+- **chant** n. 吟唱；反复的大声说；吟唱的曲调；v. 吟唱，反复说
+- **chapel** n. （基督教）小教堂
+- **character** n. 文字，字符；性格，品质；角色
+- **characteristic** n. 特点，特征；品质；adj. 典型的，特有的
+- **characterize** v. 描绘……的特性，刻划……的性格；以……为特征
+- **charge** vt. 索价，收费；控告，指责；n. 费用；指控
+- **chase** n. 追逐，追赶，追求；v. 追逐，追赶
+- **cherish** v. 珍爱；抱有（希望），怀有（感情）
+- **chief** adj. 主要的；首席的；n. 首领，长官
+- **chip** n. 炸土豆条，炸薯条；碎片；芯片
+- **cholesterol** n. 胆固醇
+- **chord** n. 和弦，和音；n. （几何的）弦
+- **chorus** n. 合唱，合唱队，歌舞团；n. 齐声，一齐（in chorus）；v. 合唱，异口同声地说
+- **chronic** adj. （病症）长期未愈的，慢性的；adj. 极坏的，极差的
+- **chunk** n. 厚厚一片，大块；n. 相当大的量
+- **circulation** n. 循环；流通，流传；(报纸、书刊的)销售量
+- **circumstance** n. 情况，条件；境遇
+- **circus** n. (圆形的)马戏场，杂技团；马戏(杂技)的表演；马戏团
+- **cite** v. 引用，引证，举(例)
+- **claim** vt. 声称，主张；索取
+- **clamp** n. 钳，夹子；v. 钳紧，夹住
+- **clan** n. 氏族，家族，宗派
+- **clarity** n. 清晰，明晰
+- **clash** v. 冲突，交锋，产生矛盾；发出金属的撞击声；n. 冲突，不一致
+- **clasp** n. 扣子，钩子；别针
+- **classic** adj. 第一流的，最优秀的，规范的；古典的，古典派的；在文学史（历史上）著名的；n. 文豪，大艺术家；杰作，名著；(pl) 经典著作
+- **classical** a. 古典的；经典的
+- **classification** n. 分类，分级；分类法
+- **clearance** n. 清除，清理；许可（证），批准；清仓，减价销售
+- **clerk** n. 店员；办事员，职员；文书
+- **client** n. 委托人，（律师的）当事人，（私人医生的）病人；（商店等的）顾客
+- **cliff** n. 悬崖，峭壁
+- **climate** n. 气候；风气，氛围
+- **climax** n. 顶点，极点；（小说、戏剧等的）高潮；性高潮；v. （使）达到顶点，达到高潮
+- **cling** v. 粘住，缠住；依附，依靠；紧紧握住，紧紧抱住
+- **clip** v. 剪下，修剪；夹住；n. 夹子，回形针；剪辑，片段
+- **clockwise** adv. 顺时针方向地；adj. 顺时针方向的
+- **clone** n. （动植物）无性繁殖系，纯种细胞；v. （使某物）无性繁殖，克隆
+- **closet** n. 橱柜；n. 私室，小房间；n. 盥洗室，厕所
+- **clue** n. 线索，暗示，提示；vt. 提示，告知
+- **cluster** n. 一串，一束，一簇，一群，一组；v. 使成群，把…集成一束（一组），群集，丛生
+- **clutch** v. 抓住，攫住；n.（pl）爪子，毒手，控制；（一把）抓住，攫住；离合器
+- **coalition** n. 政党的联盟，联合；联合体
+- **coarse** adj. 粗的，粗糙的；adj. 粗俗的，粗鲁的；adj. 粗劣的
+- **cocaine** n. 可卡因
+- **cocktail** n. 鸡尾酒；开胃食品；adj. 鸡尾酒的
+- **cognitive** adj. 认识的，认知的；adj. 感知的
+- **coherent** adj. 有条理的，连贯的；adj. 一致的；adj. 黏合的
+- **coincide** v. 同时发生；v. 一致，不谋而合；v. 位置重合
+- **coincidence** n. 巧合，巧事；n. 同时发生；n. 一致
+- **collaboration** n. 合作，协作；勾结
+- **collapse** vi. 倒坍；崩溃，瓦解
+- **colleague** n. 同事，同僚
+- **collide** v. （车、船等）猛撞；冲突
+- **collision** n. 碰撞；冲突
+- **colonial** adj. 殖民地的，关于殖民地的；(cap)（美国独立前）十三州时代的，美国初期的；拥有殖民地的
+- **combat** n. 战斗，格斗，反对；竞争；v. 跟…战斗，反对
+- **combination** n. 结合，联合；化合
+- **combine** vt. 使结合；兼有
+- **comet** n. 彗星
+- **comic** adj. 滑稽的，喜剧化的；n. 连环漫画；喜剧演员
+- **command** vt. 命令，指挥；控制；n. 命令；掌握
+- **commemorate** v. 庆祝，纪念；作为……的纪念
+- **commence** v. 开始；着手
+- **commend** v. 称赞，赞扬；委托，托付；推荐
+- **commentary** n. 评语，评注，评论；（对书籍等的）注释；实况报道
+- **commercial** adj. 商业的；商品化的；n. 商业广告
+- **commission** n. 委任状；委员会；佣金；v. 委任，委托
+- **commit** vt. 犯（错误），干（坏事）；委托，交付；承诺，使致力于
+- **commitment** n. 信奉，献身；承担的义务；承诺，许诺，保证
+- **committee** n. 委员会；全体委员
+- **commodity** n. 商品；n. 日用品
+- **commonplace** adj. 平凡的；adj. 常见的
+- **commonwealth** n. 全体国民；n. 国家，共和国；n. 联邦
+- **communicate** v. 交流；v. 沟通
+- **communication** n. 交流；n. 交际；n. 沟通
+- **community** n. 社区
+- **commute** v. 定时往返两地；v. 减轻（刑罚）；v. 用…交换，改变（付款）方式
+- **compact** adj. 紧密的，结实的；adj. （文体）简洁的，紧凑的
+- **companion** n. 同伴；n. 共事者；n. 伴侣
+- **comparable** adj. 类似的；adj. 可相比的
+- **compare** v. 将……作比较；比作；相比
+- **comparison** n. 比较，对照；比似；比喻
+- **compartment** n. 间隔；隔间（如火车车厢里的小房间）；分格
+- **compatible** adj. 可和谐共处的，相容的；adj. 兼容的
+- **compel** vt. 强迫，迫使屈服
+- **compensate** v. 补偿，酬报
+- **compete** v. 参加比赛（或竞赛）
+- **competence** n. 能力，胜任某种工作的资格；n. 权限
+- **competitive** adj. 竞争性的，有竞争力的；adj. 比赛的
+- **compile** vt. 编辑，编制，搜集
+- **complain** v. 抱怨，投诉
+- **complaint** n. 抱怨，投诉；n. 不满的缘由，抱怨的问题；n. 疾病，不适
+- **complement** n. 补充物，配给物；n. 足量，足额；n. 补助语；v. 补充，补足，使完备
+- **complex** adj. 复杂的；结合的；n. 综合体，复合体
+- **complexion** n. 肤色，气色，面色；n. 外观，形势
+- **complicated** a. 复杂的，难懂的
+- **complication** n. 复杂情况；n. 并发症
+- **compliment** n. 恭维，称赞；v. 称赞
+- **comply** v. 同意，遵从，依从，应允
+- **component** n. 组成部分；n. 分；n. 组件
+- **compose** vt. 组成，构成；vt. 创作
+- **composite** adj. 混合成的，综合成的；n. 合成物，复合材料
+- **compound** n. 化合物；n. 复合词
+- **comprehension** n. 理解，理解力；n. 领悟
+- **comprehensive** a. 广泛的；a. 理解的
+- **compromise** n. 妥协，和解
+- **compulsory** adj. 强迫的，强制的；义务的
+- **compute** vt. 计算，估算；vt. 用计算机计算
+- **concede** v. （常指勉强地）承认；v. 容许，让与；v. 认输
+- **conceive** v. 设想，想出，想象；v. 怀（胎），怀孕
+- **concentrate** vt. 集中；vt. 聚集；vt. 浓缩
+- **concentration** n. 集中；n. 专注，专心；n. 浓度，浓缩
+- **concept** n. 概念，观念；n. 设想，构想
+- **conception** n. 概念，观念，理解；n. 构想，看法；n. 受孕，妊娠
+- **concern** n. 担心，忧虑；n. 关心的事，关切；vt. 涉及，关系到
+- **concise** adj. 简洁的，简明的
+- **conclude** vt. 推断出；结束；缔结
+- **condemn** vt. 谴责，指责；判刑；宣告…不适用
+- **condense** vt. 压缩，使缩短；使冷凝；浓缩
+- **conduct** v. 实施；执行；引导；n. 行为，举止
+- **confer** v. 商讨；授予，颁赠（勋衔、学位等）
+- **conference** n. 会议，讨论会；协商
+- **confidence** n. 信任；信赖；信心
+- **confident** adj. 自信的；有自信心的；确信的
+- **confidential** adj. 秘密的，机密的，保密的；极受信任的，负责机密工作的
+- **configuration** n. 构造，结构；n. 外形；n. 布置
+- **confine** vt. 限制；vt. 禁闭，关押
+- **confirm** vt. 证实，肯定；vt. 批准，确认
+- **conflict** n. 冲突；n. 争论；n. 斗争
+- **conform** v. （使）一致，（使）符合；v. （使）遵照，（使）适应
+- **confront** v. （困难等）临头；（使）面对，（使）面临；勇敢地面对（危险等），正视，对抗
+- **confusion** n. 混乱；n. 混淆；n. 骚乱
+- **congress** n. 国会，议会；n. 大会
+- **conscientious** adj. 审慎正直的，认真的，本着良心的
+- **conscious** adj. 意识到的；有意的；有意识的
+- **consecutive** adj. 连续的，接续的
+- **consensus** n. （意见等的）一致，一致同意，共识
+- **consent** n. 同意，赞成；vi. 同意
+- **consequence** n. 结果，后果
+- **consequent** adj. 随之而来的，由…所导致的
+- **consequently** adv. 因此，所以
+- **conservation** n. 保存，保护；守恒
+- **conservative** adj. 保守的；n. 保守的人
+- **conserve** v. 节约使用，保存
+- **considerable** a. 相当大的；重要的
+- **considerate** a. 考虑周到的；体谅的
+- **consist** vi. 由…组成；在于
+- **consistent** a. 坚持的，一贯的；一致的
+- **console** v. 安慰，慰问；n. 仪表板，控制台，键盘之入口
+- **consolidate** v. 巩固，加强；综合，统一，合并
+- **conspicuous** adj. 显著的，引人注目的
+- **constant** adj. 经常的；永恒的；不变的
+- **constituent** n. 选民，选举人；成分，要素；adj. 组成的，形成的
+- **constitute** v. 构成，组成；设立，建立
+- **constitution** n. 章程，宪法；体质；构造
+- **constrain** v. 强迫，强制；约束，限制
+- **construct** vt. 建造；建设；构筑
+- **consult** vt. 请教，咨询；查阅；商议
+- **consultant** n. 顾问，专家；（BrE）医院的高级顾问医师
+- **consume** vt. 消耗，消费；消灭
+- **consumer** n. 消费者，用户；n. 消耗者
+- **consumption** n. 消耗量，消费量；n. 消耗，消费；（旧）肺结核
+- **contact** vt. 使接触；与…联系；n. 接触，联系
+- **contaminate** v. 污染，玷污，弄脏
+- **contemplate** v. 沉思，仔细考虑，意欲；注视，凝视
+- **contempt** n. 轻蔑，藐视；n. 受辱，屈辱；n. 藐视（法庭）
+- **contend** v. 搏斗，争斗；争，竞争；声称，主张
+- **contention** n. 争论，争辩，论战；n. 论点，主张
+- **contest** vt. 争夺，争取；辩驳；n. 竞赛，比赛
+- **continual** adj. 不断的；连续的（常指反复发生、有间断）
+- **continuity** n. 连贯性，连续性，持续性
+- **contract** n. 契约，合同；婚约；v. 收缩；感染（疾病）
+- **contradict** v. 否定；与…矛盾；反驳
+- **contradiction** n. 矛盾，不一致；否认
+- **contrast** n. 对比，对照；悬殊；v. 对比，对照
+- **contribute** vt. 捐献，捐助；投稿；vi. 促成，有助于
+- **contribution** n. 贡献；捐款，捐助物；投稿
+- **contrive** v. 发明，设计；设法做到；策划
+- **controversial** adj. 引起争论的，有争议的
+- **controversy** n. 争论，辩论
+- **convene** v. 召集会议；召开；集合
+- **convenience** n. 便利，方便；厕所
+- **convention** n. 习俗，惯例；公约；会议
+- **conventional** adj. 普通的；习惯的；传统的
+- **converge** v. 聚集，集中一点，汇合
+- **conversion** n. 转变，转化；改变
+- **convert** vt. 使转变；使改变；使皈依
+- **convey** vt. 传送；运送；传播
+- **convict** v. 证明、宣判…有罪，定罪；n. 被判入狱的罪犯
+- **convince** vt. 使确信，使信服
+- **cooperative** n. 合作社，合作商店（企业等）；adj. 合作的，协作的；有合作意向的，乐意合作的
+- **cope** vi. 对付，应付
+- **cord** n. 细绳，粗线，索
+- **cordial** adj. 真诚的，诚恳的；n. 甜露酒
+- **cork** n. 软木，软木塞
+- **corporate** adj. 团体的，全体的；公司的
+- **corps** n. 特种部队，军团；共同工作、活动的一群人
+- **corpse** n. 尸体
+- **correlate** n. 有相互关系的东西，相关物；v. 使有相互关系，互相有关系
+- **correspondent** n. 通信者；通讯员
+- **corresponding** adj. 相应的；符合的
+- **corrode** v. （使）腐蚀，侵蚀
+- **corrupt** adj. 腐败的，贪污的；腐烂的，污浊的；v. 使败坏，腐蚀，使腐坏；贿赂
+- **costume** n. 服装，剧装，戏服
+- **council** n. 理事会，委员会；议会
+- **counsel** n. 辩护律师；(专业)意见，忠告，劝告；v. 劝告，提供意见
+- **counter** n. 柜台；计数器；v. 反驳，抵制
+- **counterpart** n. 相对应的人(物)
+- **coupon** n. 优惠券，赠券，票证
+- **court** n. 法院，法庭；庭院
+- **courtesy** n. 礼节，礼貌
+- **coverage** n. 报道；赔偿范围，保险额；范围
+- **coward** n. 懦夫；胆怯者
+- **cozy** adj. 舒适的，安逸的，惬意的；v. 取悦，献殷勤
+- **cradle** n. 摇篮；策源地，发源地
+- **crash** v. 碰撞，坠毁；n. 碰撞事故，坠毁；n. 巨响
+- **creation** n. 创造，创作；n. 作品，创造物
+- **credible** adj. 可信的，可靠的
+- **credit** n. 信用贷款；n. 信用，信誉；n. 学分
+- **crew** n. 全体船员，全体机组人员；n. 一组工作人员
+- **crime** n. 罪，罪行；n. 犯罪
+- **criminal** n. 犯人，罪犯，刑事犯；adj. 犯罪的，刑事的
+- **cripple** n. 跛子；残疾人；v. 使残疾；严重损坏
+- **crisis** n. 危机；存亡之际
+- **crisp** adj. 脆的，硬而易碎的；清新的，爽快的；干脆明确的（态度等）
+- **criterion** n. 标准，准则
+- **critic** n. 批评家；爱挑剔的人
+- **critical** adj. 决定性的；批评的
+- **criticism** n. 批评；批判；评论
+- **criticize** vt. 批评；评论；非难
+- **crowd** n. 人群；vt. 拥挤，群聚
+- **crucial** adj. 极重要的，决定性的，关键性的
+- **crumble** v. 弄碎，粉碎；崩溃，瓦解
+- **crush** vt. 压碎，碾碎；镇压
+- **cucumber** n. 黄瓜
+- **culminate** v. 达到顶点（高潮），以…告终
+- **culture** n. 文化；文明
+- **cumulative** adj. 累积的，渐增的
+- **curb** n. 勒马的链条（皮带）；控制，约束，抑制；v. 给（马）装上勒马链，勒住（马）；控制，约束，抑制
+- **current** adj. 当前的，现行的；通用的，流行的；n. 水流，气流；电流；潮流
+- **curse** n. 诅咒，咒骂；天谴，灾祸；v. 诅咒，咒骂
+- **customary** adj. 习惯的，惯例的；adj. 通常的
+- **cute** adj. 可爱的；adj. 漂亮的，娇小的；adj. 机灵的
+- **cycle** n. 循环，周期；n. 自行车；vi. 骑自行车
+- **cylinder** n. 圆筒，圆柱体；n. 汽缸；n. 滚筒
+- **cynical** adj. 愤世嫉俗的；adj. （对人性或动机）怀疑的
+- **dart** n. 飞镖；v. 猛冲；v. 投掷，发射
+- **database** n. 数据库；n. 资料库
+- **dazzle** v. 使眼花，耀眼；使惊奇，使倾倒；n. 闪耀，耀眼
+- **deadline** n. 截止时间，期限
+- **deadly** adj. 致命的，死一般的；adv. 极其，非常
+- **dean** n. 教务长；(大学的)学院院长，系主任；v. 担任教务长(院长、系主任等)
+- **debate** n.&vi. 争论，辩论；vt. 辩论，讨论
+- **decade** n. 十年，十年期
+- **decay** vi. 腐烂；衰败；n. 腐烂；衰退
+- **deceive** vt. 欺骗，蒙蔽，行骗
+- **decent** adj. 正派的；体面的；像样的，尚可的
+- **decimal** n. 小数，十进小数；adj. 小数的，十进位的
+- **decisive** adj. 坚决的，果断的，有决定作用的；确定的，明确的
+- **decorate** v. 装饰；装潢
+- **decrease** vi. 减少；n. 减少
+- **decree** n. 命令；法令；判决；v. 命令；颁布命令；判定
+- **dedicate** v. 以…奉献；为…举行落成仪式；把（一生等）献给，把（时间、精力等）用于
+- **deduce** vt. 演绎；推论；推断
+- **deduct** v. 扣除；减去
+- **deem** v. 认为；相信；视为
+- **default** n. 违约；缺席；拖欠；预设，预置（值）；v. 不履行；不到场；未付（债等）
+- **defeat** vt. 战胜；击败；挫败；n. 失败；战败
+- **defect** n. 缺点，缺陷，欠缺；v. 叛逃，背叛
+- **defendant** n. 被告
+- **defiance** n. 违抗，蔑视，挑战
+- **deficiency** n. 缺乏，短缺；缺点，毛病
+- **deficit** n. 赤字，亏损；不足额，短缺
+- **define** vt. 给…下定义；限定
+- **definitely** adv. 肯定地，当然；明确地，确实
+- **definition** n. 定义，释义；定界，界限的划定；清晰度
+- **definitive** adj. 确定的，有权威的，不能（不必）改变的；决定性的
+- **defy** v. 违抗，蔑视；激（某人）做
+- **degenerate** adj. 退步的，退化的，堕落的；n. 堕落者，腐化者；v. 退化，衰败，堕落
+- **degrade** v. 使降级，降低；有辱…的人格，使丢脸
+- **deliberate** adj. 有意的，故意的；从容不迫的，审慎的；v. 仔细考虑，商议
+- **delicate** adj. 纤细的，娇嫩的；易碎的，脆弱的；微妙的，需谨慎处理的
+- **demand** vt. 要求，请求；vt. 需要；n. 要求；n. 需求
+- **demonstrate** vt. 说明，论证；vt. 表露，显示；vi. 示威游行
+- **denial** n. 否认，拒绝；n. 抛弃；n. 克制
+- **denote** v. 指示，表示；v. 意思是；v. 象征
+- **denounce** v. 指责，痛斥；v. 告发；v. 谴责
+- **dentist** n. 牙医；n. 牙科医生
+- **deny** vt. 否定，否认；vt. 拒绝相信；vt. 拒绝给予
+- **depict** v. （用图画、文字）表示，描述，描绘
+- **deport** v. 把（外国人）驱逐出境
+- **depress** vt. 使沮丧；按下
+- **depression** n. 沮丧，抑郁，萧条（期）；凹地，洼地，低压（地区）
+- **deprive** v. 剥夺，使丧失，使不能做
+- **derive** vt. 取得；vi. 起源
+- **descend** vi. 下来，下降；下倾
+- **descendant** n. 后裔，子孙；adj. 下降的，派生的，（从祖先）传下的
+- **descent** n. 下降，下来；下倾，斜坡；血统，世袭，遗传；袭击，突然的访问
+- **describe** v. 描述；形容
+- **deserve** v.（不用于进行时态）应得，应受；值得
+- **design** n. 设计；图案；v. 设计，构思
+- **designate** v. 标出，指明，称呼；指派，任命；adj. 已受委派（当选）而尚未就职的，候任的
+- **desirable** adj. 值得向往的；可取的；令人满意的
+- **desire** vt. 渴望；要求；n. 愿望；欲望
+- **despise** vt. 鄙视，蔑视；看不起
+- **despite** prep. 不管，不顾
+- **destination** n. 目的地；终点；目标
+- **destined** adj. 命中注定的；预定的
+- **destiny** n. 命运；天命
+- **destruction** n. 破坏；毁灭；消灭
+- **destructive** adj. 破坏（性）的；毁灭（性）的；非建设性的
+- **detach** v. 拆卸；使分离；派遣
+- **detail** n. 细节；枝节；零件
+- **detain** v. 拘留；扣押；耽搁
+- **detect** vt. 察觉，发觉；侦察
+- **detection** n. 察觉，发觉；侦察
+- **detective** n. 侦探
+- **deteriorate** v. 恶化，（使）变坏；退化
+- **deviate** v. 背离，偏离；越（轨）
+- **device** n. 装置；设备
+- **devise** vt. 设计，发明；策划，想出
+- **devote** vt. 将…奉献；致力于；把…专用于
+- **diagnose** v. 诊断（疾病）；判断；调查分析（问题等的）原因（性质）
+- **dictate** vt.&vi. 口授，口述；命令，支配；n. 命令，规定（常用复数 dictates）
+- **differentiate** v. 区分，区别；(使)不同，构成…间的差别；求微分（数学）
+- **diffuse** v. 扩散，(使)四散，弥漫；传播，散布；a. 弥漫的，四散的；(文章等)冗长的
+- **digest** vt. 消化；领会，理解；n. 文摘，摘要
+- **dignity** n. 尊严，高贵，体面；n. 庄严，端庄；n. 官阶，职位
+- **dilemma** n. （进退两难的）窘境，困境，进退维谷
+- **diligent** adj. 勤勉的，勤奋的
+- **dilute** v. 稀释，冲淡；v. 削弱，减轻；adj. 经稀释的，淡的，减弱了的
+- **dim** adj. 昏暗的，暗淡的
+- **dimension** n. 尺寸，尺度；n. 面积
+- **diminish** v. 减少，（使）减小，降低；v. 贬低，使降级，削弱
+- **dine** v. 进正餐，用膳，宴请
+- **diploma** n. 毕业文凭，学位证书
+- **diplomat** n. 外交家，外交官
+- **directory** n. 姓名地址录；目录；指南
+- **disable** vt. 使无能；vt. 使伤残；vt. 使（机器）失效
+- **disaster** n. 灾难；灾害
+- **disastrous** adj. 灾难性的，极不幸的，极坏的
+- **discard** vt. 丢弃，抛弃，遗弃
+- **discern** v. 看出，了解，识别
+- **discharge** vt. 释放；排出；n. 释放
+- **discipline** n. 纪律；训练；vt. 训练
+- **disclose** vt. 揭开，揭发；透露
+- **discount** n. (打)折扣；v. 怀疑地看待，漠视，低估
+- **discreet** adj. (言行)谨慎的，慎重的，不显眼的
+- **discrepancy** n. 差异，不符合
+- **discrete** adj. 个别的，分离的，不连续的
+- **discriminate** v. 区别，辨别，有差别的对待；adj. 有区别的，有差别的，有识别力的
+- **disease** n. 病，疾病；n. 弊病，弊端
+- **disguise** vt. 隐瞒；vt. 伪装；n. 假装
+- **disgust** n. 厌恶；n. 憎恶；vt. 使厌恶
+- **dismay** v. 使惊恐，使沮丧，使绝望；n. 惊恐，沮丧，绝望
+- **dismiss** vt. 不再考虑，摒弃；解雇，开除；解散，遣散
+- **disorder** n. 混乱，杂乱；n. 骚乱；n. 失调，疾病
+- **dispatch** v. 派遣，发送；n. 派遣，急件
+- **disperse** v. （使）分散，驱散，疏散
+- **displace** v. 取代，代替；使离开原位，迫使迁移
+- **display** vt. 陈列，展览；显露，表现；n. 陈列，展览；展览品
+- **disposal** n. 丢掉，处理，销毁；处置权，支配权
+- **dispose** vi. 去掉，丢掉；销毁；vt. 使倾向于，布置
+- **disposition** n. 性格，性情；倾向，意向；布置，安排
+- **disregard** v. 不理会，不顾，忽视；n. 忽视，漠视
+- **disrupt** v. 扰乱，破坏；使中断
+- **dissipate** v. 散失，驱散；浪费；放荡
+- **distill** v. 蒸馏；提炼
+- **distinct** adj. 与其他不同的，截然不同的；清楚的，明显的
+- **distinguish** vt. 区别，辨别；认出，识别；使有别于
+- **distort** v. 扭曲，使变形；歪曲，曲解；使（声音、信号等）失真
+- **distract** v. 转移（注意力），使分心；使转向；使困惑，使混乱
+- **distribution** n. 分发，分配；分布；销售，经销
+- **disturbance** n. 打扰，妨碍；心神不安，烦恼；混乱，骚乱
+- **diverse** adj. 不一样的，相异的；多种多样的，形形色色的
+- **diversion** n. 转移，转向，偏离；消遣，娱乐；改道
+- **divert** v. 使转向，使（河流等）改道，转移…的注意力；使得到消遣，给…娱乐；盗用，贪污
+- **divine** a. 神的，上帝的，神圣的；非凡的，极好的
+- **divorce** n. 离婚，离异；vi. 离婚
+- **dizzy** a. 头晕目眩的，头昏眼花的，使人晕眩的；不知所措的，使人困惑的；愚蠢的，笨的
+- **dock** n. 船坞；码头；船厂
+- **doctrine** n. 信条，教条，主义；学说，原理，教诲
+- **dodge** v. 躲开，闪开；躲避，施计逃避义务（责任等）；n. 躲闪，躲避；妙计，伎俩
+- **dole** n. 救济，救济金（物）；n. 一小份
+- **dolphin** n. 海豚
+- **domain** n. 领域，范围，范畴；领土，领地，势力范围
+- **dome** n. 圆屋顶，穹顶；苍穹，半球形物
+- **domestic** adj. 本国的，国内的；家庭的，家用的
+- **dominant** adj. 占优势的，支配的，显著的；占首位的，主要的；居高临下的，高耸的
+- **dominate** v. 支配，统治，控制；占首要地位；俯视，耸立于
+- **donate** v. 捐赠，赠送
+- **donation** n. 捐赠，捐款；赠品
+- **doom** n. 命运，厄运，毁灭；判决，定罪；v. 注定，命定；判定，判决
+- **doubtless** ad. 无疑地；很可能
+- **draft** n. 草稿；n. 汇票；vt. 起草
+- **drag** v. 拖；拽
+- **drain** vt. 排去；放水；n. 耗竭
+- **drainage** n. 排水系统
+- **dramatic** a. 引人注目的；戏剧的；戏剧性的
+- **drastic** adj. 激烈的；猛烈的；极端的
+- **drawback** n. 缺点；不利条件；短处
+- **dread** n. 畏惧；恐怖；vt. 惧怕
+- **dreadful** adj. 可怕的；令人敬畏的；厉害的；讨厌的；极端的
+- **drill** n. 钻头；操练；vi. 钻孔
+- **drought** n. 干旱；旱灾；长期缺乏
+- **dual** adj. 双的，双重的
+- **dub** v. 起绰号；(为影片)配音
+- **dubious** adj. 怀疑的，可疑的，令人怀疑的
+- **duplicate** adj. 完全一样的，复制的；n. 副本，复制品；v. 复制，重复
+- **dwarf** n. 矮子，矮小的人（动物、植物）；v. 使显得矮小，使相形见绌
+- **dwell** v. 居住，生活于，栖息；dwell on 老想着，详述
+- **eagle** n. 鹰
+- **Easter** n. 复活节
+- **eccentric** adj. 古怪的，异常的；n. 古怪的人
+- **eclipse** n. 日蚀，月蚀；v. 遮住（天体）的光；使黯然失色，使相形见绌
+- **ecology** n. 生态；生态学
+- **economic** adj. 经济的；经济学的
+- **economical** adj. 节约的；经济学的
+- **economy** n. 经济；节约，节省
+- **edible** adj. 可以吃的，适合吃的
+- **effective** adj. 有效的；adj. 有影响的
+- **efficiency** n. 效率；n. 功效，效能
+- **efficient** adj. 效率高的；adj. 有能力的
+- **ego** n. 自我；n. 自负
+- **eject** v. 驱逐，逐出；喷出，投出，弹出
+- **elaborate** adj. 复杂的；精心制作的
+- **elapse** n. & v. (时间)过去，消逝
+- **elastic** n. 松紧带；a. 有弹性的
+- **electric** a. 电的，电动的
+- **electrical** a. 电的，电气科学的
+- **electrician** n. 电器技师，电工；电气专家
+- **electricity** n. 电；电能；电流
+- **electron** n. 电子
+- **electronic** adj. 电子的；电子设备的
+- **elegant** adj. 优雅的；adj. 精美的；adj. 雅致的
+- **element** n. 成分；n. 要素；n. 元素
+- **elementary** adj. 基本的；adj. 初级的
+- **elevate** v. 抬起，升高，提高；v. 提高（嗓门等），振奋（情绪），提升（职位）
+- **elicit** v. 诱出，探出（事实、反应等）
+- **eligible** adj. 有资格的；adj. 合适的；adj. 合格的
+- **eliminate** vt. 消灭；vt. 消除；vt. 排除
+- **elite** n. 精华；n. 精英；n. 中坚
+- **eloquent** adj. 雄辩的，有说服力的，口才好的；adj. 意味深长的，明白显示出的
+- **embark** v. (使)上船(飞机等)；从事，着手，发动
+- **embarrass** vt. 使窘迫，使为难
+- **embed** v. 把…嵌入，埋入，埋置
+- **embody** v. 体现，使具体化
+- **emerge** vi. 出现，涌现；冒出
+- **emergency** n. 紧急情况，突然事件
+- **emotion** n. 情感，感情；n. 激动
+- **emphasis** n. 强调，重点，重要性
+- **emphasize** vt. 强调，着重
+- **empirical** adj. 以实验（或经验）为根据的，经验主义的；非理论的
+- **employment** n. 雇用，使用；职业，工作；工业
+- **enclosure** n. 围栏，围墙，圈占地；（信函内的）附件，装入物；包围，围住
+- **encounter** vt. 遭遇，遇到；偶然碰见；n. 遭遇，邂逅
+- **encourage** v. 鼓励，激励；促进，助长
+- **endeavor** n. 努力，尝试；v. 努力，尽力
+- **endow** v. 赋予，授予；v. 资助，捐赠
+- **endurance** n. 忍耐，耐力；持久力
+- **endure** vt. 忍受；容忍；vi. 持续，持久
+- **energetic** adj. 有力的，精力旺盛的；精神饱满的
+- **enforce** vt. 实施，执行；强制
+- **engage** vt. 使从事于；聘用；vi. 参与，从事
+- **engagement** n. 约会，约定；订婚，婚约
+- **engine** n. 发动机，引擎；机车
+- **enhance** v. 增加，提高，增强
+- **enlighten** v. 启发，开导，使摆脱偏见（迷信）；v. 指导，教育
+- **enormous** a. 巨大的，庞大的
+- **enrich** v. 使富足，使丰富，充实
+- **enroll** v. 登记，使加入，注册
+- **ensue** v. 接着发生，随之而来
+- **entail** v. 使成为必要，需要
+- **entertainment** n. 招待，款待；n. 娱乐，乐趣；n. 文娱节目
+- **enthusiasm** n. 热情，热忱；n. 热衷的事物
+- **enthusiastic** a. 热情的，热心的；a. 热衷的，感兴趣的
+- **entitle** vt. 给…权利（或资格）；vt. 给…题名，给…命名
+- **entity** n. 独立存在体，实体；n. 本质
+- **entrepreneur** n. 企业家，创业者；n. 承包人
+- **environment** n. 自然环境；n. 周围状况，环境
+- **envisage** v. 想象，设想；v. 正视，面对
+- **epoch** n. 时代，纪元；n. 重要时期
+- **equality** n. 平等；相等
+- **equator** n. 赤道
+- **equip** vt. 提供设备；装备；配备
+- **equivalent** adj. 相等的；等量的；n. 等价物，对等物
+- **erect** vt. 建造；使竖立；adj. 竖直的
+- **erosion** n. 侵蚀，腐蚀；削弱
+- **erroneous** adj. 错误的；不正确的
+- **erupt** v. （火山、喷泉等）喷发，喷出，迸发；爆发，突然发生
+- **escort** n. 护卫队，护送者，陪伴；v. 护送，护卫，护航
+- **essence** n. 本质，实质，要素；精髓，精华；香精，香料
+- **essential** adj. 必要的，本质的
+- **establish** vt. 建立，设立；确立
+- **esthetic** adj. 审美的，感觉的
+- **estimate** vt. 估计，评价；n. 估计
+- **eternal** adj. 永远的，永恒的
+- **ethnic** adj. 种族的，部族的，少数民族的
+- **evaluate** vt. 评价，估…的价
+- **evidence** n. 根据；证据，证人
+- **evident** adj. 明显的，明白的
+- **evil** n. 邪恶；祸害；adj. 坏的，邪恶的
+- **evoke** v. 引起，唤起，引发
+- **evolution** n. 进化，演化；发展
+- **exaggerate** vt.&vi. 夸大，夸张；言过其实
+- **exceed** vt. 超过，胜过；超出
+- **exception** n. 例外，除外；异议
+- **exceptional** adj. 异常的，独特的，例外的；优越的，杰出的
+- **excess** n. 超越；n. 过量；n. 过度
+- **excessive** adj. 过多的，极度的；过分的
+- **exchange** n. 交流；互访；交换；vt. 交换；兑换
+- **exclaim** vi. 呼喊；vi. 惊叫；vt. 大声说
+- **exclude** vt. 把…排除在外；vt. 不包括；vt. 拒绝接纳
+- **exclusive** adj. 除外的，排外的；adj. 专有的，独占的，惟一的
+- **excursion** n. 远足；n. 短途旅行
+- **execute** vt. 将…处死；vt. 实施，执行
+- **execution** n. 实行，实施，执行；n. 死刑，处死刑
+- **executive** a. 执行的；n. 执行者，主管
+- **exemplify** v. 是…的榜样；v. 举例说明
+- **exempt** adj. 被免除义务（责任）的，被赦免的；v. 免除，赦免
+- **exert** vt. 尽（力），运用
+- **exhaust** vt. 使筋疲力尽；vt. 用尽
+- **exhibit** vt. 显示；vt. 陈列，展览
+- **exile** v. 流放，放逐，流亡；n. 流放，放逐；n. 亡命者，流放者
+- **existence** n. 存在，实在；n. 生存，生活
+- **exotic** adj. 珍奇的，奇异的；adj. 外国产的
+- **expand** vt. 扩大；vt. 使膨胀
+- **expansion** n. 扩大，扩充；n. 扩张，膨胀
+- **expedition** n. 探险，远征；n. 探险队，远征军
+- **expel** v. 驱逐，开除；v. 排出（气等）
+- **expend** v. 花费，消耗；v. 用光
+- **expenditure** n. 经费，费用；n. 支出，消耗，花费
+- **expense** n. 花费，消费；费用
+- **expert** n. 专家，能手；adj. 熟练的，专家的
+- **expertise** n. 专门技能（知识）；专长
+- **expire** v. 期满，终止；死亡；呼出，吐气
+- **explicit** adj. 详述的，清楚的，直言的
+- **exploit** v. 剥削；利用；开拓
+- **explore** v. 探索；勘探；探究
+- **expose** vt. 使暴露；vt. 揭露
+- **exposition** n. 解释，讲解，说明；n. 展出，展览会
+- **expression** n. 表情，神色；n. 表示，表达；n. 表达方式
+- **exquisite** adj. 精美的，精致的；adj. 精湛的
+- **extensive** adj. 广阔的；adj. 广泛的
+- **extent** n. 广度；n. 范围；n. 程度
+- **external** adj. 外部的，外面的
+- **extinct** adj. 已灭绝的；绝种的
+- **extinguish** v. 熄灭，扑灭；v. 使破灭，使消亡；v. 压制，压抑
+- **extract** v. 拔出，拉出；v. 榨取，提取；n. 提取物，精，汁
+- **extraordinary** adj. 非同寻常的，特别的；非凡的
+- **extravagant** adj. 浪费的，奢侈的；过度的，放肆的
+- **extreme** adj. 极度的；尽头的；n. 极端，极限
+- **fabric** n. 织物，纺织品；n. 结构，构造
+- **fabricate** v. 捏造，编造，虚构；v. 制造，装配
+- **facet** n. （宝石等的）琢面；n. （事物等的）一面，方面
+- **facilitate** v. 使容易，使便利，促进
+- **factor** n. 因素，要素；因子，系数
+- **faculty** n. 才能，能力；系，科；（大学的）全体教员
+- **faith** n. 信任，信心；信仰
+- **fake** n. 假货，赝品，骗人诡计；adj. 假的，冒充的；v. 伪造，假装，捏造
+- **famine** n. 饥荒；n. 严重的缺乏
+- **fantastic** adj. 极好的，了不起的；adj. 奇异的，异想天开的
+- **fantasy** n. 想象，幻想；n. 幻想作品
+- **fascinate** v. 迷住，使神魂颠倒；强烈地吸引
+- **fatal** adj. 致命的；命运的
+- **fatigue** n. 疲劳，劳累；v. 使疲劳
+- **feasible** adj. 可行的；可能的
+- **feast** n. 盛宴；筵席；节日；v. 宴请；尽情享受
+- **feature** n. 特色；特征；面貌；v. 以…为特色
+- **federal** adj. 联邦的；中央政府的
+- **federation** n. 联盟；联邦；同盟
+- **feeble** adj. 虚弱的；微弱的；无力的
+- **fellowship** n. 团体，协会；友谊，交情；学院董事（研究员）的职位
+- **feminine** a. 女性的，适于女子的；阴性的
+- **ferry** n. 渡船，渡口；v. 渡运，运送，摆渡
+- **fertilizer** n. 肥料；化肥
+- **fiction** n. 小说；虚构，杜撰
+- **figure** n. 数字；外形，体形；人物
+- **finance** n. 财政，金融；n. 财源，资金；vt. 为…提供资金
+- **financial** adj. 财政的，金融的
+- **finite** adj. 限定的，有限的；（动词）限定式的
+- **fitting** adj. 适合的，恰当的，相称的；n. 试穿；装配，修整；(pl) 固定装置，设备，配件
+- **fixture** n. 固定装置；预定举行的体育比赛
+- **flank** n. 腰窝，侧翼；v. 位于…的侧面
+- **flap** v. 拍打，拍动，摆动；(鸟) 振(翅)；平卧，垂下；n. 拍打，拍动，(鸟的) 振翅；下垂物，覆盖物；(袋) 盖，(帽) 边，信封口盖
+- **flare** vi. 闪耀；vt. 使闪亮；n. 闪光， flares  flares  flares
+- **flask** n. （实验用的）烧瓶；n. 长颈瓶；n. 保温瓶，冷（热）水瓶
+- **flat** adj. 平滑的；adj. 扁平的；n. 公寓
+- **flatter** v. 奉承，恭维；v. 使高兴，使满意
+- **flaw** n. 缺点，缺陷，瑕疵；v. 使有缺陷，损害
+- **flexible** adj. 易弯曲的；adj. 灵活的
+- **fling** v. 投，抛，摔；n. 一时的（常为放纵的）行乐
+- **flip** v. 把…抛向空中，快速翻转；v. 轻弹；n. 轻弹（打、抛）
+- **float** vi. 漂浮；vt. 使漂浮
+- **fluctuate** v. 波动，变动，涨落
+- **flush** vi. 奔流；(脸)发红；vt. 冲洗；n. 脸红
+- **flutter** v. & n. 振翅，拍翼；飘动，摆动；激动，紧张，兴奋
+- **foam** n. 泡沫，(马等的)涎沫，白沫；n. 泡沫材料；v. 起泡沫，冒汗；v. 吐白沫
+- **focus** n. 焦点，中心；v. 集中（注意力、精力等）于；n. 焦距
+- **foil** v. 阻挠，使挫败；n. 箔，金属薄片；n. 陪衬者
+- **fold** vt. 折叠；合拢；n. 褶，褶痕
+- **force** n. 力，力量；n. 武力；vt. 强迫，迫使（某人做某事）
+- **foremost** adj. 最初的；adj. 第一流的，最重要的；adv. 首先
+- **foresee** v. 预见，预知
+- **forge** v. 伪造，假冒；锤炼，打制，使形成
+- **formal** adj. 正式的；礼仪上的
+- **format** n. 样式，格式，版式；v. 编排格式，使（电脑硬盘、磁盘）格式化
+- **formidable** adj. 大而可怕的，令人畏惧的；难以应付的，难以战胜的
+- **formula** n. 公式，式；配方；准则
+- **formulate** v. 使公式化；确切地表述，构想，制订
+- **fort** n. 要塞，堡垒
+- **forthcoming** adj. 即将发生的，即将来到的；现成的，随要随有的；乐于助人的
+- **forum** n. 讲坛，讨论会场，论坛
+- **fossil** n. 化石；n. 老顽固，守旧的人
+- **foster** v. 鼓励，促进，培育；收养（小孩），养育，抚养
+- **foul** adj. 难闻的，恶臭的，腐败的；下流的，邪恶的，不正当的；污浊的，肮脏的；v. 弄脏，污染；玷污，败坏
+- **fraction** n. 小部分，片断；n. 分数
+- **fracture** n. 骨折，折断，破裂；v. （使）破裂，（使）折断，破碎
+- **fragile** adj. 易碎的，脆的，易坏的；脆弱的，虚弱的
+- **fragrance** n. 芳香，香味；n. 香料，香水
+- **frantic** adj. 发狂（似）的，发疯的；狂乱的，令人绝望的，不顾一切的
+- **fraud** n. 欺骗（行为），诈骗（罪）；骗子，冒名顶替者
+- **frequency** n. 屡次，频繁；n. 次数；n. 频率
+- **frequent** adj. 时常发生的；adj. 经常的
+- **friction** n. 摩擦，摩擦力
+- **fringe** n. 刘海，额前短发；饰边，流苏，穗子；边缘，外围；v. 饰…的边，以…为界，围绕
+- **fuel** n. 燃料；v. 给…加燃料
+- **fulfill** v. 实行，完成；实践，履行
+- **function** n. 功能；职务；函数
+- **fund** n. 资金；基金；存款
+- **fundamental** a. 基础的，基本的
+- **furious** adj. 狂怒的；adj. 狂暴的，猛烈的
+- **furnish** vt. 供应，提供；vt. 装备，布置（房间）
+- **furniture** n. （可移动的）家具
+- **furthermore** adv. 而且，此外
+- **fury** n. 愤怒，狂怒；n. 狂暴，猛烈
+- **fuse** n. 保险丝，熔丝；v. 熔化，熔合，混合；v. （保险丝烧断而）电路不通
+- **fusion** n. 融合，熔合；n. 聚变
+- **galaxy** n. 星系；n. （首字母大写）银河系；n. 一群（杰出或著名的人物）
+- **gamble** v. 赌博，打赌；n. 赌博，投机，冒险
+- **garbage** n. 垃圾，污物；废料
+- **garment** n. （一件）衣服（指长袍、外套）；(pl) 服装，衣着；外衣
+- **gasp** vi. 气喘，喘息
+- **gauge** vt. 量，测量；估计，判断；n. 量器，量规；标准，尺度
+- **gaze** vi. 凝视，盯，注视；n. 凝视，注视
+- **gear** n. 齿轮；一套用具，装备；v. 使适应，调整
+- **generalize** v. 一般化，概括，推广；形成概念，笼统讲
+- **generate** vt. 发生，产生；引起；生殖
+- **generous** a. 慷慨大方的；宽厚的，仁慈的；丰富的，大量的
+- **genetic** adj. 遗传的；遗传学的
+- **genuine** adj. 真的，非伪造的；真正的，名副其实的；真诚的
+- **geology** n. 地质学；（某地区的）地质情况
+- **gigantic** adj. 巨大的；adj. 似巨人的
+- **giggle** v. 吃吃地笑，咯咯地笑；v. 傻笑
+- **given** prep. 考虑到；adj. 特定的，规定的；adj. 已知的
+- **glamour** n. 魅力，迷人的美；n. 魔法；v. 迷惑
+- **glance** vi. 看一下；n. 一瞥
+- **gland** n. 腺
+- **glare** vi. 瞪眼；n. 瞪眼；n. 强光
+- **gleam** n. 微光，闪光；n. 一线光明；v. 闪烁，隐约闪光
+- **glide** vi. 滑动；vi. 消逝；n. 滑行
+- **glitter** vi. 闪闪发光；n. 闪光
+- **gloom** n. 黑暗，幽暗；忧郁，阴沉
+- **gloomy** adj. 黑暗的；令人沮丧的；忧郁的
+- **glow** n. 白热光；vi. 发白热光；发热
+- **gorgeous** adj. 异常漂亮的，壮丽的；adj. 令人愉快的
+- **gossip** v. 闲聊；n. 闲谈，聊天，流言蜚语；n. 喜欢拨弄是非的人
+- **gown** n. 长袍，长外衣；n. 礼服
+- **gracious** adj. 有礼貌的；adj. 仁慈的
+- **graduate** v. 毕业
+- **grain** n. 谷粒；谷物；颗粒
+- **grant** n. 授给物；vt. 授予
+- **graphic** adj. 生动的，详细的；图的，图解的；书写的
+- **grave** n. 坟墓；adj. 严重的
+- **graze** v. （动物）吃草，放牧
+- **grease** n. 动物脂，脂肪，润滑脂；v. 涂油脂于，用油脂润滑
+- **grief** n. 悲痛，悲伤；不幸，灾难，伤心事
+- **grieve** vt. 使悲痛；vi. 悲痛
+- **grim** adj. 严肃的，严厉的，可怕的；adj. 严峻的，严酷的，冷酷的
+- **grin** v. 露齿笑，咧着嘴笑；n. 露齿笑，咧嘴笑
+- **grip** vt. 握紧，抓牢；n. 紧握；n. 控制，掌握
+- **groan** vi. 哼，呻吟；n. 呻吟（声）
+- **groove** n. 沟，槽；n. （唱片）纹槽；n. 习惯，常规
+- **grope** v. （暗中）摸索；v. 探索；n. 摸索
+- **gross** adj. 总的，毛的；adj. 严重的，恶劣的；adj. 粗俗的
+- **guarantee** n. 保证；n. 担保物；v. 保证，担保
+- **guardian** n. 保护人，监护人；n. 守卫者，保护者
+- **hamper** v. 阻碍，妨碍
+- **handbook** n. 手册，指南
+- **handicap** n. 不利因素，障碍；缺陷，残疾；v. 给…设置不利条件，妨碍；使身心残障
+- **hardy** adj. 能吃苦耐劳的；强壮的；耐寒的
+- **harmony** n. 和谐；协调；和声
+- **hasty** adj. 急速的；仓促的；草率的
+- **hatch** vt. 孵出；vi.（蛋）孵化；n. 舱口
+- **hatred** n. 憎恶，憎恨，仇恨
+- **haul** v. 用力拖(拉)；n. 一网渔获量，一次得到的数量；拖运的距离(路程)
+- **haunt** v. 出没，常去，萦绕；n. (usu pl)常去之处
+- **hawk** n. 鹰，隼
+- **hazard** n. 危险；公害
+- **heap** n. (一)堆；大量；vt. 堆积，装满
+- **heave** v. 举起，拉，拖；投掷；(有节奏地)起伏
+- **heel** n. 脚后跟，踵；后跟；v. 给…装后跟；倾斜
+- **heighten** v. 加高，提高；增加，增大
+- **heir** n. 后嗣，继承人
+- **hemisphere** n. （地球、天体的）半球；n. 半球上的国家（居民）；n. （活动、知识等的）范围，领域
+- **henceforth** adv. 从今以后，今后
+- **herb** n. 草本植物；n. 药草；n. 香草
+- **heritage** n. 遗产，继承物；文化遗产
+- **hesitate** vi. 犹豫，踌躇；含糊
+- **hierarchy** n. 等级制度；层级体系
+- **highlight** n. 最有意思（最精彩）的部分；（绘画、摄影等的）亮部；v. 强调，使突出
+- **hike** v. 去……远足；v. 做徒步旅行；n. 远足
+- **hinder** v. 阻止，阻碍
+- **hinge** n. 铰链，枢纽；n. 关键，转折点；v. 装上铰链，用铰链接合
+- **historian** n. 历史学家，记事者
+- **hitherto** adv. 迄今，至此时
+- **hoist** v. 升起，举起；n. 起重机，升降机
+- **homogeneous** adj. 同种类的，同性质的；相似的
+- **hop** v. （人）单脚跳，（鸟、蛙等）跳跃；n. 跳跃；（飞机）一次航程
+- **hose** n. 软管，水龙带；n. 长筒袜，短筒袜，绑腿
+- **hospitality** n. 好客，殷勤的款待
+- **hostage** n. 人质，抵押品
+- **hostile** a. 敌方的；a. 不友善的
+- **hound** n. 猎犬，猎狐狗；v. 烦扰，纠缠，追逼
+- **household** adj. 家庭的，家用的；n. 家庭，户
+- **hover** v. 盘旋，飞翔；徘徊，犹豫
+- **howl** v. 吠，嚎叫，咆哮；高叫，欢闹；（风）呼啸；n. 嚎叫，咆哮
+- **huddle** v. 聚在一起，挤作一团；n. 杂乱的一群，拥挤
+- **hug** v. 拥抱；v. 紧抱，抱住；n. 拥抱
+- **hum** v. 发嗡嗡声；v. 哼（曲子）；n. 嗡嗡声，哼哼声，嘈杂声
+- **humanity** n. 人性，人类，人；n. 人道，博爱，仁慈；n.（pl）人文学科
+- **humble** adj. 谦逊的；adj. 地位低下的；adj. 简陋的
+- **humidity** n. 湿度，湿气
+- **hurl** v. 丢，投，猛掷；v. 发射；v. 推翻，压倒；v. 叫嚷
+- **hurricane** n. 飓风，旋风；n. 风暴般的事物
+- **hypothesis** n. 假设，假定，假说；n. 前提
+- **hysterical** adj. 歇斯底里的，有癔病的；adj. 极度狂热的；adj. 极滑稽的
+- **ideal** a. 理想的；观念的；n. 理想
+- **identical** a. 完全相同的；同一的
+- **identification** n. 认明，确认，识别；身份证明
+- **identify** vt. 认出，识别，鉴定；认同
+- **ideology** n. 意识形态，思想意识
+- **idiom** n. 习语；惯用语；方言
+- **idiot** n. 傻子，白痴，低能的人
+- **ignite** v. (使)燃烧，点燃；激起
+- **ignore** vt. 不顾，不理，忽视
+- **illegal** adj. 不合法的；adj. 非法的；n. 非法移民（口语）
+- **illuminate** v. 照明，照射；用灯装饰；阐明，启发
+- **illusion** n. 错觉，幻觉，幻想
+- **illustrate** vt. （用图等）说明
+- **imaginary** adj. 想象中的；adj. 假想的；adj. 虚构的
+- **imaginative** adj. 富于想象力的；adj. 想象的；adj. 有创意的
+- **imitate** vt. 模仿，仿效；仿制
+- **imitation** n. 模仿，仿效，仿造；仿制品，赝品
+- **immerse** v. 浸入；v. 沉浸于；v. 使专心
+- **immigrant** n. 移民，外来移民；adj. 移民的
+- **immune** adj. 有免疫力的；adj. 不受影响的；adj. 获豁免的
+- **impact** n. 影响，作用；冲击；v. 冲击，撞击；对…产生影响
+- **impair** v. 损害，削弱；减少
+- **impart** v. 传授，灌输，给予；告知，通知
+- **impatient** adj. 不耐烦的，急躁的；急切的
+- **imperative** adj. 急需的，绝对必要的；adj. 命令（式）的，祈使的，强制的；n. 祈使语气
+- **imperial** adj. 王室的，帝国的，帝皇的；威严的
+- **impetus** n. 推动（力），刺激，促进；冲力
+- **implement** v. 实行，实施，执行；完成，实现；n. 工具，器具；（pl）装备，家具，服装
+- **implication** n. 含义，暗示，暗指；牵连，影响
+- **implicit** adj. 含蓄的，不明确的，不直接表明的；绝对的，无疑问的
+- **imply** vt. 暗示，意指；意味着
+- **impose** vt. 把…强加；征（税）；处以（罚款等）
+- **impulse** n. 推动（力），驱使；n. 冲动，心血来潮
+- **inaugurate** v. 为…举行就职典礼，使正式就任；v. 为…举行开幕式（落成典礼）；v. 开创，开展
+- **incentive** n. 刺激，鼓励，推动力
+- **incidence** n. 发生率；n. 影响范围
+- **incident** n. 发生的事；n. 事件
+- **incidentally** adv. 顺便提一句；adv. 偶然地，不经意地
+- **incline** n. 斜坡；vt. 使倾斜
+- **inclusive** adj. 一切包括在内的；adj. 包含的
+- **incorporate** v. 把…合并，并入，收编
+- **incredible** adj. 难以置信的，不可思议的，精彩的；adj. 不能相信的，不可信的
+- **incur** v. 遭受，蒙受，招致
+- **indefinite** adj. 不明确的；adj. 不定的
+- **independence** n. 独立；n. 自主；n. 自立
+- **indicative** adj. 标示的，指示的；陈述的
+- **indifferent** adj. 冷漠的；不积极的；不关心的
+- **indignant** adj. 愤慨的，义愤的
+- **indignation** n. 愤怒，愤慨，义愤
+- **indispensable** adj. 必不可少的，必需的
+- **individual** adj. 个别的；独特的；n. 个人，个体
+- **induce** v. 引诱，诱导，劝；引起，导致
+- **indulge** v. 纵容，放任；沉迷，沉溺于
+- **industrial** adj. 工业的；产业的
+- **inertia** n. 无活力，迟钝，懒惰；惰性，保守，惯性
+- **inevitable** adj. 不可避免的；必然的
+- **infant** n. 婴儿；adj. 婴儿的
+- **infectious** adj. 传染性的；有感染力的
+- **inferior** adj. 下等的；劣等的；n. 下级，下属
+- **infinite** adj. 无限的；无数的
+- **inflict** v. 予以（打击），使遭受，强加于；施（刑），处（罚）
+- **ingenious** adj. 心灵手巧的，精巧的；adj. 有创造性的
+- **ingredient** n. （混合物的）组成成分，（烹调的）原料，配料；n. 要素
+- **inhabit** vt. 居住于，栖息于
+- **inhabitant** n. 居民，住户
+- **inherent** adj. 固有的，内在的，天生的
+- **inherit** vt. 继承（传统等）；继承（财产）
+- **inhibit** v. 抑制，阻碍，约束
+- **initial** adj. 最初的；词首的；n. 首字母
+- **initiate** v. 开始实施，创始，发起；介绍（接纳）某人加入（某团体），传授基本要领
+- **initiative** n. 进取心，首创精神，倡议；主动性，主动权；adj. 起始的，初步的，创始的
+- **inject** v. 注射，注入；插（话）；引入
+- **inland** adj. 内地的，内陆的；adv. 在内地，向内陆；n. 内地，内陆
+- **inlet** n. 湾，水湾；入口，进口
+- **innovation** n. 革新，创新；新方法，新发明
+- **innumerable** adj. 无数的，数不清的
+- **input** n. 输入；投入的资金
+- **insane** adj. 疯狂的，精神失常的；荒唐的
+- **insect** n. 昆虫
+- **insert** vt. 插入；嵌入；登载
+- **insight** n. 洞察力；深入了解；洞悉
+- **insist** vi. 坚持；坚决认为
+- **inspiration** n. 鼓舞人心的人（物），激发；n. 灵感，启示，妙计
+- **inspire** v. 激励；鼓舞
+- **install** vt. 安装，设置
+- **installment** n. 就职，装设；n. 分期付款
+- **instance** n. 例子，实例，事例
+- **instantaneous** adj. 瞬间发生的，立即的，即时的
+- **instinct** n. 本能；n. 直觉；n. 生性
+- **institute** n. 研究所；n. 学院
+- **institution** n. 协会；n. 制度，习俗
+- **instruct** vt. 通知；vt. 指示；vt. 教
+- **instrument** n. 乐器；n. 仪器
+- **instrumental** adj. 有助的，起作用的；adj. 仪器的，用乐器演奏的
+- **insulate** v. 隔离，使孤立；v. 使绝缘，使隔绝（热、声音等）
+- **insurance** n. 保险；n. 保险费
+- **intact** adj. 无损伤的，完整的，完好无缺的
+- **integral** adj. 不可或缺的，构成整体所必需的；adj. 完整的
+- **integrity** n. 完整，完全，完善；n. 正直，诚实，廉正
+- **intellect** n. 智力，思考能力
+- **intellectual** n. 知识分子；adj. 智力的
+- **intelligent** adj. 聪明的；理智的
+- **intelligible** adj. 可理解的，易于明白的
+- **intense** adj. 强烈的；紧张的
+- **intensify** v. 加强，增强，加剧
+- **intensive** adj. 加强的；精耕细作的
+- **intent** n. 意图，目的；意义，含义；adj. 集中的，热切的；专心致志的
+- **interact** v. 相互作用，相互影响
+- **interaction** n. 相互作用；干扰
+- **intercourse** n. 交往，交际，交流
+- **interfere** vi. 干涉，干预；妨碍
+- **interim** adj. 暂时的，临时的；中期的，过渡时期的
+- **intermittent** adj. 断续的，间歇的
+- **internal** adj. 内部的；国内的
+- **interpret** vt. 解释，说明；vt. 口译
+- **interrupt** vt. 打断，打扰；vt. 中止
+- **intersection** n. 横断，交叉，相交；交叉路口，十字路口；交点
+- **intervene** v. 进入，介入，在其间；v. 干涉，干预
+- **intimate** adj. 亲密的，密切的；个人的，私人的；n. 密友
+- **intimidate** v. 恫吓，恐吓，威胁
+- **intricate** adj. 细节繁多的，错综复杂的
+- **intrigue** v. 耍阴谋诡计，密谋；v. 激起…的兴趣（好奇心）；n. 密谋，诡计
+- **intrinsic** adj. 固有的，内在的，本质的
+- **intuition** n. 直觉，直观
+- **invalid** adj. 无效的，作废的；（读 /ˈɪnvəlɪd/ 时）n. 病人；adj. 病弱的
+- **invaluable** adj. 无价的，非常宝贵的，极贵重的
+- **invariably** adv. 不变化地，恒定地，始终如一地
+- **inventory** n. (商品的)目录，清单，盘存
+- **invert** v. 倒置，颠倒
+- **invest** v. 投资；投入（时间、精力等）；授予（权力等）
+- **investigate** v. 调查，侦查
+- **invisible** adj. 看不见的，无形的
+- **involve** v. 使卷入，牵涉；包含，涉及
+- **irony** n. 反语(法)，冷嘲，讥讽；有讽刺意味的情况、事情等
+- **irrespective** adv. 不考虑，不顾及（后接 of）
+- **irrigation** n. 灌溉，水利；冲洗法
+- **irritate** v. 激怒，使烦躁；使不舒服，刺激
+- **isle** n. 岛，小岛
+- **isolate** vt. 使隔离，使孤立
+- **issue** n. 问题；发行；vt. 发行，发布
+- **item** n. 一件商品（或物品）；项目，条款
+- **ivory** n. 象牙，牙质；n. 象牙色，乳白色；adj. 象牙制的，象牙色的，乳白色的
+- **jeopardize** v. 危害，使受危困，使陷危地
+- **jerk** n. 猛地摇晃，急拉，急抽；v. 猛地摇晃，急拉，急抽
+- **jog** v. 慢跑，缓步跑；轻撞，轻推
+- **junction** n. 交汇处，交叉路口；n. 连接点
+- **junk** n. 无用的或无价值的东西；n. 废旧杂物
+- **jury** n. 陪审团；n. 评奖团
+- **keen** a. 热心的；a. 激烈的；a. 敏锐的
+- **kidnap** v. 诱拐（小孩等），绑架
+- **kidney** n. 肾脏；性格，脾气
+- **kit** n. 随身携带物（衣服、工具等）；n. 配套元件，成套用品（工具）
+- **knit** vt. 把…编结；vi. 编织；v. 使紧密结合
+- **knob** n. 门把，拉手；n. 旋钮；n. 小块（黄油等）
+- **label** n. 标签；标记，符号；vt. 贴标签于；把……称为
+- **lace** n. 鞋带，系带；花边；vt. 系带；用带子束紧
+- **lame** adj. 跛的；瘸的；残废的；vt. 使跛
+- **lane** n.（乡间）小路；车道；跑道
+- **lash** v. 鞭打；急速挥动，急速扭动；n. 鞭打；眼睫毛
+- **latent** adj. 潜伏的，隐藏的
+- **latitude** n. 纬度，纬线
+- **layer** n. 层，层次；铺设者
+- **layman** n. 门外汉，外行人；n. 平信徒（非神职人员）
+- **leaflet** n. 小册子；n. 散页印刷品，传单
+- **lease** n. 租赁，租约；v. 出租，租得
+- **leather** n. 皮革
+- **legal** adj. 法律的；合法的
+- **legend** n. 传说，传奇
+- **legislation** n. 立法，制定法律
+- **legitimate** adj. 合法的，法律认可的；合乎逻辑的；v. 使合法
+- **leisure** n. 闲暇；空闲；休闲
+- **lens** n. 透镜，镜片；镜头
+- **lever** n. 杆，杠杆；控制杆
+- **levy** v. 征收（税等）；n. 征收，征税
+- **liability** n. 责任，义务；负债
+- **liable** adj. 易于……的；可能的；有责任的
+- **liberal** adj. 心胸宽大的；慷慨的；自由的
+- **lieutenant** n. 陆军中尉；副职官员
+- **likelihood** n. 可能，可能性
+- **limb** n. 肢，臂，翼；树枝
+- **limitation** n. 限制；限度，局限
+- **limp** v. 蹒跚；一瘸一拐地走；缓慢而费力地行走；n. 跛行
+- **linear** adj. 线的，直线的，线状的；长度的
+- **linen** n. 亚麻布；亚麻织物
+- **liner** n. 班船，班机
+- **linger** v. 逗留，徘徊
+- **literacy** n. 识字，会读会写；n. 有学识，文化素养
+- **literal** adj. 逐字的；adj. 字面的，原义的
+- **literary** adj. 文学（上）的；adj. 书面的，文语的
+- **literature** n. 文学；n. 文学作品；n. 文献，资料
+- **litter** n. 垃圾，废弃物；v. 乱扔，乱丢；n. （动物的）一窝幼崽
+- **locality** n. 位置，地点，现场；地区，区域
+- **locomotive** n. 火车头，机车；adj. 运动的，机动的
+- **lofty** adj. (思想等)崇高的；高耸的；高傲的
+- **logical** adj. 逻辑的；符合逻辑的
+- **longevity** n. 长寿，长命
+- **loom** n. 织布机；vi. 隐现，赫然耸现
+- **lounge** n. 休息室；v. 懒洋洋地靠坐着；v. 闲逛，混时间
+- **loyal** a. 忠诚的，忠心的
+- **loyalty** n. 忠诚，忠心
+- **lubricate** v. 使润滑，给…上油；v. 起润滑作用
+- **luggage** n. 行李；皮箱，皮包
+- **luminous** adj. 发光的，光亮的
+- **lunar** adj. 月的，月球的，阴历的
+- **lure** n. 引诱物，诱惑力；v. 引诱，诱惑
+- **luxury** n. 奢侈，奢华；奢侈品
+- **machinery** n. (总称)机器，机械；(政府、政党等)机构
+- **magistrate** n. 地方法官，治安法庭法官
+- **magnet** n. 磁铁，磁石，磁体
+- **magnetic** adj. 磁的，磁性的；adj. 有吸引力的
+- **magnificent** adj. 壮丽的，宏伟的；adj. 华丽的
+- **magnify** v. 放大，扩大；v. 夸大
+- **magnitude** n. 巨大，庞大；n. 重要性，重大；n. 大小，量，亮度
+- **maintain** vt. 维持，保持；vt. 赡养；vt. 维修
+- **majesty** n. （cap）陛下（对国王或王后的称呼）；n. 宏伟，庄严
+- **majority** n. 多数，大多数；n. 成年（法定年龄）
+- **mall** n. 商场，购物中心；n. 林荫道（旧义）
+- **management** n. 管理；n. 经营，处理；n. 管理层
+- **maneuver** n. 演习，调遣；n. 策略，花招；v. 调遣，演习，用计
+- **manifest** adj. 明显的，易明白的；v. 表明，显示；n. 货物清单
+- **manipulate** v. 熟练地使用，巧妙地处理；v. 操纵，摆布
+- **mansion** n. 大厦；宅第，公馆
+- **manual** a. 体力的，手工的；n. 手册，指南
+- **manufacture** vt. 制造，加工；n. 制造；产品
+- **manufacturer** n. 制造商；生产厂
+- **manuscript** n. 手稿，原稿
+- **marble** n. 大理石；弹子，弹珠
+- **margin** n. 页边的空白；边缘；余地，差额
+- **marginal** adj. 页边空白的，栏外的；微小的，少量的；边缘的
+- **marsh** n. 沼泽，沼泽地区
+- **marshal** n. 元帅；n. 司仪，典礼官；v. 整理，排列
+- **masculine** adj. 男性的，有男子气的；adj. 阳性的
+- **mask** n. 面具；n. 伪装；vt. 掩饰
+- **mass** n. 众多，大量；n. 团，块；n. 群众
+- **massacre** n. 大屠杀；v. 大屠杀
+- **massive** adj. 巨大的，大而结实的；adj. 大量的，大规模的；adj. 强大的
+- **masterpiece** n. 杰作，名著；代表作
+- **mature** adj. 成熟的；v. 使成熟，成熟
+- **maximum** n. 最大量，最大限度；adj. 最大的，最高的
+- **meadow** n. 草地，牧草地
+- **mechanical** adj. 机械的，机械制造的；力学的；呆板的
+- **mediate** v. 调停，斡旋；v. 调解
+- **medieval** adj. 中世纪的
+- **medium** n. 媒质，媒介；n. 中间；adj. 中等的
+- **melody** n. 旋律，曲调；n. 美妙的音乐
+- **melt** v. （使）熔化；v. （使）融化；v. 消散
+- **memorize** v. 记住，熟记
+- **menace** n. 威胁，危险；讨厌的人（或物）；v. 威胁
+- **mental** adj. 精神的，心理的；智力的
+- **mercury** n. 水银，汞；（Mercury）水星
+- **mere** a. 仅仅的，只不过的；纯粹的
+- **merely** ad. 仅仅，只不过
+- **merge** v. （使）合并，（使）并入
+- **merit** n. 长处，优点；功过；v. 值得，应得
+- **messenger** n. 送信者，信使
+- **metallic** adj. 金属（性）的，金属制的
+- **metropolitan** adj. 大都市的，首都的；n. 大都市居民；（宗教）都主教
+- **midst** n. 中部，中间，当中
+- **migrant** n. 移民，候鸟；adj. 迁移的，移居的
+- **migrate** v. （鸟等）定期迁徙，移居，迁移
+- **mild** adj. 温和的；暖和的；凉爽的（气候温和）
+- **militant** adj. 好斗的，富有战斗精神的；n. 好斗的人，富有战斗精神的人
+- **military** adj. 军事的；军人的；n. 军队，军方
+- **millionaire** n. 百万富翁，巨富
+- **mingle** v. 使混合，混入；v. 交往，交际
+- **miniature** n. 缩样，缩影；adj. 小型的，微小的
+- **minibus** n. 小型公共汽车
+- **minimal** adj. 最小的，最低限度的；adj. 极简的
+- **minimize** v. 将……减到最少，最小化；v. 贬低，轻视
+- **minimum** n. 最小量，最低限度；adj. 最小的，最低的
+- **minority** n. 少数；少数民族
+- **misery** n. 痛苦，悲惨；n. 苦难，不幸的事
+- **misfortune** n. 厄运，不幸；n. 不幸的事，灾祸
+- **mission** n. 使命，任务；n. 使团，代表团；n. 传教（活动）
+- **missionary** n. 传教士；adj. 传教的，传教士的
+- **mistress** n. 女主人；夫人；情妇
+- **moan** n. 呻吟声；vi. 呻吟；抱怨
+- **mob** n. 喧嚷的群众；暴民，暴徒；vt. 围攻，聚众袭击
+- **mobile** adj. 活动的，可移动的；n. 移动电话，手机
+- **mobilize** v. 动员，调动；使流通
+- **mock** v. 嘲笑，嘲弄；n. 嘲笑，嘲弄；adj. 模拟的，假装的
+- **modest** a. 有节制的；谦虚的；适度的
+- **modify** vt. 更改，修改；修饰
+- **module** n. （太空船上的）舱；模块，组件；单元（课程）
+- **molecule** n. 分子；克分子
+- **momentum** n. 动力，冲力，势头；动量
+- **monetary** adj. 货币的，金钱的；金融的
+- **monitor** n. （计算机）显示器；班长；监督员；v. 监控，监测
+- **monopoly** n. 垄断，独占；专卖（权）
+- **monster** n. 怪物，怪兽，庞然大物；n. 凶残的人；adj. 巨大的，像怪物的
+- **moral** adj. 道德的；合乎道德的；n. 道德，寓意
+- **morality** n. 道德，道德准则；教训，寓意
+- **moreover** adv. 再者，加之，此外
+- **mortal** adj. 终有一死的；致死的；n. 凡人
+- **mortgage** n. 抵押，抵押借款；n. 抵押契据，按揭；v. 抵押
+- **motel** n. 汽车旅馆
+- **motivate** vt. 促动；vt. 激励，激发
+- **motive** n. 动机，目的；adj. 发动的，运动的
+- **mourn** vi. 哀痛，哀悼；vt. 为……哀悼
+- **muddy** adj. 多泥的，泥泞的；adj. 浑浊的；adj. 模糊不清的
+- **multiple** adj. 复合的，多重的；adj. 并联的；n. 倍数
+- **multiply** v. 乘，使相乘；v. 大量增加；v. 繁殖
+- **multitude** n. 众多，大量；n. 大群（人），大众
+- **municipal** adj. 都市的，市政的；adj. 地方自治的
+- **murmur** n. 低语声，咕哝；n. 沙沙声，潺潺声；v. 低声说，咕哝
+- **muscular** adj. 肌肉的；adj. 肌肉发达的，强而有力的
+- **mute** a. 缄默的，不出声的；n. 哑巴；v. 使（声音）减弱，静音
+- **mutter** v. 轻声低语；抱怨；n. 低语声
+- **mutual** adj. 相互的；共同的
+- **myth** n. 神话；神话式的人（或物）；虚构的故事，荒诞的说法
+- **naive** adj. 幼稚的；无知的；天真的
+- **napkin** n. 餐巾；n. 餐巾纸
+- **narrative** n. 叙述，记事；n. 叙述手法；adj. 叙述的，叙事体的
+- **nasty** adj. 龌龊的；adj. 淫猥的；adj. 令人厌恶的
+- **navigation** n. 航行；n. 航海术；n. 导航
+- **necessitate** v. 使成为需要，使成为必须；v. 迫使
+- **negative** a. 否定的；a. 消极的；a. 负的，阴性的
+- **neglect** vt. 忽视，忽略；vt. 疏忽，未照料；n. 忽视，疏忽
+- **negligible** adj. 微不足道的，可以忽略的
+- **negotiate** v. 谈判，协商；v. 顺利通过（障碍等）
+- **neutral** a. 中立的；a. 中性的；n. 中立者，空挡
+- **nickel** n. 镍；（美国、加拿大）五分硬币
+- **nickname** n. 绰号，爱称；v. 给…起绰号
+- **nil** n. 无，全无；零
+- **nominal** adj. 名义上的；adj. 极小的，微薄的；adj. 名词（性）的
+- **nominate** v. 提名；任命；命名
+- **nonetheless** adv. 尽管如此，然而
+- **norm** n. 标准，规范，准则；定额，定量
+- **notable** a. 值得注意的，显著的；n. 名人，要人
+- **notation** n. 记号，标记法；记录
+- **notify** v. （正式）通知（某人），告知；报告
+- **notion** n. 概念，观念；想法，见解；打算，意图
+- **notorious** adj. 臭名昭著的，声名狼藉的
+- **notwithstanding** prep. 尽管，虽然；adv. 尽管如此，还是；conj. 虽然
+- **nourish** v. 滋养，养育；怀有（希望、怨恨等）
+- **novelty** n. 新颖；新颖的事物；新颖而价廉的小物件
+- **numerical** adj. 数字(上)的，用数字表示的
+- **numerous** adj. 为数众多的；许多
+- **nurture** v. 养育，教育；v. 培育，扶植；n. 养育，培养
+- **nutrition** n. 营养，滋养；营养物，食物
+- **oak** n. 栎属植物，橡树；栎木，橡木
+- **oath** n. 誓言；辱骂
+- **obedient** adj. 顺从的，听话的；adj. 服从的
+- **object** n. 物体，物品；n. 目标，对象；v. 反对
+- **objection** n. 反对，异议；n. 不喜欢
+- **objective** adj. 客观的，无偏见的；n. 目标，目的
+- **obligation** n. 义务，责任；n. 恩惠
+- **obscene** adj. 猥亵的，淫秽的；adj. 令人反感的
+- **obscure** adj. 模糊的，不清楚的；adj. 费解的；adj. 不出名的；v. 使朦胧，遮掩
+- **obstacle** n. 障碍，障碍物；n. 妨害
+- **obtain** vt. 获得，得到；vt. 买到
+- **occasional** a. 偶然的；临时的
+- **occupation** n. 占领，占据；职业
+- **occupy** vt. 占领；占，占有
+- **occur** vi. 发生；出现，存在
+- **odor** n. 气味，香味；名声；意味
+- **offense** n. 犯罪；冒犯，伤感情；攻击
+- **offensive** adj. 冒犯的；进攻性的；极讨厌的；n. 进攻，攻势
+- **offset** v. 补偿，抵消；n. 分支，旁支；补偿，抵消
+- **offspring** n. 子孙，后代；结果，产物
+- **olive** n. 橄榄；橄榄绿
+- **opaque** adj. 不透明的；意义不明确的；晦涩的
+- **opponent** n. 对手，敌手；反对者
+- **oppose** vt. 反对，反抗；使对立
+- **oppress** vt. 压迫，压制；使压抑，使烦恼
+- **optical** adj. 眼的，视觉的；光学的
+- **optimism** n. 乐观，乐观主义
+- **optimistic** adj. 乐观的，乐观主义的
+- **optimum** adj. 最适宜的，最佳的；n. 最佳条件，最适条件
+- **option** n. 选择，选择权；可选择的事物；选修课
+- **orbit** n. 运行轨道；势力范围；vt. 环绕…运行
+- **orchestra** n. 管弦乐队；乐队席，乐池
+- **ore** n. 矿，矿石，矿砂
+- **orient** v. 使适应；确定位置
+- **oriental** a. 东方的；东方国家的
+- **orientation** n. 倾向性；确定方位（方向），熟悉，适应
+- **origin** n. 起源，由来；出身
+- **original** a. 最初的；新颖的
+- **originate** v. 发源，创始，开始
+- **ornament** n. 装饰物；装饰
+- **orthodox** adj. 正统的，传统的
+- **outbreak** n.（坏事）突然发生，爆发；n.（疾病、战争等的）爆发
+- **outfit** n. 全套设备或用具；n. 全套衣装；v. 为…提供设备
+- **outline** n. 轮廓；n. 略图；n. 大纲，概要
+- **output** n. 产量；输出量；输出
+- **outrage** n. 暴行，残暴；义愤；v. 激起…的义愤；违背
+- **outset** n. 开始，开端
+- **outward** adj. 外面的；向外的
+- **overcome** vt. 战胜，克服；压倒，使受不了
+- **overflow** v. （使）溢出，（使）泛滥，涌出；n. 溢出，过剩
+- **overhead** adj. 在头顶上的；架空的；adv. 在头顶上；在空中
+- **overhear** v. 无意中听到，偶然听到；偷听，窃听
+- **overlap** v. 部分重叠，交搭；n. 重叠（部分）
+- **overlook** v. 忽略，未注意到；俯视，眺望；宽恕
+- **overpass** n. 天桥，立交桥；v. 超越，胜过
+- **overt** adj. 公开的，明显的
+- **overthrow** v. 推倒，颠覆；n. 推翻，颠覆
+- **overturn** v. 翻倒，打翻；推翻，颠覆
+- **overwhelm** v. 战胜，压倒，克服；（感情）压倒，控制
+- **overwhelming** adj. 压倒一切的，无法抗拒的
+- **owe** vt. 欠（债等）；应把…归功于
+- **owl** n. 猫头鹰，枭
+- **oxide** n. 氧化物
+- **oxygen** n. 氧；氧气
+- **ozone** n. 臭氧
+- **package** n. 包裹，包，捆
+- **pact** n. 契约，公约，条约
+- **pamphlet** n. 小册子，宣传册
+- **panic** n. 恐慌，惊惶；v. (使)恐慌，(使)惊惶；adj. 恐慌的，惊慌的
+- **paperback** n. 平装本，纸面本；adj. 平装的
+- **paradise** n. 天堂；n. 伊甸乐园；n. 乐土
+- **paradox** n. 自相矛盾的事物（思想、言论等）；n. 悖论
+- **paragraph** n. （文章的）段，节；n. 段落符号
+- **parallel** adj. 平行的；adj. 相同的；n. 平行线
+- **paralyze** vt. 使瘫痪，使麻痹；vt. 使无法行动
+- **parameter** n. （数学）参数；n. （事物的）限定性因素
+- **parasite** n. 寄生虫，寄生植物；n. 食客，靠他人供养的人
+- **partial** a. 部分的；不公平的；偏爱的
+- **participant** n. 参与者，参加者
+- **partition** v. 分裂，分割；分隔，隔开；n. 分割，隔开
+- **passion** n. 激情，热情；爱好
+- **passive** adj. 被动的；消极的
+- **pastime** n. 消遣，娱乐
+- **pastry** n. 糕点，酥皮点心
+- **pasture** n. 牧场；n. 牧草；v. 放牧
+- **patent** n. 专利，专利权，专利证书；adj. 专利的，专卖的；adj. 公开的，显然的
+- **pathetic** adj. 招人怜悯的，悲惨的；adj. 感伤的，感情（上）的；adj. 令人生厌的
+- **patriot** n. 爱国者，爱国主义者
+- **patriotic** adj. 爱国的，有爱国热忱的
+- **patrol** n. 巡逻；n. 巡逻队，巡逻兵；v. 巡逻，巡查
+- **patron** n. 赞助人，资助人；n. 老顾客，主顾
+- **pattern** n. 图案；花样
+- **pave** vt. 铺，筑（路等）
+- **peak** n. 山顶，巅；顶峰，最高点；adj. 最高的，高峰的
+- **pearl** n. 珍珠；珍珠母；珍品
+- **peculiar** adj. 特有的，独特的；奇怪的，特别的
+- **pedal** n. 踏板；v. 踩踏板，骑（车）
+- **pedestrian** n. 行人，步行者；adj. 徒步的；平淡无奇的
+- **peel** vt. 剥（皮），削（皮）；n. （水果、蔬菜的）皮
+- **peg** n. 木栓，楔子，桩钉；vt. 用木钉钉住，固定
+- **penalty** n. 惩罚，刑罚；罚款；（体育）罚球
+- **pendulum** n. 摆，钟摆；摇摆不定的事态
+- **penguin** n. 企鹅
+- **peninsula** n. 半岛
+- **perception** n. 感觉，知觉；n. 观念，看法；n. 洞察力，理解力
+- **perfection** n. 尽善尽美；n. 完美的典型
+- **performance** n. 演出，表演；n. 表现，业绩；n. 执行
+- **perfume** n. 香味，芳香；n. 香水；vt. 使…带香味
+- **periodic** adj. 周期的，定期的；adj. 间歇的
+- **periodical** adj. 定期的，周期的；n. 期刊，杂志
+- **perish** v. (使)枯萎，(使)腐烂；夭折，死亡
+- **permanent** adj. 永久的，持久的
+- **permeate** v. 渗入，透过；弥漫，充满
+- **permissible** adj. 容许的，可准许的
+- **perpetual** adj. 永远的，永恒的，不断的；四季开花的
+- **perplex** v. 使困惑，难住；使复杂化
+- **persist** vi. 坚持，固执；持续
+- **persistent** adj. 坚持的，不屈不挠的；持续不断的，反复出现的
+- **perspective** n. 观点，看法；透视（法）；远景
+- **persuasion** n. 说服，劝服，说服力；信念，信仰
+- **pessimistic** adj. 悲观的；厌世的
+- **pest** n. 害虫；讨厌的人
+- **petition** n. 请愿；请愿书；v. 向…请愿（祈求）
+- **petty** adj. 不重要的，次要的；偏狭的，气量小的；微小的，小规模的
+- **phase** n. 阶段；方面；相位
+- **phenomenon** n. 现象；非凡的人（或事物）
+- **physiological** adj. 生理学的；adj. 生理的，生理机能的
+- **pilgrim** n. 朝圣者，香客；n. 漫游者，流浪者
+- **pirate** n. 海盗；海盗船；n. 盗版者；非法复制者；n. 无执照广播者
+- **pistol** n. 手枪
+- **pitch** n. 沥青；v. 投掷；n. 音高
+- **plague** n. 瘟疫；n. 祸患；v. 折磨；困扰
+- **planet** n. 行星
+- **plaster** n. 灰泥；n. 硬膏，膏药；n. 熟石膏
+- **plateau** n. 高原；n. 平稳期，停滞阶段
+- **plausible** adj. （声明、争论等）似乎正确的；adj. 能说会道的
+- **plea** n. 恳求，请求；n. （法庭上）辩解，抗辩
+- **plead** v. 恳求，祈求；v. （法庭上）辩护；v. 以…为理由（或借口）
+- **pledge** n. 誓言，誓约；保证物，信物；v. 保证；抵押
+- **plunge** vt. 使投入；使陷入；vi. 猛冲，跳入
+- **poetry** n. 诗，诗歌，诗作；诗意
+- **poisonous** adj. 有毒的；adj. 有害的
+- **poke** v. 伸出；v. 刺，戳，捅，触；n. 刺，触
+- **polar** adj. 南极的，北极的，近极地的；adj. 正好相反的
+- **pole** n. （行星的）极；n. 地极
+- **polish** vt. 磨光；vt. 使优美
+- **ponder** v. 仔细考虑；v. 沉思
+- **pope** n. 教皇
+- **porch** n. 门廊；n. 入口处
+- **pore** n. （皮肤的）毛孔
+- **portray** v. 描绘，描写；v. 扮演
+- **pose** v. 摆姿势；v. 装腔作势；v. 提出（问题）
+- **positive** adj. 积极乐观的；adj. 自信的；adj. 正面的
+- **possess** vt. 占有，拥有（财产）；vt. 具有（品质）
+- **posture** n. 姿势；态度；v. 故作姿态；摆出…样子
+- **potential** adj. 潜在的，可能的；n. 潜力，潜能
+- **poverty** n. 贫穷，贫困
+- **practicable** adj. 行得通的，可以实施的；可通行的
+- **preach** v. 讲道，布道；说教，宣扬
+- **precede** v. 先于…，位于…之前
+- **precedent** n. 惯例；先例，前例
+- **precious** adj. 珍贵的，宝贵的
+- **precise** adj. 精确的，准确的
+- **preclude** v. 阻止，排除
+- **predecessor** n. 前任者；被取代的事物
+- **predict** v. 预言，预告，预测
+- **predominant** adj. 占优势的，占主导地位的；最显著的
+- **preferable** adj. 更可取的，更好的；adj. 更合意的
+- **preference** n. 偏爱，偏好；n. 喜爱；n. 更喜欢的人（或物）
+- **prejudice** n. 偏见，成见；n. 歧视；vt. 使有偏见
+- **preliminary** adj. 预备的，初步的；n. 预备步骤，初赛
+- **premature** adj. 过早的，提前的；adj. 不成熟的，早熟的；adj. 仓促的
+- **premier** n. 总理，首相；adj. 首要的，第一的
+- **premise** n. 前提；n. (pl) 房屋（及其附属建筑、基地等）
+- **premium** n. 保险费；n. 额外费用；n. 奖赏，奖励
+- **prescription** n. 处方，药方；n. 指示，规定；n. 开处方
+- **presentation** n. 演示，展示；n. 赠送，授予；n. 表现，呈现
+- **preserve** vt. 保护，保存；vt. 腌渍，防腐保存；n. 保护区，果酱
+- **preside** v. 主持（会议等）；v. 负责指挥，掌管
+- **pressure** n. 压力；n. 压强；vt. 施加压力，迫使
+- **prestige** n. 威望，威信
+- **presumably** adv. 假定，可能，大概
+- **presume** v. （没有根据地）相信，假设；v. 擅自，敢于
+- **pretext** n. 借口，托词
+- **prevail** vi. 胜，优胜；vi. 流行，盛行
+- **prevalent** adj. 普遍的，流行的，盛行的
+- **preview** n. 预演，预告；n. 事先查看；vt. 预览，预看
+- **previous** adj. 先的，前的，以前的；adv. 在前（与 to 连用）
+- **prey** n. 猎物，牺牲品；n. 捕食；v. 捕食；v. （疾病等）折磨，困扰
+- **priest** n. 教士，牧师，神父
+- **primarily** adv. 首先；主要地
+- **primary** adj. 最初的；基本的；初级的
+- **prime** a. 首要的，主要的；n. 青春，壮年；a. 优质的，一流的
+- **primitive** adj. 原始的；粗糙的，简单的
+- **principal** adj. 主要的；n. 负责人（校长、主管）
+- **principle** n. 原则，原理；主义
+- **priority** n. 优先，优先权；优先考虑的事
+- **privacy** n. 独处，隐私；秘密，私下
+- **privilege** n. 特权，优惠
+- **probability** n. 可能性；概率
+- **probe** n. 探针；探测飞船；探查，彻底调查；v. 探查，查究
+- **procedure** n. 程序；手续；过程
+- **proceedings** n. 事项，行径，事件；诉讼；会议录，记录汇编
+- **process** n. 过程；工序；vt. 加工
+- **proclaim** vt. 宣告，宣布；表明
+- **productive** a. 生产的；丰饶的；多产的
+- **productivity** n. 生产能力，生产率
+- **profess** v. 公开表示，声称；自称；表明信仰
+- **profession** n. 职业；专业；声明
+- **professional** a. 职业的；专业的；n. 专业人员
+- **proficiency** n. 精通，熟练
+- **profitable** adj. 有利润的，赚钱的
+- **profound** adj. 深厚的，深刻的，深奥的；知识渊博的
+- **progressive** adj. 进步的；向前进的
+- **prohibit** vt. 禁止，阻止
+- **project** n. 课题
+- **prolong** v. 延长，拖延
+- **prominent** adj. 突起的；突出的
+- **promising** adj. 有希望的；有前途的
+- **promote** vt. 促进，发扬；提升
+- **prone** adj. 易于…的，有…倾向的；adj. 俯卧的
+- **proof** n. 证据；n. 证明；n. 校样
+- **propaganda** n. 宣传；n. 宣传品
+- **propagate** v. 传播，宣传；v. (使)繁殖
+- **propel** v. 推进；v. 驱使
+- **property** n. 财产，资产；n. 性质，特性
+- **prophet** n. 预言家，先知；n. 倡导者
+- **proposition** n. 提议，建议；n. 主张；n. 命题
+- **prose** n. 散文
+- **prosecute** v. 对…起诉，告发；v. 彻底进行，执行
+- **prospect** n. 展望；n. 前景，前程
+- **prospective** adj. 预期的，可能的；adj. 未来的，潜在的
+- **prosperous** adj. 繁荣的，昌盛的；富裕的
+- **protein** n. 蛋白质
+- **protest** vi.&vt. 抗议，反对；n. 抗议，抗议活动
+- **prototype** n. 原型，典型
+- **provided** conj. 以…为条件，假如；只要
+- **provision** n. 供应；预备，准备；存粮，给养
+- **provocative** adj. 挑衅的，煽动的；挑逗的
+- **provoke** v. 激怒，挑动；引起，激起
+- **proximity** n. 接近，邻近
+- **prune** n. 梅干，李脯；v. 修剪，删除
+- **psychiatrist** n. 精神病医生，精神病学者
+- **psychological** adj. 心理的；心理学的
+- **pudding** n. 布丁
+- **pumpkin** n. 南瓜；南瓜的果肉
+- **purchase** n. 买，购买；vt. 买，购买
+- **purify** vt. 使纯净，使洁净；净化
+- **purity** n. 纯净；纯洁；纯度
+- **pursue** vt. 追赶，追踪；进行，从事；追求
+- **pursuit** n. 追赶；追求；事务
+- **qualitative** adj. 质量上的，性质上的；（化学）定性的
+- **quantify** v. 量度，确定数量，量化
+- **quantitative** adj. 量的，数量的，定量的
+- **quart** n. 夸脱（容量单位，等于 2 品脱）
+- **quarterly** a. 季度的；ad. 按季度地；n. 季刊
+- **quartz** n. 石英
+- **queer** a. 奇怪的，古怪的；a. 可疑的
+- **quench** v. 扑灭；v. 解（渴）；v. 终止
+- **quest** n. （长时间的）搜寻，探求；v. 探寻，追求
+- **questionnaire** n. 调查表，问卷
+- **quiver** v. 颤抖，抖动；n. 颤抖，抖动
+- **quota** n. 定量，限额，配额
+- **racial** a. 种族的，人种的
+- **racket** n. 球拍；喧闹，嘈杂；非法勾当
+- **radiant** adj. 光芒四射的，光辉灿烂的；容光焕发的，喜形于色的；发出辐射热或能的
+- **radiate** vi. 发射光线；辐射；vt. 散发，流露（感情等）
+- **radical** adj. 根本的，基本的；彻底的，完全的；（对政治）激进的
+- **radioactive** adj. 放射性的
+- **radius** n. 半径；半径范围
+- **random** adj. 任意的，随便的；n. 随意（at random 随便地，任意地）
+- **rank** n. 排，横行；n. 社会阶层；n. 军衔
+- **rap** n. （轻快的）敲击声；n. 唠叨；v. （轻而快地）敲击；v. 责备或训斥；v. 唠叨
+- **rape** v. 强奸；n. 强奸；n. 蹂躏
+- **rarely** adv. 很少，难得；不常
+- **rash** adj. 鲁莽的，轻率的；匆忙的；n. 皮疹
+- **rating** n. 等级，级别，评定结果；（pl）收视率，收听率
+- **rational** adj. 理性的；出于理性的；合理的
+- **reaction** n. 反应；反作用；回应
+- **readily** adv. 乐意地；adv. 无困难地，容易地
+- **realistic** adj. 现实主义的，现实主义者的；adj. 现实的，实际的；adj. 逼真的
+- **reap** vt.&vi. 收割，收获；vt. 获得，得到（回报）
+- **reassure** v. 使放心，使消除疑虑
+- **rebel** vi. 造反，反叛；n. 造反者，反叛者
+- **rebellion** n. 造反；叛乱；反抗
+- **recall** vt. 回想；叫回；收回
+- **recede** v. 后退，退去
+- **receipt** n. 收到；收条，收据
+- **reception** n. 接待；招待会；接受
+- **recession** n. (经济)衰退，不景气；后退，撤退
+- **recipe** n. 烹饪法，食谱
+- **recipient** n. 接受者，领受者
+- **reciprocal** adj. 互惠的，相互的；n. 倒数
+- **recite** vt.&vi. 背诵，朗诵
+- **reckless** adj. 轻率的，鲁莽的；不计后果的
+- **reckon** v. 计算，算出；考虑，认为；料想，估计
+- **reclaim** v. 要回，回收；开垦（荒地）；改造，感化（罪犯等）
+- **recognition** n. 认出，识别；承认
+- **recognize** vt. 认识，认出；承认
+- **reconcile** v. 使和解，使和好；调和，使一致
+- **reconciliation** n. 和解，调和；（争吵等的）止息，复交
+- **recover** vt. 重新获得；挽回
+- **recovery** n. 恢复；痊愈
+- **recreation** n. 娱乐，消遣
+- **recruit** n. 新兵，新成员，新手；v. 征募（新兵），吸收（新成员）
+- **rectangular** adj. 长方形的，矩形的
+- **rectify** v. 改正，纠正，核正
+- **recur** v. 再发生，复发；v. 重现，回想
+- **recycle** v. 回收利用，循环利用
+- **redundant** adj. 冗赘的，多余的；adj. （因人员过剩）被解雇的，失业的
+- **reel** n. 卷轴，卷筒
+- **referee** n. (足球、拳击等的)裁判员；仲裁者，调解者；(愿为求职者提供证明的)证明人，介绍人
+- **reference** n. 参考；出处；提及
+- **reflect** vt. 反射；vt. 反映；v. 思考
+- **reform** vt. 改革，改良；n. 改革，改良
+- **refrain** v. 抑制，克制；v. 避免
+- **refresh** vt. 使清新；vi. 恢复精神
+- **refreshment** n. 茶点，点心；n. 便餐；n. 恢复精神
+- **refuge** n. 避难，庇护；n. 庇护者
+- **refund** n. 退款，偿还；v. 付还，偿还借款
+- **refusal** n. 拒绝
+- **refute** vt. 驳斥，反驳；vt. 驳倒
+- **regime** n. 政权，政府；n. 政治制度
+- **regiment** n. (军队的)团；n. 一大群
+- **region** n. 地区，区域
+- **register** n. 登记簿，注册表；vt. 登记，注册；vt. 显示，表达
+- **regulation** n. 规则，规章；n. 管理，控制
+- **rehearsal** n. 排练，排演；n. 练习
+- **reign** n. 君主统治；n. 支配
+- **rein** n. 缰绳；vi. 驾驭，控制；n. 控制，约束
+- **reinforce** vt. 增援，支援；vt. 加强，强化
+- **reject** v. 拒绝接受；v. 不予考虑；v. 否决（提议、建议或请求）
+- **rejoice** vi. 欣喜，高兴
+- **relative** n. 亲戚；亲属；adj. 相对的；相关的
+- **relay** n. 接力，接替人，中转；v. 接替，补充；v. 转运
+- **release** v. 放开；松开；v. 释放，使自由移动（或飞翔、降落等）；n. 释放，发布
+- **relevant** adj. 有关的，贴切的
+- **reliable** adj. 可靠的，可信赖的
+- **reliance** n. 信任，信赖，信心
+- **relief** n. 减轻；救济；援救
+- **relieve** vt. 减轻，解除；vt. 救济
+- **religion** n. 宗教；宗教信仰
+- **religious** adj. 宗教的；虔诚的
+- **relish** n. 风味，美味；开胃小菜，佐餐品；喜好，兴趣
+- **reluctant** adj. 不愿的，勉强的
+- **rely** vi. 依赖，依靠；信赖
+- **remain** v. 仍然是；保持不变；剩下，留下
+- **remainder** n. 剩余物，剩下的人或物；余数
+- **remedy** n. 治疗；补救；vt. 治疗；补救
+- **remnant** n. 剩余，残余；零头布
+- **remote** adj. 相隔很远的；冷淡的；偏僻的
+- **renaissance** n. （首字母大写）（欧洲14至16世纪的）文艺复兴，文艺复兴时期；n. 任何类似的复兴，再生
+- **render** vt. 表示，给予；vt. 使得，使成为
+- **repay** v. 付还，偿还；v. 报答，回报
+- **repel** v. 逐退，驱逐；v. 使厌恶，使反感
+- **repertoire** n. （某一艺术团体、演员、音乐家等可随时演出的）全部节目，剧目
+- **represent** vt. 描绘；vt. 代表；vt. 象征
+- **repression** n. 约束，抑制；压抑，被压抑的欲望或冲动
+- **reproach** vt. 责备，指责；n. 责备，指责
+- **reputation** n. 名誉，名声；好名声
+- **resemblance** n. 相似，类似；相似程度，相似点
+- **resent** v. 怨恨，憎恶
+- **reservation** n. （座位、住处等的）预订；保留意见，保留态度；道路中央双向交通的分隔带；（美国印第安部落的）居留地
+- **reserve** vt. 储备，保留；预定；n. 储备；保留
+- **reside** v. 居住，定居；（权利等）归属于
+- **resident** a. 居住的；n. 居民
+- **residential** adj. 住宅的，适于作住宅的；与居住有关的
+- **resign** vt. 放弃；vi. 辞职
+- **resistant** a. 抵抗的，反抗的；a. 有抵抗力的，抗……的
+- **resolve** vt. 解决；vt.&vi. 决心，决定；n. 决心
+- **resort** n. 度假地，胜地；n. 手段，办法；vi. 求助，诉诸
+- **respective** adj. 各自的，各个的
+- **respond** v. （口头或书面）回答，回应；v. 作出反应，回应
+- **response** n. 作答，回答；n. 响应，反应
+- **responsible** adj. 有责任的；adj. 尽责的
+- **restore** vt. 恢复；vt. 归还；vt. 修补，修复
+- **restrain** vt. 抑制，遏制；vt. 限制
+- **restraint** n. 抑制；n. 遏制；n. 克制
+- **restrict** vt. 限制，限定，约束
+- **resultant** adj. 因而发生的，必然发生的；n. 结果，合力
+- **resume** vt. 恢复；vt. 重新开始
+- **retain** vt. 保持，保留；vt. 保有，留住
+- **retention** n. 保留，保持；n. 记忆力，记性；n. 挡住，容纳
+- **retort** n. 反驳，反唇相讥；v. 反驳，反唇相讥
+- **retrieve** v. 寻回，收回；v. 纠正，挽回；v. 检索（数据）
+- **retrospect** n. 回顾，追溯；v. 回顾，回想
+- **reunion** n. 聚会，联欢会；n. 重聚，团圆
+- **reveal** vt. 展现；揭示，揭露
+- **revelation** n. 揭露，透露；n. 揭露出来（而始料未及）的事物；n. 启示
+- **revenge** vt. 替…报仇；n. 报仇；报复
+- **revenue** n. 国家的税收，岁入；(pl) 收入总额；(个人或国家的) 税务所，税务局
+- **reverse** vt. 颠倒，翻转；n. 背面；相反
+- **revive** v. (使)苏醒，(使)恢复知觉；(使)复用，(使)复兴
+- **revolutionary** a. 革命的；n. 革命者
+- **revolve** v. (使)旋转，(使)绕转；考虑，深思
+- **reward** n. 报答；报酬；vt. 报答
+- **rhythm** n. 韵律，格律；节奏
+- **ridiculous** adj. 荒谬的，可笑的
+- **rig** v. 给（船）装配帆、索具等；n. 船具装置的方式；成套器材或用具
+- **rigorous** adj. 严厉的，严格的；精确的，严密的；（天气等）严酷的
+- **rim** n. （圆形物的）外缘，边缘
+- **rip** v. 撕，扯，撕开；n. 长裂痕，裂口
+- **ritual** adj. 仪式的，祭典的；n. 仪式，祭典；n. 惯例
+- **rival** n. 竞争者，对手；adj. 竞争的；v. 与…竞争
+- **rivalry** n. 竞赛，较量；n. 敌对，竞争
+- **robust** adj. 强健的；adj. 健康的；adj. 充满活力的
+- **romance** n. 恋情，浪漫史；n. 冒险故事，爱情故事；n. 传奇性，浪漫情调
+- **rot** vt.&vi. 烂，腐坏；n. 腐烂，腐朽；n. 废话
+- **rotary** a. 旋转的，转动的
+- **routine** n. 例行公事；a. 日常的
+- **royalty** n. 皇室，王族；版税
+- **ruin** n. 毁灭；废墟；vt. 毁坏
+- **rupture** n. 破裂，断裂；决裂；疝；v. 破裂，裂开；断绝
+- **sacred** a. 上帝的；神圣的
+- **sacrifice** n.&vt. 牺牲；n. 祭品，献祭
+- **safeguard** n. 安全措施，保护性措施；v. 保护或保卫某人（某事物）
+- **sake** n. 缘故，理由
+- **salute** n. 招呼，行礼；vi. 行礼，致意；vt. 向…致敬
+- **salvation** n. （对人的灵魂的）拯救，超度；拯救，解困
+- **sample** n. 样品；实例，标本；v. 抽样，品尝
+- **sanction** n. 批准，认可；制裁；约束力；v. 同意，认可；承认，接纳
+- **saturate** v. 浸透，浸湿；使饱和
+- **savage** adj. 野蛮的，未开化的；凶猛的，残酷的；n. 野人，野蛮人
+- **scale** n. 天平，磅秤，秤；n. 刻度，标度；n. 规模，范围
+- **scan** v. 细看；浏览；扫描
+- **scandal** n. 丑事，丑闻；n. 流言蜚语，诽谤
+- **scar** n. 伤疤，伤痕；创伤
+- **scatter** v. 使消散；撒；散播
+- **scent** n. 气味，香味；香水
+- **schedule** n. 工作计划；日程安排；v. 安排，预定
+- **scheme** n. 计划，规划；诡计；v. 密谋，策划
+- **scope** n. 范围；余地，机会
+- **score** n. 分数；得分，进球；v. 得分；记分
+- **scorn** n. 轻蔑；嘲笑；v. 轻蔑，鄙视
+- **scramble** v. 爬行，攀爬；争夺，抢夺；杂乱蔓延；n. 攀缘，爬行；争夺，抢夺
+- **scrap** n. 小片，碎屑；废料，废物；（从刊物剪下的）图片，文章，残篇
+- **scrape** vt.&vi. 刮，擦；n. 刮，擦；擦伤
+- **scratch** vt.&vi. 搔；抓；n. 搔；抓；划痕
+- **screw** n. 螺旋，螺丝；vt. 拧紧
+- **scrub** v. 用力擦洗，擦净；取消，剔除；n. 擦洗；灌木丛
+- **scrutiny** n. 细察，详审
+- **sculpture** n. 雕刻术，雕刻，雕塑；雕刻品，雕塑品
+- **seam** n. 缝，接缝
+- **security** n. 安全，安全感；n. 保安，保安措施；n. 证券（复数 securities）
+- **seemingly** adv. 看上去，表面上
+- **segment** n. 部分，片段；n. 段，节；v. 分割，划分
+- **segregate** v. 隔离，分开；v. 歧视，不公平对待
+- **semester** n. 半年；学期，半学年
+- **senator** n. 参议员
+- **sensation** n. 感觉，知觉；轰动，激动
+- **sensible** adj. 感觉得到的；明智的
+- **sensitive** adj. 敏感的；灵敏的
+- **sentiment** n. 柔情，伤感，多愁善感；思想感情，情绪，情操
+- **sequence** n. 连续，继续；次序
+- **sergeant** n. 士官，中士；警官，巡佐
+- **serial** adj. 连续的；adj. （指故事等）连续刊登或播出的；n. 连续剧，连载故事
+- **series** n. 连续，系列；丛书
+- **setback** n. 挫折；n. 阻碍
+- **settle** vt. 安排；安放；调停
+- **settlement** n. 解决；n. 殖民（地）；n. 定居点
+- **severe** a. 极为恶劣的；十分严重的
+- **shabby** adj. 破旧的；褴褛的
+- **shaft** n. 杆状物；竖井，坑道；车辕，车杠
+- **shark** n. 鲨鱼
+- **shatter** v. 粉碎，打碎；损毁，破灭
+- **shed** vt. 流出（眼泪等）；散发（光等）；脱落（叶、皮等）
+- **sheer** adj. 纯粹的，全然的，地道的；陡峭的，峻峭的
+- **shepherd** n. 牧羊人，羊倌；vt. 带领，引导
+- **shield** n. 盾；防护物；vt. 保护，庇护
+- **shipment** n. 装船，装运；装运的货物量
+- **shove** v. 推挤，推撞；n. 推挤
+- **shrewd** adj. 明智的，精明的；狡狯的，明辨的
+- **shrink** vi. 收缩；缩小；退缩
+- **shrub** n. 灌木
+- **shrug** v.（表示冷淡、怀疑等）耸（肩）；n. 耸肩
+- **shutter** n. (照相机的)快门；n. 百叶窗，窗板
+- **shuttle** n.（织布机的）梭；定期的短程往返班机（车）；v. 穿梭般往返
+- **siege** n. 围困，围攻
+- **sieve** n. 漏勺，筛子；v. 筛，筛分
+- **signal** n. 信号；vi. 发信号
+- **significant** adj. 有意义的；重要的，重大的
+- **signify** v. 意味，表明，表示；（以动作）表示
+- **silicon** n. 硅
+- **similar** adj. 相像的；类似的
+- **simulate** v. 假装，冒充；v. 模拟，模仿
+- **simultaneous** adj. 同时发生的，同时做出的，同时的
+- **sip** v. 小口喝，抿；n. 小口喝，一小口的量
+- **situated** adj. 位于……的，坐落在……的；处于某种境地的
+- **skeleton** n. 骨骼，骨架；纲要，轮廓，基干
+- **skeptical** adj. 怀疑的，多疑的
+- **skip** v. 轻快地跳，跳跃；v. 跳绳；v. 跳过，略去
+- **skull** n. 脑壳，头盖骨；n. 头骨
+- **slack** adj. 松弛的，没拉紧的；adj. 萧条的，清淡的；adj. 懈怠的
+- **slap** n. 掴，拍，掌声；v. 掴，拍打，掌击；v. 啪地放下
+- **slash** v. 挥砍，劈刺；v. 大幅度裁减或削减；v. 在（衣服）上开长缝作装饰；n. 砍，抽；n. 长的切口或裂口；n. 衣服的叉
+- **slaughter** n. 屠宰，屠杀；v. 屠宰，屠杀；v. 彻底击败
+- **slice** n. 薄片，切片；部分；vt. 把…切成薄片
+- **slick** adj. 顺利而有效的，不费力的；（指人）圆滑的，油滑的；光滑的；n. 海面浮油
+- **slide** vi. 滑，滑动；vt. 使滑动；n. 滑，滑动；滑梯；幻灯片
+- **slight** a. 细长的，瘦小的；轻微的，少量的；vt. 轻视，忽视
+- **slip** vi. 滑跤，滑倒；滑落；溜走；n. 滑倒；差错；纸条
+- **slippery** a. 滑的，使人滑跤的；油滑的，不可靠的
+- **slogan** n. 标语，口号
+- **slope** n. 斜坡，坡地；坡度；vi. 倾斜，有坡度
+- **slot** n. 孔，狭槽；沟，槽，滑道；位置，空位；v. 开槽；安插，安置
+- **slum** n. 贫民窟，贫民区
+- **slump** v. 沉重地倒下，瘫倒；暴跌，剧降；n. 暴跌，不景气
+- **smash** v. 打碎，粉碎；猛撞，猛击；痛击，打败，打破（记录）
+- **smuggle** v. 走私，偷运；偷偷携带
+- **snack** n. 点心；小吃
+- **snatch** v. 抢夺，攫取；n. 抢夺；片段
+- **sneak** v. 潜行，溜走；偷偷做；n. 怯懦鬼祟的人
+- **sniff** v. 以鼻吸气；嗅，闻；n. 吸气；嗅
+- **soar** v. 高飞，翱翔；骤升，腾越
+- **sober** adj. 清醒的；适度的；冷静的
+- **sociology** n. 社会学
+- **solemn** adj. 庄严的；隆重的；严肃的
+- **solicitor** n. （英）律师； solicitation 的施动者，恳求者
+- **solidarity** n. 团结，一致
+- **solitary** adj. 独居的，孤独的；单个的，唯一的；偏僻的，人迹罕至的
+- **solo** n. 独奏（曲），独唱（曲）；n. 单独表演；adj. 独奏（曲）的，独唱（曲）的；adj. 单独的，单独表演的
+- **soluble** adj. 可溶的；可以解决的
+- **solution** n. 解决办法；n. 溶液；n. 解答
+- **sophisticated** adj. 老于世故的；adj. 高级的；adj. 复杂精密的
+- **sour** adj. 酸的；馊的，变质的；乖戾的，不友好的
+- **sovereign** adj. 最高的，无上的；adj. 独立的，有主权的；n. 君主，统治者
+- **spacious** adj. 广大的，宽敞的
+- **span** n. 跨距；n. 一段时间
+- **sparkle** vi. 发火花；vt. 使闪耀
+- **specialist** n. 专家
+- **specialty** n. 专业，专长；特产，特制品；adj. 专门的，独立的
+- **species** n. 种，物种；n. 种类
+- **specific** adj. 特有的，特定的；具体的，明确的
+- **specification** n. 规格，规范；n. 详述，详细说明书
+- **spectacle** n. 光景，景象；n. 眼镜；n. 壮观场面
+- **spectator** n. 观众，旁观者
+- **spectrum** n. 光谱；n. 波长，范围；n. 系列，幅度
+- **speculate** v. 思索，推测；v. 投机，做投机生意
+- **spice** n. 香料，调味品；意味，风味；v. 加香料于；为…增添趣味
+- **spine** n. 脊柱，脊椎；（动植物体上的）刺，棘刺；书脊
+- **spiral** n. 螺线，螺旋状物体；不断加强的上升或下降；adj. 螺旋形的，盘旋的；v. 螺旋形移动，盘旋移动；连续增长或减少
+- **spite** n. 怨恨，恶意；v. 刁难，使恼怒
+- **splash** vt. 溅，泼；n. 飞溅，溅泼声
+- **spoil** vt. 损坏，糟蹋；宠坏；vi. 变质
+- **sponge** n. 海绵；vt. 用海绵擦拭
+- **spontaneous** a. 自发的，本能的；自然的
+- **spouse** n. 配偶
+- **sprinkle** n. 洒，撒；小雨；v. 洒，撒
+- **spy** n. 间谍，特务；vt. 侦察
+- **squad** n. 班，小组，小队
+- **stab** vt.&vi.&n. 刺，戳
+- **stability** n. 稳定，稳定性，巩固
+- **stabilize** v. 使稳定，使沉稳
+- **stable** a. 稳定的，不变的
+- **stack** n. 堆，垛；vt. 堆积
+- **stagger** v. （使）摇晃，蹒跚而行；v. 使震惊；v. 间隔，错开
+- **staircase** n. 楼梯；n. 楼梯间
+- **stalk** n. （植物的）茎，秆；n. 叶柄，花梗；v. 潜行追踪
+- **stall** n. 摊位；n. 畜舍，厩；n. （BrE）戏院正厅前排座位
+- **standpoint** n. 立场，观点
+- **staple** n. 订书钉；n. 主要产品，大宗商品；v. 用订书钉订住
+- **startle** vt. 使大吃一惊；n. 吃惊
+- **statement** n. 陈述，声明；n. 报表
+- **statesman** n. 政治家，国务活动家
+- **stationary** adj. 不动的，静止的；adj. 固定的
+- **status** n. 地位，身分；状况，状态
+- **stereo** n. 立体声；n. 立体声系统；adj. 立体声的
+- **stereotype** n. 模式化的形象，老一套；n. 铅版；v. 使定型，使固定
+- **stern** adj. 严厉的；adj. 坚定的；n. 船尾
+- **sticky** adj. 粘性的；adj. 胶粘的；adj. 棘手的
+- **stimulus** n. 刺激（物），激励
+- **stock** n. 原料；n. 库存品；n. 股本
+- **straightforward** adj. 诚实的，坦白的；adj. 易懂的，易做的
+- **strain** vt. 拉紧；vi. 尽力，竭力；n. 压力，紧张
+- **strand** n. （绳索、缆线等的）一股，一缕；n. 海滨，河岸；v. 使搁浅，使滞留
+- **strategy** n. 战略；n. 策略，计谋
+- **stray** v. 走失，迷路，离题；adj. 流浪的，迷路的；adj. 孤零的，离群的
+- **streak** n. 条纹，纹理；n. （性格上不太好的）特质，性情，癖性；v. 在…上加条纹
+- **stream** n. 小河，溪流；n. 流，流动；vi.&vt. 流，流动
+- **streamline** v. 把…设计或制成流线型；使精简
+- **stride** v. 大步行走；跨过，跨越；n. 大步，阔步，跨幅
+- **string** n. 线，细绳；一串；v. 用线串；悬挂
+- **strive** v. 抗争，搏斗；奋勉，努力
+- **stroke** n. 打，击；鸣声；中风；v. 抚摸
+- **stroll** n. & v. 漫步，闲逛，遨游
+- **stubborn** adj. 顽固的，执拗的；adj. 棘手的，难对付的
+- **stumble** vi. 绊倒；vi. 犯错误，出差错；vi. 蹒跚而行
+- **stump** n. 树桩，残株；n. 残余部分；vi. 笨重地行走
+- **stun** v. 将（人或动物）打昏；v. 使目瞪口呆，使吃惊；v. 使喜悦，使震惊
+- **sturdy** adj. 强健的，结实的；adj. 坚定的，不屈不挠的
+- **subjective** adj. 主观的（属于自我意识方面的）；主观的（以个人好恶、观点为依据的）
+- **submarine** adj. 水下的；n. 潜水艇
+- **submit** vt. 使服从，使屈服；vt. 提交，呈递；vi. 服从，顺从
+- **subordinate** adj. 下级的，次要的，附属的；n. 属下，部属；v. 使居次要地位，使隶属
+- **subscribe** v. 认捐，捐助，应募；v. 订阅（to），预约（for）；v. 签署
+- **subsequent** adj. 随后的，后来的
+- **subsidiary** adj. 附属的，次要的；adj.（指业务机构）附属的，附设的；n. 子公司，附属机构
+- **subsidy** n. 补助金，津贴
+- **substance** n. 物质；实质；本旨
+- **substantial** adj. 物质的；坚固的；大量的，可观的
+- **substitute** n. 代替人，代替物；vt. 用…代替；vi. 代替
+- **subtle** adj. 微细的，微妙的，难以察觉的；adj. 精巧的，精妙的；adj. 敏感的，敏锐的
+- **subtract** vt. 减，减去，去掉
+- **suburb** n. 郊区，郊外，近郊
+- **successive** adj. 连续的，接连的
+- **successor** n. 继承人，继任者，接班人
+- **sue** v. 控告（某人）；请求（常于法庭上）
+- **suffice** v. 足够；足够…之需，使满足
+- **sufficient** adj. 足够的，充分的
+- **suite** n. 一套家具；一套房间，套间；一套物件；(音乐)组曲
+- **sulfur** n. 硫，硫磺；v. 用硫磺处理
+- **summit** n. 顶点，极点；(山的)尖峰，巅峰，高峰；政府首脑会议，高峰会议
+- **summon** v. 召唤，传唤，召集；鼓起(勇气、力量等)
+- **superficial** adj. 表面的；adj. 肤浅的
+- **superintendent** n. 督导；n. 总监；n. 总管；n. 英国警察局长
+- **superior** adj. 较高的；adj. 优越的；n. 上级
+- **superiority** n. 优秀；n. 优越；n. 优胜
+- **supersonic** adj. 超声（频）的；超音速的
+- **supervise** v. 监督，管理；指导
+- **supplement** n. 增补，补充；补充物；vt. 增补，补充
+- **supplementary** adj. 补充的，附加的；（指角）补角的
+- **suppress** v. 镇压，平定，制止；抑制，隐瞒，扣留
+- **supreme** adj. 最高的；最大的；至上的
+- **surge** v. 在浪涛中或如同波浪般前进；急剧上升；n. 向前或向上的运动；突然发生，激增
+- **surgeon** n. 外科医师；n. 军医
+- **surgery** n. 外科；n. 外科手术
+- **surpass** v. 超越；v. 凌驾；v. 胜过
+- **surplus** n. 剩余，过剩；n. 余款，余额；adj. 多余的，盈余的
+- **survival** n. 生存，残存；n. 残存者，遗物，遗风
+- **survive** v. 生存；v. 存活
+- **susceptible** adj. 易受影响的；adj. 易受…之苦的，易得…病的
+- **suspension** n. 悬浮，暂停，停职；n. (车辆的)悬挂装置；n. 悬浮(液)
+- **suspicion** n. 怀疑，疑心，猜疑
+- **suspicious** adj. 怀疑的，疑心的，多疑的；adj. 可疑的
+- **sustain** vt. 支撑；vt. 供养；vt. 忍受
+- **swamp** n. 沼泽，沼泽地
+- **swap** v. 交换(物品·位置)；n. 交换；n. 交换物
+- **symbol** n. 象征，标志；n. 符号
+- **symmetry** n. 对称，匀称
+- **sympathetic** adj. 同情的；adj. 和谐的；adj. 赞同的
+- **sympathy** n. 同情（心），理解；赞同，支持
+- **symphony** n. 交响乐，交响曲
+- **symposium** n. (专题)研讨会，讨论会
+- **syndrome** n. 综合征
+- **synthesis** n. 综合，合成；综合物；(化学)合成法
+- **tack** n. 平头钉，大头钉；思路，行动方针；v. 以大头针钉住；附加
+- **tackle** v. 着手处理，对付；向某人提起(尴尬之事)；(橄榄球赛中)抱住并摔倒或挡住(对方球员)，抢球；n. (橄榄球赛中)阻挡并绊倒对手，抢球；用具，器械；滑车，滑车索具
+- **tame** adj. 驯服的；adj. 顺从的；adj. 乏味的
+- **tan** n. 棕褐色；adj. 棕黄色的；v. 晒黑
+- **tangle** v. （使某物）乱作一团；v. （使）纠缠，（使）混乱；n. 乱七八糟的一堆；n. 混乱
+- **tanker** n. 油轮，运油车；n. 罐车
+- **target** n. 靶，标的；n. 目标；n. 对象
+- **tariff** n. 关税；n. （酒店、餐馆等的）价目表；n. 收费标准
+- **tease** v. 取笑，揶揄，嘲弄；v. 梳理（羊毛等）
+- **tedious** adj. 冗长乏味的，沉闷的
+- **telecommunication** n. 电讯，远距离通讯，无线电通讯
+- **temper** n. 心情，情绪；n. 韧度；v. 使缓和，调节
+- **temperament** n. 气质，性情，禀性
+- **tempo** n. （乐曲的）速度，节拍；n. （运动或活动的）速度，进度
+- **tempt** vt. 引诱，诱惑；vt. 吸引
+- **tenant** n. 承担人，房客，佃户
+- **tendency** n. 趋向，趋势，倾向
+- **tentative** adj. 试探性的，临时性的；adj. 踌躇的，无把握的
+- **terminate** v. (使)终止，结束；v. 到达终点
+- **terrace** n. 梯田，台地；（梯级宽且矮的）台阶（如看台）；排房
+- **terrain** n. 地形，地势
+- **terrific** adj. 可怕的；极大的
+- **terrify** vt. 使人感到恐怖；vt. 吓唬
+- **territory** n. 领土，版图；领域
+- **testify** v. 作证，证实；v. 表明，证明
+- **testimony** n. （书面或口头的）证词（尤指发誓后作出的）；（对事物的）见证或证明
+- **texture** n. 质地；n. 纹理；n. 织法
+- **thanksgiving** n. 感谢；n. 感恩
+- **theft** n. 偷窃；n. 盗窃
+- **theme** n. 话题；n. 主题；n. 主旋律
+- **thereafter** adv. 此后，其后
+- **therefore** adv. 因此，所以
+- **thermal** adj. 热的，热量的；温暖的；保暖的；n. 热气流
+- **thesis** n. 学位论文，论文；论点，论题
+- **thigh** n. 股，大腿
+- **thorn** n. 刺，棘；荆棘；蒺藜
+- **threaten** vt.&vi. 威胁，恐吓；预示（危险）
+- **threshold** n. 门槛，门口；开端，开始；阈值
+- **thrill** n. 一阵激动，兴奋；v. 使激动，使兴奋
+- **thrive** vi. 兴旺，繁荣；茁壮成长
+- **throne** n. 宝座，御座；王位
+- **tick** vt. 作记号；n. 记号，符号；n. 滴答声
+- **tickle** v. 胳肢，呵痒；v. 使愉悦，满足
+- **tile** n. 瓦，瓷砖
+- **tilt** v. （使）倾斜，（使）翘起；n. 倾斜，斜坡
+- **timely** adj. 及时的，适时的，合时宜的
+- **timid** adj. 胆怯的；羞怯的
+- **tissue** n. 薄绢，薄纸；组织；纸巾
+- **token** n. 标记，象征；代币，辅币；代价券，礼券
+- **tolerant** adj. 容忍的，宽容的
+- **toll** n. 通行税；（因疾病、不幸等而付出的）代价，伤亡，损失
+- **toss** vt.&vi. 扔，抛，掷；n. 抛掷
+- **tow** v. 拖，拉，牵引；n. 拖，牵引
+- **toxic** adj. 有毒（性）的；adj. 有害的
+- **tract** n. 一大片土地，地带；（人体、动物的）系统，道，束
+- **trademark** n. 商标
+- **tragic** adj. 悲惨的，不幸的；悲剧的
+- **trait** n. （人的）个性，显著的特点
+- **transaction** n. 办理，处理；业务，交易；（pl）议事录，公报
+- **transcend** v. 超出（超越）……的范围；v. 优于（胜过）某人（事物）
+- **transfer** vt. 转移；调动；vi. 转移
+- **transform** vt. 改变；改造；变换
+- **transient** adj. 短暂的，转瞬即逝的；n. 仅短暂在某地停留或工作的人
+- **transistor** n. 晶体管
+- **transit** n. 通过，经过；运输，运送，载运
+- **transition** n. 转变，过渡，变迁
+- **transmission** n. 传送，传输；n. 传动装置；n. 发射，播送
+- **transmit** vt. 传送，传达；vt. 发射，播送；vt. 传染
+- **transplant** v. 移植（植物）；v. 移植（器官、皮肤、头发等）；n. 移植
+- **transport** v. 运输，运送；n. 运输，交通
+- **traverse** v. 横越，穿过；n. 横越，贯穿；n. 横断物，横杆
+- **treaty** n. 条约；n. 协议，协定
+- **tremendous** adj. 极大的，非常的
+- **trench** n. 沟渠，壕沟；n. 战壕
+- **trend** n. 倾向；n. 趋势；vi. 伸向；vi. 倾向
+- **trial** n. 试，试验；n. 审判
+- **tribe** n. 部落，宗族
+- **tribute** n. 表示敬意或称赞的行动（言语或礼物）；n. 贡品，贡金
+- **trifle** n. 小事，琐事；少许；少量
+- **trigger** n. （枪的）扳机，触发器；v. 激发起，引起
+- **triple** adj. 三倍的，三重的；v. 增至三倍
+- **triumph** n. 凯旋，胜利；vi. 成功，获胜
+- **trivial** adj. 不重要的，琐屑的，无价值的
+- **tub** n. 桶，盆；浴缸，浴盆
+- **tuck** vt. 折短，卷起；塞
+- **tug** v. 用力拖，使劲拉；n. 猛拉，拖；拖船（=tugboat）
+- **tuition** n. 教，教诲；学费
+- **tumble** vi. 摔倒，跌倒；打滚；n. 摔倒
+- **tunnel** n. 隧道，坑道，地道
+- **turbulent** a. 骚动的，骚乱的；湍流的
+- **turnover** n. （一定时期的）营业额；货物周转率；人事变动率
+- **tutor** n. 家庭教师；导师
+- **twist** vt. 捻；拧；vi.&n. 扭弯
+- **ultimate** adj. 最后的，最终的
+- **ultraviolet** adj. 紫外的；紫外线的
+- **unanimous** adj. 一致同意的，一致通过的
+- **underestimate** v. 低估；v. 看轻
+- **undergo** vt. 经历；vt. 经受；vt. 忍受
+- **underlying** adj. 在下面的；adj. 基础的；adj. 优先的
+- **undermine** v. 损毁…的地基；v. 削弱；v. 逐渐摧毁
+- **unemployment** n. 失业；失业人数
+- **unfold** v. 展开，打开，摊开；展现，披露，挑明
+- **unique** adj. 独特的；罕见的
+- **unity** n. 单一；统一；团结
+- **universe** n. 宇宙
+- **update** v. 更新，使现代化；v. 向……提供最新信息；n. 更新，最新信息
+- **upgrade** v. 提高……的级别或等级，提高……档次；v. 提升；n. 升级，提高
+- **uphold** v. 举起；v. 支持，维护
+- **upright** adj. 垂直的，直立的；正直的，诚实的
+- **urban** adj. 城市的，都市的
+- **urge** vt. 催促，力劝；vt. 推进，驱策；n. 冲动，强烈欲望
+- **utilize** vt. 利用
+- **utmost** a. 最远的，极度的；n. 极限，最大限度
+- **vacant** adj. 空的；未被占用的
+- **vain** adj. 徒劳的；自负的
+- **valid** adj. 有效的；正当的
+- **valve** n. 活门，阀；（心脏或血管的）瓣膜
+- **van** n. 大篷车，运货车；n. 有篷货车
+- **variation** n. 变化，变动；n. 变异，变种
+- **various** a. 各种各样的，不同的；a. 多方面的
+- **vary** vt. 改变，使多样化；vi. 变化，不同
+- **vast** a. 巨大的，广阔的；a. 大量的
+- **vegetation** n. 植物，草木；n. 植被
+- **vehicle** n. 车辆，机动车；n. 交通工具；n. 媒介，手段
+- **veil** n. 面纱，面罩；n. 遮蔽物；vt. 遮掩
+- **vein** n. 静脉；n. 叶脉，矿脉，纹理，纹路；n. 气质，风格
+- **velocity** n. 速度，速率
+- **velvet** n. 丝绒，天鹅绒
+- **vent** n. 通风孔；排气管；排放；发泄；v. 发泄（情感）
+- **ventilate** v. 使通风
+- **venture** n. 冒险；vi. 冒险；vt. 敢于
+- **verbal** adj. 口头的；adj. 词语的，用词的；adj. 动词的
+- **verdict** n. (陪审团的)裁决，裁定；n. 判断，意见
+- **verge** n. 边缘，边际；v. 接近，濒临
+- **verify** vt. 证实，查证；证明
+- **versatile** adj. 多才多艺的；adj. 用途广泛的
+- **verse** n. 韵文；n. 诗歌，诗
+- **version** n. 译文；n. 说法；n. 改写本
+- **versus** prep. (比赛等中)对，与…相对
+- **vertical** adj. 垂直的，竖式的
+- **veto** n. 否决权；否决或禁止某事物的声明；v. 否决或禁止（某事物）
+- **vice** n. 罪恶；恶习；缺点
+- **vicinity** n. 附近，邻近；附近地区
+- **vicious** adj. 恶毒的，残忍的；邪恶的，罪恶的；危险的，险恶的；谬误的
+- **victim** n. 受害者，牺牲品
+- **vigorous** adj. 朝气蓬勃的；精力充沛的；强有力的
+- **violate** v. 违犯，违反；侵犯，妨碍
+- **violent** adj. 猛烈的；狂暴的；暴力的
+- **virgin** n. 处女；adj. 处女的；未开发的；首次的
+- **virtual** adj. 实质上的；事实上的；(计算机)虚拟的
+- **virtue** n. 善，美德；优点，长处
+- **visa** n. （护照等的）签证
+- **vision** n. 视力，视觉；想象力，远见；梦幻，幻象
+- **visualize** v. 想象，设想
+- **vital** adj. 生命的；有生命力的；至关重要的
+- **vivid** adj. 鲜艳的；生动的；清晰的
+- **vocal** adj. 声音的，发声的，口头的；畅所欲言的，直言的；n. （爵士乐或流行音乐的）歌唱部分
+- **vocational** adj. 职业的，行业的，业务的
+- **void** n. 空间，真空；adj. 空的，空虚的；adj. 无效的，作废的
+- **volume** n. 卷，册；n. 容积，体积；n. 音量
+- **voluntary** adj. 自愿的，志愿的；adj. 无偿的，义务的
+- **volunteer** n. 志愿者；v. 自愿做某事
+- **vulgar** adj. 粗鲁的，卑下的；adj. 庸俗的，低级的
+- **vulnerable** adj. 易受攻击的，有弱点的；adj. 易受伤害的，脆弱的，敏感的
+- **wallet** n. 钱包；n. 皮夹子
+- **ward** n. 病房；n. 牢房；n. 选区
+- **wardrobe** n. 衣橱，衣柜；n. （个人的）全部衣物
+- **warehouse** n. 仓库，货栈
+- **warfare** n. 战争，交战
+- **warrant** n. 授权（证），许可证，逮捕状，搜查令；n. （正当）理由，证明，保证；v. 使有正当理由，向…保证
+- **watertight** adj. 水密的，防水的；无懈可击的，严密的
+- **watt** n. 瓦（特），功率单位
+- **wax** n. 蜡，蜂蜡；vt. 给…上蜡
+- **wealth** n. 财富；财产；大量
+- **wealthy** adj. 富的，富裕的
+- **weapon** n. 武器，兵器；手段
+- **weary** adj. 疲倦的，厌烦的；vt. 使疲乏
+- **web** n. 蜘蛛网；n. 网状物；n. 网络
+- **wedge** n. 楔子；v. 用楔子把…固定住；v. 楔入
+- **weird** adj. 古怪的，奇异的；adj. 荒谬的
+- **whereas** conj. 而，却，反之；鉴于
+- **whereby** adv. 借以，凭那个；conj. 凭借…，据此
+- **whirl** vt. 使回旋；vi. 回旋；n. 回旋
+- **withdraw** vt. 收回；撤回；vi. 撤退
+- **withhold** v. 不给，拒绝
+- **witness** n. 证据；证人；vt. 目击
+- **worthwhile** adj. 值得花时间的，值得做的
+- **worthy** adj. 有价值的；值得的，配得上的
+- **wreck** n. 失事；残骸；vt. 破坏
+- **wrench** v. 猛拧，一扭；n. 猛拧；扳手
+- **wretched** adj. 可怜的，悲惨的；恶劣的，令人讨厌的
+- **wrinkle** n. 皱纹；v. （使）起皱纹
+- **yacht** n. 快艇，游艇
+- **yell** vi. 叫喊；vt. 喊出；n. 叫喊声
+- **yield** vt.&vi. 出产；屈服；n. 产量
+- **yoke** n. 轭，牛轭；束缚；v. 给……上轭；连接，结合
+- **zinc** n. 锌（金属元素）；vt. 镀锌

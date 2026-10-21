@@ -15,6 +15,7 @@ words/
 │   ├── all.csv                  全部条目汇总（unit,word,ipa,pos,meaning）
 │   └── source/                  原始抓取素材 + 来源说明（可删）
 ├── _tools/                      抓取 / 解析 / 生成脚本
+├── seach/                       跨学段词源词典（小学→CET6，6319 词，另见其 README）
 └── README.md
 ```
 
@@ -75,6 +76,22 @@ words/
 `python3 _tools/check_explain.py`：46 个单元、**缺词条 0**；
 单词条目 1187 条全部 5 行、搭配条目 350 条全部 2 行；
 同义·反义带中文 100%；动词时态 / 名词复数 / 形容词比较级缺失 0。
+
+## seach/ —— 跨学段词源词典
+
+同一仓库下还有一份按字母编排的统合词典，收录**小学 / 初中 / 高中 / CET4 / CET6 共 6319 词**，
+字段与上面“说文解字”同一套（词源 / 同根词 / 词缀 / 同义·反义（带中文）/ 变形），
+另附音标与级别标注：
+
+| 产物 | 说明 |
+|---|---|
+| `seach/output/index.html` | 单文件查词页（输入框即时过滤 + 字母目录 + 打印样式）| 
+| `seach/output/dictionary.pdf` | 可打印 PDF（A4 双栏、1021 页、目录带页码）|
+| `seach/output/dictionary.md` | 全部词条（6319 条）|
+| `seach/output/letters/A–Z.md` | 按字母拆分的小分册 |
+| `seach/output/levels/*.md` | 按学段拆分的分级词表 |
+
+详细说明、字段规范与重跑命令见 `seach/README.md`。
 
 ## 已知问题
 
