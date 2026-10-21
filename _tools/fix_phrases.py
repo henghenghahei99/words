@@ -16,7 +16,10 @@ import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.join(os.path.dirname(HERE), "output")
+_PARENT = os.path.dirname(HERE)
+ROOT = next((os.path.join(_PARENT, d) for d in ("output", "ourput")
+             if os.path.isdir(os.path.join(_PARENT, d))),
+            os.path.join(_PARENT, "output"))
 
 
 def parse_unit_words(path):
