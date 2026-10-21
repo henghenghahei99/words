@@ -762,7 +762,7 @@ unit,word,ipa,pos,meaning
 8A_U6,war,/wɔːr/,n.,战争
 8A_U6,understand (understood),/ˌʌndərˈstænd/,v.,懂；理解；明白
 8A_U6,difference,/ˈdɪfrəns/,n.,差异；差别：不同之处
-8A_U6,pyramid,/ˈpɪrəmɪd/,v.,（古埃及的）金字塔
+8A_U6,pyramid,/ˈpɪrəmɪd/,n.,（古埃及的）金字塔
 8A_U6,captain,/ˈkæptɪn/,n.,队长；首领
 8A_U6,Greek,/ɡriːk/,n.,希腊语；希腊人
 8A_U6,capture,/ˈkæptʃər/,v.,用武力夺取；攻占；占领
@@ -799,7 +799,7 @@ unit,word,ipa,pos,meaning
 8A_U7,improve,/ɪmˈpruːv/,v.,改进；改善
 8A_U7,mention,/ˈmɛnʃən/,v.,提到；说到
 8A_U7,method,/ˈmɛθəd/,n.,方法；措施；办法
-8A_U7,spelling,/ˈspɛlɪŋ/,v.,拼写，拼法
+8A_U7,spelling,/ˈspɛlɪŋ/,n.,拼写，拼法
 8A_U7,mind,/maɪnd/,n.,头脑；大脑；心智
 8A_U7,silly,/ˈsɪli/,adj.,可笑的；愚蠢的；傻的
 8A_U7,mile,/maɪl/,n.,英里
@@ -878,7 +878,7 @@ unit,word,ipa,pos,meaning
 8B_U2,ballet,/bæˈleɪ/,n.,芭蕾舞剧；芭蕾舞团；芭蕾舞；芭蕾舞曲
 8B_U2,accept,/ækˈsɛpt/,v.,接受（建议、邀请等）；收受
 8B_U2,reject,/rɪˈdʒekt/,v.,拒绝接受；不予考虑；否决（提议、建议或请求）
-8B_U2,meaning,/ˈminɪŋ/,v.,意义；意思
+8B_U2,meaning,/ˈminɪŋ/,n.,意义；意思
 8B_U2,gesture,/'dʒestʃə(r)/,n.,手势，姿势；姿态，表示
 8B_U2,message,/ˈmesɪdʒ/,n.,（书面或口头的）信息；消息；便条；信；口信
 8B_U2,bored,/bɔːd/,adj.,厌倦的；厌烦的;无聊的
@@ -916,10 +916,10 @@ unit,word,ipa,pos,meaning
 8B_U3,reach,/ritʃ/,v.,伸手；到达；抵达
 8B_U3,attract,/ə'trækt/,v.,吸引；使喜爱
 8B_U3,hang,/hæŋ/,v.,悬挂;吊;垂下;垂落
-8B_U3,post,/poʊst/,v.,柱；杆；桩
+8B_U3,post,/poʊst/,n.,柱；杆；桩
 8B_U3,require,/rɪˈkwaɪr/,v.,需要；依靠；要求
 8B_U3,practise,/ˈpræktɪs/,v.,从事，执业；实施，实行；信奉
-8B_U3,tool,/tul/,v.,用具；器具；工具
+8B_U3,tool,/tul/,n.,用具；器具；工具
 8B_U3,scissors,/ˈsɪzəz/,n.,剪刀
 8B_U3,pattern,/ˈpætərn/,n.,图案；模式；形式；方式
 8B_U3,character,/ˈkærəktɚ/,n.,人物；角色；文字；符号
@@ -943,7 +943,7 @@ unit,word,ipa,pos,meaning
 8B_U4,role-play,/ˈroʊl pleɪ/,v.,角色扮演
 8B_U4,symbol,/ˈsɪmbəl/,n.,象征，标志；符号
 8B_U4,bubble,/ˈbʌbl/,v.,气泡，泡沫
-8B_U4,thought,/θɔːt/,v.,心思，思想
+8B_U4,thought,/θɔːt/,n.,心思，思想
 8B_U4,rough,/rʌf/,adj.,粗俗的，不讲究的；粗略的，大致的
 8B_U4,sketch,/sketʃ/,n.,素描，速写；粗样，初稿；简述，概述
 8B_U4,program,/ˈproʊɡræm/,n.,程序；计划；大纲
@@ -1017,7 +1017,7 @@ unit,word,ipa,pos,meaning
 8B_U6,sofa,/ˈsəʊfə/,n.,长沙发
 8B_U6,noisy,/ˈnɔɪzi/,adj.,吵闹的；嘈杂的
 8B_U6,nearly,/ˈnɪəli/,adv.,几乎；差不多，将近
-8B_U6,stranger,/ˈstrendʒɚ/,adj.,陌生人，外来者
+8B_U6,stranger,/ˈstrendʒɚ/,n.,陌生人，外来者
 8B_U6,common,/ˈkɑːmən/,adj.,普通的；常见的；普遍的；一般的
 8B_U6,choice,/tʃɔɪs/,n.,选择；挑选；抉择
 8B_U6,lie,/laɪ/,v.,躺；平躺；平放
@@ -1059,7 +1059,7 @@ unit,word,ipa,pos,meaning
 8B_U7,refuse,/rɪˈfju:z/,v.,拒绝，回绝
 8B_U7,spread,/sprɛd/,v.,展开，打开；张开，伸开
 8B_U7,mark,/mɑːrk/,v.,表明；标志；符号；记号；痕迹；分数
-8B_U7,desert,/ˈdezərt/,v.,沙漠；荒漠
+8B_U7,desert,/ˈdezərt/,n.,沙漠；荒漠
 8B_U7,tent,/tɛnt/,n.,帐篷
 8B_U7,knife,/naɪf/,n.,刀
 8B_U7,explain,/ɪkˈsplen/,v.,解释；说明
@@ -1072,11 +1072,11 @@ unit,word,ipa,pos,meaning
 8B_U7,agree with,/əˈɡriː wɪð/,n.,同意；赞成
 8B_U7,disagree with,/ˌdɪsəˈɡriː wɪð/,n.,不同意；不一致；持不同意见；有分歧
 8B_U8,Internet,/ˈɪntənet/,n.,互联网；网络
-8B_U8,post,/poʊst/,v.,（发在网上的）帖子；邮政；邮递；邮寄
+8B_U8,post,/poʊst/,n.,（发在网上的）帖子；邮政；邮递；邮寄
 8B_U8,apology,/əˈpɑːlədʒi/,n.,道歉；（因不能赴会的）道歉信；辩护，辩解
 8B_U8,excuse,/ɪkˈskjuz/,v.,（辩解的）理由；借口；辩解
 8B_U8,past,/pæst/,n.,过去，昔日，往事
-8B_U8,present,/ˈpreznt/,v.,目前 ; 现在；眼前
+8B_U8,present,/ˈpreznt/,adj.,目前 ; 现在；眼前
 8B_U8,hydrogen,/ˈhaɪdrədʒən/,n.,氢；氢气
 8B_U8,wide,/waɪd/,adj.,宽的，宽阔的；宽广的
 8B_U8,shape,/ʃeɪp/,n.,形状；外形
@@ -1178,7 +1178,7 @@ unit,word,ipa,pos,meaning
 9A_U3,personal,/ˈpɜːrsənl/,adj.,个人的；私人的
 9A_U3,set,/sɛt/,v.,安排；确定；决定
 9A_U3,daughter,/ˈdɔːtər/,n.,女儿
-9A_U3,mind,/maɪnd/,n.,"介意,反对"
+9A_U3,mind,/maɪnd/,v.,"介意,反对"
 9A_U3,fashionable,/ˈfæʃnəbl/,adj.,时髦的；流行的
 9A_U3,fashion,/ˈfæʃn/,n.,流行款式；时兴式样；时髦打扮，流行装扮；时尚，时兴
 9A_U3,out of date,/ˌaʊt əv ˈdeɪt/,n.,过时的；过期的；废弃的

@@ -2,324 +2,325 @@
 
 > 配套 `7B_U2.md`（沪教牛津版 2024/2025 修订，40 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
-> 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义 / 词性变化。
+> 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
 ## 一、本单元词根地图
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
-| -ceive / -cept- | 拿、取 | 拉丁语 capere（抓取） | receive | accept, concept, except, capture |
-| -fect- | 做、制作 | 拉丁语 facere（做） | perfect | effect, infect, factory, difficult |
-| -serv- | 保持、看守 | 拉丁语 servare（保存） | remain（存疑，一说与拉丁语 remanere 相关） | preserve, reserve, observe, conserve |
-| -magn- / -imag- | 想象、形象 | 拉丁语 imago（图像） | imagine | image, imagination, imaginary |
-| -destin- | 指定、注定 | 拉丁语 destinare（确定） | destination | destiny, destined |
-| -domin- / -dom- | 家、支配 | 拉丁语 domus（家） | address（存疑，一说源自古法语 adresser“使直、指向”） | domestic, dominate, domain |
-| -gubern- / -govern- | 掌舵、管理 | 拉丁语 gubernare（掌舵） | government | govern, governor |
-| -uni- | 一 | 拉丁语 unus（一） | unique | unite, uniform, universe, union |
-| -danger- | 危险 | 古法语 dangier（权势、危险） | endangered | danger, dangerous |
-| -tract- / -stretch- | 拉、伸 | 古英语 streccan（伸展） | stretch | stretch, straight（存疑，同源关系复杂） |
-| -cover- | 遮盖 | 古法语 covrir（遮盖） | discover | cover, uncover, coverage |
-| -volcan- | 火山 | 拉丁语 Vulcanus（火神） | volcano | volcanic, volcanology |
-| -sight- | 看、景象 | 古英语 gesihth（视觉） | sightseeing | sight, sightsee, eyesight, insight |
-| -mot- | 移动 | 拉丁语 movere（移动） | motorcycle | motion, motor, move, promote |
-| -ped- / -pod- | 脚 | 拉丁语 pes, pedis（脚） | giant panda（panda 存疑，一说源自尼泊尔语） | pedal, pedestrian, tripod |
-| -prefer- | 更喜爱 | 拉丁语 praeferre（置于前） | prefer to | prefer, preference, refer, transfer |
+| vin- | 葡萄酒 | 拉丁语 vinum | wine | vineyard, vinegar, vintage |
+| -fect / fac- | 做；制作 | 拉丁语 facere | perfect | effect, infect, factory, difficult |
+| ceiv- / cap- | 拿；抓；取 | 拉丁语 capere | receive | accept, capture, concept, except |
+| man- / main- | 停留；保持 | 拉丁语 manere | remain | permanent, mansion, manor |
+| grad- / gress- | 走；步 | 拉丁语 gradi | step（存疑，step 为日耳曼语源） | grade, gradual, progress, graduate |
+| cycl- | 圆；轮 | 希腊语 kyklos | motorcycle | bicycle, recycle, cyclone, cycle |
+| vid- / vis- | 看 | 拉丁语 videre | sightseeing（sight 为日耳曼语源，存疑） | vision, visible, video, visit |
+| imag- | 形象；想象 | 拉丁语 imago | imagine | image, imagination, imaginary |
+| destin- | 目的地；命运 | 拉丁语 destinare | destination | destiny, destine, destined |
+| gov- | 治理；管理 | 拉丁语 gubernare | government | govern, governor, governance |
+| uni- | 一；单一 | 拉丁语 unus | unique | uniform, unite, universe, union |
+| stretch- | 伸展；拉长 | 古英语 streccan | stretch | stretcher, stretchy |
+| disc- / cover- | 覆盖；揭开 | 拉丁语 discooperire | discover | cover, discoverer, discovery, uncover |
+| volcan- | 火山 | 拉丁语 Vulcanus（火神） | volcano | volcanic, volcanology |
+| wolf- | 狼 | 古英语 wulf | wolf | werewolf, wolfish |
+| pand- | 熊猫（借词） | 法语 panda（来源存疑） | giant panda | panda, pandas |
 
 ## 二、逐词说文解字
 
 ### 1. wine /waɪn/ n. 葡萄酒
-- **词根·渊源**：拉丁 **vinum**（葡萄酒）→ 古英语 *wīn*；与希腊 *oinos* 同出地中海地区借词，本义即“葡萄酒”，后泛指果酒。
-- **同根词**：vine（vin 葡萄酒 + **-e** = 葡萄藤）、vineyard（vine 葡萄藤 + yard 园 = 葡萄园）、viniculture（vini 葡萄酒 + culture 栽培 = 葡萄酿酒业）、vinous（vin 葡萄酒 + **-ous** …的 = 葡萄酒的）。
+- **词根·渊源**：拉丁 **vinum**（葡萄酒）→ 古英语 *wīn*；与拉丁 *vītis*（藤蔓）同源，本义即“葡萄酿的酒”，词义古今一致。
+- **同根词**：vine（vin 葡萄酒 + **-e** = 产葡萄的藤→葡萄藤）、vineyard（vine 葡萄藤 + yard 园地 = 葡萄园）、viniculture（vini 葡萄酒 + culture 栽培 = 葡萄酿酒业）、vinous（vin 葡萄酒 + **-ous** …的 = 葡萄酒的）。
 - **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 grape wine；反义 无。
-- **词性变化**：vinous adj. 葡萄酒的；vine n. 葡萄藤。
+- **同义·反义**：同义 grape wine（葡萄酒）；反义 无。
+- **变形**：名词 → 复数：wines（指不同种类葡萄酒时可数）；形容词派生 → winy adj. 有酒味的；winey adj. 酒香的。
 
 ### 2. match /mætʃ/ v. 配对
-- **词根·渊源**：古英语 *gemæcca*（伴侣、配偶）→ 中古英语 *macche*，本义“相配的伴侣”，引申为“使成对、配对”；“火柴”义另出古法语 *meiche*（灯芯），同形异源。
-- **同根词**：matchless（match 相配 + **-less** 无 = 无与伦比的）、mismatch（**mis-** 错误 + match = 配错）、matchmaker（match 配对 + maker 制造者 = 媒人）。
+- **词根·渊源**：古英语 **gemæcca**（伴侣、配偶）→ 中古英语 *macche*，本义“使成配偶”，引申为“配对、相配”；“火柴”义来自古法语 *meiche*（灯芯），与“配对”义同形异源，存疑。
+- **同根词**：matchless（match 相配 + **-less** 无 = 无可匹敌的）、mismatch（**mis-** 错误 + match 配对 = 配错）、matchmaker（match 配对 + maker 制造者 = 媒人）。
 - **前缀·后缀**：否定后缀 **-less**（例：hopeless, careless）；否定前缀 **mis-**（例：mistake, misunderstand）。
-- **同义·反义**：同义 pair, couple；反义 mismatch, separate。
-- **词性变化**：match n. 比赛；相配的人/物；matchless adj. 无与伦比的。
+- **同义·反义**：同义 pair（配对）, fit（相配）；反义 mismatch（配错）, differ（不同）。
+- **变形**：动词 → 第三人称单数：matches；过去式：matched；过去分词：matched；现在分词：matching；名词派生 → match n. 比赛、火柴；形容词派生 → matching adj. 相配的。
 
 ### 3. rich /rɪtʃ/ adj. 丰富多彩的
-- **词根·渊源**：古英语 *rīce*（强大的、富有的）→ 中古英语 *riche*；与古高地德语 *rīhhi*（强大的）同源，本义“有权势的”，引申为“富有的”，再引申为“内容丰富的”。
-- **同根词**：richly（rich + **-ly** …地 = 丰富地）、richness（rich + **-ness** 名词后缀 = 丰富）、enrich（**en-** 使 + rich = 使富裕）、riches（rich + **-es** 名词复数 = 财富）。
-- **前缀·后缀**：动词化前缀 **en-**（例：enable, enlarge）；副词后缀 **-ly**（例：quickly, happily）。
-- **同义·反义**：同义 wealthy, abundant；反义 poor, plain。
-- **词性变化**：richly adv. 丰富地；richness n. 丰富；enrich v. 使富裕。
+- **词根·渊源**：古英语 **rīce**（强大的、富有的）→ 中古英语 *riche*；与古高地德语 *rīhhi*（强大的）同源，本义“有权势的”，引申为“富有的”，再引申为“内容丰富的”。
+- **同根词**：riches（rich 富有 + **-es** 名词复数 = 财富）、richly（rich + **-ly** …地 = 丰富地）、richness（rich + **-ness** 性质 = 丰富）、enrich（**en-** 使 + rich 富有 = 使富裕）。
+- **前缀·后缀**：动词化前缀 **en-**（例：enable, enlarge）；副词后缀 **-ly**（例：quickly, happily）；名词后缀 **-ness**（例：kindness, darkness）。
+- **同义·反义**：同义 wealthy（富有的）, abundant（丰富的）；反义 poor（贫穷的）, plain（朴素的）。
+- **变形**：形容词 → 比较级：richer；最高级：richest；名词派生 → richness n. 丰富；副词派生 → richly adv. 丰富地；动词派生 → enrich v. 使富裕。
 
 ### 4. excellent /ˈeksələnt/ adj. 优秀的；极好的
-- **词根·渊源**：拉丁 **excellere**（超出、胜过）= **ex-** 出 + **cellere** 高耸 → 拉丁 *excellentem* → 古法语 *excellent*；本义“高出其上”，引申为“卓越的”。
-- **同根词**：excel（**ex-** 出 + cel 高 = 高出→擅长）、excellence（excellent + **-ence** 名词后缀 = 卓越）、excellency（excellent + **-ency** = 阁下；优点）。
-- **前缀·后缀**：前缀 **ex-**（例：exit, export）；形容词后缀 **-ent**（例：different, patient）。
-- **同义·反义**：同义 outstanding, superb；反义 poor, inferior。
-- **词性变化**：excellence n. 卓越；excel v. 擅长；excellently adv. 极好地。
+- **词根·渊源**：拉丁 **excellere**（高出、超越）= **ex-** 出 + **cellere** 升高 → 拉丁 *excellentem* → 古法语 *excellent*；本义“高出群伦的”，引申为“优秀的”。
+- **同根词**：excel（ex- 出 + cel 升高 = 高出→胜过、擅长）、excellence（excellent + **-ce** 性质 = 优秀）、excellency（excellent + **-cy** 性质 = 卓越；阁下）。
+- **前缀·后缀**：前缀 **ex-**（例：exit, export）；形容词后缀 **-ent**（例：different, silent）。
+- **同义·反义**：同义 superb（极好的）, outstanding（杰出的）；反义 poor（差的）, inferior（低劣的）。
+- **变形**：形容词 → 比较级：more excellent；最高级：most excellent；名词派生 → excellence n. 优秀；副词派生 → excellently adv. 极好地。
 
 ### 5. coast /kəʊst/ n. 海岸；海滨
-- **词根·渊源**：拉丁 **costa**（肋骨、侧面）→ 古法语 *coste*（侧边、岸）→ 英语；本义“身体的侧面”，引申为“土地的边缘”，即海岸。
-- **同根词**：coastal（coast + **-al** …的 = 海岸的）、coaster（coast + **-er** 物 = 沿海船；杯垫）、accost（**ac-** 向 + cost 侧 = 靠近身旁→搭话）。
-- **前缀·后缀**：形容词后缀 **-al**（例：natural, national）；名词后缀 **-er**（例：teacher, worker）。
-- **同义·反义**：同义 shore, seaside；反义 inland, interior。
-- **词性变化**：coastal adj. 海岸的；coaster n. 沿海船。
+- **词根·渊源**：拉丁 **costa**（肋骨、侧面）→ 古法语 *coste*（侧边、岸）→ 英语；本义“身体的侧面”，引申为“陆地的侧边”，即海岸。
+- **同根词**：coastal（coast 海岸 + **-al** …的 = 海岸的）、coaster（coast + **-er** 物 = 沿海船、杯垫）、coastline（coast 海岸 + line 线 = 海岸线）。
+- **前缀·后缀**：形容词后缀 **-al**（例：natural, musical）；名词后缀 **-er**（例：worker, teacher）。
+- **同义·反义**：同义 shore（岸）, seaside（海滨）；反义 inland（内陆）, interior（内部）。
+- **变形**：名词 → 复数：coasts；形容词派生 → coastal adj. 海岸的；coastwise adj. 沿海的。
 
 ### 6. perfect /ˈpɜːfɪkt/ adj. 正合适
-- **词根·渊源**：拉丁 **perfectus**（做完的）= **per-** 完全 + **facere** 做 → 古法语 *parfit*；本义“彻底做完的”，引申为“完美的、正合适的”。
-- **同根词**：perfectly（perfect + **-ly** …地 = 完美地）、perfection（perfect + **-ion** 名词后缀 = 完美）、imperfect（**im-** 不 + perfect = 不完美的）、perfectible（perfect + **-ible** 可…的 = 可完善的）。
-- **前缀·后缀**：前缀 **per-**（例：perform, permit）；否定前缀 **im-**（例：impossible, impolite）。
-- **同义·反义**：同义 ideal, flawless；反义 imperfect, flawed。
-- **词性变化**：perfectly adv. 完美地；perfection n. 完美；imperfect adj. 不完美的。
+- **词根·渊源**：拉丁 **perfectus**（做完的）= **per-** 彻底 + **facere** 做 → 古法语 *parfit*；本义“彻底做完的”，引申为“完美的”，再引申为“正合适的”。
+- **同根词**：perfectly（perfect + **-ly** …地 = 完美地）、perfection（perfect + **-ion** 状态 = 完美）、imperfect（**im-** 不 + perfect = 不完美的）、perfectible（perfect + **-ible** 可…的 = 可完善的）。
+- **前缀·后缀**：前缀 **per-**（例：perform, permit）、**im-**（例：impossible, impolite）；名词后缀 **-ion**（例：action, nation）。
+- **同义·反义**：同义 ideal（理想的）, flawless（无瑕的）；反义 imperfect（不完美的）, faulty（有缺陷的）。
+- **变形**：形容词 → 比较级：more perfect；最高级：most perfect；名词派生 → perfection n. 完美；副词派生 → perfectly adv. 完美地；动词派生 → perfect v. 使完善。
 
 ### 7. mostly /ˈməʊstli/ adv. 主要地；通常
-- **词根·渊源**：古英语 *māst*（最多）→ most + 中古英语 **-lice**（…地）→ *-ly*；本义“以最大部分”，引申为“主要地、通常”。
-- **同根词**：most（单纯词：最多）、almost（**al-** 全 + most = 几乎全部→几乎）、utmost（**ut-** 外 + most = 最外面→极度的）、foremost（fore 前 + most = 最前的）。
-- **前缀·后缀**：副词后缀 **-ly**（例：quickly, badly）；前缀 **al-**（例：almost, already）。
-- **同义·反义**：同义 mainly, chiefly；反义 rarely, seldom。
-- **词性变化**：most adj. 最多的；almost adv. 几乎。
+- **词根·渊源**：古英语 **māst**（最多）→ most + 中古英语 **-līce**（…地）→ mostly；本义“以最多数的方式”，引申为“主要地、通常”。
+- **同根词**：most（māst 最多 = 最多的）、almost（**al-** 全 + most 几乎 = 几乎）、utmost（**ut-** 外 + most 最 = 极度的）、foremost（fore 前 + most 最 = 最前的）。
+- **前缀·后缀**：副词后缀 **-ly**（例：quickly, badly）；前缀 **al-**（例：already, also）。
+- **同义·反义**：同义 mainly（主要地）, generally（通常）；反义 rarely（很少）, seldom（不常）。
+- **变形**：副词 → 比较级：more mostly（少用）；最高级：most mostly（少用）；无词性派生。
 
 ### 8. receive /rɪˈsiːv/ v. 接待；招待
-- **词根·渊源**：拉丁 **recipere**（取回、接受）= **re-** 回 + **capere** 拿 → 古北法语 *receivre*；本义“拿回来”，引申为“接受、接待”。
-- **同根词**：receiver（receive + **-er** 者 = 接收者；听筒）、receipt（**re-** 回 + ceipt 拿 = 收到的凭证→收据）、reception（receive + **-tion** 名词后缀 = 接待；招待会）、recipient（**re-** 回 + cip 拿 + **-ient** 者 = 接受者）。
-- **前缀·后缀**：前缀 **re-**（例：return, recall）；名词后缀 **-tion**（例：action, education）。
-- **同义·反义**：同义 accept, welcome；反义 send, refuse。
-- **词性变化**：receiver n. 接收者；reception n. 接待；receipt n. 收据。
+- **词根·渊源**：拉丁 **recipere**（取回、接受）= **re-** 回 + **capere** 拿 → 古法语 *receivre*；本义“拿回来”，引申为“接受”，再引申为“接待”。
+- **同根词**：receipt（re- 回 + ceipt 拿 = 收到的凭据→收据）、receiver（receive + **-er** 人/物 = 接收者、听筒）、reception（receive + **-tion** 行为 = 接待、招待会）、recipient（re- 回 + cip 拿 + **-ient** 人 = 接受者）。
+- **前缀·后缀**：前缀 **re-**（例：return, rebuild）；名词后缀 **-er**（例：worker, teacher）、**-tion**（例：action, education）。
+- **同义·反义**：同义 accept（接受）, welcome（接待）；反义 send（发送）, refuse（拒绝）。
+- **变形**：动词 → 第三人称单数：receives；过去式：received；过去分词：received；现在分词：receiving；名词派生 → receiver n. 接收者；reception n. 接待。
 
 ### 9. remain /rɪˈmeɪn/ v. 仍然是；保持不变
-- **词根·渊源**：拉丁 **remanere**（留下）= **re-** 回 + **manere** 停留 → 古法语 *remaindre*；本义“留在原处”，引申为“仍然是、保持不变”。
-- **同根词**：remainder（remain + **-der** 名词后缀 = 剩余物）、remains（remain + **-s** 复数 = 残余；遗迹）、permanent（**per-** 始终 + man 停留 + **-ent** …的 = 永久的）、mansion（man 停留 + **-sion** 名词后缀 = 停留之所→大厦）。
-- **前缀·后缀**：前缀 **re-**（例：return, rebuild）；前缀 **per-**（例：perform, permit）。
-- **同义·反义**：同义 stay, continue；反义 leave, depart。
-- **词性变化**：remains n. 残余；remainder n. 剩余物；permanent adj. 永久的。
+- **词根·渊源**：拉丁 **remanere**（留下）= **re-** 回 + **manere** 停留 → 古法语 *remaindre*；本义“留在原地”，引申为“仍然是、保持不变”。
+- **同根词**：remains（remain + **-s** 复数 = 剩余物、遗迹）、remainder（remain + **-der** 剩余 = 剩余部分）、permanent（**per-** 始终 + man 停留 + **-ent** …的 = 永久的）、mansion（man 停留 + **-sion** 场所 = 居所→大厦）。
+- **前缀·后缀**：前缀 **re-**（例：return, rebuild）、**per-**（例：perform, permit）；名词后缀 **-der**（例：remainder）。
+- **同义·反义**：同义 stay（停留）, continue（继续）；反义 leave（离开）, change（改变）。
+- **变形**：动词 → 第三人称单数：remains；过去式：remained；过去分词：remained；现在分词：remaining；名词派生 → remains n. 剩余物；remainder n. 剩余部分。
 
 ### 10. lift /lɪft/ n. 电梯；升降机
-- **词根·渊源**：古诺斯语 *lypta*（举起）→ 中古英语 *liften*；本义“举起、抬起”，名词化指“举起人的装置”，即电梯、升降机。
-- **同根词**：lifter（lift + **-er** 者/物 = 升降机；举重者）、uplift（**up-** 向上 + lift = 举起；振奋）、airlift（air 空中 + lift 举 = 空运）。
+- **词根·渊源**：古诺斯语 **lypta**（举起）→ 中古英语 *liften*；本义“举起”，名词化后指“举升的装置”，即电梯、升降机。
+- **同根词**：lifter（lift + **-er** 人/物 = 举升者、升降机）、uplift（**up-** 向上 + lift 举 = 举起、提升）、shoplift（shop 商店 + lift 拿 = 偷商店东西→入店行窃）。
 - **前缀·后缀**：名词后缀 **-er**（例：worker, teacher）；前缀 **up-**（例：upstairs, upward）。
-- **同义·反义**：同义 elevator, hoist；反义 无。
-- **词性变化**：lift v. 举起；lifter n. 升降机；uplift v. 举起。
+- **同义·反义**：同义 elevator（电梯）, hoist（升降机）；反义 无。
+- **变形**：名词 → 复数：lifts；动词派生 → lift v. 举起；lifter n. 举升者。
 
 ### 11. step /stɛp/ n. 台阶
-- **词根·渊源**：古英语 *stæpe*（脚步、台阶）→ 中古英语 *steppe*；与 *stapan*（行走）同源，本义“迈步”，引申为“脚步”及“台阶”。
-- **同根词**：stepwise（step + **-wise** 方式 = 逐步的）、footstep（foot 脚 + step 步 = 脚步声）、stepfather（step 继 + father 父 = 继父；step- 此义存疑，一说源古英语 *stēop-* 孤、丧亲）。
-- **前缀·后缀**：方式后缀 **-wise**（例：clockwise, likewise）；无前缀（单纯词）。
-- **同义·反义**：同义 stair, pace；反义 无。
-- **词性变化**：step v. 踏；走；footstep n. 脚步声。
+- **词根·渊源**：古英语 **stæpe**（步伐、台阶）→ 中古英语 *step*；与古高地德语 *stapfo* 同源，本义“脚步”，引申为“脚踏之处”，即台阶。
+- **同根词**：stepwise（step 台阶 + **-wise** 方式 = 逐步的）、footstep（foot 脚 + step 步 = 脚步声）、stepfather（step 继 + father 父 = 继父，step 源自古英语“孤儿”义，存疑）。
+- **前缀·后缀**：副词后缀 **-wise**（例：clockwise, likewise）。
+- **同义·反义**：同义 stair（台阶）, pace（步）；反义 无。
+- **变形**：名词 → 复数：steps；动词派生 → step v. 踏、走；stepper n. 踏步者。
 
 ### 12. stair /steə(r)/ n. 楼梯
-- **词根·渊源**：古英语 *stǣger*（阶梯）→ 中古英语 *staire*；与 *stīgan*（攀登）同源，本义“攀登之物”，即楼梯的一级，复数 stairs 指整段楼梯。
-- **同根词**：staircase（stair + case 框架 = 楼梯间）、stairway（stair + way 通道 = 楼梯）、upstairs（**up-** 上 + stairs = 楼上）、downstairs（**down-** 下 + stairs = 楼下）。
+- **词根·渊源**：古英语 **stǣger**（攀登）→ 中古英语 *staire*；与 step 同源，本义“攀登之物”，引申为“楼梯”。
+- **同根词**：staircase（stair 楼梯 + case 框架 = 楼梯间）、stairway（stair 楼梯 + way 通道 = 楼梯通道）、upstairs（**up-** 向上 + stairs 楼梯 = 楼上）、downstairs（**down-** 向下 + stairs 楼梯 = 楼下）。
 - **前缀·后缀**：前缀 **up-**（例：upward, uplift）、**down-**（例：downward, download）。
-- **同义·反义**：同义 steps, staircase；反义 无。
-- **词性变化**：stairs n. 楼梯（复数）；upstairs adv. 在楼上；downstairs adv. 在楼下。
+- **同义·反义**：同义 steps（台阶）, staircase（楼梯）；反义 无。
+- **变形**：名词 → 复数：stairs；形容词派生 → stairless adj. 无楼梯的。
 
 ### 13. motorcycle /ˈməʊtəsaɪkl/ n. 摩托车
-- **词根·渊源**：拉丁 **motor**（推动者）= **mot-** 动 + **-or** 者 + 希腊 **kyklos**（轮子）→ 法语 *motocycle*；本义“机动两轮车”，即摩托车。
-- **同根词**：motor（mot 动 + **-or** 者 = 发动机）、motorbike（motor 机动 + bike 自行车 = 摩托车）、cycle（希腊 kyklos 轮 → 循环；自行车）、bicycle（**bi-** 二 + cycle 轮 = 自行车）。
-- **前缀·后缀**：名词后缀 **-or**（例：actor, visitor）；前缀 **bi-**（例：bicycle, bilingual）。
-- **同义·反义**：同义 motorbike；反义 无。
-- **词性变化**：motor n. 发动机；motorist n. 驾车者；cycling n. 骑车。
+- **词根·渊源**：拉丁 **motor**（推动者）= **mot-** 移动 + **-or** 物 + 希腊 **kyklos**（轮子）→ 英语 *motorcycle*；本义“机动两轮车”，即摩托车。
+- **同根词**：motor（mot 移动 + **-or** 物 = 发动机）、motorist（motor + **-ist** 人 = 驾车者）、motorbike（motor 机动 + bike 自行车 = 摩托车）、bicycle（**bi-** 二 + cycle 轮 = 自行车）。
+- **前缀·后缀**：名词后缀 **-or**（例：actor, doctor）、**-ist**（例：artist, scientist）；前缀 **bi-**（例：bilingual, bimonthly）。
+- **同义·反义**：同义 motorbike（摩托车）, bike（摩托车）；反义 无。
+- **变形**：名词 → 复数：motorcycles；动词派生 → motorcycle v. 骑摩托车。
 
 ### 14. sightseeing /ˈsaɪtsiːɪŋ/ n. 观光；游览
-- **词根·渊源**：古英语 **sihth**（看见）+ **sēon**（看）→ sight 景象 + see 看 + **-ing** 名词后缀；本义“看风景”，即观光游览。
-- **同根词**：sightseer（sightseeing 观光 + **-er** 者 = 观光客）、eyesight（eye 眼 + sight 视力 = 视力）、insight（**in-** 内 + sight 看 = 洞察力）、foresee（**fore-** 前 + see 看 = 预见）。
-- **前缀·后缀**：名词后缀 **-ing**（例：shopping, swimming）；前缀 **fore-**（例：forecast, foresee）。
-- **同义·反义**：同义 touring, sight-seeing；反义 无。
-- **词性变化**：sightseer n. 观光客；sightsee v. 观光。
+- **词根·渊源**：古英语 **gesihth**（看见）→ sight + 古英语 **sēon**（看）→ seeing；复合词 *sightseeing* 本义“看风景”，即观光、游览。
+- **同根词**：sightseer（sightsee + **-er** 人 = 观光客）、eyesight（eye 眼 + sight 视力 = 视力）、insight（**in-** 内 + sight 看 = 洞察力）、foresight（fore 前 + sight 看 = 先见之明）。
+- **前缀·后缀**：名词后缀 **-er**（例：worker, teacher）；前缀 **in-**（例：inside, income）、**fore-**（例：forecast, forehead）。
+- **同义·反义**：同义 touring（游览）, sightseeing tour（观光）；反义 无。
+- **变形**：名词 → 复数：不可数；动词派生 → sightsee v. 观光；名词派生 → sightseer n. 观光客。
 
 ### 15. imagine /ɪˈmædʒɪn/ v. 想象；设想
-- **词根·渊源**：拉丁 **imaginari**（在心中形成图像）= **imago / imagin-** 图像 → 古法语 *imaginer*；本义“在心中造像”，引申为“想象”。
-- **同根词**：imagination（imagine + **-ation** 名词后缀 = 想象力）、imaginative（imagine + **-ative** …的 = 富有想象力的）、image（imag 图像 + **-e** = 图像）、imaginary（imagine + **-ary** …的 = 虚构的）。
-- **前缀·后缀**：名词后缀 **-ation**（例：information, education）；形容词后缀 **-ary**（例：ordinary, necessary）。
-- **同义·反义**：同义 fancy, envision；反义 无。
-- **词性变化**：imagination n. 想象力；imaginative adj. 富有想象力的；imaginary adj. 虚构的。
+- **词根·渊源**：拉丁 **imaginari**（想象）= **imago** 图像 + **-ari** 动词后缀 → 古法语 *imaginer*；本义“在心中形成图像”，即想象。
+- **同根词**：image（imag 图像 + **-e** = 图像）、imagination（imagine + **-ation** 行为 = 想象力）、imaginative（imagine + **-ative** …的 = 富有想象力的）、imaginary（imagine + **-ary** …的 = 虚构的）。
+- **前缀·后缀**：名词后缀 **-ation**（例：education, information）、形容词后缀 **-ative**（例：creative, talkative）、**-ary**（例：ordinary, necessary）。
+- **同义·反义**：同义 fancy（想象）, envision（设想）；反义 无。
+- **变形**：动词 → 第三人称单数：imagines；过去式：imagined；过去分词：imagined；现在分词：imagining；名词派生 → imagination n. 想象力；形容词派生 → imaginative adj. 富有想象力的。
 
 ### 16. destination /ˌdestɪˈneɪʃn/ n. 目的地；终点
-- **词根·渊源**：拉丁 **destinare**（确定、注定）= **de-** 加强 + **stinare** 站立 → 拉丁 *destinationem* → 法语；本义“被确定之处”，引申为“目的地”。
-- **同根词**：destine（de 加强 + stine 站 = 注定）、destiny（destine + **-y** 名词后缀 = 命运）、destined（destine + **-ed** …的 = 注定的）。
-- **前缀·后缀**：前缀 **de-**（例：decide, depart）；名词后缀 **-ation**（例：information, education）。
-- **同义·反义**：同义 goal, terminus；反义 origin, source。
-- **词性变化**：destine v. 注定；destiny n. 命运；destined adj. 注定的。
+- **词根·渊源**：拉丁 **destinare**（确定、注定）= **de-** 加强 + **stinare** 站立 → 拉丁 *destinationem* → 古法语 *destination*；本义“被确定之处”，引申为“目的地”。
+- **同根词**：destine（de- 加强 + stine 站 = 注定）、destiny（destine + **-y** 名词 = 命运）、destined（destine + **-ed** …的 = 注定的）。
+- **前缀·后缀**：前缀 **de-**（例：decide, depart）；名词后缀 **-ation**（例：education, information）。
+- **同义·反义**：同义 goal（目的地）, terminus（终点）；反义 origin（起点）, source（来源）。
+- **变形**：名词 → 复数：destinations；动词派生 → destine v. 注定；形容词派生 → destined adj. 注定的。
 
 ### 17. address /əˈdres/ n. 地址；住址
-- **词根·渊源**：拉丁 **ad-** 向 + **directus** 引导（*directus* 为 *dirigere* 的过去分词）→ 古法语 *adresser*（使直、指向）；本义“指向某处”，引申为“地址”，又引申为“致辞”。
-- **同根词**：addressee（address + **-ee** 被…者 = 收件人）、addresser（address + **-er** 者 = 发件人）、direct（**di-** 分 + rect 直 = 直接的）、direction（direct + **-ion** 名词后缀 = 方向）。
-- **前缀·后缀**：前缀 **ad-**（例：advance, admire）；后缀 **-ee**（例：employee, trainee）。
-- **同义·反义**：同义 location, residence；反义 无。
-- **词性变化**：addressee n. 收件人；address v. 致辞；处理。
+- **词根·渊源**：拉丁 **ad-** 向 + **directus** 引导 → 古法语 *adresser*（使朝向）；本义“使朝向某处”，引申为“投递之处”，即地址。
+- **同根词**：addressee（address + **-ee** 被…者 = 收件人）、addresser（address + **-er** 人 = 发件人）、direct（**di-** 加强 + rect 引导 = 直接的）、direction（direct + **-ion** 行为 = 方向）。
+- **前缀·后缀**：前缀 **ad-**（例：advance, admire）；名词后缀 **-ee**（例：employee, trainee）、**-er**（例：worker, teacher）。
+- **同义·反义**：同义 location（位置）, residence（住所）；反义 无。
+- **变形**：名词 → 复数：addresses；动词派生 → address v. 演说、处理；名词派生 → addressee n. 收件人。
 
 ### 18. government /ˈɡʌvənmənt/ n. 政府
-- **词根·渊源**：希腊 **kybernan**（掌舵）→ 拉丁 **gubernare**（掌舵、治理）→ 古法语 *governer* → 英语 govern + **-ment** 名词后缀；本义“掌舵、治理”，引申为“治理机构”，即政府。
-- **同根词**：govern（gubern 掌舵 → 治理）、governor（govern + **-or** 者 = 统治者；州长）、governance（govern + **-ance** 名词后缀 = 治理）、cybernetic（希腊 kybernet 掌舵 + **-ic** …的 = 控制论的）。
-- **前缀·后缀**：名词后缀 **-ment**（例：movement, development）；名词后缀 **-or**（例：actor, visitor）。
-- **同义·反义**：同义 administration, regime；反义 无。
-- **词性变化**：govern v. 治理；governor n. 州长；governance n. 治理。
+- **词根·渊源**：希腊 **kybernan**（掌舵）→ 拉丁 **gubernare**（治理）→ 古法语 *governer* + **-ment** 名词后缀；本义“掌舵、治理”，引申为“治理机构”，即政府。
+- **同根词**：govern（govern 治理 = 统治）、governor（govern + **-or** 人 = 统治者、州长）、governance（govern + **-ance** 行为 = 治理）、cybernetic（希腊 kybernan 掌舵 + **-etic** …的 = 控制论的）。
+- **前缀·后缀**：名词后缀 **-ment**（例：movement, development）、**-or**（例：actor, doctor）、**-ance**（例：importance, performance）。
+- **同义·反义**：同义 administration（行政）, regime（政权）；反义 无。
+- **变形**：名词 → 复数：governments；动词派生 → govern v. 统治；名词派生 → governor n. 州长。
 
 ### 19. unique /juˈniːk/ adj. 独特的；罕见的
-- **词根·渊源**：拉丁 **unus**（一）+ **-ique**（形容词后缀，源自拉丁 -icus）→ 法语 *unique* → 英语，本义“唯一的”，引申为“独特的、罕见的”。
-- **同根词**：unit（un 一 + **-it** 名词后缀 = 一个→单位）、unite（un 一 + **-ite** 动词后缀 = 使成为一体→联合）、union（un 一 + **-ion** 名词后缀 = 结合为一个→联盟）、unanimous（un 一 + anim 心 + **-ous** …的 = 一心一意的→一致的）、uniform（uni 一 + form 形式 = 同一形式的→制服）。
-- **前缀·后缀**：前缀 **uni-**（例：unicycle, unicorn）；形容词后缀 **-ique**（例：antique, physique）。
-- **同义·反义**：同义 distinctive, singular；反义 common, ordinary。
-- **词性变化**：uniqueness n. 独特性；uniquely adv. 独特地。
+- **词根·渊源**：拉丁 **unus**（一）+ **-ique**（形容词后缀）→ 法语 *unique* → 英语，本义“唯一的”，引申为“独特的；罕见的”。
+- **同根词**：unit（un 一 + **-it** 名词后缀 = 一个→单位）、unite（un 一 + **-ite** 动词后缀 = 使成为一个→联合）、union（un 一 + **-ion** 名词后缀 = 成为一个→联合）、universe（uni 一 + vers 转 = 转成一个整体→宇宙）、unanimous（un 一 + anim 心 + **-ous** …的 = 一条心的→一致的）。
+- **前缀·后缀**：前缀 **uni-**（例：uniform, unicycle）；形容词后缀 **-ique**（例：antique, physique）。
+- **同义·反义**：同义 distinctive（独特的）, rare（罕见的）；反义 common（普通的）, ordinary（平常的）。
+- **变形**：形容词 → 比较级：more unique；最高级：most unique；副词派生 → uniquely adv. 独特地；名词派生 → uniqueness n. 独特性。
 
 ### 20. endangered /ɪnˈdeɪndʒəd/ adj. 濒危的
-- **词根·渊源**：古法语 *danger*（权势、危险）→ 英语 **danger**（危险）+ 前缀 **en-**（使进入）+ 后缀 **-ed**（被…的），本义“被置于危险中的”，即“濒危的”。
-- **同根词**：danger（源自古法语 dangier 权势→危险）、dangerous（danger + **-ous** …的：危险的）、endanger（**en-** 使 + danger 危险 = 使遭危险→危及）。
-- **前缀·后缀**：前缀 **en-**（例：enable, enrich）；后缀 **-ed**（例：talented, wooded）。
-- **同义·反义**：同义 threatened；反义 safe, secure。
-- **词性变化**：endanger v. 危及；danger n. 危险；dangerous adj. 危险的。
+- **词根·渊源**：古法语 *danger*（权势、危险）→ 英语 **danger**（危险）+ **en-**（使）+ **-ed**（被…的），本义“被置于危险中的”，引申为“濒危的”。
+- **同根词**：danger（danger 危险 = 危险本身）、dangerous（danger + **-ous** …的 = 危险的）、endanger（**en-** 使 + danger 危险 = 使遭危险→危及）。
+- **前缀·后缀**：前缀 **en-**（例：enable, enlarge）；后缀 **-ed**（例：interested, excited）。
+- **同义·反义**：同义 threatened（受威胁的）, at-risk（有风险的）；反义 safe（安全的）, secure（安全的）。
+- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → endangerment n. 濒危；动词派生 → endanger v. 危及。
 
 ### 21. stretch /stretʃ/ v. 延伸；绵延
-- **词根·渊源**：古英语 *streccan*（伸展）→ 中古英语 *strecchen* → 英语，本义“拉长、伸展”，引申为“延伸、绵延”。
-- **同根词**：stretcher（stretch 伸展 + **-er** 工具 = 伸展之物→担架）、stretchy（stretch + **-y** …的 = 有弹性的）。
+- **词根·渊源**：古英语 *streccan*（伸展）→ 中古英语 *strecchen* → 英语，本义“拉长、伸展”，引申为“延伸；绵延”。
+- **同根词**：stretcher（stretch + **-er** 工具 = 拉伸的东西→担架）、stretchy（stretch + **-y** …的 = 有弹性的）。
 - **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 extend, spread；反义 shrink, contract。
-- **词性变化**：stretcher n. 担架；stretchy adj. 有弹性的。
+- **同义·反义**：同义 extend（延伸）, spread（伸展）；反义 shrink（收缩）, contract（收缩）。
+- **变形**：动词 → 第三人称单数：stretches；过去式：stretched；过去分词：stretched；现在分词：stretching；名词 → 复数：stretches；名词派生 → stretcher n. 担架；形容词派生 → stretchy adj. 有弹性的。
 
 ### 22. huge /hjuːdʒ/ adj. 巨大的；极多的
-- **词根·渊源**：古法语 *ahuge*（极大的），词源存疑，可能源自法兰克语 *hōhi*（高）→ 英语，本义“极大的”，引申为“巨大的、极多的”。
-- **同根词**：hugely（huge + **-ly** 副词后缀 = 极大地）、hugeness（huge + **-ness** 名词后缀 = 巨大）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 enormous, vast；反义 tiny, small。
-- **词性变化**：hugely adv. 极大地；hugeness n. 巨大。
+- **词根·渊源**：古法语 *ahuge*（巨大的），词源存疑，可能源自法兰克语 *hōhi*（高的）→ 英语，本义“巨大的”，引申为“极多的”。
+- **同根词**：hugely（huge + **-ly** 副词后缀 = 巨大地）、hugeness（huge + **-ness** 名词后缀 = 巨大）。
+- **前缀·后缀**：无前缀；副词后缀 **-ly**（例：quickly, sadly）；名词后缀 **-ness**（例：kindness, darkness）。
+- **同义·反义**：同义 enormous（巨大的）, vast（广大的）；反义 tiny（微小的）, small（小的）。
+- **变形**：形容词 → 比较级：huger；最高级：hugest；副词派生 → hugely adv. 巨大地；名词派生 → hugeness n. 巨大。
 
 ### 23. wild /waɪld/ adj. 野的；野生的 n. 自然环境；野生状态
-- **词根·渊源**：古英语 *wilde*（未驯化的）→ 中古英语 *wild* → 英语，本义“未驯化的”，引申为“野生的”及名词“自然环境”。
-- **同根词**：wilderness（wild 荒野 + **-er** + **-ness** 名词后缀 = 荒野之地→荒野）、wildlife（wild 野生 + life 生命 = 野生动物）、wildly（wild + **-ly** 副词后缀 = 野性地→疯狂地）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 untamed, natural；反义 tame, domestic。
-- **词性变化**：wildly adv. 疯狂地；wilderness n. 荒野；wildlife n. 野生动物。
+- **词根·渊源**：古英语 *wilde*（未驯化的）→ 中古英语 *wild* → 英语，本义“未驯化的”，引申为“野的；野生的”及名词“自然环境”。
+- **同根词**：wildly（wild + **-ly** 副词后缀 = 野性地→疯狂地）、wilderness（wild + **-er** + **-ness** = 荒野）、bewilder（**be-** 使 + wild 野 = 使迷失在荒野→使困惑）。
+- **前缀·后缀**：无前缀；副词后缀 **-ly**（例：badly, madly）；名词后缀 **-ness**（例：happiness, sadness）。
+- **同义·反义**：同义 untamed（未驯化的）, natural（自然的）；反义 tame（驯服的）, domestic（家养的）。
+- **变形**：形容词 → 比较级：wilder；最高级：wildest；名词 → 复数：wilds（作“自然环境”义时多用复数）；副词派生 → wildly adv. 疯狂地；名词派生 → wilderness n. 荒野。
 
 ### 24. discover /dɪˈskʌvə(r)/ v. 了解；查明
-- **词根·渊源**：拉丁 **dis-**（去除）+ **cooperire**（覆盖）→ 古法语 *descovrir* → 英语，本义“揭开覆盖物”，引申为“发现、了解、查明”。
-- **同根词**：discovery（discover + **-y** 名词后缀 = 发现）、cover（源自古法语 covrir 覆盖）、discoverer（discover + **-er** 人 = 发现者）。
-- **前缀·后缀**：前缀 **dis-**（例：disappear, disagree）；后缀 **-er**（例：teacher, worker）。
-- **同义·反义**：同义 find out, uncover；反义 hide, conceal。
-- **词性变化**：discovery n. 发现；discoverer n. 发现者。
+- **词根·渊源**：拉丁 **dis-**（去除）+ **cooperire**（覆盖）→ 古法语 *descovrir* → 英语，本义“揭开覆盖物”，引申为“发现；了解；查明”。
+- **同根词**：discovery（discover + **-y** 名词后缀 = 发现）、cover（cooperire 覆盖 = 覆盖）、discoverer（discover + **-er** 人 = 发现者）。
+- **前缀·后缀**：前缀 **dis-**（例：disappear, disagree）；名词后缀 **-y**（例：delivery, recovery）。
+- **同义·反义**：同义 find（发现）, uncover（揭开）；反义 hide（隐藏）, conceal（隐瞒）。
+- **变形**：动词 → 第三人称单数：discovers；过去式：discovered；过去分词：discovered；现在分词：discovering；名词派生 → discovery n. 发现；discoverer n. 发现者。
 
 ### 25. volcano /vɒlˈkeɪnəʊ/ n. 火山
-- **词根·渊源**：拉丁 **Vulcanus**（罗马火神武尔坎）→ 意大利语 *vulcano* → 英语，本义“火神之山”，即“火山”。
-- **同根词**：volcanic（volcano 火山 + **-ic** …的 = 火山的）、volcanology（volcano + **-logy** 学科 = 火山学）。
-- **前缀·后缀**：名词后缀 **-o**（例：piano, solo）。
+- **词根·渊源**：拉丁 **Vulcanus**（罗马火神武尔坎）→ 意大利语 *vulcano* → 英语，本义“火神之山”，引申为“火山”。
+- **同根词**：volcanic（volcano + **-ic** …的 = 火山的）、volcanology（volcano + **-logy** 学科 = 火山学）。
+- **前缀·后缀**：无前缀；形容词后缀 **-ic**（例：atomic, historic）；学科后缀 **-logy**（例：biology, geology）。
 - **同义·反义**：同义 无；反义 无。
-- **词性变化**：volcanic adj. 火山的；volcanology n. 火山学。
+- **变形**：名词 → 复数：volcanoes；形容词派生 → volcanic adj. 火山的；名词派生 → volcanology n. 火山学。
 
 ### 26. range /reɪndʒ/ n. 山脉
-- **词根·渊源**：古法语 *range*（行列、排列）→ 英语，本义“排列成行”，引申为“一系列、山脉”。
-- **同根词**：arrange（**ar-** 使 + range 排列 = 使排列→安排）、arrangement（arrange + **-ment** 名词后缀 = 安排）、ranger（range + **-er** 人 = 巡行者→护林员）。
-- **前缀·后缀**：前缀 **ar-**（例：arrive, arrest）；后缀 **-er**（例：rider, worker）。
-- **同义·反义**：同义 chain, series；反义 无。
-- **词性变化**：arrange v. 安排；arrangement n. 安排；ranger n. 护林员。
+- **词根·渊源**：古法语 *range*（行列、排列）→ 英语，本义“排列成行”，引申为“山脉”（连绵排列的山）。
+- **同根词**：arrange（**ar-** 使 + range 排列 = 安排）、arrangement（arrange + **-ment** 名词后缀 = 安排）、ranger（range + **-er** 人 = 游荡者→护林员）。
+- **前缀·后缀**：无前缀；名词后缀 **-ment**（例：movement, development）；人称后缀 **-er**（例：teacher, worker）。
+- **同义·反义**：同义 mountain chain（山脉）, sierra（锯齿山脉）；反义 无。
+- **变形**：名词 → 复数：ranges；动词派生 → arrange v. 安排；名词派生 → arrangement n. 安排；ranger n. 护林员。
 
 ### 27. snowmobile /ˈsnəʊməbiːl/ n. 雪地机动车
-- **词根·渊源**：**snow**（雪，古英语 snāw）+ **mobile**（可移动的，源自拉丁 mobilis）→ 英语，本义“雪上可移动之物”，即“雪地机动车”。
-- **同根词**：snow（古英语 snāw 雪）、mobile（拉丁 mobilis 可移动的）、automobile（auto 自己 + mobile 可移动 = 自己会动的→汽车）、mobility（mobile + **-ity** 名词后缀 = 移动性）。
-- **前缀·后缀**：无前后缀（复合词）。
-- **同义·反义**：同义 无；反义 无。
-- **词性变化**：mobile adj. 可移动的；mobility n. 移动性。
+- **词根·渊源**：英语 **snow**（雪）+ 法语 **mobile**（可移动的，源自拉丁 *mobilis*）→ 英语，本义“在雪上移动的车”，即“雪地机动车”。
+- **同根词**：snow（snow 雪 = 雪）、mobile（mobilis 可移动的 = 可移动的）、mobility（mobile + **-ity** 名词后缀 = 流动性）。
+- **前缀·后缀**：无前缀；组合词素 **-mobile**（例：automobile, popemobile）。
+- **同义·反义**：同义 snowmachine（雪地车）；反义 无。
+- **变形**：名词 → 复数：snowmobiles。
 
 ### 28. wolf /wʊlf/ n. 狼
-- **词根·渊源**：古英语 *wulf*（狼）→ 中古英语 *wolf* → 英语，源自原始日耳曼语 *wulfaz*，本义即“狼”。
-- **同根词**：wolfish（wolf + **-ish** …的 = 狼似的）、wolverine（可能源自 wolf + **-erine** 后缀 = 狼獾，存疑）。
-- **前缀·后缀**：无前后缀（单纯词）。
+- **词根·渊源**：古英语 *wulf* → 中古英语 *wolf* → 英语，源自原始日耳曼语 *wulfaz*，本义“狼”。
+- **同根词**：wolfish（wolf + **-ish** …的 = 狼似的）、wolverine（wolf + **-erine** 相关 = 狼獾）。
+- **前缀·后缀**：无前缀；形容词后缀 **-ish**（例：childish, foolish）。
 - **同义·反义**：同义 无；反义 无。
-- **词性变化**：wolfish adj. 狼似的。
+- **变形**：名词 → 复数：wolves；形容词派生 → wolfish adj. 狼似的。
 
 ### 29. department store /dɪˈpɑrtmənt stɔr/ n. 百货商店
-- **同义搭配**：shopping mall / retail store / general store
+- **同义搭配**：mall（购物中心） / emporium（大百货商场）
 - **反义搭配**：无
 
 ### 30. prefer to /prɪˈfər tɪ/ n. 更喜欢
-- **同义搭配**：like better / be fond of / would rather
-- **反义搭配**：dislike / hate
+- **同义搭配**：like better（更喜欢） / favor（偏爱）
+- **反义搭配**：dislike（不喜欢）
 
 ### 31. by hand /baɪ hænd/ prep. 用手工
-- **同义搭配**：manually / with hands / by manual labor
-- **反义搭配**：by machine / automatically
+- **同义搭配**：manually（手工地） / by machine（用机器）
+- **反义搭配**：by machine（用机器）
 
 ### 32. go sightseeing /goʊ ˈsaɪtˈsiɪŋ/ v. 去观光
-- **同义搭配**：go touring / do some sightseeing / visit places of interest
-- **反义搭配**：stay at home / stay indoors
+- **同义搭配**：tour（游览） / visit（参观）
+- **反义搭配**：stay home（待在家）
 
 ### 33. go on a trip /goʊ ɔn ə trɪp/ v. 去旅行
-- **同义搭配**：take a trip / go traveling / make a journey
-- **反义搭配**：stay put / remain at home
+- **同义搭配**：take a journey（去旅行） / travel（旅行）
+- **反义搭配**：stay put（原地不动）
 
 ### 34. set up /sɛt əp/ v. 建立
-- **同义搭配**：establish / found / put up
-- **反义搭配**：tear down / break up
+- **同义搭配**：establish（建立） / found（创立）
+- **反义搭配**：tear down（拆除）
 
 ### 35. giant panda /ʤaɪənt ˈpændə/ n. 大熊猫
-- **同义搭配**：panda bear / great panda
+- **同义搭配**：panda（熊猫） / giant panda bear（大熊猫熊）
 - **反义搭配**：无
 
 ### 36. in the wild /ɪn ðə waɪld/ prep. 在野外
-- **同义搭配**：in nature / in natural surroundings / in the wilderness
-- **反义搭配**：in captivity / in a zoo
+- **同义搭配**：in nature（在自然界） / outdoors（在户外）
+- **反义搭配**：in captivity（在圈养中）
 
 ### 37. all year round /ɔl jɪr raʊnd/ n. 全年
-- **同义搭配**：throughout the year / all the year / the whole year
-- **反义搭配**：seasonally / at certain times of year
+- **同义搭配**：throughout the year / the whole year
+- **反义搭配**：for part of the year
 
 ### 38. golden monkey /ˈgoʊldən ˈməŋki/ n. 金丝猴
-- **同义搭配**：snub-nosed monkey / golden snub-nosed monkey
+- **同义搭配**：golden snub-nosed monkey / snub-nosed monkey
 - **反义搭配**：无
 
 ### 39. go hiking /goʊ ˈhaɪkɪŋ/ v. 去远足
-- **同义搭配**：go trekking / go walking / take a hike
-- **反义搭配**：stay indoors / drive
+- **同义搭配**：go on a hike / take a hike
+- **反义搭配**：stay at home
 
 ### 40. hot spring /hɑt spərɪŋ/ n. 温泉
-- **同义搭配**：thermal spring / warm spring / geotherm
+- **同义搭配**：thermal spring / warm spring
 - **反义搭配**：cold spring
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| -ly | 副词后缀，……地 | mostly | quickly, happily, carefully, suddenly |
-| re- | 再、回 | receive, remain | return, rebuild, review, repeat |
-| -ion | 名词后缀，表行为或状态 | destination | action, education, invention, decision |
-| -ment | 名词后缀，表行为或结果 | government | development, movement, agreement, achievement |
-| -ous / -eous | 形容词后缀，充满……的 | huge（存疑，源自古法语 ahuge） | famous, dangerous, nervous, curious |
-| en- | 使…… | endangered | enable, enlarge, enrich, encourage |
-| -ed | 形容词后缀，具有……的 | endangered | excited, interested, surprised, tired |
-| -ing | 名词或形容词后缀 | sightseeing | swimming, reading, interesting, exciting |
-| -er | 名词后缀，表人或物 | department store（store 为词根词） | teacher, worker, driver, computer |
-| -ful | 形容词后缀，充满……的 |（本单元无直接例词） | beautiful, helpful, useful, careful |
-| -less | 形容词后缀，无……的 |（本单元无直接例词） | hopeless, careless, endless, homeless |
-| -able | 形容词后缀，能……的 |（本单元无直接例词） | comfortable, enjoyable, readable, movable |
-| -ist | 名词后缀，表人 |（本单元无直接例词） | artist, scientist, tourist, pianist |
-| -ize | 动词后缀，使……化 |（本单元无直接例词） | realize, organize, modernize, memorize |
-| -ward | 方向后缀，向…… |（本单元无直接例词） | forward, backward, upward, downward |
-| -y | 形容词或名词后缀 |（本单元无直接例词） | rainy, windy, healthy, difficulty |
+| ex- | 出；向外 | excellent | exit, export, exclude, express |
+| -ent | 形容词后缀：……的 | excellent | different, silent, patient, present |
+| -ly | 副词后缀：……地 | mostly | quickly, happily, carefully, finally |
+| re- | 再；回 | receive, remain | return, repeat, review, rebuild |
+| -tion | 名词后缀：行为/状态 | destination | action, education, information, invention |
+| -ment | 名词后缀：行为/结果 | government | movement, development, agreement, equipment |
+| -ous | 形容词后缀：充满……的 | huge（存疑，非 -ous 后缀） | famous, dangerous, nervous, curious |
+| en- | 使……；进入 | endangered | enable, enlarge, enrich, encourage |
+| -ed | 形容词后缀：具有……的 | endangered | excited, interested, surprised, tired |
+| -ing | 名词/形容词后缀 | sightseeing | swimming, reading, interesting, exciting |
+| -er | 名词后缀：人/物 | stretcher（扩展） | teacher, worker, driver, computer |
+| -or | 名词后缀：人/物 | governor（扩展） | actor, doctor, visitor, inventor |
+| -ic | 形容词后缀：……的 | volcanic（扩展） | basic, scientific, historic, poetic |
+| -al | 形容词后缀：……的 | natural（扩展） | national, personal, cultural, musical |
+| -less | 无……的 | endless（扩展） | homeless, careless, hopeless, useless |
+| -ful | 充满……的 | wonderful（扩展） | helpful, useful, careful, beautiful |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
-| 词 | 同义 | 反义 |
+| 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| excellent | great, wonderful, outstanding | poor, bad |
-| perfect | ideal, excellent, faultless | imperfect, flawed |
-| mostly | mainly, chiefly, largely | rarely, seldom |
-| receive | accept, get, welcome | refuse, reject, send |
-| remain | stay, continue, keep | leave, depart, change |
-| lift | elevator, raise | lower, drop |
-| imagine | picture, suppose, think | — |
-| destination | goal, endpoint, terminus | origin, starting point |
-| unique | special, unusual, distinctive | common, ordinary, normal |
-| endangered | threatened, at risk | safe, protected |
-| stretch | extend, spread, reach | shrink, contract |
-| huge | enormous, giant, massive | tiny, small, little |
-| wild | natural, untamed | tame, domestic |
-| discover | find, learn, uncover | hide, conceal |
-| range | chain, series, mountain range | — |
-| prefer to | like better, favor | dislike, hate |
-| set up | establish, build, found | destroy, shut down |
-| go sightseeing | tour, visit, explore | — |
-| go on a trip | travel, journey, tour | stay, remain |
-| go hiking | walk, trek, ramble | — |
+| excellent | great（极好的） | terrible（糟糕的） |
+| perfect | ideal（理想的） | imperfect（不完美的） |
+| mostly | mainly（主要地） | rarely（很少地） |
+| receive | welcome（接待） | refuse（拒绝） |
+| remain | stay（保持） | leave（离开） |
+| lift | elevator（电梯） | — |
+| imagine | picture（想象） | — |
+| unique | special（独特的） | common（普通的） |
+| endangered | threatened（濒危的） | safe（安全的） |
+| stretch | extend（延伸） | shrink（收缩） |
+| huge | enormous（巨大的） | tiny（微小的） |
+| wild | natural（野生的） | tame（驯养的） |
+| discover | find（发现） | hide（隐藏） |
+| range | chain（山脉） | — |
+| prefer to | like better（更喜欢） | dislike（不喜欢） |
+| set up | establish（建立） | destroy（摧毁） |
+| go on a trip | travel（去旅行） | stay（停留） |
+| all year round | throughout the year（全年） | — |
+| go hiking | walk（去远足） | — |
+| address | location（地址） | — |
 
 ---
 
 ### 制作说明
 - 词源按 Oxford / Merriam-Webster / Online Etymology Dictionary 整理，**不是教材原文**。
 - 同根词的括注给出构词路径，用于理解“为什么是这个意思”，不要求背诵。
+- “变形”里的时态、复数、比较级按《牛津高阶》通行形式给出；标“无比较级 / 不可数”的是本身不作变化的情况。
 - 若需增删（例如只保留高频词、加例句），在此文件上直接改即可。

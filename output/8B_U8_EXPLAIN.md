@@ -2,218 +2,218 @@
 
 > 配套 `8B_U8.md`（沪教牛津版 2024/2025 修订，30 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
-> 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义 / 词性变化。
+> 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
 ## 一、本单元词根地图
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
 | inter- | 在……之间 | 拉丁语 inter | Internet | international, interact, interrupt, interview |
-| pon/pos | 放置 | 拉丁语 ponere（放置） | post | compose, position, deposit, propose |
-| log | 言说；道理 | 希腊语 logos（言词、理性） | apology | logic, dialogue, biology, geology |
-| hydr | 水 | 希腊语 hydōr（水） | hydrogen | hydrate, dehydrate, hydraulic |
-| form | 形状；形成 | 拉丁语 forma（形状） | shape（存疑，shape 源自古英语 sceap，与 form 非同源） | inform, reform, uniform, transform |
-| vid/vis | 看 | 拉丁语 videre（看） | virus（存疑，virus 源自拉丁语“毒液”，与 vid 非同源） | visible, vision, video, evident |
-| par | 准备；安排 | 拉丁语 parare（准备） | prepare | repair, apparatus, parade, separate |
-| satis | 足够 | 拉丁语 satis（足够） | satisfy | satisfaction, saturate, satiable |
-| misc/mix | 混合 | 拉丁语 miscere（混合） | mix | mixture, miscellaneous, promiscuous |
-| lax | 松弛 | 拉丁语 laxus（松弛的） | relax | laxative, laxity, relaxation |
-| techn | 技艺 | 希腊语 technē（技艺） | technology | technique, technical, technician |
-| electr | 电 | 希腊语 ēlektron（琥珀，摩擦生电） | electronic | electric, electricity, electron, electrify |
-| cert | 确定 | 拉丁语 certus（确定的） | certainly | certain, certify, certificate, certainty |
-| mand | 命令；委托 | 拉丁语 mandare（委托） | recommend | command, demand, mandate |
-| vid/vis | 看 | 拉丁语 videre | while（存疑，while 源自古英语 hwīl“一段时间”，与 vid 无关） | — |
-| tempor | 时间 | 拉丁语 tempus（时间） | present（存疑，present 源自 prae-“在前”+ esse“存在”，非 tempor） | temporary, contemporary, tempo |
+| pon/post | 放置 | 拉丁语 ponere（放置） | post | compose, deposit, expose, propose |
+| log | 言语；学说 | 希腊语 logos（言语、道理） | apology | logic, dialogue, biology, geology |
+| hydr | 水 | 希腊语 hydor（水） | hydrogen | hydrate, dehydrate, hydraulic |
+| gen | 产生；出生 | 希腊语 genos（出生、种族） | hydrogen | generate, gene, genius, oxygen |
+| form | 形状；形成 | 拉丁语 forma（形状） | shape（存疑，shape 源自古英语 sceap，与 form 无直接词源关系） | inform, reform, uniform, transform |
+| vid/vis | 看 | 拉丁语 videre（看） | virus（存疑，virus 源自拉丁语“毒液”，与 vid 无词源关系） | visible, vision, video, supervise |
+| lect/leg | 选择；收集 | 拉丁语 legere（选择、读） | electronic | collect, select, elect, lecture |
+| techn | 技艺 | 希腊语 techne（技艺） | technology | technical, technician, technique |
+| mit/miss | 送；放 | 拉丁语 mittere（送） | mix（存疑，mix 源自拉丁语 miscere，与 mit 无词源关系） | transmit, mission, submit, permit |
+| par | 准备；相等 | 拉丁语 parare（准备） | prepare | repair, compare, separate, apparent |
+| satis | 足够 | 拉丁语 satis（足够） | satisfy | satisfaction, saturate, satisfactory |
+| lax/ly | 松 | 拉丁语 laxare（放松） | relax | lax, laxative, release（存疑） |
+| firm | 坚固的 | 拉丁语 firmus（坚固） | certainly（存疑，certainly 源自 certus“确定的”，与 firm 无词源关系） | confirm, firm, affirm, infirm |
+| vid | 看 | 拉丁语 videre | while（存疑，while 源自古英语 hwil，与 vid 无词源关系） | evident, provide, video |
+| memor | 记忆 | 拉丁语 memor（记忆的） | recommend（存疑，recommend 源自 commend“委托”，与 memor 无词源关系） | memory, memorial, remember, commemorate |
 
 ## 二、逐词说文解字
 
 ### 1. Internet /ˈɪntənet/ n. 互联网；网络
-- **词根·渊源**：**inter-**（在……之间）+ **net**（网）→ 本义“互相连接的网”，指全球计算机网络互联系统；20世纪后期由 internetwork 缩略而来。
-- **同根词**：international（**inter-** 在……之间 + nation 国家 + **-al** ……的 = 国家之间的→国际的）、interact（**inter-** 相互 + act 行动 = 相互作用→互动）、network（net 网 + work 工作 = 网状工作系统→网络）、interpersonal（**inter-** 在……之间 + person 人 + **-al** ……的 = 人与人之间的→人际的）。
-- **前缀·后缀**：前缀 **inter-**（例：international, interact）；无后缀（复合词）。
-- **同义·反义**：同义 the Net, cyberspace；反义 无。
-- **词性变化**：无派生词。
+- **词根·渊源**：**inter-**（在……之间）+ **net**（网）→ 由 interconnected network（互联网络）缩合而成，20世纪70年代出现，本义“连接各计算机网络的网络”，引申为“互联网”。
+- **同根词**：international（**inter-** 在……之间 + nation 国家 + **-al** ……的 = 国家之间的→国际的）、interact（**inter-** 相互 + act 行动 = 相互作用→互动）、interconnect（**inter-** 相互 + connect 连接 = 互相连接）、network（net 网 + work 工作/构造 = 网络）、net（单纯词，网）。
+- **前缀·后缀**：前缀 **inter-**（例：international, interact）；无后缀（复合缩合词）。
+- **同义·反义**：同义 network（网络）, cyberspace（网络空间）；反义 无。
+- **变形**：名词 → 复数：Internets（作“互联网”义时通常不可数）；无比较级（专有名词）；形容词派生 → internet adj. 互联网的。
 
 ### 2. post /poʊst/ v.（发在网上的）帖子；邮政；邮递；邮寄
-- **词根·渊源**：拉丁 **positum**（放置）→ 古法语 *poste*（驿站、岗位）→ 英语，本义“设置、放置”，后指“驿站→邮政→邮寄”，现代又引申为“在网上发布（帖子）”。
-- **同根词**：position（posit 放置 + **-ion** 名词后缀 = 放置的地方→位置）、compose（**com-** 一起 + pos 放置 = 放在一起→组成、创作）、deposit（**de-** 向下 + posit 放置 = 放下→存放、存款）、postage（post 邮政 + **-age** 费用 = 邮费）、poster（post 张贴 + **-er** 物 = 张贴的东西→海报）。
-- **前缀·后缀**：前缀 **com-**（例：compose）、**de-**（例：deposit）；后缀 **-age**（例：postage）、**-er**（例：poster）。
-- **同义·反义**：同义 mail, publish；反义 无。
-- **词性变化**：postage n. 邮费；poster n. 海报；postal adj. 邮政的。
+- **词根·渊源**：拉丁 **positum**（放置之物）→ 中世纪拉丁 *posta*（驿站）→ 古法语 *poste* → 英语，本义“设立的驿站/邮驿”，引申为“邮政、邮寄”，现代又引申为“在网上发布（帖子）”。
+- **同根词**：postage（post 邮政 + **-age** 费用 = 邮费）、postal（post 邮政 + **-al** ……的 = 邮政的）、postcard（post 邮政 + card 卡片 = 明信片）、postman（post 邮政 + man 人 = 邮递员）、position（posit 放置 + **-ion** 名词 = 放置的位置→位置）、compose（**com-** 一起 + pos 放置 = 放在一起→组成、创作）。
+- **前缀·后缀**：前缀 **com-**（例：compose, combine）；名词后缀 **-age**（例：postage, marriage）。
+- **同义·反义**：同义 mail（邮寄）, publish（发布）；反义 无。
+- **变形**：动词 → 第三人称单数：posts；过去式：posted；过去分词：posted；现在分词：posting；名词 → 复数：posts；名词派生 → postage n. 邮费；poster n. 海报、发帖人。
 
 ### 3. apology /əˈpɑːlədʒi/ n. 道歉；（因不能赴会的）道歉信；辩护，辩解
-- **词根·渊源**：希腊 **apo-**（离开）+ **logia**（说话）→ 拉丁 *apologia*（辩护）→ 英语，本义“为开脱而说”，即“辩护”，后引申为“道歉”。
-- **同根词**：apologize（apology + **-ize** 动词化 = 道歉）、apologetic（apolog 辩护 + **-etic** ……的 = 道歉的、辩解的）、logic（log 说话 + **-ic** ……的 = 说话的学问→逻辑）、dialogue（**dia-** 之间 + logue 说话 = 对话）、monologue（**mono-** 单一 + logue 说话 = 独白）。
-- **前缀·后缀**：前缀 **apo-**（例：apostle）、**dia-**（例：dialogue）、**mono-**（例：monologue）；后缀 **-ize**（例：realize）、**-etic**（例：energetic）。
-- **同义·反义**：同义 regret, excuse；反义 无。
-- **词性变化**：apologize v. 道歉；apologetic adj. 道歉的。
+- **词根·渊源**：希腊 **apo-**（离开）+ **logia**（说话）→ 希腊 *apologia*（辩护之辞）→ 拉丁 *apologia* → 古法语 *apologie* → 英语，本义“为自身辩解的讲话”，后引申为“道歉”。
+- **同根词**：apologize（apology + **-ize** 动词化 = 道歉）、apologetic（apolog 辩解 + **-etic** ……的 = 歉意的）、logic（log 说话/道理 + **-ic** = 逻辑）、dialogue（**dia-** 之间 + logue 说话 = 对话）、monologue（**mono-** 单一 + logue 说话 = 独白）。
+- **前缀·后缀**：前缀 **apo-**（例：apostle, apogee）；名词后缀 **-y**（例：victory, memory）。
+- **同义·反义**：同义 regret（歉意）, defense（辩护）；反义 accusation（指责）, offense（冒犯）。
+- **变形**：名词 → 复数：apologies；动词派生 → apologize v. 道歉；形容词派生 → apologetic adj. 歉意的。
 
 ### 4. excuse /ɪkˈskjuz/ v.（辩解的）理由；借口；辩解
-- **词根·渊源**：拉丁 **ex-**（出）+ **causa**（原因、诉讼）→ 本义“使脱离指控”，即“免除、原谅”，后引申为“辩解、借口”。
-- **同根词**：cause（caus 原因 = 原因、事业）、because（**be-** 由 + cause 原因 = 由于→因为）、accuse（**ac-** 向 + cuse 诉讼 = 向……提出诉讼→控告）、excusable（excuse + **-able** 可……的 = 可原谅的）。
-- **前缀·后缀**：前缀 **ex-**（例：exit）、**be-**（例：because）、**ac-**（例：accuse）；后缀 **-able**（例：excusable）。
-- **同义·反义**：同义 pardon, forgive；反义 blame, accuse。
-- **词性变化**：excusable adj. 可原谅的；accuse v. 控告。
+- **词根·渊源**：拉丁 **ex-**（出）+ **causa**（原因、诉讼）→ 拉丁 *excusare*（免除指控）→ 古法语 *excuser* → 英语，本义“使免于指责”，引申为“辩解、借口”。
+- **同根词**：accuse（**ac-** 向 + cuse 原因/诉讼 = 归因于某人→控告）、cause（单纯词，原因）、causal（caus 原因 + **-al** ……的 = 原因的）、because（**be-** 由 + cause 原因 = 因为）。
+- **前缀·后缀**：前缀 **ex-**（例：exit, export）；无后缀（动词兼名词）。
+- **同义·反义**：同义 reason（理由）, pardon（原谅）；反义 blame（责备）, accusation（指责）。
+- **变形**：动词 → 第三人称单数：excuses；过去式：excused；过去分词：excused；现在分词：excusing；名词 → 复数：excuses；形容词派生 → excusable adj. 可原谅的。
 
 ### 5. past /pæst/ n. 过去，昔日，往事
-- **词根·渊源**：拉丁 **passus**（步、经过）→ 古法语 *passé*（过去的）→ 英语，本义“已经走过的”，引申为“过去、往事”。
-- **同根词**：pass（pass 经过 = 经过、通过）、passage（pass 经过 + **-age** 名词后缀 = 经过的地方→通道）、passenger（pass 经过 + **-enger** 人 = 经过的人→乘客）、passport（pass 通过 + port 港口 = 通过港口的证件→护照）。
-- **前缀·后缀**：无前缀；后缀 **-age**（例：passage）、**-enger**（例：passenger）。
-- **同义·反义**：同义 history, yesterday；反义 future, present。
-- **词性变化**：pass v. 经过；passage n. 通道；passenger n. 乘客。
+- **词根·渊源**：拉丁 **passus**（步伐、经过）→ 古法语 *passé*（过去的）→ 英语 pass 的过去分词形式演变而来，本义“已经走过的”，引申为“过去、往事”。
+- **同根词**：pass（单纯词，经过）、passage（pass 经过 + **-age** 名词 = 通道、段落）、passenger（passage + **-er** 人 = 过路的人→乘客）、passport（pass 通过 + port 港口 = 通过港口的证件→护照）、passing（pass + **-ing** = 经过的）。
+- **前缀·后缀**：无前缀；后缀 **-age**（例：passage, marriage）。
+- **同义·反义**：同义 history（历史）, yesterday（往昔）；反义 future（未来）, present（现在）。
+- **变形**：名词 → 复数：pasts（多用单数）；形容词 → 无比较级（关系形容词）；副词派生 → past adv. 经过。
 
 ### 6. present /ˈpreznt/ v. 目前 ; 现在；眼前
-- **词根·渊源**：拉丁 **prae-**（在前）+ **sens / sent-**（存在）→ 本义“在眼前的”，引申为“现在的、目前的”，作动词时指“呈现在面前→呈现、赠送”。
-- **同根词**：presence（present + **-ce** 名词后缀 = 在场、出席）、presentation（present 呈现 + **-ation** 名词后缀 = 呈现→展示、报告）、represent（**re-** 再 + present 呈现 = 再次呈现→代表）、absent（**ab-** 离开 + sent 存在 = 不在场的→缺席的）。
-- **前缀·后缀**：前缀 **pre-**（例：predict）、**re-**（例：represent）、**ab-**（例：absent）；后缀 **-ce**（例：presence）、**-ation**（例：presentation）。
-- **同义·反义**：同义 current, now；反义 past, absent。
-- **词性变化**：presence n. 出席；presentation n. 展示；represent v. 代表。
+- **词根·渊源**：拉丁 **prae-**（在前）+ **sens / sent-**（存在、感觉）→ 拉丁 *praesens*（在场的）→ 古法语 *present* → 英语，本义“在眼前的”，引申为“现在的、目前的”。
+- **同根词**：presence（present + **-ce** 名词 = 出席、在场）、presently（present + **-ly** 副词 = 不久、目前）、absent（**ab-** 离开 + sent 存在 = 不在场的→缺席的）、essence（**ess-** 存在 + **-ence** 名词 = 本质）、represent（**re-** 再 + present 呈现 = 再现→代表）。
+- **前缀·后缀**：前缀 **pre-**（例：prepare, predict）、**re-**（例：represent, return）；名词后缀 **-ce**（例：presence, difference）。
+- **同义·反义**：同义 current（当前的）, now（现在）；反义 past（过去的）, absent（缺席的）。
+- **变形**：形容词 → 无比较级（关系形容词）；名词 → 复数：presents；副词派生 → presently adv. 目前、不久；名词派生 → presence n. 出席、在场。
 
 ### 7. hydrogen /ˈhaɪdrədʒən/ n. 氢；氢气
-- **词根·渊源**：希腊 **hydro-**（水）+ **-gen**（产生）→ 法语 *hydrogène* → 英语，本义“产生水的元素”，因氢气燃烧生成水而得名。
-- **同根词**：water（与 hydro 同出 PIE *wed-* 水 = 水）、hydrate（hydro 水 + **-ate** 动词化 = 使含水→水合）、dehydrate（**de-** 去除 + hydrate 水合 = 去除水分→脱水）、oxygen（oxy 酸 + **-gen** 产生 = 产生酸的元素→氧）、nitrogen（nitro 硝石 + **-gen** 产生 = 产生硝石的元素→氮）。
-- **前缀·后缀**：前缀 **hydro-**（例：hydrate）、**de-**（例：dehydrate）；后缀 **-gen**（例：oxygen, nitrogen）。
+- **词根·渊源**：希腊 **hydro-**（水）+ **-gen**（产生）→ 法语 *hydrogène* → 英语，本义“产生水的元素”（燃烧生成水），即“氢”。
+- **同根词**：hydrate（hydro 水 + **-ate** 动词 = 水合）、dehydrate（**de-** 去除 + hydrate 水合 = 脱水）、hydroelectric（hydro 水 + electric 电的 = 水力发电的）、generate（gener 产生 + **-ate** 动词 = 产生）、generator（generate + **-or** 物 = 发电机）。
+- **前缀·后缀**：前缀 **hydro-**（例：hydrate, hydroelectric）、**de-**（例：dehydrate, decrease）；后缀 **-gen**（例：oxygen, nitrogen）。
 - **同义·反义**：同义 无；反义 无。
-- **词性变化**：hydrate v. 水合；dehydrate v. 脱水。
+- **变形**：名词 → 不可数；无比较级（物质名词）；形容词派生 → hydrogenous adj. 含氢的。
 
 ### 8. wide /waɪd/ adj. 宽的，宽阔的；宽广的
-- **词根·渊源**：古英语 **wīd**（宽的）→ 英语，本义“空间上广阔的”，引申为“宽广的、广泛的”。
-- **同根词**：width（wide + **-th** 名词后缀 = 宽度）、widen（wide + **-en** 动词化 = 加宽）、widely（wide + **-ly** 副词后缀 = 广泛地）、widespread（wide 宽 + spread 展开 = 广泛展开的→普遍的）。
-- **前缀·后缀**：无前缀；后缀 **-th**（例：length）、**-en**（例：strengthen）、**-ly**（例：widely）。
-- **同义·反义**：同义 broad, extensive；反义 narrow。
-- **词性变化**：width n. 宽度；widen v. 加宽；widely adv. 广泛地。
+- **词根·渊源**：古英语 **wīd**（宽的）→ 中古英语 *wid* → 英语，源自日耳曼语 *wīdaz*，本义“宽阔的”，引申为“宽广的”。
+- **同根词**：width（wide 宽 + **-th** 名词 = 宽度）、widen（wide + **-en** 动词化 = 加宽）、widely（wide + **-ly** 副词 = 广泛地）、widespread（wide 宽 + spread 展开 = 分布广的）。
+- **前缀·后缀**：无前缀；后缀 **-th**（例：width, length）、**-en**（例：widen, deepen）。
+- **同义·反义**：同义 broad（宽阔的）, extensive（广阔的）；反义 narrow（狭窄的）, limited（有限的）。
+- **变形**：形容词 → 比较级：wider；最高级：widest；副词派生 → widely adv. 广泛地；名词派生 → width n. 宽度；动词派生 → widen v. 加宽。
 
 ### 9. shape /ʃeɪp/ n. 形状；外形
-- **词根·渊源**：古英语 **sceap**（创造、形成）→ 英语，本义“创造出的形式”，引申为“形状、外形”。
-- **同根词**：shapely（shape + **-ly** ……的 = 形状好看的→匀称的）、reshape（**re-** 再 + shape 成形 = 重新塑造）、shaped（shape + **-ed** ……的 = 有……形状的）。
-- **前缀·后缀**：前缀 **re-**（例：reshape）；后缀 **-ly**（例：shapely）、**-ed**（例：shaped）。
-- **同义·反义**：同义 form, figure；反义 无。
-- **词性变化**：shapely adj. 匀称的；reshape v. 重塑。
+- **词根·渊源**：古英语 **sceap**（创造、形成）→ 中古英语 *shape*，与古诺斯语 *skapa*（创造）同源，本义“创造出的形态”，引申为“形状、外形”。
+- **同根词**：shapely（shape + **-ly** ……的 = 形状美观的）、shapeless（shape + **-less** 无 = 无形状的）、reshape（**re-** 再 + shape 成形 = 重塑）、shapewear（shape 塑形 + wear 衣物 = 塑身衣）。
+- **前缀·后缀**：前缀 **re-**（例：reshape, rebuild）；后缀 **-less**（例：shapeless, hopeless）、**-ly**（例：shapely, friendly）。
+- **同义·反义**：同义 form（形状）, figure（外形）；反义 无。
+- **变形**：名词 → 复数：shapes；动词派生 → shape v. 塑造；形容词派生 → shapely adj. 形状美观的；shapeless adj. 无形状的。
 
 ### 10. cafe /kæˈfeɪ/ n. 咖啡馆；小餐馆
-- **词根·渊源**：法语 **café**（咖啡）→ 土耳其语 *kahve* → 阿拉伯语 *qahwa*（咖啡）→ 英语，本义“卖咖啡的地方”，引申为“咖啡馆、小餐馆”。
-- **同根词**：coffee（与 cafe 同源，经荷兰语 *koffie* = 咖啡）、caffeine（cafe 咖啡 + **-ine** 化学名词后缀 = 咖啡因）、cafeteria（cafe 咖啡 + **-teria** 场所 = 自助餐馆）。
-- **前缀·后缀**：无前缀；后缀 **-ine**（例：caffeine）、**-teria**（例：cafeteria）。
-- **同义·反义**：同义 coffee shop, restaurant；反义 无。
-- **词性变化**：caffeine n. 咖啡因；cafeteria n. 自助餐馆。
+- **词根·渊源**：法语 **café**（咖啡）→ 意大利语 *caffè* → 土耳其语 *kahve* → 阿拉伯语 *qahwa*（咖啡），本义“咖啡”，后转指“供应咖啡的场所”，即“咖啡馆”。
+- **同根词**：caffeine（cafe 咖啡 + **-ine** 化学名词 = 咖啡因）、cafeteria（cafe 咖啡 + **-teria** 场所 = 自助餐厅）、coffee（同源词，咖啡）。
+- **前缀·后缀**：无前缀；后缀 **-ine**（例：caffeine, nicotine）、**-teria**（例：cafeteria, sanitaria）。
+- **同义·反义**：同义 coffeehouse（咖啡馆）, restaurant（餐馆）；反义 无。
+- **变形**：名词 → 复数：cafes；无比较级（普通名词）；形容词派生 → 无常用派生。
 
 ### 11. recently /ˈriːsntli/ adv. 近来；最近；不久前
-- **词根·渊源**：拉丁 **re-**（再、新）+ **cens**（新鲜）→ 拉丁 *recens*（新鲜的）→ 英语 recent（最近的）+ **-ly**（副词后缀），本义“新鲜地”，引申为“最近地”。
-- **同根词**：recent（re 新 + cent 新鲜 = 最近的）、recency（recent + **-cy** 名词后缀 = 新近）。
-- **前缀·后缀**：前缀 **re-**（例：recent）；后缀 **-ly**（例：quickly）、**-cy**（例：recency）。
-- **同义·反义**：同义 lately, newly；反义 long ago。
-- **词性变化**：recent adj. 最近的；recency n. 新近。
+- **词根·渊源**：拉丁 **re-**（回、再）+ **cens / cent-**（新近）→ 拉丁 *recens*（新鲜的、新近的）→ 英语 recent + **-ly**，本义“新近地”，引申为“近来、最近”。
+- **同根词**：recent（单纯词，最近的）、recency（recent + **-cy** 名词 = 新近）、recentness（recent + **-ness** 名词 = 新近）。
+- **前缀·后缀**：前缀 **re-**（例：recent, return）；副词后缀 **-ly**（例：recently, quickly）。
+- **同义·反义**：同义 lately（近来）, newly（新近地）；反义 long ago（很久以前）, formerly（从前）。
+- **变形**：副词 → 无比较级（时间副词，通常不作比较）；形容词派生 → recent adj. 最近的；名词派生 → recency n. 新近。
 
 ### 12. forever /fərˈevə(r)/ adv. 永远；永恒地
-- **词根·渊源**：**for**（为了、贯穿）+ **ever**（永远）→ 古英语 *for æfre*，本义“贯穿永远”，即“永远地”。
-- **同根词**：ever（ever 永远 = 永远、曾经）、every（ever 永远 + **-y** 每个 = 每一个）、everlasting（ever 永远 + lasting 持续的 = 永恒的）、never（**n-** 不 + ever 永远 = 永不）。
-- **前缀·后缀**：前缀 **for-**（例：forever）、**n-**（例：never）；无后缀（复合词）。
-- **同义·反义**：同义 eternally, always；反义 never, temporarily。
-- **词性变化**：everlasting adj. 永恒的。
+- **词根·渊源**：古英语 **for**（为了、持续）+ **ǣfre**（永远）→ 中古英语 *for ever* → 英语 forever，本义“持续到永远”，即“永远、永恒地”。
+- **同根词**：ever（单纯词，曾经、永远）、everlasting（ever 永远 + lasting 持续的 = 永恒的）、never（**n-** 不 + ever 曾经 = 从不）、whenever（when 何时 + ever 无论 = 无论何时）、whatever（what 什么 + ever 无论 = 无论什么）。
+- **前缀·后缀**：前缀 **for-**（例：forever, forget）；后缀 **-ever**（例：whenever, whatever）。
+- **同义·反义**：同义 eternally（永恒地）, always（总是）；反义 never（从不）, temporarily（暂时地）。
+- **变形**：副词 → 无比较级（时间副词，通常不作比较）；形容词派生 → 无常用派生。
 
 ### 13. certainly /ˈsɜːrtnli/ adv. 当然；肯定地，无疑地；当然；行
-- **词根·渊源**：拉丁 **certus**（确定的）→ 古法语 *certain*（确定的）→ 英语 certain + **-ly**（副词后缀），本义“确定地”，引申为“当然、无疑地”。
-- **同根词**：certain（cert 确定 + **-ain** ……的 = 确定的）、certainty（certain + **-ty** 名词后缀 = 确定性）、certify（cert 确定 + **-ify** 动词化 = 使确定→证明）、certificate（certify 证明 + **-ate** 名词后缀 = 证明书）。
-- **前缀·后缀**：无前缀；后缀 **-ly**（例：certainly）、**-ty**（例：certainty）、**-ify**（例：certify）、**-ate**（例：certificate）。
-- **同义·反义**：同义 surely, definitely；反义 doubtfully, uncertainly。
-- **词性变化**：certain adj. 确定的；certainty n. 确定性；certify v. 证明。
+- **词根·渊源**：拉丁 **certus**（确定的）→ 古法语 *certain* → 英语 certain + **-ly**，本义“确定地”，引申为“当然、无疑地”。
+- **同根词**：certain（单纯词，确定的）、certainty（certain + **-ty** 名词 = 确定性）、uncertain（**un-** 不 + certain 确定的 = 不确定的）、certify（cert 确定 + **-ify** 动词化 = 证明）、certificate（certify + **-ate** 名词 = 证书）。
+- **前缀·后缀**：前缀 **un-**（例：uncertain, unhappy）；副词后缀 **-ly**（例：certainly, quickly）。
+- **同义·反义**：同义 surely（确实）, definitely（肯定地）；反义 doubtfully（怀疑地）, uncertainly（不确定地）。
+- **变形**：副词 → 无比较级（通常不作比较）；形容词派生 → certain adj. 确定的；名词派生 → certainty n. 确定性。
 
 ### 14. recommend /ˌrekəˈmend/ v. 推荐；介绍
-- **词根·渊源**：拉丁 **re-**（再、加强）+ **commendare**（托付、称赞）→ 中世纪拉丁 *recommendare* → 英语，本义“郑重托付、称赞”，引申为“推荐、介绍”。
-- **同根词**：commend（**com-** 加强 + mend 托付 = 称赞、托付）、recommendation（recommend + **-ation** 名词后缀 = 推荐、建议）、commendable（commend + **-able** 可……的 = 值得称赞的）。
-- **前缀·后缀**：前缀 **re-**（例：recommend）、**com-**（例：commend）；后缀 **-ation**（例：recommendation）、**-able**（例：commendable）。
-- **同义·反义**：同义 suggest, advise；反义 无。
-- **词性变化**：recommendation n. 推荐；commend v. 称赞。
+- **词根·渊源**：拉丁 **re-**（再、加强）+ **commendare**（托付、称赞）→ 中世纪拉丁 *recommendare* → 英语，本义“再次托付、称赞”，引申为“推荐、介绍”。
+- **同根词**：recommendation（recommend + **-ation** 名词 = 推荐）、commend（**com-** 完全 + mend 托付 = 称赞、委托）、command（**com-** 完全 + mand 命令 = 命令）、mandate（mand 命令 + **-ate** 名词 = 授权、命令）。
+- **前缀·后缀**：前缀 **re-**（例：recommend, return）、**com-**（例：commend, command）；名词后缀 **-ation**（例：recommendation, information）。
+- **同义·反义**：同义 suggest（建议）, advise（劝告）；反义 discourage（劝阻）, warn against（告诫不要）。
+- **变形**：动词 → 第三人称单数：recommends；过去式：recommended；过去分词：recommended；现在分词：recommending；名词派生 → recommendation n. 推荐。
 
 ### 15. satisfy /ˈsætɪsfaɪ/ v. 使满意，使满足；满足（要求、需要等）
-- **词根·渊源**：拉丁 **satis**（足够）+ **facere**（做）→ 古法语 *satisfier* → 英语，本义“做得足够”，引申为“使满足、使满意”。
-- **同根词**：satisfaction（satis 足够 + fact 做 + **-ion** 名词后缀 = 做得足够→满意）、satisfactory（satisfy + **-ory** ……的 = 令人满意的）、satisfied（satisfy + **-ed** ……的 = 感到满意的）、saturate（satis 足够 + **-ate** 动词化 = 使足够→饱和）。
-- **前缀·后缀**：无前缀；后缀 **-ion**（例：satisfaction）、**-ory**（例：satisfactory）、**-ed**（例：satisfied）、**-ate**（例：saturate）。
-- **同义·反义**：同义 please, content；反义 dissatisfy, disappoint。
-- **词性变化**：satisfaction n. 满意；satisfactory adj. 令人满意的；satisfied adj. 满意的。
+- **词根·渊源**：拉丁 **satis**（足够）+ **facere**（做）→ 拉丁 *satisfacere*（做够）→ 古法语 *satisfier* → 英语，本义“做够、使足够”，引申为“使满意、满足”。
+- **同根词**：satisfaction（satisfy + **-action** 名词 = 满意）、satisfactory（satisfy + **-ory** ……的 = 令人满意的）、satisfied（satisfy + **-ed** ……的 = 满意的）、saturate（satis 足够 + **-ate** 动词 = 使饱和）、facile（fac 做 + **-ile** 易……的 = 容易的）。
+- **前缀·后缀**：无前缀；后缀 **-fy**（例：satisfy, simplify）、**-action**（例：satisfaction, action）。
+- **同义·反义**：同义 please（使高兴）, content（使满足）；反义 dissatisfy（使不满）, disappoint（使失望）。
+- **变形**：动词 → 第三人称单数：satisfies；过去式：satisfied；过去分词：satisfied；现在分词：satisfying；形容词派生 → satisfied adj. 满意的；satisfactory adj. 令人满意的；名词派生 → satisfaction n. 满意。
 
 ### 16. mix /mɪks/ v. 相混合；融合
-- **词根·渊源**：拉丁 **miscere**（混合）→ 古法语 *mixte* → 英语，本义“把东西混在一起”，引申为“相混合、融合”。
-- **同根词**：mixture（mix + **-ture** 名词后缀 = 混合物）、mixed（mix + **-ed** ……的 = 混合的）、mixer（mix + **-er** 物 = 搅拌器）。
-- **前缀·后缀**：无前缀；后缀 **-ture**（例：mixture）、**-ed**（例：mixed）、**-er**（例：mixer）。
-- **同义·反义**：同义 blend, combine；反义 separate, divide。
-- **词性变化**：mixture n. 混合物；mixed adj. 混合的；mixer n. 搅拌器。
+- **词根·渊源**：拉丁 **miscere**（混合）→ 古法语 *mixte* / 中古英语 *mixen* → 英语 mix，本义“混合”，引申为“融合”。
+- **同根词**：mixture（mix + **-ture** 名词 = 混合物）、mixed（mix + **-ed** ……的 = 混合的）、mixer（mix + **-er** 物 = 搅拌器）、promiscuous（**pro-** 向前 + misc 混合 + **-uous** ……的 = 混杂的）、miscellaneous（misc 混合 + **-aneous** ……的 = 混杂的）。
+- **前缀·后缀**：前缀 **pro-**（例：promiscuous, produce）；名词后缀 **-ture**（例：mixture, picture）。
+- **同义·反义**：同义 blend（混合）, combine（结合）；反义 separate（分开）, divide（分开）。
+- **变形**：动词 → 第三人称单数：mixes；过去式：mixed；过去分词：mixed；现在分词：mixing；名词派生 → mixture n. 混合物；mixer n. 搅拌器。
 
 ### 17. electronic /ɪˌlekˈtrɑ:nɪk/ adj. 电子的；电子设备的
-- **词根·渊源**：希腊 **ēlektron**（琥珀）→ 拉丁 *electrum* → 英语 electric（电的）+ **-onic**（……的），本义“与电有关的”，引申为“电子的”。
-- **同根词**：electric（electr 电 + **-ic** ……的 = 电的）、electricity（electric + **-ity** 名词后缀 = 电、电力）、electron（electr 电 + **-on** 粒子后缀 = 电子）、electronics（electronic + **-s** 学科 = 电子学）。
-- **前缀·后缀**：无前缀；后缀 **-ic**（例：electric）、**-ity**（例：electricity）、**-on**（例：electron）、**-s**（例：electronics）。
-- **同义·反义**：同义 无；反义 无。
-- **词性变化**：electric adj. 电的；electricity n. 电；electron n. 电子；electronics n. 电子学。
+- **词根·渊源**：希腊 **ēlektron**（琥珀）→ 拉丁 *electrum* → 英语 electric（电的）+ **-onic**（……学的），本义“与琥珀摩擦生电有关的”，引申为“电子的”。
+- **同根词**：electric（electr 电 + **-ic** ……的 = 电的）、electricity（electric + **-ity** 名词 = 电）、electron（electr 电 + **-on** 粒子 = 电子）、electronics（electronic + **-s** 学科 = 电子学）。
+- **前缀·后缀**：无前缀；后缀 **-ic**（例：electric, basic）、**-onic**（例：electronic, harmonic）。
+- **同义·反义**：同义 digital（数字的）；反义 mechanical（机械的）, manual（手动的）。
+- **变形**：形容词 → 无比较级（关系形容词）；名词派生 → electronics n. 电子学；副词派生 → electronically adv. 电子地。
 
 ### 18. relax /rɪˈlæks/ v. 休息，（使）放松；放心，镇定；松开，（使）松弛
-- **词根·渊源**：拉丁 **re-**（回、再）+ **laxare**（放松）→ 拉丁 *relaxare* → 英语，本义“使松弛、放松”，引申为“休息、放松”。
-- **同根词**：relaxation（relax + **-ation** 名词后缀 = 放松、休息）、relaxed（relax + **-ed** ……的 = 放松的）、lax（lax 松弛 = 松弛的、松懈的）、laxative（lax 松弛 + **-ative** ……的 = 使松弛的→泻药）。
-- **前缀·后缀**：前缀 **re-**（例：relax）；后缀 **-ation**（例：relaxation）、**-ed**（例：relaxed）、**-ative**（例：laxative）。
-- **同义·反义**：同义 rest, loosen；反义 tighten, tense。
-- **词性变化**：relaxation n. 放松；relaxed adj. 放松的；lax adj. 松弛的。
+- **词根·渊源**：拉丁 **re-**（回、再）+ **laxare**（放松）→ 拉丁 *relaxare*（放松）→ 古法语 *relaxer* → 英语，本义“使松弛”，引申为“放松、休息”。
+- **同根词**：relaxation（relax + **-ation** 名词 = 放松）、relaxed（relax + **-ed** ……的 = 放松的）、relaxing（relax + **-ing** ……的 = 令人放松的）、lax（单纯词，松弛的）、laxative（lax 松弛 + **-ative** ……的 = 通便的）。
+- **前缀·后缀**：前缀 **re-**（例：relax, return）；名词后缀 **-ation**（例：relaxation, information）。
+- **同义·反义**：同义 rest（休息）, loosen（放松）；反义 tense（使紧张）, tighten（收紧）。
+- **变形**：动词 → 第三人称单数：relaxes；过去式：relaxed；过去分词：relaxed；现在分词：relaxing；名词派生 → relaxation n. 放松；形容词派生 → relaxed adj. 放松的；relaxing adj. 令人放松的。
 
 ### 19. while /waɪl/ n. 在...期间；一会儿，一段时间；当...的时候
-- **词根·渊源**：古英语 *hwīl*（一段时间）→ 中古英语 *while*，本义“一段时间”，由“时间段”引申出连词“当……的时候”、名词“一会儿”。
-- **同根词**：whilst（while + **-st** 副词性词尾：当……时，英式旧用）、meanwhile（**mean-** 中间的 + while 时间 = 其间→与此同时）、awhile（**a-** 在……中 + while 时间 = 片刻）、worthwhile（worth 值得 + while 时间 = 值得花时间的→值得的）。
+- **词根·渊源**：古英语 *hwīl*（一段时间）→ 中古英语 *while*，本义“一段时间”，引申为连词“当……的时候”、名词“一会儿”。
+- **同根词**：whilst（while + **-st** 的变体：当……时，英式）、meanwhile（**mean-** 中间 + while 时间 = 其间→同时）、worthwhile（**worth** 值得 + while 时间 = 值得花时间的→值得的）、awhile（**a-** 在 + while 时间 = 片刻）。
 - **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 when, meantime；反义 无。
-- **词性变化**：whilst conj. 当……时（英式）；meanwhile adv. 与此同时。
+- **同义·反义**：同义 moment（片刻）, time（时间）；反义 无。
+- **变形**：名词 → 复数：whiles（多作不可数）；连词无形态变化；副词派生 → 无。
 
 ### 20. technology /tekˈnɑ:lədʒi/ n. 科技；工艺；技术
-- **词根·渊源**：希腊 **tekhnē**（技艺、手艺）+ **-logia**（学问、研究）→ 拉丁 *technologia* → 英语，本义“关于技艺的学问”，引申为“技术、科技”。
-- **同根词**：technical（techn 技艺 + **-ical** ……的：技术的）、technique（techn 技艺 + **-ique** 名词词尾：技巧）、technician（technic 技术 + **-ian** 人：技术员）、technological（technology + **-ical** ……的：技术的）、biotechnology（**bio-** 生物 + technology 技术 = 生物技术）。
+- **词根·渊源**：希腊 **tekhnē**（技艺）+ **-logia**（学问）→ 拉丁 *technologia* → 英语，本义“关于技艺的学问”，引申为“科技、技术”。
+- **同根词**：technical（techn 技艺 + **-ical** ……的：技术的）、technician（techn 技艺 + **-ician** 人：技术员）、technique（techn 技艺 + **-ique** 名词后缀：技巧）、technological（technology + **-ical** ……的：科技的）、biotechnology（**bio-** 生物 + technology 技术 = 生物技术）。
 - **前缀·后缀**：名词后缀 **-logy**（例：biology, geology）；前缀 **bio-**（例：biography）。
-- **同义·反义**：同义 technique, science；反义 无。
-- **词性变化**：technical adj. 技术的；technician n. 技术员；technological adj. 技术的。
+- **同义·反义**：同义 technique（技术）, science（科学）；反义 无。
+- **变形**：名词 → 复数：technologies；形容词派生 → technological adj. 科技的；technological 的副词 → technologically adv. 科技地。
 
 ### 21. software /ˈsɔːftwer/ n. 软件
-- **词根·渊源**：**soft**（软的）+ **ware**（制品、器件），20 世纪仿 hardware（硬件）造出的新词，本义“软性制品”，指计算机程序及相关数据。
-- **同根词**：hardware（**hard-** 硬的 + ware 制品 = 硬件）、ware（制品，单纯词）、warehouse（ware 货物 + house 房子 = 仓库）、firmware（**firm-** 稳固的 + ware 制品 = 固件）、freeware（**free-** 免费的 + ware 制品 = 免费软件）。
-- **前缀·后缀**：复合词，无前后缀（soft + ware）。
-- **同义·反义**：同义 program；反义 hardware。
-- **词性变化**：无常见派生词。
+- **词根·渊源**：**soft**（软的）+ **ware**（制品）→ 20 世纪英语复合词，仿 hardware（硬件）而造，本义“软制品”，指计算机程序。
+- **同根词**：hardware（**hard** 硬 + ware 制品 = 硬件）、ware（制品，单独成词）、warehouse（ware 制品 + **house** 房子 = 仓库）、firmware（**firm** 稳固 + ware 制品 = 固件）、malware（**mal-** 坏 + ware 制品 = 恶意软件）。
+- **前缀·后缀**：无前后缀（复合词）。
+- **同义·反义**：同义 program（程序）, application（应用程序）；反义 hardware（硬件）。
+- **变形**：名词 → 复数：softwares（多作不可数）；形容词派生 → 无常用派生。
 
 ### 22. virus /ˈvaɪrəs/ n. 病毒；病毒性疾病，病毒感染；（计算机）病毒
-- **词根·渊源**：拉丁 **vīrus**（毒液、黏液、毒素）→ 英语，本义“毒液”，19 世纪末借指致病微生物“病毒”，20 世纪引申指“计算机病毒”。
-- **同根词**：viral（vir 病毒 + **-al** ……的：病毒的；病毒式的）、virology（vir 病毒 + **-ology** 学问 = 病毒学）、antivirus（**anti-** 抗 + virus 病毒 = 抗病毒的）、virulent（vir 毒 + **-ulent** 多……的：剧毒的）。
+- **词根·渊源**：拉丁 **vīrus**（毒液、黏液、毒物）→ 英语，本义“毒物”，19 世纪起指致病微生物，20 世纪引申指计算机病毒。
+- **同根词**：viral（vir 毒 + **-al** ……的：病毒的；病毒式的）、virology（vir 毒 + **-ology** 学问 = 病毒学）、antivirus（**anti-** 抗 + virus 病毒 = 抗病毒的）、virulent（vir 毒 + **-ulent** 多……的：剧毒的）。
 - **前缀·后缀**：名词后缀 **-ology**（例：biology, psychology）；前缀 **anti-**（例：antibody, antibiotic）。
-- **同义·反义**：同义 germ, bug；反义 无。
-- **词性变化**：viral adj. 病毒的；virology n. 病毒学。
+- **同义·反义**：同义 germ（病菌）, bug（小病；程序错误）；反义 无。
+- **变形**：名词 → 复数：viruses；形容词派生 → viral adj. 病毒的；副词派生 → virally adv. 病毒式地。
 
 ### 23. prepare /prɪˈper/ v. 准备；使（自己）有准备
-- **词根·渊源**：拉丁 **parāre**（备好、使就绪）→ 拉丁 *praeparāre*（**prae-** 预先 + parāre 备好）→ 古法语 *preparer* → 英语，本义“预先备好”，即“准备”。
-- **同根词**：preparation（prepar + **-ation** 名词词尾：准备）、preparatory（prepar + **-atory** ……的：预备的）、repair（**re-** 再 + pair 备好 = 重新备好→修理）、apparatus（**ad-** 向 + par 备好 + **-atus** 名词词尾 = 备好的器具→器械）、separate（**se-** 分开 + par 备好 + **-ate** = 分开备置→分离）。
-- **前缀·后缀**：前缀 **pre-**（例：predict, prevent）；名词后缀 **-ation**（例：information, education）。
-- **同义·反义**：同义 get ready, arrange；反义 neglect。
-- **词性变化**：preparation n. 准备；preparatory adj. 预备的；prepared adj. 有准备的。
+- **词根·渊源**：拉丁 **prae-**（在前）+ **parāre**（备好）→ 法语 *préparer* → 英语，本义“事先备好”，即“准备”。
+- **同根词**：preparation（pre- 前 + par 备 + **-ation** 名词后缀：准备）、preparatory（pre- 前 + par 备 + **-atory** ……的：预备的）、repair（**re-** 再 + pair 备 = 重新备好→修理）、apparatus（**ad-** 向 + par 备 + **-atus** 名词后缀：装备）、separate（**se-** 分开 + par 备 = 分开备置→分离）。
+- **前缀·后缀**：前缀 **pre-**（例：predict, prevent）；动词后缀 **-ate**（例：create, calculate）。
+- **同义·反义**：同义 ready（使准备好）, arrange（安排）；反义 neglect（忽视）, ignore（不理）。
+- **变形**：动词 → 第三人称单数：prepares；过去式：prepared；过去分词：prepared；现在分词：preparing；名词派生 → preparation n. 准备；形容词派生 → prepared adj. 有准备的；副词派生 → preparedly adv. 有准备地。
 
 ### 24. in the present /ɪn ðə ˈprɛzənt/ prep. 在目前；现在
-- **同义搭配**：at present / at the moment / right now
-- **反义搭配**：in the past / in the future
+- **同义搭配**：at present / for now
+- **反义搭配**：in the past
 
 ### 25. at the front /æt ðə frʌnt/ prep. 在前面；在前线
-- **同义搭配**：in the front / at the head / in the lead
-- **反义搭配**：at the back / in the rear
+- **同义搭配**：in front / at the head
+- **反义搭配**：at the back
 
 ### 26. on the Internet /ɔn ðə ˈɪntərˌnɛt/ prep. 在互联网上
-- **同义搭配**：online / on the Web / on the Net
+- **同义搭配**：online / on the Net
 - **反义搭配**：offline
 
 ### 27. in the shape of /ɪn ðə ʃeɪp əv/ prep. 以……的形式；呈……的形状
-- **同义搭配**：in the form of / shaped like
+- **同义搭配**：in the form of / in the guise of
 - **反义搭配**：无
 
 ### 28. mix...... with......  n. 相混合 ; 和 ; 与…混合
-- **同义搭配**：combine... with... / blend... with... / put... together with...
-- **反义搭配**：separate... from... / divide... from...
+- **同义搭配**：combine ... with ... / blend ... with ...
+- **反义搭配**：separate ... from ...
 
 ### 29. prepare for /priˈpɛr fər/ n. 为……做准备；使有准备
-- **同义搭配**：get ready for / make preparations for / gear up for
-- **反义搭配**：无
+- **同义搭配**：get ready for / make preparations for
+- **反义搭配**：neglect
 
 ### 30. in a second /ɪn ə ˈsekənd/ prep. 立刻，很快；片刻；瞬间
-- **同义搭配**：in a moment / right away / at once
+- **同义搭配**：in a moment / right away
 - **反义搭配**：无
 
 ## 三、本单元前缀 / 后缀小结
@@ -221,50 +221,51 @@
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
 | inter- | 在……之间 | Internet | international, interact, interrupt |
-| -net | 网（词根 net） | Internet | network, netizen |
-| a-（希腊语前缀） | 离开；非 | apology | atypical, anonymous, apathy |
-| apo- | 离开 | apology | apostle, apocalypse |
-| -logy | ……学；……论 | apology（-logy 变体 -logia） | biology, psychology, technology |
-| hydro- | 水 | hydrogen | hydroelectric, hydroplane |
-| -gen | 产生；生成 | hydrogen | oxygen, nitrogen, generate |
-| re- | 再；回 | recommend, recently, relax | return, review, rebuild |
-| -ly | ……地（副词后缀） | recently, certainly, forever | quickly, happily, carefully |
-| -ment | 名词后缀 | — | movement, development, argument |
-| -ic | ……的（形容词后缀） | electronic | basic, historic, scientific |
-| -er | ……者；……物 | forever（ever 的比较级 -er） | teacher, worker, computer |
+| -net | 网（network 缩略） | Internet | network, netizen |
+| -al | 形容词后缀 | apology（名词） | natural, national, personal |
+| -y | 名词后缀 | apology | discovery, delivery, honesty |
+| -ic | 形容词后缀“……的” | electronic | basic, historic, scientific |
+| -ly | 副词后缀 | recently, certainly, forever | quickly, happily, carefully |
+| -tion | 名词后缀 | satisfaction（satisfy 的名词） | action, education, information |
+| -ment | 名词后缀 | recommendation（recommend 的名词） | movement, development, agreement |
+| -er | 名词后缀（人/物） | forever（存疑，forever 为 fore+ever 复合） | teacher, worker, computer |
+| -ous | 形容词后缀 | virus（名词） | famous, dangerous, nervous |
+| re- | 再；回 | recommend, relax, recently | return, review, rebuild |
+| pre- | 前；预先 | prepare, present | preview, predict, prevent |
+| com- | 共同；一起 | recommend（com- 变体） | combine, communicate, compare |
+| -ify | 动词后缀“使……” | satisfy | simplify, beautify, classify |
 | -ware | 制品；器皿 | software | hardware, glassware, silverware |
-| -ous | ……的（形容词后缀） | — | famous, dangerous, nervous |
-| -fy | 使……化 | satisfy | simplify, beautify, classify |
-| pre- | 在前；预先 | prepare, present | preview, predict, prepare |
+| -ence | 名词后缀 | present（存疑） | difference, experience, silence |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
-| 词 | 同义 | 反义 |
+| 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| Internet | net, web | — |
-| post | mail, publish | — |
-| apology | regret, excuse | — |
-| excuse | reason, pardon | blame |
-| past | history, yesterday | present, future |
-| present | now, current | past, future |
-| wide | broad, extensive | narrow |
-| shape | form, figure | — |
-| recently | lately, newly | long ago |
-| forever | eternally, always | never, temporarily |
-| certainly | surely, definitely | uncertainly, doubtfully |
-| recommend | suggest, advise | — |
-| satisfy | please, content | dissatisfy, disappoint |
-| mix | blend, combine | separate, divide |
-| electronic | digital, electric | — |
-| relax | rest, loosen | tense, tighten |
-| while | when, during | — |
-| technology | technique, science | — |
-| virus | germ, bug | — |
-| prepare | arrange, ready | neglect |
+| Internet | network（网络） | — |
+| post | mail（邮寄）；publish（发布） | — |
+| apology | regret（歉意） | — |
+| excuse | reason（理由）；pardon（原谅） | blame（责备） |
+| past | history（历史）；bygone（过去的） | present（现在）；future（未来） |
+| present | current（目前的）；now（现在） | past（过去）；future（未来） |
+| wide | broad（宽的） | narrow（窄的） |
+| shape | form（形状）；figure（外形） | — |
+| cafe | coffee shop（咖啡馆） | — |
+| recently | lately（最近） | long ago（很久以前） |
+| forever | eternally（永远地） | temporarily（暂时地） |
+| certainly | surely（肯定地）；of course（当然） | doubtfully（怀疑地） |
+| recommend | suggest（推荐）；advise（建议） | — |
+| satisfy | please（使满意）；meet（满足） | dissatisfy（使不满） |
+| mix | blend（混合）；combine（结合） | separate（分开） |
+| electronic | digital（数字的） | mechanical（机械的） |
+| relax | rest（休息）；loosen（放松） | tense（紧张） |
+| while | when（当……时）；moment（一会儿） | — |
+| technology | technique（技术）；science（科学） | — |
+| prepare | ready（准备）；arrange（安排） | — |
 
 ---
 
 ### 制作说明
 - 词源按 Oxford / Merriam-Webster / Online Etymology Dictionary 整理，**不是教材原文**。
 - 同根词的括注给出构词路径，用于理解“为什么是这个意思”，不要求背诵。
+- “变形”里的时态、复数、比较级按《牛津高阶》通行形式给出；标“无比较级 / 不可数”的是本身不作变化的情况。
 - 若需增删（例如只保留高频词、加例句），在此文件上直接改即可。

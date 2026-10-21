@@ -2,269 +2,264 @@
 
 > 配套 `8A_U4.md`（沪教牛津版 2024/2025 修订，30 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
-> 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义 / 词性变化。
+> 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
 ## 一、本单元词根地图
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
 | vert/vers | 转 | 拉丁语 vertere | advertisement | convert, reverse, universe, version |
-| cre | 生长；产生 | 拉丁语 creare | create | increase, decrease, concrete, creature |
-| tele | 远 | 希腊语 tēle | telephone | television, telescope, telegraph, telecom |
-| phon | 声音 | 希腊语 phōnē | telephone | phonetics, symphony, microphone, saxophone |
-| port | 携带；运 | 拉丁语 portare | passenger（存疑，一说源自 passager，与 port 无直接词源关系） | transport, portable, import, export |
-| vent | 来 | 拉丁语 venire | invent | prevent, event, convention, adventure |
-| st/stant | 站；立 | 拉丁语 stare | distance | stand, stable, constant, statue |
-| velop | 包裹（存疑） | 古法语 voloper | develop | envelope, development |
+| cre | 生长；产生 | 拉丁语 creare | create | increase, decrease, concrete, recruit |
+| tele | 远 | 希腊语 tēle | telephone | telescope, television, telegram, telegraph |
+| phon | 声音 | 希腊语 phōnē | telephone | phone, symphony, microphone, phonetics |
+| port | 携带；运 | 拉丁语 portare | passenger（存疑，一说源自 passagium） | transport, portable, import, export |
+| ven | 来 | 拉丁语 venire | invent | prevent, convene, event, avenue |
+| dist | 站开；远离 | 拉丁语 distare | distance | distant, equidistant |
+| ped/pod | 脚 | 拉丁语 pes, pedis | petrol（存疑，源自希腊语 petra 岩石） | pedal, pedestrian, tripod, podium |
+| cent | 百 | 拉丁语 centum | century | percent, cent, centipede, centennial |
+| duc | 引导 | 拉丁语 ducere | introduction | produce, reduce, conduct, educate |
+| spect | 看 | 拉丁语 specere | special（存疑，源自 species 外观） | inspect, respect, spectator, suspect |
+| mob/mot | 动 | 拉丁语 movere | mobile phone | motion, move, promote, remote |
+| velop | 包裹 | 古法语 voloper | develop | envelope, envelop |
 | cand | 发光；白 | 拉丁语 candere | candle | candid, candidate, incandescent |
-| duc/duct | 引导 | 拉丁语 ducere | introduction | produce, reduce, conduct, education |
-| spec | 看 | 拉丁语 specere | special | inspect, respect, spectator, perspective |
-| petr | 石；岩 | 希腊语 petra | petrol | petroleum, petrify, petrology |
-| tang/tact | 触摸 | 拉丁语 tangere | keep in touch with（touch 与 tact 同源） | contact, tactile, tangible, contagious |
-| mob/mot | 动 | 拉丁语 movere | mobile phone | motion, move, promote, emotion |
-| temp | 时间 | 拉丁语 tempus | at the same time（time 与 temp 同源，存疑） | temporary, tempo, contemporary |
-| intro | 向内 | 拉丁语 intro | introduction | introduce, introvert, introspect |
 
 ## 二、逐词说文解字
 
 ### 1. advertisement /ˌædvərˈtaɪzmənt/ n. 广告；（某一类事物的）活广告；广告活动，广告宣传
-- **词根·渊源**：拉丁 **ad-**（向）+ **vertere**（转）→ 拉丁 *advertere*（使转向、使注意）→ 古法语 *avertir*（提醒、告知）→ 英语 *advertise*（使注意→做广告）+ 名词后缀 **-ment**；本义“使人的注意力转向某物”，引申为“广告、广告宣传”。
-- **同根词**：advertise（**ad-** 向 + vert 转 = 使注意力转向→做广告）、advertising（advertise + **-ing** 名词后缀：广告业）、advertiser（advertise + **-er** 人：广告商）、advert（**ad-** 向 + vert 转 = 使注意→提及、谈到）、convert（**con-** 完全 + vert 转 = 完全转过来→转变）、reverse（**re-** 回 + vers 转 = 转回去→颠倒）、version（vers 转 + **-ion** 名词后缀：转成的说法→版本）。
-- **前缀·后缀**：前缀 **ad-**（例：advance, admire）；后缀 **-ment**（例：movement, development）。
-- **同义·反义**：同义 ad, commercial, promotion；反义 无。
-- **词性变化**：advertise v. 做广告；advertising n. 广告业；advertiser n. 广告商。
+- **词根·渊源**：拉丁 **ad-**（向）+ **vertere**（转）→ 拉丁 *advertere*（使转向、注意）→ 古法语 *avertir*（提醒）→ 英语 *advertise*（使注意→做广告）+ 名词后缀 **-ment**；本义“使人转向注意某物”，引申为“广告”。
+- **同根词**：advertise（**ad-** 向 + vert 转 = 使注意力转向→做广告）、advertising（advertise + **-ing** 名词化→广告业）、advertiser（advertise + **-er** 人→广告商）、advert（**ad-** 向 + vert 转 = 使注意→提及、广告缩略）、convert（**con-** 完全 + vert 转 = 完全转变→转换）、reverse（**re-** 回 + vers 转 = 转回→颠倒）、version（vers 转 + **-ion** 名词→转换成的说法→版本）。
+- **前缀·后缀**：前缀 **ad-**（例：advance, admire）；名词后缀 **-ment**（例：movement, development）。
+- **同义·反义**：同义 ad（广告）, commercial（商业广告）；反义 无。
+- **变形**：名词 → 复数：advertisements；动词派生 → advertise v. 做广告；名词派生 → advertiser n. 广告商；形容词派生 → advertised adj. 被广告的。
 
 ### 2. funny /ˈfʌni/ adj. 滑稽的；好笑的
-- **词根·渊源**：英语 **fun**（玩笑、乐趣，18世纪由“愚弄”义演变而来，词源存疑）+ 形容词后缀 **-y**；本义“与玩笑有关的”，引申为“滑稽的、好笑的”。
-- **同根词**：fun（单纯词：乐趣、玩笑）、funny-looking（funny + look 看 + **-ing** …的：样子古怪的）、funfair（fun 乐趣 + fair 集市：游乐场）。
-- **前缀·后缀**：形容词后缀 **-y**（例：rainy, lucky）；无前缀。
-- **同义·反义**：同义 amusing, humorous, comical；反义 serious, boring。
-- **词性变化**：fun n. 乐趣；fun adv. 滑稽地（口语）。
+- **词根·渊源**：英语 **fun**（玩笑，可能源自中古英语 *fonnen*“愚弄”，词源存疑）+ 形容词后缀 **-y**；本义“与玩笑有关的”，引申为“滑稽的、好笑的”。
+- **同根词**：fun（fun + 零后缀 = 玩笑→乐趣）、funny-looking（funny + looking 看起来 = 样子古怪的）、funfair（fun + fair 集市 = 游乐场）。
+- **前缀·后缀**：形容词后缀 **-y**（例：rainy, sunny）。
+- **同义·反义**：同义 amusing（逗人笑的）, humorous（幽默的）；反义 serious（严肃的）, sad（悲伤的）。
+- **变形**：形容词 → 比较级：funnier；最高级：funniest；名词派生 → funniness n. 滑稽；副词派生 → funnily adv. 滑稽地。
 
 ### 3. create /kriˈet/ v. 创造；创作；创建；造成，引起
-- **词根·渊源**：拉丁 **creare**（产生、创造）→ 拉丁 *creatus*（创造的过去分词）→ 英语 *create*；本义“使产生、使生长”，引申为“创造、创作、造成”。
-- **同根词**：creation（create + **-ion** 名词后缀：创造、创作）、creative（create + **-ive** …的：有创造力的）、creator（create + **-or** 人：创造者）、creature（creat 创造 + **-ure** 名词后缀：被创造物→生物）、recreate（**re-** 再 + create 创造 = 再创造→使恢复精神）、procreate（**pro-** 向前 + create 产生 = 向前产生→生育）。
-- **前缀·后缀**：前缀 **re-**（例：rebuild）、**pro-**（例：progress）；后缀 **-ion**（例：action）、**-ive**（例：active）。
-- **同义·反义**：同义 make, produce, invent；反义 destroy, ruin。
-- **词性变化**：creation n. 创造；creative adj. 有创造力的；creator n. 创造者；creature n. 生物。
+- **词根·渊源**：拉丁 **creare**（生育、产生、创造）→ 拉丁 *creatus*（create 的过去分词）→ 英语；本义“使生长、产生”，引申为“创造、创作”。
+- **同根词**：creation（creat 创造 + **-ion** 名词→创造）、creative（creat + **-ive** …的→有创造力的）、creator（creat + **-or** 人→创造者）、creature（creat + **-ure** 名词→被造物→生物）、procreate（**pro-** 向前 + create = 向前生育→繁殖）、recreate（**re-** 再 + create = 再创造→使恢复）。
+- **前缀·后缀**：动词后缀 **-ate**（例：celebrate, separate）；前缀 **pro-**（例：produce）、**re-**（例：rebuild）。
+- **同义·反义**：同义 invent（发明）, produce（产生）；反义 destroy（毁灭）, ruin（毁坏）。
+- **变形**：动词 → 第三人称单数：creates；过去式：created；过去分词：created；现在分词：creating；名词派生 → creation n. 创造；creator n. 创造者；形容词派生 → creative adj. 有创造力的；副词派生 → creatively adv. 有创造力地。
 
 ### 4. telephone /ˈtelɪfəʊn/ n. 电话；电话机
-- **词根·渊源**：希腊 **tēle**（远）+ **phōnē**（声音）→ 法语 *téléphone* → 英语 *telephone*；本义“远传的声音”，即“电话、电话机”。
-- **同根词**：telegraph（tele 远 + graph 写 = 远距离写的→电报）、telescope（tele 远 + scope 看 = 看远处的→望远镜）、telegram（tele 远 + gram 写的东西 = 电报）、phonograph（phono 声音 + graph 写 = 写声音的→留声机）、microphone（**micro-** 小 + phone 声音 = 小声音放大→麦克风）、symphony（**sym-** 共同 + phon 声音 + **-y** 名词后缀：共同发出的声音→交响乐）。
-- **前缀·后缀**：前缀 **tele-**（例：television, telescope）、**micro-**（例：microscope）；后缀 **-phone**（例：microphone, earphone）。
-- **同义·反义**：同义 phone, call；反义 无。
-- **词性变化**：telephone v. 打电话；telephonic adj. 电话的。
+- **词根·渊源**：希腊 **tēle**（远）+ **phōnē**（声音）→ 法语 *téléphone* → 英语；本义“远传声音的装置”，即“电话”。
+- **同根词**：telegram（tele 远 + gram 写 = 远距离写的→电报）、television（tele 远 + vision 看 = 远距离看→电视）、telescope（tele 远 + scope 看 = 看远处→望远镜）、telephone（tele 远 + phone 声音 = 远传声音→电话）、phonetic（phon 声音 + **-etic** 形容词→语音的）、symphony（**sym-** 共同 + phon 声音 + **-y** 名词 = 共同发声→交响乐）、microphone（**micro-** 小 + phone 声音 = 放大小声→麦克风）。
+- **前缀·后缀**：前缀 **tele-**（例：telegram, telescope）、**micro-**（例：microscope）；词根 **phon-**（例：phonetics）。
+- **同义·反义**：同义 phone（电话）, call（通话）；反义 无。
+- **变形**：名词 → 复数：telephones；动词派生 → telephone v. 打电话；形容词派生 → telephonic adj. 电话的。
 
 ### 5. wheel /wiːl/ n. 轮子；车轮
-- **词根·渊源**：古英语 **hwēol**（轮子）→ 中古英语 *whele* → 英语 *wheel*；与古诺斯语 *hjōl* 同源，出自 PIE *kʷekʷlo-*（轮子），本义即“轮子、车轮”。
-- **同根词**：wheelchair（wheel 轮 + chair 椅：轮椅）、wheelbarrow（wheel 轮 + barrow 手推车：独轮车）、wheeler（wheel + **-er** 表物：有轮子的车）、wheeling（wheel + **-ing** 名词后缀：旋转）。
-- **前缀·后缀**：无前缀；后缀 **-er**（例：worker）、**-ing**（例：running）。
-- **同义·反义**：同义 tire, circle；反义 无。
-- **词性变化**：wheel v. 推动、旋转；wheeled adj. 有轮的。
+- **词根·渊源**：古英语 **hwēol**（轮子）→ 中古英语 *wheel* → 英语；源自 PIE *kʷekʷlo-*（轮子），与希腊 *kyklos*（圆圈）同源；本义“圆形滚动之物”，即“轮子”。
+- **同根词**：wheelchair（wheel + chair 椅子 = 轮椅）、wheelbarrow（wheel + barrow 手推车 = 独轮车）、wheeler（wheel + **-er** 物→有轮子的车）、cycle（希腊 kyklos 圆圈→循环）、bicycle（**bi-** 二 + cycle 轮 = 两轮车→自行车）、tricycle（**tri-** 三 + cycle 轮 = 三轮车）。
+- **前缀·后缀**：名词后缀 **-er**（例：worker, teacher）；前缀 **bi-**（例：bilingual）、**tri-**（例：triangle）。
+- **同义·反义**：同义 无；反义 无。
+- **变形**：名词 → 复数：wheels；动词派生 → wheel v. 推动、转动；形容词派生 → wheeled adj. 有轮的。
 
 ### 6. comfortable /ˈkʌmftəbl/ adj. 使人舒服的；舒适的
-- **词根·渊源**：拉丁 **con-**（共同、加强）+ **fortis**（强壮的）→ 拉丁 *confortare*（使强壮）→ 古法语 *conforter*（安慰、使舒适）→ 英语 *comfort*（安慰、舒适）+ 形容词后缀 **-able**；本义“能给人力量的”，引申为“使人舒服的、舒适的”。
-- **同根词**：comfort（**con-** 加强 + fort 强 = 使强壮→安慰、舒适）、comfortably（comfortable + **-ly** 副词后缀：舒适地）、uncomfortable（**un-** 不 + comfortable 舒适的：不舒适的）、fortify（fort 强 + **-ify** 使…：使坚固）、fortress（fort 强 + **-ress** 名词后缀：坚固的地方→堡垒）、effort（**ef-** 出 + fort 力 = 使出力量→努力）。
-- **前缀·后缀**：前缀 **con-**（例：connect）、**un-**（例：unhappy）；后缀 **-able**（例：readable）、**-ly**（例：quickly）。
-- **同义·反义**：同义 cozy, pleasant；反义 uncomfortable, harsh。
-- **词性变化**：comfort n. 舒适；comfortably adv. 舒适地；uncomfortable adj. 不舒适的。
+- **词根·渊源**：拉丁 **con-**（共同、加强）+ **fortis**（强壮）→ 拉丁 *confortare*（使强壮）→ 古法语 *conforter*（安慰）→ 英语 *comfort*（安慰、舒适）+ 形容词后缀 **-able**；本义“能给人力量的”，引申为“舒适的”。
+- **同根词**：comfort（**con-** 加强 + fort 强壮 = 使强壮→安慰、舒适）、comfortably（comfortable + **-ly** 副词→舒适地）、uncomfortable（**un-** 不 + comfortable = 不舒适的）、fortify（fort 强壮 + **-ify** 使→加固）、fortress（fort 强壮 + **-ress** 名词→堡垒）、effort（**ef-** 出 + fort 力量 = 使出力量→努力）。
+- **前缀·后缀**：前缀 **con-**（例：connect）、**un-**（例：unhappy）；形容词后缀 **-able**（例：readable, movable）。
+- **同义·反义**：同义 cozy（舒适的）, pleasant（令人愉快的）；反义 uncomfortable（不舒适的）, harsh（严酷的）。
+- **变形**：形容词 → 比较级：more comfortable；最高级：most comfortable；名词派生 → comfort n. 舒适；副词派生 → comfortably adv. 舒适地；反义派生 → uncomfortable adj. 不舒适的。
 
 ### 7. carriage /ˈkærɪdʒ/ n.（旧时载客的）四轮马车
-- **词根·渊源**：古北法语 **carier**（用车运送）→ 古法语 *carriage*（运送、车）→ 英语 *carriage*；词根与拉丁 **carrus**（四轮车）有关，本义“运送、载运”，引申为“载客的四轮马车”。
-- **同根词**：carry（carr 车 + **-y** 动词后缀：用车运→携带）、carrier（carry + **-er** 人/物：运送者）、car（carr 车：汽车）、cart（carr 车 + **-t** 名词后缀：二轮运货车）、charge（与 carriage 同源，本义“装载”→收费、指控）。
-- **前缀·后缀**：无前缀；后缀 **-age**（例：marriage, package）。
-- **同义·反义**：同义 coach, wagon；反义 无。
-- **词性变化**：carry v. 运送；carrier n. 运送者；car n. 汽车。
+- **词根·渊源**：古北法语 **carier**（用车运送）→ 古北法语 *carriage*（运送、车）→ 英语；源自拉丁 *carricare*（装车），与 **car**（车）同源；本义“运送行为、运载工具”，引申为“四轮马车”。
+- **同根词**：carry（carri 运送 + **-y** 动词→携带）、carrier（carri + **-er** 人或物→搬运者）、car（拉丁 carrus 车→汽车）、cart（古英语 cræt 车→手推车）、cargo（西班牙语 cargar 装载→货物）、charge（古法语 chargier 装载→装载→收费）。
+- **前缀·后缀**：名词后缀 **-age**（例：marriage, package）。
+- **同义·反义**：同义 coach（四轮马车）, wagon（马车）；反义 无。
+- **变形**：名词 → 复数：carriages；名词派生 → carrier n. 搬运者；动词派生 → carry v. 携带。
 
 ### 8. century /ˈsɛntʃəri/ n. 百年；世纪
-- **词根·渊源**：拉丁 **centum**（百）+ **-uria**（表集合的名词后缀）→ 拉丁 *centuria*（百人队、百个一组）→ 古法语 *centurie* → 英语 *century*；本义“一百个一组”，引申为“一百年、世纪”。
-- **同根词**：cent（cent 百：分，百分之一）、percent（**per-** 每 + cent 百 = 每一百→百分比）、centipede（cent 百 + pede 脚 = 百脚→蜈蚣）、centurion（cent 百 + **-urion** 人：百人队队长）、centennial（cent 百 + **-ennial** 年的：百年的）。
-- **前缀·后缀**：前缀 **per-**（例：perfect）；后缀 **-ury**（例：injury）。
-- **同义·反义**：同义 hundred years；反义 无。
-- **词性变化**：centurial adj. 百年的；centennial adj. 百年的。
+- **词根·渊源**：拉丁 **centum**（百）+ **-uria**（名词后缀，表集合）→ 拉丁 *centuria*（百人队、百数）→ 古法语 *centurie* → 英语；本义“一百个一组”，引申为“一百年、世纪”。
+- **同根词**：cent（centum 百→分→一分钱）、percent（**per-** 每 + cent 百 = 每一百→百分比）、centipede（centi 百 + pede 足 = 百足→蜈蚣）、centimeter（centi 百 + meter 米 = 百分之一米→厘米）、centurion（centuri 百人队 + **-on** 人→百夫长）。
+- **前缀·后缀**：前缀 **per-**（例：perfect）；词根 **centi-**（例：centimeter, centipede）。
+- **同义·反义**：同义 hundred years（一百年）；反义 无。
+- **变形**：名词 → 复数：centuries；形容词派生 → centurial adj. 百年的。
 
 ### 9. passenger /ˈpæsɪndʒər/ n. 乘客；旅客
-- **词根·渊源**：古法语 **passager**（过路人）→ 英语 *passenger*，受 *passage*（通行）影响拼写变为 -ng-；词根为拉丁 **passus**（步、通过），本义“过路的人”，引申为“乘客、旅客”。
-- **同根词**：passage（pass 通过 + **-age** 名词后缀：通行、通道）、pass（pass 通过：经过）、passable（pass + **-able** 能…的：可通过的）、passport（pass 通过 + port 港口 = 通过港口的证件→护照）、passageway（passage 通道 + way 路：通道）。
-- **前缀·后缀**：无前缀；后缀 **-er**（例：worker）、**-age**（例：marriage）。
-- **同义·反义**：同义 traveler, rider；反义 driver。
-- **词性变化**：pass v. 通过；passage n. 通道；passport n. 护照。
+- **词根·渊源**：古法语 **passager**（过路人）→ 古法语 *passagier*（旅行者）→ 英语 *passenger*（受 *-nger* 拼写影响）；源自 **passage**（通道、旅程）+ **-er**（人）；本义“旅行经过的人”，即“乘客”。
+- **同根词**：passage（pass 通过 + **-age** 名词→通道、旅程）、pass（拉丁 passus 步→通过）、passable（pass + **-able** 能…的→可通过的）、passport（pass 通过 + port 港口 = 通过港口的证件→护照）、bypass（**by-** 旁 + pass 通过 = 从旁通过→绕过）。
+- **前缀·后缀**：名词后缀 **-er**（例：worker, teacher）、**-age**（例：marriage, package）；前缀 **by-**（例：byproduct）。
+- **同义·反义**：同义 traveler（旅行者）, rider（乘车者）；反义 driver（司机）。
+- **变形**：名词 → 复数：passengers；名词派生 → passage n. 通道；动词派生 → pass v. 通过。
 
-### 10. invent /ɪnˈvɛnt/ v. 发明，创造；编造，虚构
-- **词根·渊源**：拉丁 **in-**（进入）+ **venire**（来）→ 拉丁 *invenire*（来到、找到）→ 古法语 *inventer* → 英语 *invent*；本义“来到某物面前→找到”，引申为“发明、创造”，又引申为“编造、虚构”。
-- **同根词**：invention（invent + **-ion** 名词后缀：发明）、inventive（invent + **-ive** …的：有发明才能的）、inventor（invent + **-or** 人：发明家）、prevent（**pre-** 前 + vent 来 = 先来到→阻止）、convention（**con-** 共同 + vent 来 + **-ion** 名词后缀：共同来到→集会、惯例）、event（**e-** 出 + vent 来 = 出来的事→事件）、adventure（**ad-** 向 + vent 来 + **-ure** 名词后缀：来到面前的事→冒险）。
-- **前缀·后缀**：前缀 **in-**（例：include）、**pre-**（例：predict）、**con-**（例：connect）；后缀 **-ion**（例：action）、**-or**（例：actor）。
-- **同义·反义**：同义 create, devise；反义 copy, imitate。
-- **词性变化**：invention n. 发明；inventive adj. 有发明才能的；inventor n. 发明家。
+### 10. invent /ɪnˈvent/ v. 发明，创造；编造，虚构
+- **词根·渊源**：拉丁 **in-**（进入）+ **venire**（来）→ 拉丁 *invenire*（来到、找到、发现）→ 英语；本义“来到某物面前→找到”，引申为“发明、编造”。
+- **同根词**：invention（invent + **-ion** 名词→发明）、inventive（invent + **-ive** …的→有发明才能的）、inventor（invent + **-or** 人→发明家）、prevent（**pre-** 前 + ven 来 = 先来→预防）、convene（**con-** 共同 + ven 来 = 共同来→召集）、event（**e-** 出 + vent 来 = 出来的事→事件）、avenue（**a-** 向 + ven 来 + **-ue** 名词 = 来路→大街）。
+- **前缀·后缀**：前缀 **in-**（例：include）、**pre-**（例：preview）、**con-**（例：connect）；名词后缀 **-ion**（例：action, creation）。
+- **同义·反义**：同义 create（创造）, devise（设计）；反义 copy（复制）, imitate（模仿）。
+- **变形**：动词 → 第三人称单数：invents；过去式：invented；过去分词：invented；现在分词：inventing；名词派生 → invention n. 发明；inventor n. 发明家；形容词派生 → inventive adj. 有发明才能的。
 
 ### 11. practical /'præktɪkl/ adj. 有用的；合适的，适用的；实际的
-- **词根·渊源**：希腊 **praktikos**（善于行动的）→ 拉丁 *practicus* → 英语 *practice*（实践）+ 形容词后缀 **-al**；本义“与行动有关的”，引申为“实际的、有用的、适用的”。
-- **同根词**：practice（pract 做 + **-ice** 名词后缀：实践）、practise（pract 做 + **-ise** 动词后缀：练习）、practically（practical + **-ly** 副词后缀：实际上）、practicable（practic 做 + **-able** 能…的：可行的）、practitioner（pract 做 + **-itioner** 人：从业者）。
-- **前缀·后缀**：无前缀；后缀 **-al**（例：natural）、**-ly**（例：quickly）。
-- **同义·反义**：同义 useful, realistic；反义 impractical, theoretical。
-- **词性变化**：practice n. 实践；practically adv. 实际上；practicable adj. 可行的。
+- **词根·渊源**：希腊 **praktikos**（善于行动的）→ 拉丁 *practicus* → 英语 *practice*（实践）+ 形容词后缀 **-al**；本义“与实践有关的”，引申为“实际的、有用的”。
+- **同根词**：practice（pract 实践 + **-ice** 名词→实践）、practically（practical + **-ly** 副词→实际上）、practise（pract 实践 + **-ise** 动词→练习）、practitioner（pract 实践 + **-itioner** 人→从业者）、impractical（**im-** 不 + practical = 不实际的）。
+- **前缀·后缀**：形容词后缀 **-al**（例：natural, musical）；前缀 **im-**（例：impossible）。
+- **同义·反义**：同义 useful（有用的）, realistic（现实的）；反义 impractical（不实际的）, theoretical（理论的）。
+- **变形**：形容词 → 比较级：more practical；最高级：most practical；名词派生 → practice n. 实践；副词派生 → practically adv. 实际上；反义派生 → impractical adj. 不实际的。
 
 ### 12. since /sɪns/ conj. 从......以后；自从......以来
-- **词根·渊源**：中古英语 **sithens**（此后）→ 缩略为 *sithence* → 英语 *since*；由古英语 **sīþ**（之后）+ **-s**（副词属格）构成，本义“在那之后”，引申为“自从……以来”。
-- **同根词**：sith（古英语 sīþ 之后：此后，古词）、sithence（sīþ 之后 + **-hence** 从…：此后，古词）。
+- **词根·渊源**：中古英语 **sithens**（从那时起）→ 缩略为 *since*；源自古英语 **siththan**（**sith** 之后 + **than** 那）；本义“在那之后”，引申为“自从……以来”。
+- **同根词**：sith（古英语 sith 之后→存疑，现代少用）、sithence（古语 sithen + **-ce** 副词→从那时起，存疑）。
 - **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 because, as；反义 无。
-- **词性变化**：无。
+- **同义·反义**：同义 because（因为，作连词时）, from then on（从那时起）；反义 无。
+- **变形**：连词 → 无形态变化；副词派生 → 无（本身兼 adv. 用法）。
 
 ### 13. distance /ˈdɪstəns/ n. 距离；间距；远处
-- **词根·渊源**：拉丁 **dis-**（分开）+ **stare**（站）→ 拉丁 *distantia*（分开站立）→ 古法语 *distance* → 英语 *distance*；本义“分开站立的状态”，引申为“距离、间距、远处”。
-- **同根词**：distant（**dis-** 分开 + stant 站 = 分开站的→远的）、stand（st 站 + **-and** 动词后缀：站立）、stable（st 站 + **-able** 能…的：能站住的→稳定的）、statue（stat 站 + **-ue** 名词后缀：站立的像→雕像）、constant（**con-** 共同 + stant 站 = 一直站着的→不变的）、instant（**in-** 在 + stant 站 = 站在眼前的→立即的）。
-- **前缀·后缀**：前缀 **dis-**（例：disagree）、**con-**（例：connect）；后缀 **-ance**（例：importance）。
-- **同义·反义**：同义 space, gap；反义 closeness。
-- **词性变化**：distant adj. 远的；distantly adv. 遥远地。
+- **词根·渊源**：拉丁 **dis-**（分开）+ **stare**（站立）→ 拉丁 *distantia*（分开站立的状态）→ 古法语 *distance* → 英语；本义“分开站立”，引申为“距离”。
+- **同根词**：distant（**dis-** 分开 + stant 站 = 分开站的→远的）、stand（古英语 standan 站立→站）、stable（st 站 + **-able** 能…的→站得稳的→稳定的）、station（stat 站 + **-ion** 名词→站立之处→车站）、constant（**con-** 加强 + stant 站 = 一直站着→不变的）、instant（**in-** 在 + stant 站 = 站在眼前的→立即的）。
+- **前缀·后缀**：前缀 **dis-**（例：disagree）、**con-**（例：connect）、**in-**（例：include）；名词后缀 **-ance**（例：importance, performance）。
+- **同义·反义**：同义 space（空间）, gap（间隔）；反义 closeness（接近）。
+- **变形**：名词 → 复数：distances；形容词派生 → distant adj. 远的；副词派生 → distantly adv. 遥远地。
 
 ### 14. mobile phone /ˌməʊbaɪl ˈfəʊn/ n. 移动电话,手机
-- **同义搭配**：cell phone / cellular phone / handset
-- **反义搭配**：landline / fixed-line phone
+- **同义搭配**：cell phone / cellular phone
+- **反义搭配**：landline（固定电话）
 
 ### 15. anytime /'eniˌtaɪm/ adv. 在任何时候；随便什么时候
-- **词根·渊源**：古英语 **ǣnig**（任何一个）+ **tīma**（时间）→ 英语 *any*（任何）+ *time*（时间）合成 *anytime*；本义“任何时间”，即“在任何时候”。
-- **同根词**：any（ǣnig 任何：任何一个）、anyone（any 任何 + one 人：任何人）、anything（any 任何 + thing 东西：任何东西）、anywhere（any 任何 + where 地方：任何地方）、time（tīma 时间：时间）、timely（time + **-ly** …的：及时的）。
-- **前缀·后缀**：无前缀；后缀 **-ly**（例：quickly）。
-- **同义·反义**：同义 whenever；反义 never。
-- **词性变化**：any adj. 任何的；time n. 时间。
+- **词根·渊源**：英语 **any**（任何）+ **time**（时间）复合而成；本义“任何时间”，即“在任何时候”。
+- **同根词**：any（古英语 ænig 任何→任何）、anyone（any + one 人 = 任何人）、anything（any + thing 事物 = 任何事物）、anywhere（any + where 地方 = 任何地方）、anyhow（any + how 方式 = 无论如何）、time（古英语 tima 时间→时间）、timely（time + **-ly** 形容词→及时的）。
+- **前缀·后缀**：无前后缀（复合词）。
+- **同义·反义**：同义 whenever（无论何时）；反义 never（从不）。
+- **变形**：副词 → 无比较级（时间副词，不作比较）；无词性派生。
 
 ### 16. develop /dɪˈvɛləp/ v. 开发；研制；发展；加强；壮大
-- **词根·渊源**：古法语 **desveloper**（解开、展开）→ 英语 *develop*；由 **des-**（相反、去除）+ *voloper*（包裹，词源存疑）构成，本义“解开包裹”，引申为“展开→发展、开发、研制”。
-- **同根词**：development（develop + **-ment** 名词后缀：发展）、developer（develop + **-er** 人：开发者）、developmental（development + **-al** …的：发展的）、developing（develop + **-ing** …的：发展中的）、developed（develop + **-ed** …的：发达的）。
-- **前缀·后缀**：前缀 **de-**（例：decrease）；后缀 **-ment**（例：movement）、**-er**（例：worker）。
-- **同义·反义**：同义 grow, expand；反义 decline, shrink。
-- **词性变化**：development n. 发展；developer n. 开发者；developmental adj. 发展的。
+- **词根·渊源**：古法语 **desveloper**（**des-** 去除 + *voloper* 包裹 = 解开包裹）→ 英语；本义“解开、展开”，引申为“发展、开发”。
+- **同根词**：development（develop + **-ment** 名词→发展）、developer（develop + **-er** 人→开发者）、developmental（development + **-al** 形容词→发展的）、envelop（**en-** 使 + velop 包裹 = 包起来→包裹）、envelope（envelop + **-e** 名词→信封）。
+- **前缀·后缀**：前缀 **en-**（例：enable）、**de-**（例：decrease）；名词后缀 **-ment**（例：movement, government）。
+- **同义·反义**：同义 grow（生长）, expand（扩展）；反义 decline（衰退）, shrink（缩小）。
+- **变形**：动词 → 第三人称单数：develops；过去式：developed；过去分词：developed；现在分词：developing；名词派生 → development n. 发展；developer n. 开发者；形容词派生 → developed adj. 发达的；developing adj. 发展中的。
 
 ### 17. lamp /læmp/ n. 灯；台灯
-- **词根·渊源**：希腊 **lampas**（火炬、灯）→ 拉丁 *lampas* → 古法语 *lampe* → 英语 *lamp*；本义“火炬、灯”，引申为“灯、台灯”。
-- **同根词**：lamplight（lamp 灯 + light 光：灯光）、lampshade（lamp 灯 + shade 罩：灯罩）、lamppost（lamp 灯 + post 柱：灯柱）、lantern（与 lamp 同源，拉丁 *lanterna* 灯：灯笼）。
+- **词根·渊源**：希腊 **lampas**（火炬、灯）→ 拉丁 *lampas* → 古法语 *lampe* → 英语；源自希腊 **lampein**（发光）；本义“发光之物”，即“灯”。
+- **同根词**：lantern（拉丁 lanterna 灯→灯笼）、lamp-post（lamp + post 柱 = 路灯柱）、lamplight（lamp + light 光 = 灯光）、lampoon（法语 lampon 嘲讽诗，存疑，可能与 lamp 无直接同源）。
 - **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 light, lantern；反义 无。
-- **词性变化**：lamplight n. 灯光；lampshade n. 灯罩。
+- **同义·反义**：同义 light（灯）, lantern（灯笼）；反义 无。
+- **变形**：名词 → 复数：lamps；形容词派生 → lamped adj. 装有灯的（少用）。
 
 ### 18. candle /ˈkændl/ n. 蜡烛；旧烛光
-- **词根·渊源**：拉丁 **candela**（蜡烛、发光物，来自 *candere* 发光）→ 古英语 *candel* → 英语 *candle*；本义“发光的东西”，即“蜡烛”，旧时也作光度单位“烛光”。
-- **同根词**：candelabra（candela 蜡烛 + **-bra** 复数后缀：枝形烛台）、candid（cand 发光 + **-id** …的：发光的→坦白的）、candidate（cand 发光 + **-idate** 人：穿白袍的人→候选人）、candescent（cand 发光 + **-escent** 开始…的：白热的）、incandescent（**in-** 加强 + cand 发光 + **-escent** …的：白炽的）。
-- **前缀·后缀**：前缀 **in-**（例：include）；后缀 **-escent**（例：adolescent）。
-- **同义·反义**：同义 taper, light；反义 无。
-- **词性变化**：candid adj. 坦白的；candidate n. 候选人；incandescent adj. 白炽的。
+- **词根·渊源**：拉丁 **candere**（发光、白亮）→ 拉丁 *candela*（蜡烛）→ 古英语 *candel* → 英语；本义“发光之物”，即“蜡烛”。
+- **同根词**：candid（cand 发光 + **-id** 形容词 = 白亮的→坦白的）、candidate（candid 白 + **-ate** 人 = 穿白袍的人→候选人）、candor（cand 发光 + **-or** 名词→坦白）、incandescent（**in-** 加强 + cand 发光 + **-escent** 形容词→白炽的）、candelabra（candela 蜡烛 + **-bra** 复数→枝形烛台）。
+- **前缀·后缀**：形容词后缀 **-id**（例：rapid, valid）；前缀 **in-**（例：include）。
+- **同义·反义**：同义 taper（细蜡烛）；反义 无。
+- **变形**：名词 → 复数：candles；形容词派生 → candlelit adj. 烛光照明的。
 
 ### 19. daytime /ˈdeˌtaɪm/ n. 白天；日间
-- **词根·渊源**：古英语 **dæg**（白天）+ **tīma**（时间）→ 中古英语 *day-time*，本义“白天的时间段”，引申为“白天、日间”。
-- **同根词**：day（古英语 dæg 白天→一天）、daily（day + **-ly** 每…的：每日的）、today（to + day = 在今天→今天）、time（古英语 tīma 时间→时间）、timely（time + **-ly** …的：及时的）、timetable（time + table 表 = 时间表）。
-- **前缀·后缀**：无前后缀（复合词，day + time）。
-- **同义·反义**：同义 day, daylight；反义 night, nighttime。
-- **词性变化**：无派生词。
+- **词根·渊源**：古英语 **dæg**（白天）+ **tīma**（时间）→ 中古英语 *day-time*，本义“日间时段”，引申为“白天”。
+- **同根词**：day（古英语 dæg 白天→一天）、daily（day + **-ly** 每…的→每日的）、today（to + day 这一天→今天）、time（古英语 tīma 时间→时间）、timely（time + **-ly** …的→及时的）、overtime（**over-** 超过 + time 时间→超时）。
+- **前缀·后缀**：无前后缀（复合词）。
+- **同义·反义**：同义 day（白天）, daylight（日光）；反义 night（夜晚）, nighttime（夜间）。
+- **变形**：名词 → 复数：daytimes（多作不可数）；形容词派生 → daytime adj. 白天的（作定语）。
 
 ### 20. dust /dʌst/ v. 灰尘；尘埃；尘土
-- **词根·渊源**：古英语 **dūst**（灰尘、尘土）→ 中古英语 *dust*，本义“细小的土粒”，引申为“灰尘；掸去灰尘”。
-- **同根词**：dusty（dust + **-y** 充满…的：布满灰尘的）、duster（dust + **-er** 做…的人/物：掸子）、dustbin（dust + bin 箱 = 垃圾箱）、dustpan（dust + pan 盘 = 簸箕）、duststorm（dust + storm 暴 = 沙尘暴）。
-- **前缀·后缀**：形容词后缀 **-y**（例：rainy, windy）；名词后缀 **-er**（例：cleaner, worker）。
-- **同义·反义**：同义 dirt, powder；反义 无。
-- **词性变化**：dusty adj. 布满灰尘的；duster n. 掸子；dustbin n. 垃圾箱。
+- **词根·渊源**：古英语 **dūst**（灰尘）→ 中古英语 *dust*，本义“细土、粉末”，引申为“灰尘；除尘”。
+- **同根词**：dusty（dust + **-y** 多…的→满是灰尘的）、duster（dust + **-er** 表工具→掸子）、dustbin（dust + bin 箱→垃圾箱）、dustpan（dust + pan 盘→簸箕）、duststorm（dust + storm 暴→沙尘暴）。
+- **前缀·后缀**：名词后缀 **-y**（例：rainy, windy）；表工具后缀 **-er**（例：cleaner, mixer）。
+- **同义·反义**：同义 dirt（污物）, powder（粉末）；反义 无。
+- **变形**：动词 → 第三人称单数：dusts；过去式：dusted；过去分词：dusted；现在分词：dusting；名词 → 复数：dusts（作“灰尘”义时不可数）；形容词派生 → dusty adj. 满是灰尘的；名词派生 → duster n. 掸子。
 
 ### 21. special /ˈspeʃl/ adj. 特殊的；特别的，专门的
-- **词根·渊源**：拉丁 **speciēs**（外观、种类）→ 拉丁 *speciālis*（属于某一种类的）→ 古法语 *special* → 英语，本义“属于某一类的”，引申为“特殊的、专门的”。
-- **同根词**：species（拉丁 speciēs 种类→物种）、specific（拉丁 species 种类 + **-fic** 做…的 = 特定种类的→具体的）、specify（species 种类 + **-fy** 使… = 使成为特定种类→具体说明）、specimen（拉丁 specimen 标记、样本→标本）、especial（**e-** 出 + special = 特别突出的→尤其的）、especially（especial + **-ly** …地：尤其）。
-- **前缀·后缀**：形容词后缀 **-al**（例：natural, national）；前缀 **e-**（例：escape, elect）。
-- **同义·反义**：同义 particular, unusual；反义 ordinary, common。
-- **词性变化**：specially adv. 特别地；specialist n. 专家；speciality n. 特产；特殊性。
+- **词根·渊源**：拉丁 **species**（种类、外观）→ 拉丁 *specialis*（属于某一种的）→ 古法语 *special* → 英语，本义“属于某一类的”，引申为“特殊的；专门的”。
+- **同根词**：species（拉丁 species 种类→物种）、specific（拉丁 species 种类 + **-fic** 做→特定的）、specify（species 种类 + **-fy** 使…→具体说明）、specialist（special + **-ist** 人→专家）、specialize（special + **-ize** 使…→专门化）、especially（**e-** 出 + special + **-ly** →尤其）。
+- **前缀·后缀**：形容词后缀 **-al**（例：natural, formal）；名词后缀 **-ist**（例：artist, scientist）。
+- **同义·反义**：同义 particular（特别的）, unusual（不寻常的）；反义 common（普通的）, ordinary（平常的）。
+- **变形**：形容词 → 比较级：more special；最高级：most special；副词派生 → specially adv. 特别地；名词派生 → specialist n. 专家；specialty n. 特产、专长。
 
 ### 22. wing /wɪŋ/ n. 翅膀；机翼
-- **词根·渊源**：古诺斯语 **vængr**（翼）→ 中古英语 *winge*，本义“鸟的翼”，引申为“机翼、侧翼”。
-- **同根词**：winged（wing + **-ed** 有…的：有翅膀的）、winger（wing + **-er** 人：边锋）、wingless（wing + **-less** 无…的：无翅的）、left-wing（left 左 + wing 翼 = 左翼的）、right-wing（right 右 + wing 翼 = 右翼的）。
-- **前缀·后缀**：形容词后缀 **-ed**（例：talented, gifted）；名词后缀 **-er**（例：singer, dancer）；否定后缀 **-less**（例：hopeless, careless）。
+- **词根·渊源**：古诺斯语 **vængr**（翼）→ 中古英语 *winge*，本义“鸟翼”，引申为“机翼；侧翼”。
+- **同根词**：winged（wing + **-ed** 有…的→有翼的）、wingless（wing + **-less** 无…的→无翼的）、winger（wing + **-er** 人→边锋）、left-wing（left 左 + wing 翼→左翼的）、right-wing（right 右 + wing 翼→右翼的）。
+- **前缀·后缀**：形容词后缀 **-ed**（例：gifted, skilled）；否定后缀 **-less**（例：hopeless, careless）。
 - **同义·反义**：同义 无；反义 无。
-- **词性变化**：winged adj. 有翅膀的；winger n. 边锋；wingless adj. 无翅的。
+- **变形**：名词 → 复数：wings；形容词派生 → winged adj. 有翼的；wingless adj. 无翼的。
 
 ### 23. introduction /ˌɪntrəˈdʌkʃən/ n. 引言；介绍
-- **词根·渊源**：拉丁 **ducere**（引导）→ 拉丁 *introducere*（intro- 向内 + ducere 引导 = 引入）→ 拉丁 *introductio* → 古法语 → 英语，本义“引入”，引申为“介绍、引言”。
-- **同根词**：introduce（**intro-** 向内 + duc 引导 + **-e** = 引入→介绍）、conduct（**con-** 共同 + duct 引导 = 共同引导→指挥）、produce（**pro-** 向前 + duc 引导 = 向前引出→生产）、reduce（**re-** 回 + duc 引导 = 引回→减少）、educate（**e-** 出 + duc 引导 + **-ate** = 引出才能→教育）、deduct（**de-** 向下 + duct 引导 = 向下引→扣除）。
+- **词根·渊源**：拉丁 **ducere**（引导）→ 拉丁 *introducere*（**intro-** 向内 + ducere 引导 = 引入）→ 拉丁 *introductio* → 英语，本义“引入”，引申为“介绍；引言”。
+- **同根词**：introduce（**intro-** 向内 + duc 引导 + **-e** →引入→介绍）、conduct（**con-** 共同 + duct 引导→指挥）、produce（**pro-** 向前 + duc 引导→生产）、reduce（**re-** 回 + duc 引导→减少）、educate（**e-** 出 + duc 引导 + **-ate** →引出才能→教育）、duct（拉丁 ductus 引导→管道）。
 - **前缀·后缀**：前缀 **intro-**（例：introvert, introspect）；名词后缀 **-tion**（例：action, education）。
-- **同义·反义**：同义 presentation, preface；反义 conclusion, ending。
-- **词性变化**：introduce v. 介绍；introductory adj. 引导的；介绍的。
+- **同义·反义**：同义 presentation（介绍）, preface（前言）；反义 conclusion（结论）, ending（结尾）。
+- **变形**：名词 → 复数：introductions；动词派生 → introduce v. 介绍；形容词派生 → introductory adj. 引导的、介绍的。
 
 ### 24. instead of /ˌɪnˈstɛd əv/ n. 代替；作为......的替换；反而
-- **同义搭配**：in place of / rather than / in lieu of
-- **反义搭配**：together with / as well as
+- **同义搭配**：in place of / rather than
+- **反义搭配**：together with
 
 ### 25. petrol /ˈpetrəl/ n. 汽油
-- **词根·渊源**：拉丁 **petra**（石头）→ 拉丁 *petroleum*（petra 石 + oleum 油 = 石中油→石油）→ 法语 *pétrol* → 英语 *petrol*，本义“石油”，引申为“汽油”（英式英语）。
-- **同根词**：petroleum（petra 石 + oleum 油 = 石油）、petrology（petra 石 + **-logy** 学科 = 岩石学）、petrify（petra 石 + **-fy** 使… = 使变成石头→石化）、petrochemical（petro 石油 + chemical 化学的 = 石油化学的）、petrodollar（petro 石油 + dollar 美元 = 石油美元）。
-- **前缀·后缀**：名词后缀 **-ol**（例：alcohol, phenol）；学科后缀 **-logy**（例：biology, geology）。
-- **同义·反义**：同义 gasoline（美式）, gas；反义 无。
-- **词性变化**：petroleum n. 石油；petrochemical adj. 石油化学的。
+- **词根·渊源**：拉丁 **petra**（石头）+ **oleum**（油）→ 古法语 *petrol* → 英语，本义“石中之油”，即“汽油”（英式用语）。
+- **同根词**：petroleum（petr 石 + oleum 油 + **-eum** 物质名词→石油）、petrology（petr 石 + **-logy** 学科→岩石学）、petrify（petr 石 + **-fy** 使…→使石化）、oleum（拉丁 oleum 油→发烟硫酸）、petrochemical（petr 石 + chemical 化学的→石油化学的）。
+- **前缀·后缀**：名词后缀 **-eum**（例：museum, mausoleum）；学科后缀 **-logy**（例：biology, geology）。
+- **同义·反义**：同义 gasoline（汽油，美式）, fuel（燃料）；反义 无。
+- **变形**：名词 → 复数：petrols（多作不可数）；形容词派生 → petroliferous adj. 含石油的。
 
 ### 26. since then /sɪns ðen/ prep. 从那以后；自那以来
-- **同义搭配**：from then on / ever since / after that
-- **反义搭配**：before then / up to then
+- **同义搭配**：from then on / ever since
+- **反义搭配**：before then
 
 ### 27. keep in touch with... /kiːp ɪn tʌtʃ wɪð/ v. 与......保持联系
-- **同义搭配**：stay in contact with / keep in contact with / remain in touch with
-- **反义搭配**：lose touch with / lose contact with
+- **同义搭配**：stay in contact with / remain in touch with
+- **反义搭配**：lose touch with
 
 ### 28. in the daytime /ɪn ðə ˈdeɪtaɪm/ prep. 在白天；在白昼
-- **同义搭配**：during the day / in the day / by day
-- **反义搭配**：at night / in the nighttime
+- **同义搭配**：during the day / by day
+- **反义搭配**：at night
 
 ### 29. keep......off  v. 使......不接近（或不接触、远离）......
-- **同义搭配**：keep away from / stay away from / keep clear of
-- **反义搭配**：come close to / get near to
+- **同义搭配**：keep away from / stay away from
+- **反义搭配**：come near
 
 ### 30. at the same time /æt ðə seɪm taɪm/ prep. 同时
-- **同义搭配**：simultaneously / meanwhile / in the meantime
-- **反义搭配**：one after another / at different times
+- **同义搭配**：simultaneously / meanwhile
+- **反义搭配**：one after another
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| ad- | 向；朝 | advertisement | advance, adapt, admit, attract |
+| ad- | 向；朝 | advertisement | advance, admire, attract, apply |
 | -ment | 名词后缀，表行为或结果 | advertisement | movement, development, agreement, government |
-| -y | 形容词后缀，表性质 | funny | happy, rainy, healthy, noisy |
-| -ful | 形容词后缀，表充满 | comfortable | beautiful, careful, helpful, useful |
-| -able | 形容词后缀，表能够 | comfortable | readable, washable, enjoyable, valuable |
-| -age | 名词后缀，表集合或行为 | carriage | package, village, marriage, storage |
-| -er | 名词后缀，表人或物 | passenger | teacher, worker, driver, computer |
-| -ance/-ence | 名词后缀，表状态 | distance | importance, difference, silence, patience |
-| -ive | 形容词后缀，表性质 | practical（存疑，-al 为主） | active, creative, native, effective |
-| -al | 形容词后缀，表相关 | practical, special | natural, national, personal, musical |
-| -tion/-sion | 名词后缀，表行为或结果 | introduction | education, information, decision, action |
-| in- | 向内；进入 | introduction | include, inside, indoor, income |
-| -ly | 副词后缀，表方式 | anytime（存疑，any+time 复合） | quickly, happily, carefully, easily |
-| -ing | 名词或形容词后缀 | daytime（复合词） | building, meeting, interesting, exciting |
-| -less | 形容词后缀，表没有 |（本单元无直接例词） | hopeless, careless, useless, endless |
-| -ship | 名词后缀，表状态或关系 |（本单元无直接例词） | friendship, relationship, leadership |
+| -y | 形容词后缀 | funny | rainy, windy, healthy, lucky |
+| -ful | 形容词后缀，充满……的 | comfortable | careful, useful, helpful, beautiful |
+| -able | 形容词后缀，能……的 | comfortable | readable, enjoyable, valuable, reasonable |
+| -age | 名词后缀，表行为、状态或集合 | carriage | marriage, package, storage, village |
+| -er | 名词后缀，表人或物 | passenger | teacher, driver, worker, computer |
+| -tion | 名词后缀 | introduction | education, information, action, invention |
+| -ance | 名词后缀 | distance | importance, performance, appearance, assistance |
+| -ive | 形容词后缀 | practical（-al 变体） | active, creative, effective, attractive |
+| in- | 进入；在内 | invent, introduction | include, inside, income, inject |
+| intro- | 向内 | introduction | introduce, introvert |
+| pre- | 在前 |（扩展） | prepare, predict, prevent, preview |
+| -al | 形容词后缀 | practical, special | natural, national, personal, musical |
+| -ly | 副词后缀 | anytime（复合词） | quickly, happily, carefully, easily |
+| -ing | 名词/形容词后缀 | daytime（复合词） | building, meeting, interesting, exciting |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
-| 词 | 同义 | 反义 |
+| 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| funny | humorous, amusing, comical | serious, boring |
-| create | make, produce, invent | destroy, ruin |
-| comfortable | cozy, pleasant, easy | uncomfortable, painful |
-| century | hundred years | — |
-| passenger | traveler, rider | driver |
-| invent | create, devise, make up | copy, imitate |
-| practical | useful, realistic, sensible | impractical, useless |
-| since | from, after | before |
-| distance | space, gap, length | closeness, nearness |
-| develop | grow, improve, build up | decline, weaken |
-| special | unusual, particular, unique | ordinary, common |
-| introduction | presentation, beginning, preface | conclusion, ending |
-| instead of | in place of, rather than | — |
-| dust | dirt, powder | — |
-| keep in touch with | stay in contact with | lose contact with |
-| at the same time | meanwhile, simultaneously | — |
-| anytime | whenever, at any moment | never |
-| wing | — | — |
-| lamp | light, lantern | — |
-| candle | taper, light | — |
+| funny | humorous（幽默的） | serious（严肃的） |
+| create | make（制作） | destroy（破坏） |
+| comfortable | cozy（舒适的） | uncomfortable（不舒服的） |
+| passenger | traveler（旅客） | driver（司机） |
+| invent | create（创造） | copy（模仿） |
+| practical | useful（有用的） | useless（无用的） |
+| distance | space（间隔） | closeness（接近） |
+| develop | grow（发展） | decline（衰退） |
+| special | unusual（特别的） | ordinary（普通的） |
+| dust | dirt（灰尘） | cleanliness（洁净） |
+| introduction | preface（引言） | conclusion（结论） |
+| instead of | in place of（代替） | — |
+| keep in touch with | stay in contact with（保持联系） | lose touch with（失去联系） |
+| at the same time | meanwhile（同时） | — |
+| since | from...on（自从） | — |
+| anytime | whenever（任何时候） | — |
 
 ---
 
 ### 制作说明
 - 词源按 Oxford / Merriam-Webster / Online Etymology Dictionary 整理，**不是教材原文**。
 - 同根词的括注给出构词路径，用于理解“为什么是这个意思”，不要求背诵。
+- “变形”里的时态、复数、比较级按《牛津高阶》通行形式给出；标“无比较级 / 不可数”的是本身不作变化的情况。
 - 若需增删（例如只保留高频词、加例句），在此文件上直接改即可。

@@ -2,257 +2,258 @@
 
 > 配套 `8A_U2.md`（沪教牛津版 2024/2025 修订，27 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
-> 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义 / 词性变化。
+> 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
 ## 一、本单元词根地图
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
-| numer- | 数；计数 | 拉丁语 numerus（数） | number | numeral, numerous, enumerate, numerical |
-| struct- | 建造；堆叠 | 拉丁语 struere（建造） | instructions | structure, construct, destruction, instruct |
-| gram- | 写；画；文字 | 希腊语 gramma（写下的东西） | gram | grammar, telegram, diagram, program |
-| son- | 声音 | 拉丁语 sonus（声音） | son | sonic, consonant, resonance, unison |
-| wis- / wit- | 知道；智慧 | 古英语 wīs（有智慧的） | wise | wisdom, wit, witty, witness |
-| chall- | 诽谤；指控（引申为挑战） | 拉丁语 calumnia（诬告） | challenge | 存疑（同根词较少） |
-| prom- | 取出；发出（承诺） | 拉丁语 promittere（送出、许诺） | promise | prominent, promote, emission, permit |
-| prehend- / pris- | 抓住；拿取 | 拉丁语 prehendere（抓住） | prize | prison, comprehend, apprehend, surprise |
-| gran- | 谷粒；颗粒 | 拉丁语 granum（谷粒） | grain | granite, granule, granary, granular |
-| du- / doub- | 二；双 | 拉丁语 duo（二） | double | dual, duet, duplicate, dozen |
-| mont- | 山；上升 | 拉丁语 mons（山） | amount | mountain, mount, surmount, dismount |
-| real- | 真实的；实际的 | 拉丁语 res（事物） | realize | real, reality, really, unreal |
-| cop- | 丰富；大量（引申为复制） | 拉丁语 copia（丰富） | copy | copious, cornucopia（存疑） |
-| rect- | 直；正 | 拉丁语 rectus（直的） | correctly | correct, direct, erect, rectangle |
-| cad- | 落下；发生 | 拉丁语 cadere（落下） | accident | cadence, cascade, decay, occasion |
-| via- | 路；道路 | 拉丁语 via（路） | traffic | via, deviate, obvious, previous |
+| numer | 数；计数 | 拉丁语 numerus（数） | number | numeral, numerous, enumerate, numerical |
+| struct | 建造；堆叠 | 拉丁语 struere（建造） | instructions | structure, construct, instruct, destruction |
+| gram | 写；画；文字 | 希腊语 gramma（写下的东西） | gram | grammar, telegram, diagram, program |
+| graph | 写；画 | 希腊语 graphein（写） | chessboard（存疑，board 非此词根） | photograph, biography, graphic, paragraph |
+| duc/duct | 引导 | 拉丁语 ducere（引导） | instructions（in- + struct，存疑） | conduct, produce, introduce, reduce |
+| sol | 太阳 | 拉丁语 sol（太阳） | son（存疑，son 源自古英语 sunu） | solar, solstice, parasol |
+| reg | 统治；直 | 拉丁语 regere（统治；引导） | correctly（correct 源自 corrigere） | regular, direct, regime, rectangle |
+| cad/cas | 落下；发生 | 拉丁语 cadere（落下） | accident | accident, cascade, occasion, decay |
+| fac/fect | 做；制作 | 拉丁语 facere（做） | traffic（存疑） | factory, effect, perfect, difficult |
+| plic | 折叠；重叠 | 拉丁语 plicare（折叠） | double（存疑，源自 duplus） | complicated, explicit, duplicate, multiply |
+| port | 携带；运 | 拉丁语 portare（携带） | traffic（存疑） | transport, import, export, portable |
+| sid/sed | 坐 | 拉丁语 sedere（坐） | instead（in- + stead，存疑） | president, resident, sediment, session |
+| real | 真实的；实际的 | 拉丁语 realis（真实的） | realize | real, reality, really, unreal |
+| cap/capt | 拿；抓 | 拉丁语 capere（拿） | copy（源自 copia，存疑） | capture, accept, capacity, captive |
+| wis/wit | 知道；智慧 | 古英语 witan（知道） | wise | wisdom, wit, witness, witty |
+| mit/miss | 送；放 | 拉丁语 mittere（送） | promise | permit, submit, mission, dismiss |
 
 ## 二、逐词说文解字
 
 ### 1. number /ˈnʌmbər/ n. 数字;数;数量;编号
 - **词根·渊源**：拉丁 **numerus**（数）→ 古法语 *nombre* → 英语 number，本义即“数、数目”，引申为“编号、数量”。
-- **同根词**：numerous（numer 数 + **-ous** …的 = 数目多的→众多的）、numeral（numer 数 + **-al** 名词/形容词后缀 = 数字的、数字）、numerate（numer 数 + **-ate** 动词后缀 = 会计算的→识数的）、innumerable（**in-** 不 + numer 数 + **-able** 可…的 = 数不清的）。
-- **前缀·后缀**：名词后缀 **-er**（例：teacher, worker）；否定前缀 **in-**（例：incorrect, invisible）。
-- **同义·反义**：同义 figure, digit, quantity；反义 无。
-- **词性变化**：numerous adj. 众多的；numeral n. 数字；numerate adj. 识数的。
+- **同根词**：numeral（numer 数 + **-al** 表事物→数字）、numerous（numer 数 + **-ous** 多…的→众多的）、enumerate（**e-** 出 + numer 数 + **-ate** 动词后缀→数出来→列举）、innumerable（**in-** 不 + numer 数 + **-able** 可…的→数不清的）。
+- **前缀·后缀**：名词后缀 **-er**（例：teacher, worker）；前缀 **in-**（例：incorrect）、**e-**（例：elect）。
+- **同义·反义**：同义 figure（数字）, quantity（数量）；反义 无。
+- **变形**：名词 → 复数：numbers；形容词派生 → numerous adj. 众多的；动词派生 → number v. 编号；numeral n. 数字。
 
 ### 2. instructions /ɪnˈstrʌkʃəns/ n. 指示；命令；说明书
-- **词根·渊源**：拉丁 **instruere**（in- 在内 + struere 建造 = 在头脑中搭建→教导、装备）→ 拉丁 *instructio* → 古法语 *instruction* → 英语 instruction，本义“教导、布置”，引申为“指示、说明书”。
-- **同根词**：instruct（**in-** 在内 + struct 建造 = 在头脑中搭建→教导、指示）、instructor（instruct 教导 + **-or** 人 = 教导者→教师）、structure（struct 建造 + **-ure** 名词后缀 = 建造起来的东西→结构）、construct（**con-** 共同 + struct 建造 = 一起建造→建造）、destroy（**de-** 向下 + stroy 建造 = 拆掉建造→破坏）。
-- **前缀·后缀**：名词后缀 **-tion**（例：action, education）；前缀 **in-**（例：include, inform）。
-- **同义·反义**：同义 directions, orders, guidance；反义 无。
-- **词性变化**：instruct v. 指示；instructor n. 教师；instructional adj. 教学的。
+- **词根·渊源**：拉丁 **instruere**（in- 在内 + struere 建造→在内心构建→教导）→ 拉丁 *instructio* → 古法语 *instruction* → 英语 instruction，本义“教导、布置”，引申为“指示、说明书”。
+- **同根词**：instruct（**in-** 在内 + struct 建造 = 在头脑中构建→教导）、instructor（instruct 教导 + **-or** 人→教师）、structure（struct 建造 + **-ure** 名词后缀→结构）、construct（**con-** 共同 + struct 建造→建造）、destruction（**de-** 向下 + struct 建造 + **-ion** →拆毁→破坏）。
+- **前缀·后缀**：前缀 **in-**（例：include）、**con-**（例：connect）、**de-**（例：decrease）；名词后缀 **-ion**（例：action, education）、**-or**（例：actor, doctor）。
+- **同义·反义**：同义 directions（说明）, orders（命令）；反义 无。
+- **变形**：名词 → 复数：instructions；动词派生 → instruct v. 教导；名词派生 → instructor n. 教师；instruction n. 指示（单数）。
 
 ### 3. check /tʃɛk/ v. 检查；核实
-- **词根·渊源**：源自古法语 *eschec*（国际象棋中的“将军”），最终来自波斯语 *shāh*（国王）；本义“将军（威胁国王）”，引申为“突然制止、核对”，再引申为“检查、核实”。
-- **同根词**：checker（check 检查 + **-er** 人/物 = 检查者、棋子格）、checkmate（check 将军 + mate 将死 = 将死→彻底击败）、chess（同源，来自 eschec 象棋）、exchequer（**ex-** 出 + chequer 棋盘格 = 财政署的格子桌→国库）。
-- **前缀·后缀**：名词后缀 **-er**（例：reader, player）；无前缀。
-- **同义·反义**：同义 examine, verify, inspect；反义 ignore, overlook。
-- **词性变化**：checker n. 检查者；check n. 检查；checkable adj. 可核对的。
+- **词根·渊源**：源自古法语 *eschec*（国际象棋中的“将军”），最终来自波斯语 *shāh*（国王）；本义“将军（使对方国王受困）”，引申为“制止、核对”，再引申为“检查”。
+- **同根词**：checkmate（check 将军 + mate 将死→将死→彻底击败）、checker（check 核对 + **-er** 表物/人→检查者；棋子）、checkout（check 核对 + out 出→结账离开）、checkpoint（check 检查 + point 点→检查站）。
+- **前缀·后缀**：无前后缀（单纯词，借自法语）。
+- **同义·反义**：同义 examine（检查）, verify（核实）；反义 ignore（忽视）。
+- **变形**：动词 → 第三人称单数：checks；过去式：checked；过去分词：checked；现在分词：checking；名词派生 → check n. 检查；checker n. 检查者。
 
 ### 4. gram /ɡræm/ n. 克（重量单位）
-- **词根·渊源**：法语 *gramme* → 拉丁晚期 **gramma**（小重量）→ 希腊 **gramma**（写下的东西、小刻痕），本义“小刻痕/小单位”，19 世纪法国公制中定为“克”。
-- **同根词**：grammar（gram 写 + **-ar** 名词后缀 = 写下的规则→语法）、program（**pro-** 前 + gram 写 = 事先写好的→程序、节目）、diagram（**dia-** 穿过 + gram 写 = 画穿过去的线→图表）、telegram（**tele-** 远 + gram 写 = 远方写来的→电报）。
-- **前缀·后缀**：无前后缀（单纯词，源自希腊 gramma）。
-- **同义·反义**：同义 无（计量单位）；反义 无。
-- **词性变化**：kilogram n. 千克；gramme n. 克（英式拼写）。
+- **词根·渊源**：法语 *gramme* → 拉丁化希腊语 **gramma**（写下的东西、小重量）→ 英语 gram；1795 年法国公制中定为“一克”，本义“小单位”。
+- **同根词**：kilogram（**kilo-** 千 + gram 克→千克）、milligram（**milli-** 千分之一 + gram→毫克）、grammar（希腊 gramma 写→语法）、diagram（**dia-** 穿过 + gram 写→画出的图→图表）、program（**pro-** 前 + gram 写→预先写出的→节目单）。
+- **前缀·后缀**：前缀 **kilo-**（例：kilometer）、**milli-**（例：millimeter）、**dia-**（例：dialogue）、**pro-**（例：progress）。
+- **同义·反义**：同义 无；反义 无。
+- **变形**：名词 → 复数：grams；形容词派生 → 无常用形容词派生。
 
 ### 5. son /sʌn/ n. 儿子
-- **词根·渊源**：古英语 **sunu**（儿子）→ 中古英语 *sone* → 英语 son，源自 PIE *sunu-*（儿子），本义即“儿子”。
-- **同根词**：sonny（son 儿子 + **-y** 昵称后缀 = 小家伙→孩子）、grandson（grand 大的 + son 儿子 = 孙子）、son-in-law（son 儿子 + in-law 法律上的 = 法律上的儿子→女婿）、sonless（son 儿子 + **-less** 无 = 无子的）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 boy, child；反义 daughter, parent。
-- **词性变化**：sonny n. 小家伙；grandson n. 孙子；sonless adj. 无子的。
+- **词根·渊源**：古英语 **sunu**（儿子）→ 中古英语 *sone* → 英语 son；与德语 *Sohn* 同源，出自 PIE *seue-*（生育），本义即“所生之子”。
+- **同根词**：sonny（son 儿子 + **-y** 表亲昵→小家伙）、grandson（grand 隔一代 + son 儿子→孙子）、son-in-law（son 儿子 + in-law 姻亲→女婿）、sonless（son 儿子 + **-less** 无…的→无子的）。
+- **前缀·后缀**：名词后缀 **-y**（例：daddy, doggy）；后缀 **-less**（例：hopeless, careless）。
+- **同义·反义**：同义 boy（男孩）, child（孩子）；反义 daughter（女儿）。
+- **变形**：名词 → 复数：sons；形容词派生 → sonly adj. 儿子般的（少用）。
 
 ### 6. chess /tʃes/ n. 国际象棋
-- **词根·渊源**：古法语 *eschec*（将军）→ 中古英语 *ches* → 英语 chess，源自波斯语 *shāh*（国王），本义“国王（的游戏）”，即国际象棋。
-- **同根词**：check（同源，eschec 将军→检查）、checkmate（check 将军 + mate 将死 = 将死→彻底击败）、chessboard（chess 棋 + board 板 = 棋盘）、chessman（chess 棋 + man 人/子 = 棋子）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 无（专有棋类名）；反义 无。
-- **词性变化**：chessboard n. 棋盘；chessman n. 棋子。
+- **词根·渊源**：古法语 *eschec*（将军）→ 中古英语 *ches* → 英语 chess；源自波斯语 *shāh*（国王），本义“国王的游戏”，即国际象棋。
+- **同根词**：chessboard（chess 棋 + board 板→棋盘）、chessman（chess 棋 + man 人/子→棋子）、check（同源，将军→检查）、checkmate（check 将军 + mate 将死→将死）。
+- **前缀·后缀**：无前后缀（单纯词，借自法语）。
+- **同义·反义**：同义 无；反义 无。
+- **变形**：名词 → 复数：不可数（作“棋类”义不可数）；形容词派生 → 无常用形容词派生。
 
 ### 7. India /ˈɪndiə/ n. 印度
-- **词根·渊源**：希腊 **Indos**（印度河）→ 拉丁 *India* → 英语 India，源自梵语 *sindhu*（河流，特指印度河），本义“印度河之地”，即印度。
-- **同根词**：Indian（Ind 印度 + **-ian** …的/人 = 印度的、印度人）、Indies（Ind 印度 + **-ies** 复数 = 印度群岛→东印度群岛）、indigo（希腊 indikon 印度的 + **-o** = 印度的染料→靛蓝）。
-- **前缀·后缀**：名词后缀 **-ia**（例：Asia, Australia）；无前缀。
-- **同义·反义**：同义 无（国名）；反义 无。
-- **词性变化**：Indian adj. 印度的；Indian n. 印度人。
+- **词根·渊源**：希腊语 **Indos**（印度河）→ 拉丁 *India* → 英语 India；源自梵语 *sindhu*（河流，特指印度河），本义“印度河之地”，即印度。
+- **同根词**：Indian（Ind 印度 + **-ian** 人/的→印度人；印度的）、Indies（Ind 印度 + **-ies** 复数→东/西印度群岛）、indigo（希腊 indikon 印度的 + 染料→靛蓝）。
+- **前缀·后缀**：后缀 **-ian**（例：Canadian, musician）、**-ies**（例：countries）。
+- **同义·反义**：同义 无；反义 无。
+- **变形**：名词 → 复数：不可数（专有名词）；形容词派生 → Indian adj. 印度的；名词派生 → Indian n. 印度人。
 
 ### 8. wise /waɪz/ adj. 有智慧的；充满智慧的
-- **词根·渊源**：古英语 **wīs**（有智慧的）→ 中古英语 *wis* → 英语 wise，源自 PIE *weid-*（看见、知道），本义“知道的、有见识的”，即“有智慧的”。
-- **同根词**：wisdom（wise 智慧 + **-dom** 状态 = 智慧的状态→智慧）、wisely（wise 智慧 + **-ly** …地 = 明智地）、wit（同源，知道→机智）、witness（wit 知道 + **-ness** 名词后缀 = 知道的人→证人）。
-- **前缀·后缀**：形容词后缀 **-ly** 构成副词（例：quickly, happily）；无前缀。
-- **同义·反义**：同义 clever, smart, sensible；反义 foolish, stupid。
-- **词性变化**：wisdom n. 智慧；wisely adv. 明智地；unwise adj. 不明智的。
+- **词根·渊源**：古英语 **wīs**（有智慧的）→ 中古英语 *wis* → 英语 wise；与德语 *weise* 同源，出自 PIE *weid-*（看见、知道），本义“知道的”，引申为“有智慧的”。
+- **同根词**：wisdom（wise 智慧 + **-dom** 状态→智慧）、wisely（wise + **-ly** 地→明智地）、unwise（**un-** 不 + wise→不明智的）、wizard（wise 智慧 + **-ard** 人→智者→巫师）。
+- **前缀·后缀**：前缀 **un-**（例：unhappy, unfair）；名词后缀 **-dom**（例：freedom, kingdom）、**-ard**（例：drunkard）。
+- **同义·反义**：同义 clever（聪明的）, smart（聪明的）；反义 foolish（愚蠢的）, stupid（笨的）。
+- **变形**：形容词 → 比较级：wiser；最高级：wisest；名词派生 → wisdom n. 智慧；副词派生 → wisely adv. 明智地。
 
 ### 9. challenge /ˈtʃæləndʒ/ n. 挑战；考验；向（某人）挑战
-- **词根·渊源**：拉丁 **calumnia**（诬告、诽谤）→ 古法语 *chalenge*（指控、争辩）→ 英语 challenge，本义“指控、争辩”，引申为“挑战、考验”。
-- **同根词**：challenger（challenge 挑战 + **-er** 人 = 挑战者）、challenging（challenge 挑战 + **-ing** …的 = 有挑战性的）、calumny（calumn 诽谤 + **-y** 名词后缀 = 诽谤）。
-- **前缀·后缀**：名词后缀 **-enge**（例：revenge, avenger）；无前缀。
-- **同义·反义**：同义 dare, test, defy；反义 accept, surrender。
-- **词性变化**：challenger n. 挑战者；challenging adj. 有挑战性的。
+- **词根·渊源**：拉丁 **calumnia**（诬告）→ 古法语 *chalenge*（指控、挑战）→ 英语 challenge，本义“指控、质疑”，引申为“挑战、考验”。
+- **同根词**：challenger（challenge 挑战 + **-er** 人→挑战者）、challenging（challenge + **-ing** …的→有挑战性的）、calumny（拉丁 calumnia 诬告 + **-y** →诽谤）。
+- **前缀·后缀**：名词后缀 **-er**（例：player, singer）、**-ing**（例：interesting）。
+- **同义·反义**：同义 test（考验）, dare（挑战）；反义 无。
+- **变形**：名词 → 复数：challenges；动词 → 第三人称单数：challenges；过去式：challenged；过去分词：challenged；现在分词：challenging；形容词派生 → challenging adj. 有挑战性的；名词派生 → challenger n. 挑战者。
 
 ### 10. promise /ˈprɑːmɪs/ v. 许诺；承诺；答应
-- **词根·渊源**：拉丁 **promittere**（pro- 向前 + mittere 送 = 向前送出→许诺）→ 拉丁 *promissum* → 古法语 *promesse* → 英语 promise，本义“向前送出（话语）”，即“许诺”。
-- **同根词**：promising（promise 许诺 + **-ing** …的 = 有前途的）、promissory（promiss 许诺 + **-ory** …的 = 承诺的）、mission（miss 送 + **-ion** 名词后缀 = 送出去的任务→使命）、submit（**sub-** 向下 + mit 送 = 向下送→提交）、permit（**per-** 通过 + mit 送 = 让通过→允许）。
-- **前缀·后缀**：前缀 **pro-**（例：progress, produce）；名词后缀 **-ise**（例：exercise, surprise）。
-- **同义·反义**：同义 vow, pledge, assure；反义 deny, refuse。
-- **词性变化**：promising adj. 有前途的；promissory adj. 承诺的；promise n. 诺言。
+- **词根·渊源**：拉丁 **promittere**（**pro-** 向前 + mittere 送→向前送出话→许诺）→ 拉丁 *promissum* → 英语 promise，本义“送出诺言”，即“许诺”。
+- **同根词**：promising（promise 许诺 + **-ing** …的→有前途的）、promissory（promiss 许诺 + **-ory** …的→承诺的）、mission（miss 送 + **-ion** →派遣→使命）、submit（**sub-** 下 + mit 送→呈送→提交）、permit（**per-** 通过 + mit 送→允许）。
+- **前缀·后缀**：前缀 **pro-**（例：progress）、**sub-**（例：subway）、**per-**（例：perfect）；名词后缀 **-ion**（例：action）、**-ory**（例：factory）。
+- **同义·反义**：同义 vow（发誓）, pledge（保证）；反义 无。
+- **变形**：动词 → 第三人称单数：promises；过去式：promised；过去分词：promised；现在分词：promising；名词派生 → promise n. 诺言；形容词派生 → promising adj. 有前途的。
 
 ### 11. prize /praɪz/ n. 奖赏；奖（品）；奖项
-- **词根·渊源**：拉丁 **pretium**（价值、价格）→ 古法语 *pris*（价值、奖赏）→ 英语 prize，本义“有价值的东西”，引申为“奖赏、奖品”。
-- **同根词**：price（同源，pretium 价格→价格）、precious（preci 价值 + **-ous** …的 = 有价值的→珍贵的）、appraise（**ap-** 向 + praise 价值 = 向…估价→评估）、praise（同源，价值→称赞）。
-- **前缀·后缀**：无前后缀（单纯词，源自拉丁 pretium）。
-- **同义·反义**：同义 award, reward, trophy；反义 penalty, punishment。
-- **词性变化**：prize v. 珍视；prizefighter n. 职业拳击手；prizewinner n. 获奖者。
+- **词根·渊源**：拉丁 **pretium**（价值、价格）→ 古法语 *pris*（价值、奖赏）→ 英语 prize，本义“有价值之物”，引申为“奖品、奖赏”。
+- **同根词**：price（拉丁 pretium 价格→价格）、precious（pret 价值 + **-ious** …的→珍贵的）、appraise（**ap-** 向 + praise 价值→评估）、praise（同源，价值→称赞）。
+- **前缀·后缀**：前缀 **ap-**（例：appear）；形容词后缀 **-ious**（例：famous, curious）。
+- **同义·反义**：同义 award（奖）, reward（奖赏）；反义 penalty（惩罚）。
+- **变形**：名词 → 复数：prizes；动词派生 → prize v. 珍视；形容词派生 → prized adj. 珍贵的。
 
 ### 12. grain /ɡreɪn/ n. 谷物，谷粒；颗粒，细粒
-- **词根·渊源**：拉丁 **granum**（谷粒、种子）→ 古法语 *grain* → 英语 grain，本义“谷粒”，引申为“颗粒、细粒”。
-- **同根词**：granary（gran 谷粒 + **-ary** 场所 = 存谷粒的地方→粮仓）、granite（gran 颗粒 + **-ite** 岩石 = 颗粒状的岩石→花岗岩）、granule（gran 颗粒 + **-ule** 小 = 小颗粒）、pomegranate（**pome** 苹果 + gran 颗粒 + **-ate** = 多颗粒的苹果→石榴）。
-- **前缀·后缀**：无前后缀（单纯词，源自拉丁 granum）。
-- **同义·反义**：同义 cereal, seed, particle；反义 无。
-- **词性变化**：grainy adj. 颗粒状的；granary n. 粮仓；granule n. 小颗粒。
+- **词根·渊源**：拉丁 **granum**（谷粒）→ 古法语 *grain* → 英语 grain，本义“谷粒”，引申为“颗粒、细粒”。
+- **同根词**：granary（gran 谷粒 + **-ary** 场所→谷仓）、granite（gran 颗粒 + **-ite** 岩石→花岗岩）、granule（gran 颗粒 + **-ule** 小→小粒）、ingrained（**in-** 在内 + grain 纹理 + **-ed** →深入纹理的→根深蒂固的）。
+- **前缀·后缀**：名词后缀 **-ary**（例：library）、**-ite**（例：favorite）、**-ule**（例：molecule）；前缀 **in-**（例：inside）。
+- **同义·反义**：同义 seed（种子）, cereal（谷物）；反义 无。
+- **变形**：名词 → 复数：grains；形容词派生 → grainy adj. 粒状的；granular adj. 颗粒的。
 
 ### 13. chessboard /'tʃesbɔːd/ n. 国际象棋棋盘
-- **词根·渊源**：chess（国际象棋，源自波斯语 shāh 国王）+ board（板，古英语 bord）合成，本义“下棋用的板”，即“国际象棋棋盘”。
-- **同根词**：chess（chess 棋 = 国际象棋）、chessman（chess 棋 + man 子 = 棋子）、board（board 板 = 板、董事会）、keyboard（key 键 + board 板 = 键盘）。
-- **前缀·后缀**：合成词，无前后缀（chess + board）。
-- **同义·反义**：同义 无（专有名词）；反义 无。
-- **词性变化**：chess n. 国际象棋；chessman n. 棋子。
+- **词根·渊源**：chess（国际象棋，源自波斯语 shāh 国王）+ board（板，古英语 bord）→ 英语 chessboard，本义“下棋用的板”，即棋盘。
+- **同根词**：chessman（chess 棋 + man 子→棋子）、checkerboard（checker 方格 + board 板→方格棋盘）、keyboard（key 键 + board 板→键盘）、blackboard（black 黑 + board 板→黑板）。
+- **前缀·后缀**：无前后缀（复合词：chess + board）。
+- **同义·反义**：同义 无；反义 无。
+- **变形**：名词 → 复数：chessboards；形容词派生 → 无常用形容词派生。
 
 ### 14. double /ˈdʌbəl/ adj. 使加倍；把……增加一倍；（成）双的；两个
-- **词根·渊源**：拉丁 **duplus**（duo 二 + -plus 倍 = 两倍）→ 古法语 *doble* → 英语 double，本义“两倍的”，引申为“双的、使加倍”。
-- **同根词**：duplicate（du 二 + plic 折 + **-ate** 动词后缀 = 折成两份→复制）、duplex（du 二 + plex 折 = 两折的→双重的）、dual（du 二 + **-al** …的 = 二的→双重的）、duet（du 二 + **-et** 小 = 二人小曲→二重奏）。
-- **前缀·后缀**：前缀 **du-**（例：dual, duet）；形容词后缀 **-ble**（例：possible, visible）。
-- **同义·反义**：同义 twofold, dual, duplicate；反义 single, half。
-- **词性变化**：doubly adv. 双重地；double v. 使加倍；doubling n. 加倍。
+- **词根·渊源**：拉丁 **duplus**（**du-** 二 + plus 倍→两倍）→ 古法语 *doble* → 英语 double，本义“两倍的”，引申为“双的、使加倍”。
+- **同根词**：duple（du 二 + **-ple** 倍→双倍的）、duplicate（du 二 + plic 折 + **-ate** →折成两份→复制）、duet（du 二 + **-et** 小→二重奏）、dual（du 二 + **-al** …的→双重的）、duplex（du 二 + plex 折→双重的）。
+- **前缀·后缀**：前缀 **du-**（例：duet, dual）；后缀 **-ple**（例：triple）、**-ate**（例：create）、**-al**（例：natural）。
+- **同义·反义**：同义 twofold（两倍的）, dual（双的）；反义 single（单一的）。
+- **变形**：形容词 → 无比较级（关系形容词，不作比较）；动词 → 第三人称单数：doubles；过去式：doubled；过去分词：doubled；现在分词：doubling；名词派生 → double n. 两倍；副词派生 → doubly adv. 双重地。
 
 ### 15. amount /əˈmaʊnt/ n. 量；数量；数额
-- **词根·渊源**：古法语 *amonter*（a- 向 + mont 山 = 向山上→上升）→ 英语 amount，本义“上升到、总计”，引申为“总量、数额”。
-- **同根词**：mount（mount 山/上升 = 登上、增加）、mountain（mount 山 + **-ain** 名词后缀 = 山）、dismount（**dis-** 去除 + mount 登 = 下马）、surmount（**sur-** 在上 + mount 登 = 登上→克服）。
-- **前缀·后缀**：前缀 **a-**（例：alive, asleep）；名词后缀 **-mount**（例：mount, surmount）。
-- **同义·反义**：同义 quantity, sum, total；反义 无。
-- **词性变化**：amount v. 总计；amounting adj. 总计的。
+- **词根·渊源**：古法语 *amonter*（**a-** 向 + mont 山→向上→总计）→ 英语 amount，本义“上升到、总计”，引申为“总量、数额”。
+- **同根词**：mount（mont 山→登上）、mountain（mount 山 + **-ain** →山）、surmount（**sur-** 在上 + mount 登→克服）、dismount（**dis-** 下 + mount 登→下马）。
+- **前缀·后缀**：前缀 **a-**（例：alive）、**sur-**（例：surface）、**dis-**（例：dislike）。
+- **同义·反义**：同义 quantity（数量）, sum（总额）；反义 无。
+- **变形**：名词 → 复数：amounts；动词派生 → amount v. 总计。
 
 ### 16. rest /rɛst/ v. 剩余部分，余下的人（物）
-- **词根·渊源**：拉丁 **restare**（re- 回 + stare 站 = 站回→留下）→ 古法语 *rester* → 英语 rest，本义“留下、剩下”，引申为“剩余部分”。
-- **同根词**：restless（rest 休息 + **-less** 无 = 不能休息的→不安的）、arrest（**ar-** 向 + rest 站 = 使站住→逮捕）、restive（rest 站 + **-ive** …的 = 站不住的→焦躁的）、restaurant（restaur 恢复 + **-ant** 场所 = 恢复体力之处→餐馆）。
-- **前缀·后缀**：前缀 **re-**（例：return, recall）；无后缀。
-- **同义·反义**：同义 remainder, remnant, balance；反义 whole, all。
-- **词性变化**：restful adj. 宁静的；restless adj. 不安的；rest n. 休息。
+- **词根·渊源**：拉丁 **restare**（**re-** 回 + stare 站→留下站立→剩余）→ 古法语 *rester* → 英语 rest，本义“留下、剩余”，引申为“剩余部分”；与“休息”义的 rest（古英语 ræst）同形异源。
+- **同根词**：restless（rest 休息 + **-less** 无…的→不安的）、arrest（**ar-** 向 + rest 站→使停下→逮捕）、station（st 站 + **-ation** →车站）、stable（st 站 + **-able** →稳定的）。
+- **前缀·后缀**：前缀 **re-**（例：return）、**ar-**（例：arrive）；后缀 **-less**（例：hopeless）。
+- **同义·反义**：同义 remainder（剩余部分）, remnant（残余）；反义 whole（全部）。
+- **变形**：动词 → 第三人称单数：rests；过去式：rested；过去分词：rested；现在分词：resting；名词派生 → rest n. 剩余部分。
 
 ### 17. gold /ɡəʊld/ n. 金子；金色；黄金；金牌
-- **词根·渊源**：古英语 **gold**（金）→ 中古英语 *gold* → 英语 gold，源自 PIE *ghel-*（黄、发光），本义“黄色的金属”，即“金子”。
-- **同根词**：golden（gold 金 + **-en** …的 = 金色的）、goldsmith（gold 金 + smith 匠 = 金匠）、goldfish（gold 金 + fish 鱼 = 金鱼）、gild（同源，给…镀金）。
-- **前缀·后缀**：形容词后缀 **-en**（例：wooden, golden）；无前缀。
-- **同义·反义**：同义 aurum, treasure；反义 无。
-- **词性变化**：golden adj. 金色的；goldsmith n. 金匠；gild v. 镀金。
+- **词根·渊源**：古英语 **gold**（金）→ 中古英语 *gold* → 英语 gold；与德语 *Gold* 同源，出自 PIE *ghel-*（黄、发光），本义“黄色的金属”，即金子。
+- **同根词**：golden（gold 金 + **-en** …的→金色的）、goldsmith（gold 金 + smith 匠→金匠）、goldfish（gold 金 + fish 鱼→金鱼）、gilded（gild 镀金 + **-ed** →镀金的）。
+- **前缀·后缀**：形容词后缀 **-en**（例：wooden, woolen）；后缀 **-ed**（例：talented）。
+- **同义·反义**：同义 无；反义 无。
+- **变形**：名词 → 复数：不可数（作“金子”义不可数）；形容词派生 → golden adj. 金色的；gilded adj. 镀金的。
 
 ### 18. instead /ɪnˈsted/ adv. 作为替代；代替；顶替
-- **词根·渊源**：中古英语 *in stede*（in 在 + stede 地方 = 在…的位置上）→ 英语 instead，本义“在（某物的）位置上”，引申为“作为替代”。
-- **同根词**：stead（stead 地方 = 位置、代替）、steadfast（stead 地方 + fast 牢固 = 站稳的→坚定的）、steadily（stead 地方 + **-ily** …地 = 稳定地）、homestead（home 家 + stead 地方 = 家园）。
-- **前缀·后缀**：前缀 **in-**（例：inside, into）；无后缀。
-- **同义·反义**：同义 rather, alternatively；反义 无。
-- **词性变化**：stead n. 位置；steadfast adj. 坚定的；steadily adv. 稳定地。
+- **词根·渊源**：中古英语 *in stede*（**in** 在 + stede 地方→在…的位置上）→ 英语 instead，本义“在…的位置上”，引申为“代替、作为替代”。
+- **同根词**：stead（古英语 stede 地方→代替；用处）、steadfast（stead 地方 + fast 牢固→坚定的）、steadily（stead 地方 + **-ily** 地→稳定地）、steady（stead 地方 + **-y** …的→稳定的）。
+- **前缀·后缀**：前缀 **in-**（例：inside）；后缀 **-y**（例：happy）、**-ily**（例：happily）。
+- **同义·反义**：同义 alternatively（作为替代地）；反义 无。
+- **变形**：副词 → 无比较级（不作比较）；名词派生 → stead n. 代替；形容词派生 → steady adj. 稳定的。
 
 ### 19. realize /ˈriəˌlaɪz/ v. 理解；领会；认识到；意识到
-- **词根·渊源**：拉丁 **realis**（真实的，来自 res 事物）→ 法语 *réel*（真实的）→ 英语 real；real + **-ize** 动词后缀，本义“使成为真实→实现”，17世纪起引申出“使心中成为真实→认识到、领会”。
-- **同根词**：real（res 事物 + **-al** …的 = 真实的）、reality（real + **-ity** 名词后缀 = 真实、现实）、really（real + **-ly** 副词后缀 = 真正地）、realization（realize + **-ation** 名词后缀 = 认识、实现）、realistic（real + **-istic** …的 = 现实的）。
-- **前缀·后缀**：动词后缀 **-ize**（例：organize, modernize）；名词后缀 **-ity**（例：activity, ability）。
-- **同义·反义**：同义 understand, recognize；反义 ignore, misunderstand。
-- **词性变化**：real adj. 真实的；reality n. 现实；realization n. 认识；实现。
+- **词根·渊源**：拉丁 **realis**（真实的，来自 res 事物）→ 法语 *réalisier* → 英语 realize；本义“使成为真实、实现”，后引申为“在头脑中使某事成为真实→认识到、意识到”。
+- **同根词**：real（res 事物 + **-al** …的 = 真实的）、reality（real + **-ity** 名词后缀 = 现实）、realization（realize + **-ation** 名词后缀 = 认识、实现）、really（real + **-ly** 副词后缀 = 真正地）、realism（real + **-ism** 主义 = 现实主义）。
+- **前缀·后缀**：动词后缀 **-ize**（例：organize, modernize）；名词后缀 **-ation**（例：organization, information）。
+- **同义·反义**：同义 understand（理解）, recognize（认识到）；反义 ignore（忽视）, misunderstand（误解）。
+- **变形**：动词 → 第三人称单数：realizes；过去式：realized；过去分词：realized；现在分词：realizing；名词派生 → realization n. 认识、实现；形容词派生 → realizable adj. 可实现的。
 
 ### 20. copy /ˈkɑ:pi/ v. 抄写；誊写；抄袭；模仿；复制；复印
-- **词根·渊源**：拉丁 **copia**（丰富、大量）→ 中世纪拉丁 *copia* 指“抄本、副本”（因抄本使文本“增多”）→ 古法语 *copie* → 英语 copy；由“副本”引申为“抄写、复制、模仿”。
-- **同根词**：copious（copia 丰富 + **-ous** …的 = 大量的）、copyist（copy + **-ist** 人 = 抄写员）、copyright（copy 复制 + right 权利 = 版权）、photocopy（photo 光 + copy 复制 = 影印）。
-- **前缀·后缀**：名词后缀 **-ist**（例：artist, scientist）；前缀 **photo-**（例：photograph, photosynthesis）。
-- **同义·反义**：同义 duplicate, imitate；反义 originate, create。
-- **词性变化**：copy n. 副本；copier n. 复印机；copyist n. 抄写员。
+- **词根·渊源**：拉丁 **copia**（丰富、大量）→ 中世纪拉丁 *copia* 指“抄本”（因抄本大量复制）→ 古法语 *copie* → 英语 copy；本义“大量、副本”，引申为“复制、抄写”。
+- **同根词**：copious（copia 丰富 + **-ous** …的 = 大量的）、copyist（copy + **-ist** 人 = 抄写员）、copyright（copy 复制 + right 权利 = 版权）、photocopy（photo 光 + copy 复制 =  photocopy 影印）、copybook（copy + book 书 = 字帖）。
+- **前缀·后缀**：无前后缀（单纯词，源自拉丁 copia）。
+- **同义·反义**：同义 imitate（模仿）, duplicate（复制）；反义 originate（原创）, create（创造）。
+- **变形**：动词 → 第三人称单数：copies；过去式：copied；过去分词：copied；现在分词：copying；名词 → 复数：copies；名词派生 → copyist n. 抄写员；形容词派生 → copyable adj. 可复制的。
 
 ### 21. correctly /kə'rektli/ adv. 准确无误地；正确地；合适地；得体地
-- **词根·渊源**：拉丁 **corrigere**（com- 加强 + regere 引导、统治 → 使归正）→ 拉丁 *correctus*（已改正的）→ 英语 correct；correct + **-ly** 副词后缀 = 正确地。
-- **同根词**：correct（cor- 加强 + rect 直、正 = 改正→正确的）、correction（correct + **-ion** 名词后缀 = 改正）、corrective（correct + **-ive** …的 = 矫正的）、incorrect（**in-** 不 + correct = 不正确的）、rectangle（rect 直 + angle 角 = 直角→长方形）。
+- **词根·渊源**：拉丁 **correctus**（cor-** 加强 + regere 引导、统治 = 使直、改正）→ 拉丁 *correctus* → 英语 correct + **-ly**；本义“使变直、改正”，引申为“正确地”。
+- **同根词**：correct（cor- 加强 + rect 直 = 改正的→正确的）、correction（correct + **-ion** 名词后缀 = 改正）、corrective（correct + **-ive** …的 = 矫正的）、correctness（correct + **-ness** 名词后缀 = 正确性）、incorrect（**in-** 不 + correct 正确 = 不正确的）。
 - **前缀·后缀**：副词后缀 **-ly**（例：quickly, happily）；否定前缀 **in-**（例：incorrect, invisible）。
-- **同义·反义**：同义 rightly, properly；反义 wrongly, incorrectly。
-- **词性变化**：correct adj. 正确的；v. 改正；correction n. 改正；incorrect adj. 不正确的。
+- **同义·反义**：同义 rightly（正确地）, properly（恰当地）；反义 incorrectly（不正确地）, wrongly（错误地）。
+- **变形**：副词 → 比较级：more correctly；最高级：most correctly；形容词派生 → correct adj. 正确的；名词派生 → correctness n. 正确性。
 
 ### 22. traffic /ˈtræfɪk/ n. 交通，来往车辆
-- **词根·渊源**：意大利语 *traffico*（贸易、买卖）→ 古法语 *trafique* → 英语 traffic；本义“贸易、交易”，后指“路上往来的人货流动”，19世纪起专指“交通、来往车辆”（词源细节存疑）。
-- **同根词**：trafficker（traffic 贸易 + **-er** 人 = 贩子）、trafficking（traffic + **-ing** 名词后缀 = 非法交易）。
-- **前缀·后缀**：名词后缀 **-er**（例：worker, teacher）；动名词后缀 **-ing**（例：shopping, running）。
-- **同义·反义**：同义 vehicles, movement；反义 无。
-- **词性变化**：traffic v. 交易；trafficker n. 贩子；trafficking n. 非法交易。
+- **词根·渊源**：意大利语 **traffico**（贸易、买卖）→ 古法语 *trafique* → 英语 traffic；本义“贸易、商品交易”，后引申为“来往的人流、车流→交通”。词源存疑（一说源自阿拉伯语 tafriq 分散）。
+- **同根词**：trafficker（traffic + **-er** 人 = 商人、贩子）、trafficking（traffic + **-ing** 名词后缀 = 非法交易）、traffic jam（traffic + jam 堵塞 = 交通堵塞）、traffic light（traffic + light 灯 = 交通灯）。
+- **前缀·后缀**：名词后缀 **-er**（例：worker, teacher）；名词后缀 **-ing**（例：shopping, running）。
+- **同义·反义**：同义 vehicles（车辆）, transportation（运输）；反义 无。
+- **变形**：名词 → 复数：traffics（作“交通”义时不可数）；动词派生 → traffic v. 交易（trafficked / trafficked / trafficking）；名词派生 → trafficker n. 商人。
 
 ### 23. accident /ˈæksɪdənt/ n. 事故，意外的事
-- **词根·渊源**：拉丁 **accidere**（ad- 向 + cadere 落下 → 落到身上）→ 拉丁 *accidens*（偶然发生的事）→ 古法语 *accident* → 英语 accident；本义“偶然落到身上的事”，引申为“意外事件、事故”。
-- **同根词**：accidental（accident + **-al** …的 = 偶然的）、accidentally（accidental + **-ly** 副词后缀 = 偶然地）、incident（**in-** 在上 + cid 落 = 落在上面的事→事件）、incidence（incident + **-ence** 名词后缀 = 发生率）、cascade（cas 落 + **-ade** 名词后缀 = 瀑布→倾泻）。
-- **前缀·后缀**：形容词后缀 **-al**（例：natural, personal）；前缀 **in-**（例：incident, include）。
-- **同义·反义**：同义 crash, mishap；反义 intention, design。
-- **词性变化**：accidental adj. 偶然的；accidentally adv. 偶然地；incident n. 事件。
+- **词根·渊源**：拉丁 **accidere**（**ad-** 向 + cadere 落下 = 落到身上、发生）→ 拉丁 *accidens* → 古法语 *accident* → 英语 accident；本义“偶然发生的事”，引申为“意外、事故”。
+- **同根词**：accidental（accident + **-al** …的 = 偶然的）、accidentally（accidental + **-ly** 副词后缀 = 偶然地）、incident（**in-** 在上 + cid 落 = 发生的事→事件）、incidental（incident + **-al** …的 = 附带的）、cadence（cad 落 + **-ence** 名词后缀 = 节奏、韵律）。
+- **前缀·后缀**：名词后缀 **-ent**（例：student, president）；形容词后缀 **-al**（例：natural, personal）。
+- **同义·反义**：同义 crash（碰撞）, mishap（小事故）；反义 intention（故意）, design（蓄意）。
+- **变形**：名词 → 复数：accidents；形容词派生 → accidental adj. 偶然的；副词派生 → accidentally adv. 偶然地。
 
 ### 24. a long time ago /ə lɒŋ taɪm əˈɡəʊ/ n. 很久以前；很早以前
-- **同义搭配**：long ago / once upon a time / in the distant past
-- **反义搭配**：recently / not long ago
+- **同义搭配**：long ago / once upon a time
+- **反义搭配**：recently（最近）
 
-### 25. challenge......to...... n. 向（某人）挑战
-- **同义搭配**：dare sb to do sth / invite sb to compete / throw down the gauntlet to
-- **反义搭配**：give in to / back down from
+### 25. challenge......to......  n. 向（某人）挑战
+- **同义搭配**：challenge sb. to do sth. / dare sb. to do sth.
+- **反义搭配**：无
 
 ### 26. and so on /ænd səʊ ɒn/ n. 等等；诸如此类
-- **同义搭配**：and so forth / et cetera / and the like
+- **同义搭配**：etc. / and so forth
 - **反义搭配**：无
 
 ### 27. copy down /ˈkɑpi daʊn/ n. 抄下来，记下来；抄写；誊写
-- **同义搭配**：write down / take down / jot down
-- **反义搭配**：erase / rub out
+- **同义搭配**：write down / take down
+- **反义搭配**：无
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| -ion | 名词后缀，表行为、状态 | instructions | action, education, invention, decision |
-| -s | 复数或第三人称单数后缀 | instructions | books, runs, cars, likes |
-| in- | 进入；在内 | instructions | inside, include, indoor, input |
+| in- | 进入；使 | instructions | include, inform, invent, invite |
+| -tion | 名词后缀，表行为或状态 | instructions | action, education, invention, attention |
+| -s | 复数或第三人称单数后缀 | instructions | books, runs, likes, helps |
 | -ly | 副词后缀，表方式 | correctly | quickly, happily, carefully, slowly |
-| -er | 名词后缀，表人或物 | number | teacher, worker, computer, driver |
-| -ment | 名词后缀，表行为、结果 |（本单元无直接例词） | movement, development, agreement, government |
-| -ful | 形容词后缀，表充满 |（本单元无直接例词） | useful, helpful, careful, beautiful |
-| -less | 形容词后缀，表没有 |（本单元无直接例词） | useless, hopeless, careless, endless |
+| -er | 名词后缀，表人或物 | number | teacher, worker, computer, farmer |
+| -ful | 形容词后缀，表充满 |（本单元无直接例词） | careful, useful, helpful, beautiful |
+| -less | 形容词后缀，表没有 |（本单元无直接例词） | careless, hopeless, useless, endless |
+| -ment | 名词后缀，表行为或结果 |（本单元无直接例词） | movement, development, agreement, government |
 | -able | 形容词后缀，表能够 |（本单元无直接例词） | readable, comfortable, valuable, movable |
-| -ize | 动词后缀，表使……化 | realize | modernize, organize, memorize, apologize |
-| -y | 名词或形容词后缀 |（本单元无直接例词） | happy, rainy, difficulty, discovery |
+| -ous | 形容词后缀，表具有……性质 |（本单元无直接例词） | famous, dangerous, nervous, curious |
+| -ize | 动词后缀，表使……化 | realize | organize, modernize, realize, apologize |
+| -y | 名词或形容词后缀 | traffic（存疑） | happy, rainy, difficulty, discovery |
+| -al | 形容词后缀，表……的 |（本单元无直接例词） | natural, national, personal, musical |
+| -ity | 名词后缀，表性质或状态 |（本单元无直接例词） | activity, ability, reality, possibility |
 | -ing | 动名词或现在分词后缀 |（本单元无直接例词） | reading, running, interesting, exciting |
 | -ed | 过去式或过去分词后缀 |（本单元无直接例词） | played, worked, interested, excited |
-| -ness | 名词后缀，表性质、状态 |（本单元无直接例词） | happiness, kindness, darkness, goodness |
-| -ist | 名词后缀，表人 |（本单元无直接例词） | artist, scientist, pianist, tourist |
-| -ous | 形容词后缀，表充满 |（本单元无直接例词） | famous, dangerous, nervous, curious |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
-| 词 | 同义 | 反义 |
+| 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| number | figure, quantity, digit | — |
-| instructions | directions, orders, guidance | — |
-| check | examine, verify, inspect | ignore, overlook |
-| wise | clever, smart, intelligent | foolish, stupid |
-| challenge | test, dare, difficulty | — |
-| promise | vow, pledge, assure | — |
-| prize | award, reward, trophy | penalty |
-| grain | seed, cereal, particle | — |
-| double | twofold, duplicate, increase | halve, reduce |
-| amount | quantity, sum, total | — |
-| rest | remainder, leftover, balance | whole |
-| gold | golden, treasure | — |
-| instead | alternatively, rather | — |
-| realize | understand, recognize, comprehend | misunderstand |
-| copy | duplicate, reproduce, imitate | original |
-| correctly | rightly, accurately, properly | wrongly, incorrectly |
-| traffic | vehicles, transportation | — |
-| accident | crash, mishap, incident | — |
-| a long time ago | long ago, once upon a time | recently, nowadays |
-| and so on | etc., and so forth | — |
+| number | figure（数字） | — |
+| check | examine（检查） | ignore（忽视） |
+| wise | clever（聪明的） | foolish（愚蠢的） |
+| challenge | difficulty（困难） | — |
+| promise | vow（发誓） | — |
+| prize | award（奖品） | — |
+| grain | seed（种子） | — |
+| double | twofold（双倍的） | single（单一的） |
+| amount | quantity（数量） | — |
+| rest | remainder（剩余部分） | — |
+| gold | golden（金色的） | — |
+| instead | alternatively（作为替代） | — |
+| realize | understand（理解） | misunderstand（误解） |
+| copy | imitate（模仿） | — |
+| correctly | rightly（正确地） | wrongly（错误地） |
+| traffic | vehicles（车辆） | — |
+| accident | crash（事故） | — |
+| son | — | daughter（女儿） |
+| chess | — | — |
+| India | — | — |
 
 ---
 
 ### 制作说明
 - 词源按 Oxford / Merriam-Webster / Online Etymology Dictionary 整理，**不是教材原文**。
 - 同根词的括注给出构词路径，用于理解“为什么是这个意思”，不要求背诵。
+- “变形”里的时态、复数、比较级按《牛津高阶》通行形式给出；标“无比较级 / 不可数”的是本身不作变化的情况。
 - 若需增删（例如只保留高频词、加例句），在此文件上直接改即可。
