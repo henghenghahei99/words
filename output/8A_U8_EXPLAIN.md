@@ -1,6 +1,6 @@
-# 8A_U8 说文解字 · English week
+# 8A_U8 说文解字 · Pets and us
 
-> 配套 `8A_U8.md`（沪教牛津版 2024/2025 修订，29 条）
+> 配套 `8A_U8.md`（沪教牛津版 2024/2025 修订，28 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
 > 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
@@ -8,254 +8,241 @@
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
-| spec-/spic- | 看 | 拉丁语 specere（看） | speech（演说） | inspect, respect, spectator, suspect |
-| not- | 知道；标记 | 拉丁语 notus（已知的） | notice（通告） | notable, notify, notion, notorious |
-| pet- | 追求；寻求 | 拉丁语 petere（追求） | competition（竞赛） | appetite, petition, repeat, compete |
-| text- | 编织；文本 | 拉丁语 texere（编织） | text（课文） | context, textile, texture, pretext |
-| vid-/vis- | 看 | 拉丁语 videre（看） | advise（建议） | visible, vision, evidence, provide |
-| op- | 意见；看法 | 拉丁语 opinari（认为） | opinion（意见） | opine, opinionated |
-| mun- | 公共的；服务 | 拉丁语 munus（义务、服务） | communicate（沟通） | community, municipal, immune |
-| cap-/cept- | 拿；抓 | 拉丁语 capere（拿取） | attack（攻击） | capture, accept, receive, concept |
-| ject- | 投；扔 | 拉丁语 jacere（投掷） | suggestion（建议） | project, reject, inject, subject |
-| thes- | 放置；储藏 | 希腊语 tithenai（放置） | treasure（珍宝） | thesis, hypothesis, synthesize |
-| top- | 地方；主题 | 希腊语 topos（地方） | topic（话题） | topical, topography, utopia |
-| vinc-/vict- | 征服；胜利 | 拉丁语 vincere（征服） | winner（胜利者） | victory, convince, invincible |
-| cad-/cas- | 落下；发生 | 拉丁语 cadere（落下） | chance（机会） | accident, occasion, cascade, decay |
-| fid- | 信任 | 拉丁语 fidere（信任） | confidently（自信地） | confidence, fidelity, confide |
-| sol- | 整个的 | 拉丁语 solus（单独的） | whole（整个的） | solid, solitude, solo |
+| -tack- | 接触；攻击 | 古法语/日耳曼语 | attack | contact, tactic, intact |
+| -faith- | 信任；忠诚 | 拉丁语 fides | faithful | faith, fidelity, confident |
+| -spons- | 承诺；回应 | 拉丁语 spondere | responsible | response, sponsor, correspond |
+| -wak- | 醒；警觉 | 古英语 wacan | awake | wake, waken, awaken |
+| -lect-/leg- | 选择；收集 | 拉丁语 legere | choice | collect, select, elect, legend |
+| -vis-/vid- | 看 | 拉丁语 videre | advise | vision, visible, video, evident |
+| -caus- | 原因；理由 | 拉丁语 causa | cause | because, causal, excuse |
+| -plaint- | 哀叹；抱怨 | 拉丁语 plangere | complain | complaint, plaintive, plaintiff |
+| -lev- | 轻；举起 | 拉丁语 levare | relieve | elevate, lever, alleviate |
+| -mag- | 力量；魔法 | 希腊语 magos | magical | magic, magician, magnificent |
+| -serv- | 服务；保存 | 拉丁语 servire | servant | service, serve, preserve, reserve |
+| -rel- | 联系；关系 | 拉丁语 referre | relationship | relate, relative, relation |
+| -lik- | 相似；可能 | 古英语 lic | unlikely | like, likely, alike |
+| -queen- | 女人；妻子 | 古英语 cwen | queen | queenly, queenship |
 
 ## 二、逐词说文解字
 
-### 1. speech /spiːtʃ/ n. 演说；讲演；发言
-- **词根·渊源**：古英语 *spæc*（说话、言语）→ 中古英语 *speche* → 英语 speech；与 speak 同源，本义“说话的行为/内容”，引申为“演说、发言”。
-- **同根词**：speak（古英语 specan 说话→说）、speaker（speak + **-er** 人 = 说话者→演讲者、扬声器）、speechless（speech + **-less** 无 = 无言的→说不出话的）。
-- **前缀·后缀**：名词后缀 **-less**（例：homeless, hopeless）；名词后缀 **-er**（例：teacher, worker）。
-- **同义·反义**：同义 talk（讲话）, address（演说）；反义 silence（沉默）。
-- **变形**：名词 → 复数：speeches；形容词派生 → speechless adj. 说不出话的；副词派生 → speechlessly adv. 无言地。
-
-### 2. notice /ˈnoʊtɪs/ v. 通告；布告；告示
-- **词根·渊源**：拉丁 **not-**（知道、标记，源自 *noscere* 知道）→ 拉丁 *notitia* 知识、通知 → 古法语 *notice* → 英语 notice；本义“使人知道”，引申为“通告、布告”，又引申为“注意到”。
-- **同根词**：notify（not 知道 + **-ify** 使 = 使知道→通知）、notion（not 知道 + **-ion** 名词 = 所知→概念）、notable（not 标记 + **-able** 可 = 可被注意的→显著的）、notation（not 标记 + **-ation** = 标记法→记号）、annotate（**an-** 加 + not 标记 + **-ate** = 加标记→注释）。
-- **前缀·后缀**：动词后缀 **-ify**（例：simplify, beautify）；名词后缀 **-ion**（例：action, nation）；前缀 **an-**（例：annex, announce）。
-- **同义·反义**：同义 announcement（通告）, bulletin（公告）；反义 无。
-- **变形**：动词 → 第三人称单数：notices；过去式：noticed；过去分词：noticed；现在分词：noticing；名词派生 → notice n. 通知、注意；形容词派生 → noticeable adj. 显著的；副词派生 → noticeably adv. 显著地。
-
-### 3. competition /ˌkɒmpəˈtɪʃn/ n. 竞赛；竞争；比赛
-- **词根·渊源**：拉丁 **com-**（共同）+ **pet-**（追求，源自 *petere* 寻求）→ 拉丁 *competere* 共同追求 → 拉丁 *competitio* → 英语 competition；本义“共同追求（同一目标）”，引申为“竞争、竞赛”。
-- **同根词**：compete（com 共同 + pet 追求 = 共同追求→竞争）、competitive（compete + **-itive** …的 = 竞争的）、competitor（compete + **-itor** 人 = 竞争者）、appetite（**ap-** 向 + pet 追求 + **-ite** = 追求→食欲）、petition（pet 追求 + **-ition** = 追求→请愿）。
-- **前缀·后缀**：前缀 **com-**（例：combine, compare）；名词后缀 **-ition**（例：condition, addition）；形容词后缀 **-itive**（例：positive, sensitive）。
-- **同义·反义**：同义 contest（比赛）, rivalry（竞争）；反义 cooperation（合作）。
-- **变形**：名词 → 复数：competitions；动词派生 → compete v. 竞争；形容词派生 → competitive adj. 竞争的；副词派生 → competitively adv. 竞争地。
-
-### 4. treasure /ˈtrɛʒɚ/ n. 珠宝；财富；珍宝
-- **词根·渊源**：希腊 **thesauros**（宝库、储藏）→ 拉丁 *thesaurus* 宝库 → 古法语 *tresor* → 英语 treasure；本义“储藏之物”，引申为“珍宝、财富”。
-- **同根词**：thesaurus（希腊 thesauros 宝库→同义词词典，因“词语的宝库”得名）、treasurer（treasure + **-er** 人 = 管宝库的人→司库）、treasury（treasure + **-y** 场所 = 宝库→国库）。
-- **前缀·后缀**：名词后缀 **-er**（例：manager, farmer）；名词后缀 **-y**（例：factory, library）。
-- **同义·反义**：同义 wealth（财富）, riches（财宝）；反义 poverty（贫穷）。
-- **变形**：名词 → 复数：treasures；动词派生 → treasure v. 珍视；形容词派生 → treasured adj. 珍爱的。
-
-### 5. text /tɛkst/ n. 课文；正文，文字材料；文本
-- **词根·渊源**：拉丁 **text-**（编织，源自 *texere* 编织）→ 拉丁 *textus* 编织物、文本 → 古法语 *texte* → 英语 text；本义“编织成的东西”，引申为“编织起来的文字→文本、正文”。
-- **同根词**：textile（text 编织 + **-ile** 物 = 编织物→纺织品）、texture（text 编织 + **-ure** 名词 = 编织方式→质地）、context（**con-** 共同 + text 编织 = 编在一起→上下文）、pretext（**pre-** 前 + text 编织 = 预先编好的话→借口）。
-- **前缀·后缀**：前缀 **con-**（例：connect, contain）、**pre-**（例：preview, predict）；名词后缀 **-ure**（例：picture, nature）。
-- **同义·反义**：同义 passage（段落）, content（内容）；反义 无。
-- **变形**：名词 → 复数：texts；形容词派生 → textual adj. 文本的；副词派生 → textually adv. 文本上地。
-
-### 6. chance /tʃæns/ n. 机会；机遇
-- **词根·渊源**：拉丁 **cad-**（落下，源自 *cadere* 落下）→ 俗拉丁 *cadentia* 落下的方式 → 古法语 *cheance* 骰子落下的结果 → 英语 chance；本义“骰子落下的偶然结果”，引申为“偶然、机会”。
-- **同根词**：accident（**ac-** 向 + cad 落 + **-ent** = 落到身上→意外）、incident（**in-** 上 + cad 落 + **-ent** = 落在上面→事件）、cadence（cad 落 + **-ence** = 落下的节奏→韵律）、decay（**de-** 下 + cay 落 = 落下→衰败）、occasion（**oc-** 向 + cas 落 + **-ion** = 落到一起→场合、时机）。
-- **前缀·后缀**：前缀 **ac-**（例：accept, achieve）、**in-**（例：include, inform）；名词后缀 **-ent**（例：student, president）。
-- **同义·反义**：同义 opportunity（机会）, luck（运气）；反义 无。
-- **变形**：名词 → 复数：chances；形容词派生 → chance adj. 偶然的；副词派生 → chancily adv. 偶然地。
-
-### 7. confidently /'kɒnfədəntlɪ/ adv. 自信地；安心地
-- **词根·渊源**：拉丁 **con-**（完全）+ **fid-**（信任，源自 *fidere* 信任）→ 拉丁 *confidere* 完全信任 → 拉丁 *confidentia* → 英语 confident + **-ly** → confidently；本义“完全信任地”，引申为“自信地”。
-- **同根词**：confident（con 完全 + fid 信任 + **-ent** …的 = 完全信任的→自信的）、confidence（con + fid + **-ence** 名词 = 完全信任→信心）、confide（con + fid 信任 = 完全信任→倾诉）、faith（拉丁 fides 信任→信仰）、fidelity（fid 信任 + **-elity** 名词 = 忠实）。
-- **前缀·后缀**：前缀 **con-**（例：confirm, connect）；名词后缀 **-ence**（例：difference, silence）；副词后缀 **-ly**（例：quickly, happily）。
-- **同义·反义**：同义 assuredly（有把握地）, boldly（大胆地）；反义 timidly（胆怯地）, doubtfully（怀疑地）。
-- **变形**：副词 → 无比较级（派生副词，不作比较）；形容词派生 → confident adj. 自信的；名词派生 → confidence n. 信心。
-
-### 8. topic /ˈtɑːpɪk/ n. 话题;题目;标题
-- **词根·渊源**：希腊 **topos**（地方）→ 拉丁 *topica*（亚里士多德《论题篇》，意为“关于常见论点的”）→ 英语 topic；本义“（讨论的）地方/范围”，引申为“话题、题目”。
-- **同根词**：topical（topic + **-al** …的 = 话题的→时事的）、topography（topo 地方 + **-graphy** 写 = 写地方→地形学）、toponym（topo 地方 + **-onym** 名 = 地名）。
-- **前缀·后缀**：形容词后缀 **-al**（例：natural, national）；名词后缀 **-graphy**（例：geography, photography）。
-- **同义·反义**：同义 subject（主题）, theme（题目）；反义 无。
-- **变形**：名词 → 复数：topics；形容词派生 → topical adj. 话题的；副词派生 → topically adv. 话题上地。
-
-### 9. winner /ˈwɪnə(r)/ n. 胜利者；优胜者
-- **词根·渊源**：古英语 **winnan**（争斗、赢得）→ 中古英语 *winnen* → 英语 win + **-er** → winner；本义“争斗得胜的人”，即“胜利者”。
-- **同根词**：win（古英语 winnan 争斗→赢）、winning（win + **-ing** …的 = 赢的→获胜的）、winnings（win + **-ings** 名词 = 赢来的东西→奖金）。
-- **前缀·后缀**：名词后缀 **-er**（例：runner, singer）；形容词后缀 **-ing**（例：interesting, exciting）。
-- **同义·反义**：同义 victor（胜利者）, champion（冠军）；反义 loser（失败者）。
-- **变形**：名词 → 复数：winners；动词派生 → win v. 赢；形容词派生 → winning adj. 获胜的。
-
-### 10. advise /ædˈvaɪz/ v. 向……提出意见；忠告；建议
-- **词根·渊源**：拉丁 **ad-**（向）+ **vis-**（看，源自 *videre* 看）→ 拉丁 *advidere* 去看 → 古法语 *aviser* 考虑 → 英语 advise；本义“去看→审视→考虑”，引申为“提出意见、忠告”。
-- **同根词**：advice（ad 向 + vis 看 + **-e** = 看法→建议）、visible（vis 看 + **-ible** 可 = 可见的）、vision（vis 看 + **-ion** = 看→视力、远见）、visit（vis 看 + **-it** = 去看→拜访）、evident（**e-** 出 + vid 看 + **-ent** = 看得出→明显的）。
-- **前缀·后缀**：前缀 **ad-**（例：advance, admit）、**e-**（例：emit, export）；形容词后缀 **-ible**（例：possible, terrible）。
-- **同义·反义**：同义 suggest（建议）, recommend（推荐）；反义 无。
-- **变形**：动词 → 第三人称单数：advises；过去式：advised；过去分词：advised；现在分词：advising；名词派生 → advice n. 建议；形容词派生 → advisable adj. 明智的；副词派生 → advisably adv. 明智地。
-
-### 11. several /ˈsevrəl/ adj. 几个；一些
-- **词根·渊源**：拉丁 **se-**（分开）+ **par-**（准备，源自 *parare* 准备）→ 中世纪拉丁 *separalis* 分开的 → 古法语 *several* → 英语 several；本义“各自分开的”，引申为“几个、一些”。
-- **同根词**：separate（se 分开 + par 准备 + **-ate** = 分开准备→分离）、prepare（**pre-** 前 + par 准备 = 预先准备→准备）、repair（**re-** 再 + pair 准备 = 重新准备→修理）、parade（par 准备 + **-ade** = 准备→列队游行）。
-- **前缀·后缀**：前缀 **se-**（例：select, secure）、**pre-**（例：prevent, predict）；形容词后缀 **-al**（例：final, local）。
-- **同义·反义**：同义 some（一些）, a few（几个）；反义 无。
-- **变形**：形容词 → 无比较级（限定词性形容词，不作比较）；副词派生 → severally adv. 各自地。
-
-### 12. opinion /əˈpɪnjən/ n. 意见；想法；观点；看法
-- **词根·渊源**：拉丁 **op-**（朝向，源自 *opinari* 认为）→ 拉丁 *opinio* 意见 → 古法语 *opinion* → 英语 opinion；本义“认为、判断”，引申为“意见、看法”。
-- **同根词**：opine（op 认为 + **-ine** 动词 = 认为→发表意见）、opinionated（opinion + **-ated** …的 = 固执己见的）。
-- **前缀·后缀**：名词后缀 **-ion**（例：action, station）；形容词后缀 **-ated**（例：educated, complicated）。
-- **同义·反义**：同义 view（看法）, belief（信念）；反义 fact（事实）。
-- **变形**：名词 → 复数：opinions；形容词派生 → opinionated adj. 固执己见的。
-
-### 13. whole /hoʊl/ adj. 整个的；全部的；整体的
-- **词根·渊源**：古英语 **hāl**（健康的、完整的）→ 中古英语 *hol* → 英语 whole；本义“健康的、完整的”，引申为“整个的、全部的”；与 heal、health 同源。
-- **同根词**：heal（古英语 hælan 使完整→治愈）、health（古英语 hælth 完整→健康）、healthy（health + **-y** …的 = 健康的）、holistic（hol 整个 + **-istic** …的 = 整体的）。
-- **前缀·后缀**：形容词后缀 **-y**（例：rainy, windy）；形容词后缀 **-istic**（例：artistic, realistic）。
-- **同义·反义**：同义 entire（全部的）, complete（完整的）；反义 partial（部分的）, broken（破碎的）。
-- **变形**：形容词 → 无比较级（绝对形容词，不作比较）；名词派生 → whole n. 整体；副词派生 → wholly adv. 完全地。
-
-### 14. suggestion /səˈdʒestʃən/ n. 建议；提议
-- **词根·渊源**：拉丁 **sub-**（在下）+ **gest-**（带来，源自 *gerere* 携带）→ 拉丁 *suggerere* 从下面带来 → 拉丁 *suggestio* → 英语 suggestion；本义“从下面悄悄带来（想法）”，引申为“建议、提议”。
-- **同根词**：suggest（sub 下 + gest 带 = 从下带出→建议）、digest（**di-** 分开 + gest 带 = 分开带→消化）、congest（**con-** 共同 + gest 带 = 带到一起→拥挤）、gesture（gest 带 + **-ure** = 带出的动作→手势）。
-- **前缀·后缀**：前缀 **sub-**（例：subway, subject）、**di-**（例：divide, direct）；名词后缀 **-ion**（例：question, station）。
-- **同义·反义**：同义 advice（建议）, proposal（提议）；反义 无。
-- **变形**：名词 → 复数：suggestions；动词派生 → suggest v. 建议；形容词派生 → suggestive adj. 暗示的。
-
-### 15. communicate /kəˈmjunɪˌket/ v. 交流信息；沟通
-- **词根·渊源**：拉丁 **com-**（共同）+ **mun-**（服务、公共，源自 *munus* 义务）→ 拉丁 *communicare* 共享、使公共 → 英语 communicate；本义“使成为公共的→共享”，引申为“交流、沟通”。
-- **同根词**：common（com 共同 + mun 公共 = 共同的）、community（com + mun + **-ity** 名词 = 共同体→社区）、communism（com + mun + **-ism** 主义 = 共产主义）、municipal（mun 公共 + **-cipal** …的 = 市政的）。
-- **前缀·后缀**：前缀 **com-**（例：company, compare）；名词后缀 **-ity**（例：activity, reality）；名词后缀 **-ism**（例：socialism, realism）。
-- **同义·反义**：同义 convey（传达）, exchange（交流）；反义 无。
-- **变形**：动词 → 第三人称单数：communicates；过去式：communicated；过去分词：communicated；现在分词：communicating；名词派生 → communication n. 交流；形容词派生 → communicative adj. 健谈的；副词派生 → communicatively adv. 交流地。
-
-### 16. whenever /hwɛnˈɛvɚ/ conj. 在任何...时候；无论何时；在任何...的情况下
-- **词根·渊源**：古英语 **hwænne**（何时）+ **æfre**（永远）→ 中古英语 *whan-ever* → 英语 whenever；本义“在任何时候”，即“无论何时”。
-- **同根词**：when（古英语 hwænne 何时→什么时候）、wherever（where + **-ever** = 无论哪里）、whatever（what + **-ever** = 无论什么）、whoever（who + **-ever** = 无论谁）。
-- **前缀·后缀**：后缀 **-ever**（例：however, whichever）。
-- **同义·反义**：同义 any time（任何时候）；反义 无。
-- **变形**：连词 → 无形态变化（不作比较）。
-
-### 17. rich /rɪtʃ/ adj. 丰富的；富有的；富裕的；有钱的
-- **词根·渊源**：古英语 **rīce**（强大的、富有的）→ 中古英语 *riche* → 英语 rich；与古高地德语 *rīhhi* 同源，本义“强大的”，引申为“富有的、丰富的”。
-- **同根词**：riches（rich + **-es** 名词 = 财富）、richly（rich + **-ly** 副词 = 富裕地）、richness（rich + **-ness** 名词 = 丰富）、enrich（**en-** 使 + rich = 使富有→使丰富）。
-- **前缀·后缀**：前缀 **en-**（例：enable, enlarge）；名词后缀 **-ness**（例：kindness, happiness）；副词后缀 **-ly**（例：quickly, badly）。
-- **同义·反义**：同义 wealthy（富有的）, abundant（丰富的）；反义 poor（贫穷的）。
-- **变形**：形容词 → 比较级：richer；最高级：richest；名词派生 → richness n. 丰富；副词派生 → richly adv. 富裕地；动词派生 → enrich v. 使丰富。
-
-### 18. poor /pɔː(r)/ adj. 可怜的；贫穷的；贫寒的
-- **词根·渊源**：拉丁 **pauper**（贫穷的）→ 古法语 *povre* → 英语 poor；本义“贫穷的”，引申为“可怜的、贫寒的”。
-- **同根词**：poverty（pover 贫穷 + **-ty** 名词 = 贫穷）、pauper（拉丁 pauper 贫穷→贫民）、impoverish（**im-** 使 + pover 贫穷 + **-ish** 动词 = 使贫穷）。
-- **前缀·后缀**：前缀 **im-**（例：import, improve）；名词后缀 **-ty**（例：safety, beauty）；动词后缀 **-ish**（例：finish, punish）。
-- **同义·反义**：同义 needy（贫困的）, pitiful（可怜的）；反义 rich（富有的）, wealthy（富裕的）。
-- **变形**：形容词 → 比较级：poorer；最高级：poorest；名词派生 → poverty n. 贫穷；副词派生 → poorly adv. 贫穷地、差地。
-
-### 19. hide /haɪd/ v. 躲藏；隐蔽；遮挡
-- **词根·渊源**：古英语 *hȳdan*（隐藏、藏匿）→ 中古英语 *hiden* → 现代英语 hide；与古高地德语 *hūt*（兽皮，存疑）可能同源，本义“用东西遮盖住”引申为“躲藏、隐蔽、遮挡”。
-- **同根词**：hiding（hide + **-ing** 名词后缀：隐藏、躲藏处）、hidden（hide 的过去分词：隐藏的）、hideaway（hide + away 离开：藏身处）、hideout（hide + out 在外：躲藏处）。
-- **前缀·后缀**：无前缀；名词后缀 **-ing**（例：building, meeting）。
-- **同义·反义**：同义 conceal（隐藏）, cover（遮盖）；反义 reveal（揭示）, expose（暴露）。
-- **变形**：动词 → 第三人称单数：hides；过去式：hid；过去分词：hidden；现在分词：hiding；名词派生 → hiding n. 隐藏；形容词派生 → hidden adj. 隐藏的。
-
-### 20. attack /ə'tæk/ v. 袭击，攻击
-- **词根·渊源**：意大利语 *attaccare*（攻击、 attach）→ 法语 *attaquer* → 英语 attack；本义“把东西系上、接上”，引申为“发起进攻、袭击”。
-- **同根词**：attacker（attack + **-er** 者：攻击者）、attacking（attack + **-ing** 形容词后缀：进攻的）、counterattack（**counter-** 反 + attack：反击）、attachable（attach + **-able** 能……的：可附上的）。
-- **前缀·后缀**：前缀 **at-**（= ad- 向，例：attend, attract）；名词后缀 **-er**（例：teacher, worker）。
+### 1. attack /əˈtæk/ v. 袭击；攻击
+- **词根·渊源**：意大利 **attaccare**（attach, 加入战斗）→ 法语 *attaquer* → 英语 attack；本义“使接触、投入战斗”，引申为“攻击”。
+- **同根词**：attacker（attack + **-er** 者 = 攻击者）、attachable（**at-** 向 + tach 钉 + **-able** 可…的 = 可附上的）、detach（**de-** 去除 + tach 钉 = 拆开→分离）、attach（**at-** 向 + tach 钉 = 钉上→附上）。
+- **前缀·后缀**：动词后缀 **-er**（例：teacher, worker）；前缀 **at-**（例：attach, attract）。
 - **同义·反义**：同义 assault（袭击）, strike（打击）；反义 defend（防御）, protect（保护）。
-- **变形**：动词 → 第三人称单数：attacks；过去式：attacked；过去分词：attacked；现在分词：attacking；名词派生 → attacker n. 攻击者；形容词派生 → attacking adj. 进攻的。
+- **变形**：动词 → 第三人称单数：attacks；过去式：attacked；过去分词：attacked；现在分词：attacking；名词派生 → attacker n. 攻击者；attack n. 攻击。
 
-### 21. shy /ʃaɪ/ adj. 害羞的，羞怯的；腼腆的；怕生的
-- **词根·渊源**：古英语 *scēoh*（胆怯的、害羞的）→ 中古英语 *shy* → 现代英语 shy；本义“容易受惊的”，引申为“害羞的、怕生的”。
-- **同根词**：shyly（shy + **-ly** 副词后缀：害羞地）、shyness（shy + **-ness** 名词后缀：害羞）、shyer（shy + **-er** 比较级：更害羞的）、shyest（shy + **-est** 最高级：最害羞的）。
-- **前缀·后缀**：无前缀；副词后缀 **-ly**（例：quickly, happily）、名词后缀 **-ness**（例：kindness, happiness）。
-- **同义·反义**：同义 timid（胆小的）, bashful（羞怯的）；反义 bold（大胆的）, confident（自信的）。
-- **变形**：形容词 → 比较级：shyer；最高级：shyest；副词派生 → shyly adv. 害羞地；名词派生 → shyness n. 害羞。
+### 2. faithful /ˈfeɪθfəl/ adj. 忠实的；忠诚的
+- **词根·渊源**：拉丁 **fides**（信任、信念）→ 古法语 *feid* → 英语 faith（信念）+ **-ful**（充满…的）= 充满信念的→忠实的。
+- **同根词**：faith（fides 信念→信仰）、faithfully（faithful + **-ly** …地 = 忠实地）、faithfulness（faithful + **-ness** 性质 = 忠实）、faithless（faith + **-less** 无…的 = 不忠的）、fidelity（拉丁 fidelis 忠实的 + **-ity** 性质 = 忠诚）、confide（**con-** 完全 + fid 信任 = 完全信任→倾诉）。
+- **前缀·后缀**：形容词后缀 **-ful**（例：helpful, useful）；名词后缀 **-ness**（例：kindness, happiness）。
+- **同义·反义**：同义 loyal（忠诚的）, devoted（忠实的）；反义 unfaithful（不忠的）, disloyal（不忠的）。
+- **变形**：形容词 → 比较级：more faithful；最高级：most faithful；副词派生 → faithfully adv. 忠实地；名词派生 → faithfulness n. 忠实；faith n. 信念。
 
-### 22. else /ɛls/ adv. 其他的，另外的；别的
-- **词根·渊源**：古英语 *elles*（另外、否则）→ 中古英语 *elles* → 现代英语 else；本义“在其他方面、另外”，引申为“其他的、别的”。
-- **同根词**：elsewhere（else + where 哪里：在别处）、elsehow（else + how 如何：以别的方式，罕用）、elsewise（else + **-wise** 方式：否则，古旧）。
-- **前缀·后缀**：无前缀；后缀 **-where**（例：anywhere, somewhere）、**-wise**（例：likewise, clockwise）。
-- **同义·反义**：同义 other（其他的）, additional（额外的）；反义 same（相同的）, identical（完全相同的）。
-- **变形**：副词 → 无比较级；无词性派生。
+### 3. hold /hoʊld/ v. 抱着；拿着
+- **词根·渊源**：古英语 **healdan**（看守、持有）→ 中古英语 *holden* → 英语 hold；本义“看守、掌握”，引申为“拿着、抱着”。
+- **同根词**：holder（hold + **-er** 者 = 持有者）、holding（hold + **-ing** 名词 = 持有物）、household（house 家 + hold 持有 = 一家人→家庭）、uphold（**up-** 向上 + hold 持 = 支持→维护）、withhold（**with-** 向后 + hold 持 = 扣住→拒绝给予）。
+- **前缀·后缀**：名词后缀 **-er**（例：worker, teacher）；前缀 **up-**（例：uphold, upstairs）、**with-**（例：withdraw, withstand）。
+- **同义·反义**：同义 grasp（抓住）, carry（拿着）；反义 drop（放下）, release（松开）。
+- **变形**：动词 → 第三人称单数：holds；过去式：held；过去分词：held；现在分词：holding；名词派生 → holder n. 持有者；hold n. 握住。
 
-### 23. choose /tʃuːz/ v. 选择；挑选
-- **词根·渊源**：古英语 *cēosan*（选择、挑选）→ 中古英语 *chesen* → 现代英语 choose；与德语 *kiesen*（挑选）同源，本义“审视后挑出”，引申为“选择、挑选”。
-- **同根词**：choice（choose 的名词形式：选择）、choosy（choose + **-y** 形容词后缀：挑剔的）、chooser（choose + **-er** 者：选择者）、chosen（choose 的过去分词：被选中的）。
-- **前缀·后缀**：无前缀；形容词后缀 **-y**（例：rainy, healthy）、名词后缀 **-er**（例：reader, singer）。
-- **同义·反义**：同义 select（挑选）, pick（挑选）；反义 reject（拒绝）, refuse（拒绝）。
-- **变形**：动词 → 第三人称单数：chooses；过去式：chose；过去分词：chosen；现在分词：choosing；名词派生 → choice n. 选择；chooser n. 选择者；形容词派生 → choosy adj. 挑剔的。
+### 4. responsible /riˈspɑnsəbəl/ adj. 可信任的；可信赖的
+- **词根·渊源**：拉丁 **respondere**（回应、承诺）→ 古法语 *respons* → 英语 response（回应）+ **-ible**（能…的）= 能回应的→负责任的、可信赖的。
+- **同根词**：response（**re-** 回 + spons 承诺 = 回应）、respond（**re-** 回 + spond 承诺 = 回答）、responsibility（responsible + **-ity** 性质 = 责任）、responsive（respons + **-ive** …的 = 反应灵敏的）、sponsor（spons 承诺 + **-or** 者 = 保证人→赞助者）。
+- **前缀·后缀**：形容词后缀 **-ible**（例：visible, possible）；名词后缀 **-ity**（例：ability, activity）。
+- **同义·反义**：同义 reliable（可靠的）, trustworthy（可信赖的）；反义 irresponsible（不负责任的）, unreliable（不可靠的）。
+- **变形**：形容词 → 比较级：more responsible；最高级：most responsible；名词派生 → responsibility n. 责任；副词派生 → responsibly adv. 负责任地。
 
-### 24. treasure hunt /ˈtreʒə hʌnt/ n. 寻宝游戏；寻找珍宝
-- **同义搭配**：treasure seeking / hunt for treasure
-- **反义搭配**：无
+### 5. awake /əˈweɪk/ adj. 醒着
+- **词根·渊源**：古英语 **āwæcnan**（醒来）→ 中古英语 *awaken* → 英语 awake；**a-**（加强）+ wacan（醒来），本义“完全醒来”，引申为“醒着的”。
+- **同根词**：awaken（**a-** 加强 + waken 醒 = 唤醒）、wake（wacan 醒来→醒）、wakeful（wake + **-ful** 充满…的 = 醒着的→不眠的）、waken（wake + **-en** 使… = 使醒）。
+- **前缀·后缀**：前缀 **a-**（例：alive, asleep）；形容词后缀 **-ful**（例：careful, helpful）。
+- **同义·反义**：同义 alert（警觉的）, conscious（清醒的）；反义 asleep（睡着的）, sleeping（睡着的）。
+- **变形**：形容词 → 无比较级（状态形容词，不作比较）；动词派生 → awaken v. 唤醒；wake v. 醒来。
 
-### 25. in public /ɪn ˈpəblɪk/ prep. 公开地；在别人（尤指生人）面前
-- **同义搭配**：publicly / openly
-- **反义搭配**：in private / secretly
+### 6. flat /flæt/ n. 公寓
+- **词根·渊源**：古诺斯语 **flat**（平的楼层）→ 中古英语 *flat* → 英语 flat；本义“平坦的一层楼”，苏格兰语中指“一层楼中的一套房间”，引申为“公寓”。
+- **同根词**：flatten（flat + **-en** 使… = 使平）、flatly（flat + **-ly** …地 = 平坦地→断然地）、flatness（flat + **-ness** 性质 = 平坦）、flatfish（flat 平 + fish 鱼 = 比目鱼）。
+- **前缀·后缀**：动词后缀 **-en**（例：widen, strengthen）；副词后缀 **-ly**（例：quickly, badly）。
+- **同义·反义**：同义 apartment（公寓）, suite（套房）；反义 house（房子）, villa（别墅）。
+- **变形**：名词 → 复数：flats；形容词 → 比较级：flatter；最高级：flattest；动词派生 → flatten v. 使平；副词派生 → flatly adv. 断然地。
 
-### 26. put on /pʊt ɔn/ v. 穿上；上演；增加；假装；使……上场
-- **同义搭配**：wear / stage / increase / pretend
-- **反义搭配**：take off / remove
+### 7. choice /ʧɔɪs/ n. 选择
+- **词根·渊源**：古法语 **chois**（选择）→ 英语 choice；源自 *choisir*（选择），与 choose 同源，本义“挑选的行为”，引申为“选择、选项”。
+- **同根词**：choose（古英语 ceosan 选择→挑选）、choosy（choose + **-y** …的 = 挑剔的）、choicely（choice + **-ly** …地 = 精选地）。
+- **前缀·后缀**：形容词后缀 **-y**（例：rainy, windy）；副词后缀 **-ly**（例：happily, slowly）。
+- **同义·反义**：同义 option（选项）, selection（选择）；反义 compulsion（强迫）, rejection（拒绝）。
+- **变形**：名词 → 复数：choices；形容词派生 → choosy adj. 挑剔的；动词派生 → choose v. 选择。
 
-### 27. in my opinion /ɪn maɪ əˈpɪnjən/ prep. 依我看来，在我看来
-- **同义搭配**：to my mind / as I see it
-- **反义搭配**：无
+### 8. advise /ədˈvaɪz/ v. 劝告；建议
+- **词根·渊源**：拉丁 **advisare**（**ad-** 向 + visere 看 = 看向→考虑）→ 古法语 *aviser* → 英语 advise；本义“仔细考虑后告知”，引申为“劝告、建议”。
+- **同根词**：advice（**ad-** 向 + vice 看 = 看法→建议）、advisable（advise + **-able** 可…的 = 可取的）、adviser（advise + **-er** 者 = 顾问）、advisory（advise + **-ory** …的 = 顾问的）、visible（vis 看 + **-ible** 可…的 = 可见的）、vision（vis 看 + **-ion** 名词 = 视力→愿景）。
+- **前缀·后缀**：前缀 **ad-**（例：advance, admire）；名词后缀 **-er**（例：teacher, worker）。
+- **同义·反义**：同义 suggest（建议）, recommend（推荐）；反义 forbid（禁止）, discourage（劝阻）。
+- **变形**：动词 → 第三人称单数：advises；过去式：advised；过去分词：advised；现在分词：advising；名词派生 → adviser n. 顾问；advice n. 建议。
 
-### 28. above all /ə'bʌv ɔːl/ prep. 首先；尤其是；最重要的是
-- **同义搭配**：first of all / most importantly
-- **反义搭配**：无
+### 9. cause /kɔz/ v. 引起；造成；导致
+- **词根·渊源**：拉丁 **causa**（原因、理由）→ 古法语 *cause* → 英语 cause；本义“原因”，动词化后引申为“引起、导致”。
+- **同根词**：causal（caus 原因 + **-al** …的 = 原因的）、causation（caus 原因 + **-ation** 名词 = 因果关系）、because（**be-** 由 + cause 原因 = 因为）、causeless（cause + **-less** 无…的 = 无原因的）。
+- **前缀·后缀**：形容词后缀 **-al**（例：natural, national）；名词后缀 **-ation**（例：creation, education）。
+- **同义·反义**：同义 lead to（导致）, bring about（引起）；反义 prevent（阻止）, hinder（阻碍）。
+- **变形**：动词 → 第三人称单数：causes；过去式：caused；过去分词：caused；现在分词：causing；名词派生 → causation n. 因果关系；cause n. 原因。
 
-### 29. look out /lʊk aʊt/ v. 小心；当心，留神
-- **同义搭配**：watch out / be careful
-- **反义搭配**：无
+### 10. complain /kəmˈpleɪn/ v. 抱怨；投诉
+- **词根·渊源**：拉丁 **complangere**（**com-** 完全 + plangere 捶胸 = 捶胸痛哭）→ 古法语 *complaindre* → 英语 complain；本义“哀叹”，引申为“抱怨、投诉”。
+- **同根词**：complaint（complain + **-t** 名词 = 抱怨）、complaining（complain + **-ing** …的 = 抱怨的）、plaintive（plaint 哀叹 + **-ive** …的 = 哀伤的）、plangent（plang 捶 + **-ent** …的 = 轰鸣的→哀鸣的）。
+- **前缀·后缀**：前缀 **com-**（例：combine, compare）；形容词后缀 **-ive**（例：active, creative）。
+- **同义·反义**：同义 grumble（抱怨）, protest（抗议）；反义 praise（赞扬）, approve（赞成）。
+- **变形**：动词 → 第三人称单数：complains；过去式：complained；过去分词：complained；现在分词：complaining；名词派生 → complaint n. 抱怨。
+
+### 11. litter /ˈlɪtər/ n. 垃圾
+- **词根·渊源**：拉丁 **lectus**（床）→ 古法语 *litiere*（床铺、担架）→ 英语 litter；本义“床铺、垫草”，引申为“散落的杂物→垃圾”。
+- **同根词**：litterbug（litter 垃圾 + bug 虫 = 乱扔垃圾者）、littery（litter + **-y** …的 = 杂乱的）。
+- **前缀·后缀**：名词后缀 **-y**（例：rainy, windy）；无前缀。
+- **同义·反义**：同义 rubbish（垃圾）, trash（垃圾）；反义 treasure（珍宝）, valuables（贵重物品）。
+- **变形**：名词 → 复数：litters（作“垃圾”义时不可数）；动词派生 → litter v. 乱扔；形容词派生 → littery adj. 杂乱的。
+
+### 12. unlikely /ənˈlaɪkli/ adj. 不大可能发生的
+- **词根·渊源**：古英语 **gelīc**（相似的）→ 中古英语 *likly* → 英语 likely（可能的）；**un-**（不）+ likely = 不大可能的。
+- **同根词**：likely（like 相似 + **-ly** …的 = 可能的）、likelihood（likely + **-hood** 状态 = 可能性）、like（gelīc 相似→像）、likeness（like + **-ness** 性质 = 相似）、unlike（**un-** 不 + like 像 = 不像）。
+- **前缀·后缀**：否定前缀 **un-**（例：unhappy, unfair）；形容词后缀 **-ly**（例：friendly, lovely）。
+- **同义·反义**：同义 improbable（不大可能的）, doubtful（可疑的）；反义 likely（可能的）, probable（很可能的）。
+- **变形**：形容词 → 比较级：more unlikely；最高级：most unlikely；名词派生 → unlikelihood n. 不大可能；副词派生 → unlikely adv. 不大可能地（少用）。
+
+### 13. relieve /rɪˈliv/ v. 方便；解除
+- **词根·渊源**：拉丁 **relevare**（**re-** 再 + levare 举起 = 举起→减轻）→ 古法语 *relever* → 英语 relieve；本义“举起、减轻”，引申为“解除、方便”。
+- **同根词**：relief（**re-** 再 + lief 轻 = 减轻→救济）、relieved（relieve + **-ed** …的 = 感到宽慰的）、relieving（relieve + **-ing** …的 = 缓解的）、elevate（**e-** 出 + lev 举 + **-ate** 动词 = 举起→提升）、levity（lev 轻 + **-ity** 性质 = 轻浮）。
+- **前缀·后缀**：前缀 **re-**（例：return, rebuild）；动词后缀 **-ate**（例：create, educate）。
+- **同义·反义**：同义 ease（减轻）, alleviate（缓解）；反义 aggravate（加重）, worsen（恶化）。
+- **变形**：动词 → 第三人称单数：relieves；过去式：relieved；过去分词：relieved；现在分词：relieving；名词派生 → relief n. 减轻；形容词派生 → relieved adj. 宽慰的。
+
+### 14. indoors /ˈɪnˌdɔrz/ adv. 在室内
+- **词根·渊源**：**in**（在内）+ **door**（门）+ **-s**（副词性词尾）= 在门内→在室内；door 源自原始日耳曼语 *dur-*。
+- **同根词**：indoor（**in-** 内 + door 门 = 室内的）、outdoors（**out-** 外 + door 门 + **-s** = 在户外）、doorway（door 门 + way 路 = 门口）、doorstep（door 门 + step 台阶 = 门阶）。
+- **前缀·后缀**：前缀 **in-**（例：inside, income）、**out-**（例：outside, outcome）；副词性词尾 **-s**（例：outdoors, upwards）。
+- **同义·反义**：同义 inside（在里面）；反义 outdoors（在户外）, outside（在外面）。
+- **变形**：副词 → 无比较级（地点副词，不作比较）；名词派生 → indoor adj. 室内的（作定语）。
+
+### 15. magical /ˈmæʤɪkəl/ adj. 有魔力的
+- **词根·渊源**：希腊 **magos**（术士）→ 拉丁 *magicus* → 古法语 *magique* → 英语 magic（魔法）+ **-al**（…的）= 有魔力的。
+- **同根词**：magic（magos 术士→魔法）、magician（magic + **-ian** 者 = 魔术师）、magically（magical + **-ly** …地 = 有魔力地）、magus（magos 术士→魔法师）。
+- **前缀·后缀**：形容词后缀 **-al**（例：natural, national）；名词后缀 **-ian**（例：musician, librarian）。
+- **同义·反义**：同义 enchanting（迷人的）, mysterious（神秘的）；反义 ordinary（普通的）, plain（平凡的）。
+- **变形**：形容词 → 比较级：more magical；最高级：most magical；副词派生 → magically adv. 有魔力地；名词派生 → magic n. 魔法；magician n. 魔术师。
+
+### 16. wealth /wɛlθ/ n. 钱财；财富
+- **词根·渊源**：中古英语 **welthe**（幸福、繁荣）← **wele**（幸福）+ **-th**（状态）= 幸福的状态→财富；与 well（好）同源。
+- **同根词**：wealthy（wealth + **-y** …的 = 富有的）、wealthily（wealthy + **-ly** …地 = 富裕地）、commonwealth（common 共同 + wealth 财富 = 共同财富→联邦）、well（好→健康）。
+- **前缀·后缀**：名词后缀 **-th**（例：warmth, truth）；形容词后缀 **-y**（例：healthy, rainy）。
+- **同义·反义**：同义 riches（财富）, fortune（财产）；反义 poverty（贫穷）, destitution（贫困）。
+- **变形**：名词 → 复数：不可数；形容词派生 → wealthy adj. 富有的；副词派生 → wealthily adv. 富裕地。
+
+### 17. queen /kwin/ n. 女王；王后
+- **词根·渊源**：古英语 **cwēn**（女人、妻子）→ 中古英语 *quene* → 英语 queen；本义“女人”，后专指“王后、女王”。
+- **同根词**：queenly（queen + **-ly** …的 = 女王般的）、queenhood（queen + **-hood** 身份 = 女王身份）、queendom（queen + **-dom** 领域 = 女王统治的王国）。
+- **前缀·后缀**：形容词后缀 **-ly**（例：friendly, lovely）；名词后缀 **-hood**（例：childhood, brotherhood）。
+- **同义·反义**：同义 monarch（君主）, empress（女皇）；反义 king（国王）, subject（臣民）。
+- **变形**：名词 → 复数：queens；形容词派生 → queenly adj. 女王般的；名词派生 → queendom n. 女王统治的王国。
+
+### 18. servant /ˈsərvənt/ n. 仆人；佣人
+- **词根·渊源**：拉丁 **servire**（服务）→ 古法语 *servir* → 英语 serve（服务）+ **-ant**（人）= 服务的人→仆人。
+- **同根词**：serve（servire 服务→服务）、service（serv + **-ice** 名词 = 服务）、servile（serv 奴 + **-ile** …的 = 奴性的）、servitude（serv 奴 + **-itude** 状态 = 奴役）、deserve（**de-** 完全 + serve 服务 = 充分服务→应得）。
+- **前缀·后缀**：名词后缀 **-ant**（例：assistant, applicant）；前缀 **de-**（例：depart, decline）。
+- **同义·反义**：同义 attendant（侍者）, helper（帮手）；反义 master（主人）, employer（雇主）。
+- **变形**：名词 → 复数：servants；动词派生 → serve v. 服务；名词派生 → service n. 服务。
+
+### 19. pride /praɪd/ n. 自豪；骄傲
+- **词根·渊源**：古英语 **prȳde**（骄傲）← 古英语 **prūd**（骄傲的）+ 名词后缀 **-e**；prūd 借自拉丁 **prōdesse**（有益）→ 古法语 *prud* / *prod*（勇敢的、优秀的）→ 英语 proud；本义“优秀、勇敢”渐转为“因自身优点而生的自豪感”，再引申出贬义“骄傲”。
+- **同根词**：proud（prūd 骄傲的 + **-∅** = 骄傲的）、proudly（proud + **-ly** 副词后缀 = 骄傲地）、prideful（pride + **-ful** 充满……的 = 骄傲的）。
+- **前缀·后缀**：名词后缀 **-ful**（例：helpful, useful）；副词后缀 **-ly**（例：quickly, happily）。
+- **同义·反义**：同义 self-respect（自尊）, conceit（自负）；反义 humility（谦逊）, modesty（谦虚）。
+- **变形**：名词 → 复数：prides；形容词派生 → proud adj. 骄傲的；副词派生 → proudly adv. 骄傲地。
+
+### 20. among /əˈməŋ/ prep. 在…… 中
+- **词根·渊源**：古英语 **on gemang**（在人群中）← **on**（在……上）+ **gemang**（人群、混合）→ 中古英语 *amang* → 英语 among；本义“在人群之中”，引申为“在……之中、被……包围”。
+- **同根词**：amongst（among + **-st** 古变体后缀 = 在……之中，英式）、mingle（与 gemang 同源，**ming-** 混合 + **-le** 反复 = 混合、交往）。
+- **前缀·后缀**：前缀 **a-**（例：alive, asleep）；无后缀（单纯词）。
+- **同义·反义**：同义 amidst（在……之中）, in the middle of（在……中间）；反义 outside（在……之外）, beyond（超出……之外）。
+- **变形**：介词 → 无形态变化；无词性派生。
+
+### 21. relationship /riˈleɪʃənˌʃɪp/ n. 关系
+- **词根·渊源**：拉丁 **relātus**（被带回的，refer 的过去分词）← **re-**（回）+ **lātus**（携带）→ 拉丁 *relātiō*（带回、报告）→ 古法语 *relacion* → 英语 relation（关系）+ 古英语 **-scipe**（状态、身份）→ relationship；本义“带回、联系的状态”，引申为“人与人、事物间的关联”。
+- **同根词**：relate（**re-** 回 + **lāt-** 带 = 带回→联系、讲述）、relation（relate + **-ion** 名词后缀 = 关系）、relative（relate + **-ive** ……的 = 相对的、亲属）、relatively（relative + **-ly** 副词后缀 = 相对地）、interrelate（**inter-** 相互 + relate = 相互关联）。
+- **前缀·后缀**：前缀 **re-**（例：return, review）、**inter-**（例：international, interact）；名词后缀 **-ship**（例：friendship, leadership）、**-ion**（例：action, education）。
+- **同义·反义**：同义 connection（联系）, association（关联）；反义 separation（分离）, disconnection（断开）。
+- **变形**：名词 → 复数：relationships；形容词派生 → relational adj. 关系的；副词派生 → relationally adv. 在关系上。
+
+### 22. grow up v. 长大；成熟
+- **同义搭配**：mature（成熟）/ become an adult（成为成年人）
+- **反义搭配**：regress（退步）/ stay childish（保持幼稚）
+
+### 23. care for v. 照顾；照料
+- **同义搭配**：look after（照顾）/ take care of（照料）
+- **反义搭配**：neglect（忽视）/ abandon（抛弃）
+
+### 24. have no choice but to do v. 别无选择；只能……
+- **同义搭配**：be forced to do（被迫做）/ have no alternative but to do（别无选择只能做）
+- **反义搭配**：have a choice（有选择）/ be free to do（自由去做）
+
+### 25. run free v. 四处自由走动
+- **同义搭配**：roam freely（自由漫步）/ wander at will（随意走动）
+- **反义搭配**：be kept in chains（被拴住）/ be confined（被限制）
+
+### 26. lie around v. 懒散度日；游手好闲
+- **同义搭配**：laze about（懒散闲逛）/ idle away（虚度）
+- **反义搭配**：work hard（努力工作）/ be busy（忙碌）
+
+### 27. complain about v. 抱怨
+- **同义搭配**：grumble about（嘟囔抱怨）/ moan about（哀叹抱怨）
+- **反义搭配**：praise（赞扬）/ be satisfied with（对……满意）
+
+### 28. catch the eye of somebody v. 引起某人的注意
+- **同义搭配**：attract somebody's attention（吸引某人注意）/ draw somebody's eye（吸引某人目光）
+- **反义搭配**：escape somebody's notice（未被某人注意）/ go unnoticed（不被注意）
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| com- | 共同；一起 | competition, communicate | combine, compare, connect |
-| -tion | 名词后缀，表行为/状态 | competition, suggestion | action, education, information |
-| -er | 名词后缀，表人/物 | winner | teacher, worker, computer |
-| ad- | 向；朝向 | advise | advance, admire, adjust |
-| -ly | 副词后缀 | confidently | quickly, happily, carefully |
-| -ous | 形容词后缀，充满……的 |（本单元无直接例词） | famous, dangerous, nervous |
-| -al | 形容词后缀 | several | natural, national, personal |
-| -ance/-ence | 名词后缀，表状态/性质 |（本单元无直接例词） | importance, difference, patience |
-| -ive | 形容词后缀 |（本单元无直接例词） | active, creative, effective |
-| -ment | 名词后缀，表行为/结果 |（本单元无直接例词） | movement, development, agreement |
-| -able | 形容词后缀，能……的 |（本单元无直接例词） | comfortable, readable, valuable |
-| -ful | 形容词后缀，充满……的 |（本单元无直接例词） | helpful, useful, beautiful |
-| -less | 形容词后缀，无……的 |（本单元无直接例词） | hopeless, careless, endless |
-| -ify | 动词后缀，使…… |（本单元无直接例词） | simplify, beautify, classify |
-| -ize | 动词后缀，使……化 |（本单元无直接例词） | realize, organize, modernize |
-| -ship | 名词后缀，表状态/关系 |（本单元无直接例词） | friendship, leadership, hardship |
+| -ful | 充满……的（形容词后缀） | faithful | helpful, careful, beautiful |
+| -able | 能……的（形容词后缀） | responsible | comfortable, readable, valuable |
+| a- | 处于……状态（前缀） | awake | asleep, alive, alone |
+| ad- | 向；朝（前缀，d 同化为 v） | advise | advance, admit, adapt |
+| com- | 共同；一起（前缀） | complain | combine, compare, compete |
+| -er | 人；物（名词后缀） | litter | teacher, worker, computer |
+| un- | 不（否定前缀） | unlikely | unhappy, unfair, unable |
+| -ly | ……地（副词后缀） | unlikely | quickly, happily, carefully |
+| in- | 在内（前缀） | indoors | inside, income, include |
+| -al | ……的（形容词后缀） | magical | natural, personal, musical |
+| -th | 名词后缀（表性质、状态） | wealth | health, truth, warmth |
+| -ant | 人（名词后缀） | servant | assistant, applicant, immigrant |
+| -ship | 关系；状态（名词后缀） | relationship | friendship, leadership, hardship |
+| -ing | 动名词/现在分词后缀 | complain about | running, swimming, interesting |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
 | 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| speech | address（演讲） | silence（沉默） |
-| notice | observe（注意到） | ignore（忽视） |
-| competition | contest（竞赛） | cooperation（合作） |
-| treasure | wealth（财富） | poverty（贫穷） |
-| text | passage（段落） | — |
-| chance | opportunity（机会） | — |
-| confidently | assuredly（自信地） | nervously（紧张地） |
-| topic | subject（主题） | — |
-| winner | champion（冠军） | loser（失败者） |
-| advise | suggest（建议） | — |
-| several | some（一些） | none（没有） |
-| opinion | view（观点） | — |
-| whole | entire（整个的） | partial（部分的） |
-| suggestion | proposal（提议） | — |
-| communicate | convey（传达） | — |
-| rich | wealthy（富有的） | poor（贫穷的） |
-| poor | needy（贫穷的） | rich（富有的） |
-| hide | conceal（隐藏） | reveal（揭示） |
 | attack | assault（攻击） | defend（防御） |
-| shy | timid（害羞的） | bold（大胆的） |
+| faithful | loyal（忠诚的） | unfaithful（不忠的） |
+| hold | grasp（握住） | release（松开） |
+| responsible | reliable（可信赖的） | irresponsible（不负责任的） |
+| awake | alert（清醒的） | asleep（睡着的） |
+| flat | apartment（公寓） | — |
+| choice | option（选择） | — |
+| advise | suggest（建议） | — |
+| cause | lead to（导致） | prevent（阻止） |
+| complain | grumble（抱怨） | praise（赞扬） |
+| litter | rubbish（垃圾） | — |
+| unlikely | improbable（不大可能的） | likely（可能的） |
+| relieve | ease（缓解） | worsen（加重） |
+| indoors | inside（在室内） | outdoors（在室外） |
+| magical | enchanting（有魔力的） | ordinary（普通的） |
+| wealth | riches（财富） | poverty（贫穷） |
+| pride | self-respect（自豪） | shame（羞耻） |
+| among | amidst（在……中） | — |
+| grow up | mature（成熟） | — |
+| care for | look after（照顾） | neglect（忽视） |
 
 ---
 

@@ -1,4 +1,4 @@
-# 8A_U1 说文解字 · Encyclopaedias
+# 8A_U1 说文解字 · Look it up!
 
 > 配套 `8A_U1.md`（沪教牛津版 2024/2025 修订，28 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
@@ -8,251 +8,232 @@
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
-| cycl- | 圆，环 | 希腊语 kyklos（圆环） | encyclopaedia | bicycle, cycle, recycle, cyclone |
-| anthrop- | 人，人类 | 希腊语 anthrōpos（人） | human（存疑，一说与拉丁语 homo 同源） | anthropology, philanthropy, anthropoid |
-| saur- | 蜥蜴 | 希腊语 sauros（蜥蜴） | dinosaur | dinosaurian, brontosaurus, stegosaurus |
-| ven- | 来 | 拉丁语 venire（来） | inventor, invention | invent, prevent, convene, avenue |
-| sci- | 知道 | 拉丁语 scire（知道） | scientist | science, conscious, conscience, omniscient |
-| nat- | 出生 | 拉丁语 nasci（出生） | born（存疑，与 bear 同源，非 nat- 直接派生） | nature, native, nation, innate |
-| leg-/lect- | 选，读 | 拉丁语 legere（挑选、阅读） | intelligence | collect, select, elect, lecture |
-| art- | 技艺 | 拉丁语 ars/artis（技艺） | artistic | art, artist, artificial, artisan |
-| hab-/abil- | 持有，有能力 | 拉丁语 habere（持有） | ability | able, enable, habit, exhibit |
-| cap-/cept- | 拿，抓 | 拉丁语 capere（拿取） | perhaps（存疑，per+haps 与 hap 有关） | capture, accept, receive, concept |
-| not- | 记号，知道 | 拉丁语 nota（记号） | notebook | note, notice, notify, notable |
-| clud-/clus- | 关闭 | 拉丁语 claudere（关闭） | include | exclude, conclude, close, clause |
-| foss- | 挖 | 拉丁语 fodere/fossus（挖掘） | fossil | fossilize, fossilization |
-| ven(2)- | 来（同 ven-） | 拉丁语 venire | invention | invent, prevent, convene |
-| don- | 给 | 拉丁语 donare（给予） | dollar（存疑，源自德语 Taler，与 don- 无关） | donate, donor, donation |
-| mor-/mort- | 死 | 拉丁语 mors/mortis（死） | die out（存疑，die 为日耳曼语源，非 mort-） | mortal, immortal, mortality |
+| din- / dein- | 可怕的，恐怖的 | 希腊语 deinos | dinosaur | deinonychus, deinotherium |
+| saur- | 蜥蜴，爬行动物 | 希腊语 sauros | dinosaur | dinosaurian, saurian, sauropod |
+| intellig- | 理解，领悟 | 拉丁语 intelligere | intelligent | intelligence, intelligible, intelligentsia |
+| tal- | 才能，天赋 | 拉丁语 talentum（原义为“天平、重量”） | talented | talent, talentless |
+| art- | 技艺，技巧 | 拉丁语 ars/artis | artistic, artist | art, artifact, artisan, artificial |
+| histor- | 历史，探究 | 希腊语 historia | prehistoric | history, historian, historical |
+| origin- | 起源，开始 | 拉丁语 origo/originis | original | origin, originate, originality |
+| ed- | 吃；引申为“编辑、出版” | 拉丁语 edere（e-出 + dare给） | editor | edit, edition, editorial |
+| ordin- | 顺序，次序 | 拉丁语 ordo/ordinis | order | ordinary, ordinal, ordinance |
+| cord- / -cord- | 心 | 拉丁语 cor/cordis | record | accord, concord, discord, cordial |
+| simil- | 相似，相同 | 拉丁语 similis | be similar to | similar, similarity, simile, assimilate |
+| alph- | 字母（alpha 为希腊语第一个字母） | 希腊语 alpha | alphabetical order | alphabet, alphabetize |
 
 ## 二、逐词说文解字
 
-### 1. encyclopaedia /enˌsaɪkləʊ'piːdjə/ n. 百科全书
-- **词根·渊源**：希腊 **enkyklios**（环形的、循环的）+ **paideia**（教育）→ 拉丁 *encyclopaedia* → 英语；本义“循环的（全面）教育”，即涵盖各科知识的“百科全书”。
-- **同根词**：encyclopedia（encyclopaedia 的美式拼写变体：百科全书）、pedagogy（希腊 paidagogos 引童者→教育学）、pediatric（希腊 pais/paid- 儿童 + **-iatric** 医术的→儿科的）、cycle（希腊 kyklos 圆圈→循环）、bicycle（**bi-** 二 + cycle 轮 = 两轮→自行车）、recycle（**re-** 再 + cycle 循环 = 再循环→回收利用）。
-- **前缀·后缀**：名词后缀 **-ia**（例：media, criteria）；组合成分 **en-**（例：energy, enthusiasm）。
-- **同义·反义**：同义 reference book（工具书）, compendium（汇编）；反义 无。
-- **变形**：名词 → 复数：encyclopaedias；形容词派生 → encyclopaedic adj. 百科全书的、广博的；副词派生 → encyclopaedically adv. 百科全书式地。
-
-### 2. human /ˈhjumən/ adj. 人；人的
-- **词根·渊源**：拉丁 **humanus**（人的、人性的）← **homo**（人）→ 古法语 *humain* → 英语；本义“属于人的”，引申为“人的、有人性的”。
-- **同根词**：humanity（human + **-ity** 性质 = 人的性质→人性、人类）、humanely（human + **-ly** …地 = 以人的方式→仁慈地）、inhuman（**in-** 不 + human 人的 = 不人道的→残忍的）、humane（human 的变体：仁慈的）、homicide（拉丁 homo 人 + **-cide** 杀 = 杀人→杀人罪）。
-- **前缀·后缀**：形容词后缀 **-an**（例：American, urban）；否定前缀 **in-**（例：incorrect, invisible）。
-- **同义·反义**：同义 person（人）, mortal（凡人）；反义 animal（动物）, divine（神的）。
-- **变形**：形容词 → 比较级：more human；最高级：most human；名词派生 → human n. 人；humanity n. 人性、人类；形容词派生 → humane adj. 仁慈的；inhuman adj. 残忍的；副词派生 → humanly adv. 以人的方式。
-
-### 3. dinosaur /ˈdaɪnəsɔː(r)/ n. 恐龙
-- **词根·渊源**：希腊 **deinos**（可怕的）+ **sauros**（蜥蜴）→ 现代拉丁 *dinosaurus* → 英语；本义“可怕的蜥蜴”，1841 年由英国解剖学家欧文造词，指已灭绝的巨型爬行动物。
-- **同根词**：saurian（希腊 sauros 蜥蜴 + **-ian** …类的→蜥蜴类的）、sauropod（sauros 蜥蜴 + **-pod** 足 = 蜥脚类恐龙）、deinotherium（deinos 可怕 + therion 兽 = 恐兽）、dinoflagellate（dinos 旋转 + flagellum 鞭 = 甲藻）。
-- **前缀·后缀**：组合成分 **dino-**（例：dinophyte, dinothere）；名词后缀 **-saur**（例：brontosaur, plesiosaur）。
+### 1. dinosaur /ˈdaɪnəˌsɔr/ n. 恐龙
+- **词根·渊源**：希腊 **deinos**（可怕的、巨大的）+ **sauros**（蜥蜴）→ 现代拉丁 *dinosaurus* → 英语 dinosaur；1841 年英国解剖学家 Richard Owen 造此词，本义“可怕的蜥蜴”，指已灭绝的大型爬行动物。
+- **同根词**：sauropod（sauro 蜥蜴 + **-pod** 足 = 蜥脚类恐龙）、deinotherium（deino 可怕 + therium 兽 = 恐兽，已灭绝的象类）、deinonychus（deino 可怕 + onych 爪 = 恐爪龙）。
+- **前缀·后缀**：无前缀；名词后缀 **-saur**（例：brontosaur, plesiosaur）。
 - **同义·反义**：同义 无；反义 无。
-- **变形**：名词 → 复数：dinosaurs；形容词派生 → dinosaurian adj. 恐龙的；dinosauric adj. 恐龙般的、庞大的。
+- **变形**：名词 → 复数：dinosaurs；形容词派生 → dinosaurian adj. 恐龙的。
 
-### 4. Italian /ɪˈtæliən/ n. 意大利的；意大利语的；意大利人的；意大利语；意大利人
-- **词根·渊源**：意大利 **Italia**（意大利，可能源自奥斯坎语 *Víteliú* 牛犊之地，存疑）+ **-an**（…的、…人）→ 英语；本义“意大利的/意大利人”，引申指意大利语。
-- **同根词**：Italy（Italia 的英语形式：意大利）、Italic（Italy + **-ic** …的 = 意大利古民族的→斜体的）、italicize（italic + **-ize** 使…化 = 使成斜体→用斜体排印）、Italophile（Italy + **-phile** 爱好者 = 亲意大利者）。
-- **前缀·后缀**：形容词/名词后缀 **-ian**（例：Canadian, historian）；名词后缀 **-ic**（例：music, magic）。
-- **同义·反义**：同义 无；反义 无。
-- **变形**：名词 → 复数：Italians（作“意大利人”义）；形容词 → 无比较级（关系形容词，不作比较）；名词派生 → Italy n. 意大利；形容词派生 → Italic adj. 意大利古民族的、斜体的。
+### 2. intelligent /ˌɪnˈtɛləʤənt/ adj. 有才智的，聪明的
+- **词根·渊源**：拉丁 **inter-**（在……之间）+ **legere**（挑选、读）→ 拉丁 *intellegere*（从中挑选→理解）→ 拉丁 *intelligentem* → 古法语 → 英语 intelligent；本义“善于分辨挑选”，引申为“有理解力的、聪明的”。
+- **同根词**：intelligence（intel- 之间 + lig 挑选 + **-ence** 名词后缀 = 分辨理解的能力→智力）、intelligible（intel- + lig 挑选 + **-ible** 可……的 = 可理解的）、intellectual（intel- + lect 挑选 + **-ual** ……的 = 有理解力的→智力的）、legend（leg 挑选 + **-end** 应读之物 = 应读的传说）、select（**se-** 分开 + lect 挑选 = 选出）、collect（**col-** 一起 + lect 挑选 = 收集）。
+- **前缀·后缀**：前缀 **inter-**（例：international, interact）；形容词后缀 **-ent**（例：different, patient）。
+- **同义·反义**：同义 clever（聪明的）, smart（机灵的）；反义 stupid（愚蠢的）, foolish（愚笨的）。
+- **变形**：形容词 → 比较级：more intelligent；最高级：most intelligent；名词派生 → intelligence n. 智力；副词派生 → intelligently adv. 聪明地。
 
-### 5. inventor /ɪnˈventə(r)/ n. 发明家
-- **词根·渊源**：拉丁 **invenire**（in- 进入 + venire 来 = 来到…上→找到、发现）→ 拉丁 *inventor*（发现者）→ 英语；本义“找到、发现的人”，引申为“发明家”。
-- **同根词**：invent（in- 进入 + ven 来 = 来到脑中→发明）、invention（invent + **-ion** 行为/结果 = 发明）、inventive（invent + **-ive** …的 = 有发明才能的）、inventory（拉丁 inventarium 找到之物清单→清单、存货）、advent（**ad-** 向 + vent 来 = 到来→出现）、event（**e-** 出 + vent 来 = 出来之事→事件）、prevent（**pre-** 前 + vent 来 = 先来挡住→阻止）、convention（**con-** 共同 + vent 来 = 大家来到一起→集会、惯例）。
-- **前缀·后缀**：名词后缀 **-or**（例：actor, doctor）；动词前缀 **in-**（例：invent, include）。
-- **同义·反义**：同义 creator（创造者）, originator（创始者）；反义 imitator（模仿者）, copier（抄袭者）。
-- **变形**：名词 → 复数：inventors；名词派生 → invention n. 发明；inventiveness n. 发明才能；动词派生 → invent v. 发明；形容词派生 → inventive adj. 有发明才能的。
+### 3. talented /ˈtæləntɪd/ adj. 有才能的，天才的
+- **词根·渊源**：希腊 **talanton**（秤、天平）→ 拉丁 *talenta*（重量单位、钱财）→ 古英语 *talente*（天赋的才能，源出《圣经》按才受托的比喻）→ talent + **-ed**；本义“有天赋才能的”。
+- **同根词**：talent（tal 天平 + **-ent** 名词后缀 = 称量的重量→天赋才能）、talented 之外的 talentless（talent + **-less** 无 = 无才能的）。
+- **前缀·后缀**：无前缀；形容词后缀 **-ed**（例：gifted, skilled）。
+- **同义·反义**：同义 gifted（有天赋的）, capable（有能力的）；反义 untalented（无才能的）, incompetent（无能的）。
+- **变形**：形容词 → 比较级：more talented；最高级：most talented；名词派生 → talent n. 才能；副词派生 → talentedly adv. 有才能地。
 
-### 6. musician /mjuˈzɪʃən/ n. 音乐家
-- **词根·渊源**：希腊 **mousikē**（缪斯的艺术）← **Mousa**（缪斯，文艺女神）→ 拉丁 *musica* → 古法语 *musique* → 英语 music + **-ian**（…人）；本义“从事缪斯艺术的人”，即“音乐家”。
-- **同根词**：music（希腊 mousike 缪斯的艺术→音乐）、musical（music + **-al** …的 = 音乐的）、museum（希腊 mouseion 缪斯神庙→博物馆）、muse（希腊 Mousa 缪斯→诗兴、沉思）、amuse（**a-** 使 + muse 沉思 = 使入迷→逗乐）、mosaic（希腊 mouseios 缪斯的→马赛克的，存疑）。
-- **前缀·后缀**：名词后缀 **-ian**（例：historian, librarian）；形容词后缀 **-al**（例：natural, personal）。
-- **同义·反义**：同义 performer（表演者）, player（演奏者）；反义 无。
-- **变形**：名词 → 复数：musicians；形容词派生 → musical adj. 音乐的；musicianly adj. 音乐家般的；副词派生 → musically adv. 音乐上。
+### 4. artistic /ɑrˈtɪstɪk/ adj. 有艺术天赋的，（尤指）有美术才能的
+- **词根·渊源**：拉丁 **ars / art-**（技艺、艺术）→ 古法语 *art* → 英语 art + **-ist**（人）+ **-ic**（……的）→ artistic；本义“与技艺有关的”，引申为“有艺术天赋的”。
+- **同根词**：art（ars 技艺 = 艺术）、artist（art 艺术 + **-ist** 人 = 艺术家）、artful（art + **-ful** 充满 = 有技巧的→狡猾的）、artless（art + **-less** 无 = 无技巧的→天真的）、artifact（arti 技艺 + **fact** 做 = 人工制品）。
+- **前缀·后缀**：无前缀；形容词后缀 **-ic**（例：basic, historic）；名词后缀 **-ist**（例：pianist, scientist）。
+- **同义·反义**：同义 creative（有创造力的）, aesthetic（审美的）；反义 inartistic（无艺术性的）, unartistic（缺乏艺术性的）。
+- **变形**：形容词 → 比较级：more artistic；最高级：most artistic；名词派生 → artist n. 艺术家；副词派生 → artistically adv. 艺术地。
 
-### 7. scientist /ˈsaɪəntɪst/ n. 科学家
-- **词根·渊源**：拉丁 **scientia**（知识）← **scire**（知道）+ **-ist**（…者）→ 英语；本义“有知识的人”，1834 年由英国学者休厄尔造词，专指“从事科学研究的人”。
-- **同根词**：science（拉丁 scientia 知识→科学）、scientific（science + **-ific** 产生的 = 科学的）、conscience（**con-** 共同 + sci 知 = 共知于心→良心）、conscious（**con-** 共同 + sci 知 + **-ous** …的 = 知道的→有意识的）、omniscient（**omni-** 全 + sci 知 + **-ent** …的 = 全知的）、prescient（**pre-** 前 + sci 知 + **-ent** …的 = 预知的）。
-- **前缀·后缀**：名词后缀 **-ist**（例：artist, tourist）；名词后缀 **-ence**（例：patience, silence）。
-- **同义·反义**：同义 researcher（研究者）, scholar（学者）；反义 无。
-- **变形**：名词 → 复数：scientists；形容词派生 → scientific adj. 科学的；scientistic adj. 科学主义的；副词派生 → scientifically adv. 科学地。
+### 5. perhaps /pərˈhæps/ adv. 可能；大概；也许
+- **词根·渊源**：中古英语 **per**（通过、凭借）+ **hap**（运气、偶然，源自古诺斯 *happ*）→ *per haps*（凭运气）→ perhaps；本义“凭运气、碰巧”，引申为“也许、可能”。
+- **同根词**：hap（hap 运气 = 偶然、运气）、happen（hap 运气 + **-en** 动词后缀 = 碰巧发生）、happy（hap 运气 + **-y** ……的 = 运气好的→快乐的）、haphazard（hap 运气 + hazard 冒险 = 偶然的）、mishap（**mis-** 坏 + hap 运气 = 不幸的小事故）。
+- **前缀·后缀**：前缀 **per-**（例：percent, permit）；无后缀（复合副词）。
+- **同义·反义**：同义 maybe（也许）, possibly（可能地）；反义 certainly（肯定地）, definitely（明确地）。
+- **变形**：副词 → 无比较级（不作比较）。
 
-### 8. born /bɔːn/ v. 出生，诞生
-- **词根·渊源**：古英语 **beran**（携带、生育）的过去分词 *boren* → 中古英语 *born*；本义“被生出来的”，引申为“出生、诞生”。
-- **同根词**：bear（古英语 beran 携带→生育、承受）、birth（古英语 gebyrd 出生→出生）、burden（古英语 byrthen 所载之物→负担）、bring（古英语 bringan 带来→带来）、berth（bear 的变体：停泊处，存疑）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 delivered（出生的）, birthed（诞生的）；反义 died（死亡的）, deceased（去世的）。
-- **变形**：动词 → 第三人称单数：borns（罕用）；过去式：无（born 本身为 bear 的过去分词，不作限定动词）；过去分词：born；现在分词：无；形容词派生 → born adj. 天生的；名词派生 → birth n. 出生。
-
-### 9. countryside /ˈkʌntrisaɪd/ n. 乡村；农村，乡下
-- **词根·渊源**：古法语 **contree**（地区）← 拉丁 **contra**（对面、周围）+ 古英语 **side**（旁边、地区）→ 英语；本义“乡野的一边/地带”，引申为“乡村、农村”。
-- **同根词**：country（古法语 contree 地区→国家、乡村）、county（古法语 conte 伯爵领地→郡、县）、side（古英语 side 旁边→边、侧）、sideways（side + **-ways** 方向 = 向一侧→斜着）、beside（**be-** 在 + side 旁 = 在旁边）、hillside（hill 山 + side 侧 = 山坡）。
-- **前缀·后缀**：组合成分 **country-**（例：countryman, countrywide）；名词后缀 **-side**（例：riverside, seaside）。
-- **同义·反义**：同义 rural area（农村地区）, country（乡下）；反义 city（城市）, town（城镇）。
-- **变形**：名词 → 复数：countryside（多作不可数）；形容词派生 → country adj. 乡下的；名词派生 → country n. 国家、乡村。
-
-### 10. intelligence /ɪnˈtelɪdʒəns/ n. 智力，才智；智慧；智能；情报，谍报
-- **词根·渊源**：拉丁 **intellegere**（inter- 在…之间 + legere 选择 = 在事物间挑选辨别→理解）→ 拉丁 *intelligentia* → 古法语 → 英语；本义“理解、辨别之力”，引申为“智力、智慧”，再引申为“情报”。
-- **同根词**：intelligent（intellegere 理解 + **-ent** …的 = 有理解力的→聪明的）、intelligible（intellegere 理解 + **-ible** 可…的 = 可理解的）、intellect（intellegere 理解 + **-lect** 选 = 理解力→智力）、intellectual（intellect + **-ual** …的 = 智力的→知识分子的）、legend（拉丁 legere 读 + **-end** 应读之物→传说）、lecture（legere 读 + **-ure** 行为 = 诵读→讲座）、select（**se-** 分开 + lect 选 = 选出→挑选）、collect（**col-** 共同 + lect 选 = 选到一起→收集）。
-- **前缀·后缀**：名词后缀 **-ence**（例：patience, difference）；前缀 **inter-**（例：international, interact）。
-- **同义·反义**：同义 intellect（智力）, brains（头脑）；反义 stupidity（愚蠢）, foolishness（愚笨）。
-- **变形**：名词 → 复数：intelligences；形容词派生 → intelligent adj. 聪明的；intelligential adj. 智力的；副词派生 → intelligently adv. 聪明地。
-
-### 11. artistic /ɑː'tɪstɪk/ adj. 
-- **词根·渊源**：希腊 **artizein**（准备、装备）← **artos**（关节、技艺）→ 拉丁 *ars/art-*（技艺）→ 古法语 *art* → 英语 art + **-istic**（…的）；本义“与技艺有关的”，引申为“艺术的、有艺术性的”。
-- **同根词**：art（拉丁 ars 技艺→艺术）、artist（art + **-ist** …者 = 从事艺术者→艺术家）、artful（art + **-ful** 充满…的 = 充满技艺的→巧妙的）、artless（art + **-less** 无…的 = 无技艺的→天真的）、artifact（拉丁 arte 技艺 + factum 做 = 人工制品）、artificial（artifice + **-ial** …的 = 人造的）、inert（**in-** 不 + ert 技艺 = 无技艺的→惰性的）。
-- **前缀·后缀**：形容词后缀 **-istic**（例：realistic, optimistic）；名词后缀 **-ist**（例：pianist, novelist）。
-- **同义·反义**：同义 creative（有创造力的）, aesthetic（审美的）；反义 inartistic（无艺术性的）, unartistic（非艺术的）。
-- **变形**：形容词 → 比较级：more artistic；最高级：most artistic；名词派生 → art n. 艺术；artist n. 艺术家；副词派生 → artistically adv. 艺术上。
-
-### 12. ability /əˈbɪlɪti/ n. 能力；才能
-- **词根·渊源**：拉丁 **habilis**（易于拿的、灵巧的）← **habere**（拿、持有）+ **-ity**（性质）→ 古法语 *ableté* → 英语；本义“灵巧的性质”，引申为“能力、才能”。
-- **同根词**：able（拉丁 habilis 灵巧的→有能力的）、ably（able + **-ly** …地 = 能干地）、enable（**en-** 使 + able 能 = 使能够）、disable（**dis-** 去除 + able 能 = 使无能→使残疾）、unable（**un-** 不 + able 能 = 不能的）、habit（拉丁 habere 持有→习惯）、inhabit（**in-** 在内 + habit 持有 = 居于其中→居住于）、exhibit（**ex-** 出 + hibit 拿 = 拿出来→展出）。
-- **前缀·后缀**：名词后缀 **-ity**（例：activity, reality）；形容词后缀 **-able**（例：comfortable, readable）。
-- **同义·反义**：同义 capability（能力）, capacity（才能）；反义 inability（无能）, incapacity（无能力）。
-- **变形**：名词 → 复数：abilities；形容词派生 → able adj. 有能力的；副词派生 → ably adv. 能干地；动词派生 → enable v. 使能够；disable v. 使残疾。
-
-### 13. perhaps /pərˈhæps/ adv. 或许；可能；大概
-- **词根·渊源**：中古英语 **per**（通过、凭借）+ **hap**（运气、偶然）← 古诺斯语 *happ*（机会）+ **-s**（副词性词尾）→ 英语；本义“凭运气、碰巧”，引申为“或许、可能”。
-- **同根词**：hap（古诺斯语 happ 机会→运气）、happy（hap 运气 + **-y** …的 = 有好运的→快乐的）、happen（hap 运气 + **-en** 使… = 碰巧发生→发生）、haphazard（hap 运气 + hazard 冒险 = 偶然的→杂乱的）、mishap（**mis-** 坏 + hap 运气 = 坏运气→不幸事故）、happily（happy + **-ly** …地 = 快乐地）。
-- **前缀·后缀**：副词性前缀 **per-**（例：perchance, perceive）；名词后缀 **-s**（例：always, towards）。
-- **同义·反义**：同义 maybe（也许）, possibly（可能）；反义 certainly（当然）, definitely（肯定地）。
-- **变形**：副词 → 无比较级（不作比较）；名词派生 → 无。
-
-### 14. invention /ɪnˈvenʃn/ n. 发明，发明物；创造，创意
-- **词根·渊源**：拉丁 **invenire**（in- 进入 + venire 来 = 来到…上→找到、发现）→ 拉丁 *inventio*（发现）→ 古法语 *invention* → 英语；本义“找到、发现”，引申为“发明、发明物”。
-- **同根词**：invent（in- 进入 + vent 来 = 来到脑中→发明）、inventor（invent + **-or** …者 = 发明家）、inventive（invent + **-ive** …的 = 有发明才能的）、inventory（拉丁 inventarium 找到之物清单→清单）、advent（**ad-** 向 + vent 来 = 到来→出现）、event（**e-** 出 + vent 来 = 出来之事→事件）、prevent（**pre-** 前 + vent 来 = 先来挡住→阻止）、convention（**con-** 共同 + vent 来 = 大家来到一起→集会、惯例）。
-- **前缀·后缀**：名词后缀 **-ion**（例：action, education）；动词前缀 **in-**（例：invent, include）。
-- **同义·反义**：同义 creation（创造）, innovation（创新）；反义 imitation（模仿）, copy（复制）。
-- **变形**：名词 → 复数：inventions；动词派生 → invent v. 发明；名词派生 → inventor n. 发明家；形容词派生 → inventive adj. 有发明才能的。
-
-### 15. notebook /ˈnəʊtbʊk/ n. 笔记本
-- **词根·渊源**：古英语 **notu**（记号、用途）→ 中古英语 *note*（笔记）+ 古英语 **bōc**（书）→ 英语；本义“记笔记的书册”，即“笔记本”。
-- **同根词**：note（拉丁 nota 记号→笔记）、notice（拉丁 notitia 知识 + **-ice** = 知晓→注意）、notion（拉丁 notio 知识→概念）、notable（note + **-able** 可…的 = 值得注意的→著名的）、notify（note + **-ify** 使… = 使知道→通知）、book（古英语 boc 书→书）、booklet（book + **-let** 小 = 小册子）、booking（book + **-ing** 行为 = 预订）。
-- **前缀·后缀**：组合成分 **note-**（例：notepad, notepaper）；名词后缀 **-let**（例：leaflet, piglet）。
+### 6. notebook /ˈnoʊtˌbʊk/ n. 笔记本
+- **词根·渊源**：**note**（笔记，源自拉丁 *nota* 记号）+ **book**（书，源自古英语 *bōc*）→ 复合词 notebook；本义“记笔记的本子”。
+- **同根词**：notebook 之外的 notable（not 记号 + **-able** 可……的 = 值得注意的）、notice（not 记号 + **-ice** = 注意）、notify（not 记号 + **-ify** 使 = 使知道→通知）、booklet（book 书 + **-let** 小 = 小册子）、bookcase（book 书 + case 柜 = 书柜）。
+- **前缀·后缀**：无前缀；名词后缀 **-let**（例：leaflet, piglet）。
 - **同义·反义**：同义 notepad（记事本）, exercise book（练习本）；反义 无。
-- **变形**：名词 → 复数：notebooks；形容词派生 → notebook adj. 笔记本式的。
+- **变形**：名词 → 复数：notebooks。
 
-### 16. include /ɪnˈklud/ v. 包括；包含
-- **词根·渊源**：拉丁 **includere**（in- 在内 + claudere 关闭 = 关在里面）→ 拉丁 *includere* → 英语；本义“关在里面”，引申为“包括、包含”。
-- **同根词**：inclusion（include + **-ion** 行为 = 包括）、inclusive（include + **-ive** …的 = 包括在内的）、exclude（**ex-** 出 + clud 关 = 关在外面→排除）、exclusive（exclude + **-ive** …的 = 排他的→独有的）、conclude（**con-** 共同 + clud 关 = 关到一起→结束、推断）、preclude（**pre-** 前 + clud 关 = 先关住→阻止）、clause（拉丁 claudere 关闭→条款，存疑）、close（拉丁 claudere 关闭→关闭）。
-- **前缀·后缀**：动词前缀 **in-**（例：include, invent）；动词后缀 **-clude**（例：exclude, conclude）。
-- **同义·反义**：同义 contain（包含）, comprise（包括）；反义 exclude（排除）, omit（省略）。
-- **变形**：动词 → 第三人称单数：includes；过去式：included；过去分词：included；现在分词：including；名词派生 → inclusion n. 包括；形容词派生 → inclusive adj. 包括在内的。
+### 7. vehicle /ˈviɪkəl/ n. 交通工具；车辆
+- **词根·渊源**：拉丁 **vehere**（运送）→ 拉丁 *vehiculum*（运输工具）→ 法语 *véhicule* → 英语 vehicle；本义“运送东西的工具”，引申为“交通工具、车辆”。
+- **同根词**：vehicular（vehicul 运送 + **-ar** ……的 = 车辆的）、vector（vect 运送 + **-or** 物 = 带菌者→矢量）、convection（**con-** 一起 + vect 运送 + **-ion** = 一起运送→对流）、invective（**in-** 进入 + vect 运送 + **-ive** = 冲进来的话→谩骂）。
+- **前缀·后缀**：无前缀；名词后缀 **-cle**（例：article, particle）。
+- **同义·反义**：同义 conveyance（运输工具）, transport（运输工具）；反义 无。
+- **变形**：名词 → 复数：vehicles；形容词派生 → vehicular adj. 车辆的。
 
-### 17. even /ˈiːvn/ adj. 甚至，即使
-- **词根·渊源**：古英语 **efen**（平的、相等的）→ 中古英语 *even*；本义“平的、相等的”，副词义“甚至”由“恰好、正是”引申而来（存疑）。
-- **同根词**：evenly（even + **-ly** …地 = 均匀地）、evenness（even + **-ness** 性质 = 平坦、均匀）、uneven（**un-** 不 + even 平的 = 不平的→不均匀的）、evening（古英语 æfnung 傍晚←æfen 傍晚，与 even 同源，存疑）、even-handed（even 平 + hand 手 + **-ed** …的 = 公平的）。
-- **前缀·后缀**：形容词后缀 **-ly**（例：quickly, slowly）；否定前缀 **un-**（例：unhappy, unfair）。
-- **同义·反义**：同义 level（平的）, equal（相等的）；反义 uneven（不平的）, odd（奇数的）。
-- **变形**：形容词 → 比较级：evener；最高级：evenest；副词派生 → evenly adv. 均匀地；名词派生 → evenness n. 平坦、均匀。
+### 8. prehistoric /ˌprihɪˈstɔrɪk/ adj. 史前的
+- **词根·渊源**：拉丁 **prae-**（在前）+ 希腊 **historia**（探究、历史）→ 英语 pre- + historic → prehistoric；本义“有历史记载之前的”。
+- **同根词**：history（histor 探究 + **-y** 名词后缀 = 历史）、historic（histor 历史 + **-ic** ……的 = 有历史意义的）、prehistory（**pre-** 前 + history 历史 = 史前史）、prewar（**pre-** 前 + war 战争 = 战前的）、preview（**pre-** 前 + view 看 = 预览）。
+- **前缀·后缀**：前缀 **pre-**（例：prepay, preschool）；形容词后缀 **-ic**（例：historic, poetic）。
+- **同义·反义**：同义 ancient（古代的）, primeval（原始的）；反义 historic（有历史记载的）, modern（现代的）。
+- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → prehistory n. 史前史。
 
-### 18. however /haʊˈevɚ/ adv. 然而，可是，不过
-- **词根·渊源**：古英语 **hū**（如何）+ **æfre**（永远）→ 中古英语 *how ever*（无论怎样）→ 英语；本义“无论怎样”，引申为转折副词“然而、可是”。
-- **同根词**：how（古英语 hu 如何→怎样）、ever（古英语 æfre 永远→曾经、永远）、whatever（what + ever = 无论什么）、whoever（who + ever = 无论谁）、whenever（when + ever = 无论何时）、wherever（where + ever = 无论哪里）、forever（**for-** 为了 + ever 永远 = 永远）。
-- **前缀·后缀**：副词性后缀 **-ever**（例：whatever, whenever）；疑问词 **how-**（例：howsoever, howbeit）。
-- **同义·反义**：同义 nevertheless（然而）, nonetheless（尽管如此）；反义 therefore（因此）, accordingly（因此）。
-- **变形**：副词 → 无比较级（不作比较）；名词派生 → 无。
+### 9. completely /kəmˈplitli/ adv. 完全地；彻底地
+- **词根·渊源**：拉丁 **com-**（完全）+ **plere**（填满）→ 拉丁 *complere*（填满）→ 拉丁 *completus* → 英语 complete + **-ly** → completely；本义“填满到没有空隙”，引申为“完全地、彻底地”。
+- **同根词**：complete（com- 完全 + plet 填满 = 完整的）、completion（com- + plet 填满 + **-ion** = 完成）、complement（com- + ple 填满 + **-ment** = 补足物）、supply（**sup-** 从下 + ply 填满 = 补充供应）、plenty（plen 满 + **-ty** = 大量）、replete（**re-** 再 + plet 填满 = 充满的）。
+- **前缀·后缀**：前缀 **com-**（例：combine, comfort）；副词后缀 **-ly**（例：quickly, happily）。
+- **同义·反义**：同义 totally（完全地）, entirely（彻底地）；反义 partly（部分地）, partially（不完全地）。
+- **变形**：副词 → 无比较级（不作比较）；形容词派生 → complete adj. 完整的；名词派生 → completeness n. 完整。
 
-### 19. suddenly /ˈsʌdənli/ adv. 突然；忽然；突然地
-- **词根·渊源**：拉丁 **sub-**（在下、靠近）+ **ire**（走）→ 晚期拉丁 *subitaneus*（突然的）→ 古法语 *soudain* → 英语 sudden（突然的）+ 副词后缀 **-ly**；本义“来得猝不及防地”，引申为“突然地”。
-- **同根词**：sudden（sud + **-den** 形容词后缀：突然的）、suddenness（sudden + **-ness** 名词后缀：突然）。
-- **前缀·后缀**：副词后缀 **-ly**（例：quickly, happily）；形容词后缀 **-en**（例：wooden, golden）。
-- **同义·反义**：同义 abruptly（突然地）, unexpectedly（出乎意料地）；反义 gradually（逐渐地）, slowly（缓慢地）。
-- **变形**：副词 → 无比较级（以 -ly 结尾的副词一般用 more/most，但 suddenly 通常不作比较）；形容词派生 → sudden adj. 突然的；名词派生 → suddenness n. 突然。
+### 10. original /ərˈɪʤənəl/ adj. 原来的；起初的
+- **词根·渊源**：拉丁 **oriri**（升起、开始）→ 拉丁 *originem*（起源）→ 拉丁 *originalis* → 古法语 *original* → 英语 original；本义“与起源有关的”，引申为“原来的、起初的”。
+- **同根词**：origin（ori 升起 + **-gin** 名词后缀 = 起源）、originate（origin 起源 + **-ate** 动词后缀 = 发源）、aboriginal（**ab-** 从 + origin 起源 + **-al** = 从起源就有的→土著的）、orient（ori 升起 + **-ent** = 太阳升起的方向→东方）、oriental（orient 东方 + **-al** ……的 = 东方的）。
+- **前缀·后缀**：无前缀；形容词后缀 **-al**（例：natural, national）。
+- **同义·反义**：同义 initial（最初的）, primary（最初的）；反义 final（最终的）, derivative（派生的）。
+- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → origin n. 起源；originality n. 独创性；副词派生 → originally adv. 起初。
 
-### 20. nobody /ˈnoʊbədi/ n. 没有人，无人
-- **词根·渊源**：古英语 **nān**（没有）+ **bodig**（身体、人）→ 中古英语 *nobody*；本义“没有一个人”，由“no + body（人）”合成，引申为“无人；无足轻重的人”。
-- **同根词**：body（单纯词：身体）、anybody（**any-** 任何 + body 人：任何人）、somebody（**some-** 某 + body 人：某人）、everybody（**every-** 每 + body 人：每个人）。
-- **前缀·后缀**：否定前缀 **no-**（例：nothing, nowhere）；名词后缀 **-body** 表“人”（例：anybody, somebody）。
-- **同义·反义**：同义 no one（没有人）, none（无人）；反义 everybody（每个人）, somebody（某人）。
-- **变形**：名词 → 复数：nobodies（作“无足轻重的人”义时可数）；无比较级（名词不作比较）；代词用法 → 作主语时谓语用单数。
+### 11. birth /bərθ/ n. 出生
+- **词根·渊源**：古诺斯 **byrðr**（出生，与 beran 携带、生育同源）→ 中古英语 *birth*；本义“生育、分娩”，引申为“出生”。
+- **同根词**：bear（ber 生育 = 生育→承受）、burden（burd 携带 + **-en** = 背负之物→负担）、bring（bring 携带 = 带来）、birthday（birth 出生 + day 日 = 生日）、birthplace（birth 出生 + place 地方 = 出生地）。
+- **前缀·后缀**：无前后缀（单纯词）。
+- **同义·反义**：同义 nativity（出生）, delivery（分娩）；反义 death（死亡）。
+- **变形**：名词 → 复数：births；形容词派生 → birth adj. 出生的（作定语）。
 
-### 21. fossil /ˈfɑːsl/ n. 化石
-- **词根·渊源**：拉丁 **fodere**（挖掘）的过去分词 *fossus*（被挖出的）→ 法语 *fossile* → 英语 fossil；本义“从地下挖出的东西”，17世纪起专指“埋藏在地层中的古生物遗骸或遗迹”，即“化石”。
-- **同根词**：fossilize（fossil + **-ize** 使……化：使成为化石）、fossilization（fossilize + **-ation** 名词后缀：化石化）。
-- **前缀·后缀**：名词后缀 **-il / -ile**（例：fragile, missile）；动词后缀 **-ize**（例：modernize, realize）。
-- **同义·反义**：同义 remains（遗骸）, relic（遗迹）；反义 无。
-- **变形**：名词 → 复数：fossils；无比较级（名词不作比较）；动词派生 → fossilize v. 使化石化；形容词派生 → fossil adj. 化石的。
+### 12. suffering /ˈsəfərɪŋ/ n. 苦难；疼痛
+- **词根·渊源**：拉丁 **sub-**（在下）+ **ferre**（承受）→ 拉丁 *sufferre*（在下面承受）→ 古法语 *souffrir* → 英语 suffer + **-ing** → suffering；本义“承受（重压）”，引申为“苦难、疼痛”。
+- **同根词**：suffer（suf- 在下 + fer 承受 = 遭受）、sufferance（suffer + **-ance** 名词后缀 = 忍耐）、transfer（**trans-** 转移 + fer 承受 = 转移）、refer（**re-** 回 + fer 承受 = 回溯→提及）、offer（**of-** 向前 + fer 承受 = 献上）、fertile（fer 承受 + **-tile** = 能承载的→肥沃的）。
+- **前缀·后缀**：前缀 **suf-**（sub- 的变体，例：suffix, suffocate）；名词后缀 **-ing**（例：feeling, meeting）。
+- **同义·反义**：同义 pain（疼痛）, misery（苦难）；反义 joy（快乐）, comfort（舒适）。
+- **变形**：名词 → 复数：sufferings；动词派生 → suffer v. 遭受；形容词派生 → suffering adj. 受苦的。
 
-### 22. win /wɪn/ v. 获胜；赢得；获得
-- **词根·渊源**：古英语 **winnan**（争斗、劳作、忍受）→ 中古英语 *winnen*；本义“奋力争取、劳作”，由“努力争取”引申为“赢得、获胜”。
-- **同根词**：winner（win + **-er** 者：获胜者）、winning（win + **-ing** 形容词/名词后缀：获胜的；胜利）、winnings（winning + **-s** 复数：赢得的钱）。
-- **前缀·后缀**：名词后缀 **-er**（例：teacher, worker）；形容词/名词后缀 **-ing**（例：running, building）。
-- **同义·反义**：同义 triumph（获胜）, gain（获得）；反义 lose（输掉）, fail（失败）。
-- **变形**：动词 → 第三人称单数：wins；过去式：won；过去分词：won；现在分词：winning；名词派生 → winner n. 获胜者；win n. 胜利。
+### 13. artist /ˈɑrtɪst/ n. 艺术家；（尤指）画家
+- **词根·渊源**：拉丁 **ars / art-**（技艺、艺术）→ 古法语 *art* → 英语 art + **-ist**（从事……的人）→ artist；本义“从事技艺的人”，引申为“艺术家、画家”。
+- **同根词**：art（ars 技艺 = 艺术）、artistic（art + **-ist** + **-ic** = 艺术的）、artful（art + **-ful** 充满 = 有技巧的→狡猾的）、artisan（art 技艺 + **-isan** 人 = 工匠）、artifact（arti 技艺 + **fact** 做 = 人工制品）。
+- **前缀·后缀**：无前缀；名词后缀 **-ist**（例：pianist, scientist）。
+- **同义·反义**：同义 painter（画家）, creator（创作者）；反义 无。
+- **变形**：名词 → 复数：artists；形容词派生 → artistic adj. 艺术的；名词派生 → artistry n. 艺术才能。
 
-### 23. dollar /ˈdɒlə(r)/ n. 元（美国、加拿大等国的货币单位），美元
-- **词根·渊源**：德语 **Taler**（源自波希米亚银矿地名 Joachimsthal 的银币名）→ 荷兰语 *daler* → 英语 dollar；本义“一种银币”，后成为美国、加拿大等国货币单位“元”。
-- **同根词**：dollarize（dollar + **-ize** 使……化：使美元化）、dollarization（dollarize + **-ation** 名词后缀：美元化）。
-- **前缀·后缀**：名词后缀 **-ar**（例：scholar, cellar）；动词后缀 **-ize**（例：organize, apologize）。
-- **同义·反义**：同义 buck（美元，口语）, currency unit（货币单位）；反义 无。
-- **变形**：名词 → 复数：dollars；无比较级（名词不作比较）；动词派生 → dollarize v. 使美元化。
+### 14. piece /pis/ n.（音乐作品的）一首
+- **词根·渊源**：古法语 **piece**（一块、一片，源自中世纪拉丁 *petia*，来源存疑）→ 中古英语 *pece*；本义“一块、一片”，引申指“（音乐作品的）一首”。
+- **同根词**：piecemeal（piece 块 + meal 部分 = 一件一件地→零碎的）、apiece（**a-** 每 + piece 块 = 每个）、patch（与 piece 同源，补丁）。
+- **前缀·后缀**：无前后缀（单纯词）。
+- **同义·反义**：同义 composition（作品）, work（作品）；反义 whole（整体）。
+- **变形**：名词 → 复数：pieces；动词派生 → piece v. 拼合。
 
-### 24. in the countryside /ɪn ðə ˈkʌntrisaɪd/ prep. 在乡村，在农村；在乡下
-- **同义搭配**：in the country / in rural areas
-- **反义搭配**：in the city（在城市）
+### 15. death /dɛθ/ n. 死；死亡
+- **词根·渊源**：古英语 **dēath**（死亡，与动词 *steorfan* 死、古诺斯 *deyja* 死同源）→ 中古英语 *deth*；本义“死亡”，由日耳曼语 *dauþuz* 而来。
+- **同根词**：die（与 death 同源，死）、dead（与 death 同源，死的）、deadly（dead 死的 + **-ly** ……的 = 致命的）、deathly（death 死 + **-ly** ……的 = 死一般的）。
+- **前缀·后缀**：无前后缀（单纯词）。
+- **同义·反义**：同义 demise（死亡）, passing（去世）；反义 birth（出生）, life（生命）。
+- **变形**：名词 → 复数：deaths；形容词派生 → deathly adj. 死一般的。
 
-### 25. human being /'hjuːmən 'biːɪŋ/ n. 人；人类
-- **同义搭配**：person（人）, mankind（人类）
-- **反义搭配**：animal（动物）, beast（野兽）
+### 16. whole /hoʊl/ adj. 全部的；所有的
+- **词根·渊源**：古英语 **hāl**（健康的、完整的，与 heal 同源）→ 中古英语 *hol* → 英语 whole；本义“完整无损的”，引申为“全部的、所有的”。
+- **同根词**：heal（hæl 完整 = 使完整→治愈）、health（heal 治愈 + **-th** 名词后缀 = 健康）、healthy（health 健康 + **-y** ……的 = 健康的）、wholesome（whole 完整 + **-some** ……的 = 有益健康的）、holy（与 whole 同源，完整的→神圣的）。
+- **前缀·后缀**：无前后缀（单纯词）。
+- **同义·反义**：同义 entire（全部的）, complete（完整的）；反义 partial（部分的）, broken（破碎的）。
+- **变形**：形容词 → 无比较级（绝对形容词，不作比较）；名词派生 → wholeness n. 完整；副词派生 → wholly adv. 完全地。
 
-### 26. die out /daɪ aʊt/ n. 灭绝；消失
-- **同义搭配**：become extinct / disappear
-- **反义搭配**：survive（存活）
+### 17. editor /ˈɛdɪtər/ n.（书籍的）编辑
+- **词根·渊源**：拉丁 **e-**（向外）+ **dare**（给）→ 拉丁 *edere*（给出、出版）→ 英语 edit + **-or**（人）→ editor；本义“出版、发行的人”，引申为“编辑”。
+- **同根词**：edit（e- 向外 + dit 给 = 给出→出版→编辑）、edition（edit 出版 + **-ion** 名词后缀 = 版本）、editorial（editor 编辑 + **-ial** ……的 = 编辑的→社论）、data（da 给 + **-ta** = 给出的事实→数据）、date（与 dare 同源，给出→日期）。
+- **前缀·后缀**：前缀 **e-**（例：emit, eject）；名词后缀 **-or**（例：actor, doctor）。
+- **同义·反义**：同义 compiler（编纂者）, reviser（校订者）；反义 无。
+- **变形**：名词 → 复数：editors；形容词派生 → editorial adj. 编辑的；名词派生 → editorship n. 编辑职位。
 
-### 27. find out /faɪnd aʊt/ v. 了解（到）；弄清；发现，找出，查明;查出
-- **同义搭配**：discover / figure out
-- **反义搭配**：ignore（忽视）
+### 18. organize /ˈɔrgəˌnaɪz/ v. 安排；组织
+- **词根·渊源**：希腊 **organon**（工具、器官）→ 拉丁 *organum* → 英语 organ + **-ize**（使……化）→ organize；本义“使成为有器官的整体”，引申为“组织、安排”。
+- **同根词**：organ（organ 器官 = 器官→风琴）、organism（organ 器官 + **-ism** 体系 = 生物体）、organization（organize 组织 + **-ation** 名词后缀 = 组织）、organic（organ 器官 + **-ic** ……的 = 有机的）、inorganic（**in-** 无 + organic 有机的 = 无机的）。
+- **前缀·后缀**：无前缀；动词后缀 **-ize**（例：realize, modernize）。
+- **同义·反义**：同义 arrange（安排）, coordinate（协调）；反义 disorganize（扰乱）, disorder（使混乱）。
+- **变形**：动词 → 第三人称单数：organizes；过去式：organized；过去分词：organized；现在分词：organizing；名词派生 → organization n. 组织；organizer n. 组织者；形容词派生 → organized adj. 有组织的。
 
-### 28. go for a walk /ɡəʊ fɔː(r) ə wɔːk/ v. 去散步
-- **同义搭配**：take a walk / go walking
-- **反义搭配**：stay in（待在家里）
+### 19. order /ˈɔrdər/ n. 顺序
+- **词根·渊源**：拉丁 **ordo / ordin-**（行列、次序）→ 古法语 *ordre* → 英语 order；本义“排列成行”，引申为“顺序、秩序、命令”。
+- **同根词**：ordinary（ordin 次序 + **-ary** …的 = 按常规次序的→普通的）、extraordinary（**extra-** 超出 + ordinary 普通 = 超出常规的→非凡的）、ordinate（ordin 次序 + **-ate** 使… = 使按次序排列→坐标）、ordination（ordin 次序 + **-ation** 名词后缀 = 按次序安排→授职仪式）、inordinate（**in-** 不 + ordin 次序 + **-ate** = 无次序的→过度的）、subordinate（**sub-** 下 + ordin 次序 + **-ate** = 次序在下的→下级的）。
+- **前缀·后缀**：名词后缀 **-er**（例：teacher, worker）；否定前缀 **in-**（例：incorrect）、**sub-**（例：subway）。
+- **同义·反义**：同义 sequence（顺序）, arrangement（排列）；反义 disorder（混乱）, chaos（杂乱）。
+- **变形**：名词 → 复数：orders；动词派生 → order v. 命令、订购；形容词派生 → ordered adj. 有序的；副词派生 → orderly adv. 有秩序地。
+
+### 20. record /ˈrɛkərd/ v. 记录
+- **词根·渊源**：拉丁 **cor / cord-**（心）→ 拉丁 *recordari*（回想）→ 古法语 *recorder* → 英语 record；本义“记在心里→回想”，引申为“记录、记载”。
+- **同根词**：courage（cor 心 + **-age** 名词后缀 = 由心而发的力量→勇气）、courageous（courage + **-ous** …的 = 勇敢的）、encourage（**en-** 使 + courage 勇气 = 给勇气→鼓励）、discourage（**dis-** 去除 + courage 勇气 = 夺去勇气→使气馁）、cordial（cord 心 + **-ial** …的 = 出自内心的→衷心的）、accord（**ac-** 向 + cord 心 = 心向心→一致）。
+- **前缀·后缀**：前缀 **re-**（例：return, rebuild）；名词后缀 **-er**（例：recorder, player）。
+- **同义·反义**：同义 register（登记）, note（记下）；反义 erase（抹去）, forget（忘记）。
+- **变形**：动词 → 第三人称单数：records；过去式：recorded；过去分词：recorded；现在分词：recording；名词派生 → record n. 记录、唱片；recorder n. 录音机；形容词派生 → recorded adj. 记录的。
+
+### 21. die out  v. 灭绝
+- **同义搭配**：become extinct / vanish
+- **反义搭配**：survive
+
+### 22. a type of  n. 一种
+- **同义搭配**：a kind of / a sort of
+- **反义搭配**：无
+
+### 23. be related to  v. 与……属于同一种类
+- **同义搭配**：be connected with / be akin to
+- **反义搭配**：be unrelated to
+
+### 24. general education  n. 通识教育
+- **同义搭配**：liberal education / broad-based education
+- **反义搭配**：specialized education
+
+### 25. go back a long way  v. 历史悠久
+- **同义搭配**：have a long history / date back a long time
+- **反义搭配**：be of recent origin
+
+### 26. be similar to  v. 与……相似
+- **同义搭配**：be like / resemble
+- **反义搭配**：be different from
+
+### 27. alphabetical order  n. 字母顺序
+- **同义搭配**：letter order / ABC order
+- **反义搭配**：random order
+
+### 28. play an important role  v. 起到重要作用
+- **同义搭配**：play a key part / be of great importance
+- **反义搭配**：play a minor role
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| en- | 使…，在内 | encyclopaedia | enable, enrich, enclose, encourage |
-| -ia | 名词后缀，表学科/集合 | encyclopaedia | media, bacteria, criteria, nostalgia |
-| -an | 名词/形容词后缀，表人、…的 | Italian | American, musician（-ian）, Asian, Canadian |
-| -or | 名词后缀，表人/施动者 | inventor | actor, doctor, visitor, creator |
-| -ist | 名词后缀，表人（从事…者） | scientist, musician | artist, dentist, tourist, pianist |
-| -tion | 名词后缀，表行为/结果 | invention | action, education, information, creation |
-| -ic | 形容词后缀，…的 | artistic | basic, historic, scientific, poetic |
-| -ity | 名词后缀，表性质/状态 | ability | activity, reality, quality, security |
-| -ence | 名词后缀，表性质/状态 | intelligence | difference, patience, silence, confidence |
-| -ly | 副词后缀，…地 | suddenly | quickly, happily, carefully, easily |
-| -er | 名词后缀，表人/物 | inventor（-or 变体） | teacher, worker, singer, computer |
-| -side | 名词后缀，表…边/地区 | countryside | riverside, roadside, seaside, hillside |
-| -book | 复合词成分，表册/本 | notebook | textbook, workbook, storybook, handbook |
-| -body | 复合词成分，表人/身体 | nobody | somebody, anybody, everybody |
-| -ever | 复合词成分，表无论/任何 | however | whatever, whoever, whenever, wherever |
-| -out | 副词/介词小品词，表向外/完全 | die out, find out | go out, work out, run out, break out |
+| -saur | 蜥蜴，爬行动物 | dinosaur | brontosaurus, tyrannosaur |
+| -ant | 形容词后缀：具有……性质的 | intelligent | important, distant, elegant |
+| -ed | 形容词后缀：具有……的 | talented | gifted, skilled, excited |
+| -ic | 形容词后缀：……的，与……有关的 | artistic, prehistoric | historic, basic, scientific |
+| per- | 前缀：通过，彻底 | perhaps | perfect, permit, persist |
+| pre- | 前缀：在……之前 | prehistoric | preview, predict, prepare |
+| com- | 前缀：完全，一起 | completely | complete, combine, communicate |
+| -ly | 副词后缀：……地 | completely | quickly, happily, carefully |
+| -al | 形容词后缀：……的 | original | natural, national, personal |
+| -ing | 名词后缀：动作、状态 | suffering | feeling, meeting, building |
+| -ist | 名词后缀：从事……的人 | artist | scientist, pianist, tourist |
+| -or | 名词后缀：做……的人/物 | editor | actor, doctor, visitor |
+| -ize | 动词后缀：使……化，使成为 | organize | realize, modernize, apologize |
+| -tion | 名词后缀：动作、状态 | general education（education） | information, action, invention |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
 | 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| human | person（人） | animal（动物） |
-| inventor | creator（创造者） | — |
-| scientist | researcher（研究者） | — |
-| born | delivered（出生的） | died（死亡的） |
-| countryside | rural area（农村） | city（城市） |
-| intelligence | wisdom（智慧） | stupidity（愚蠢） |
-| artistic | creative（有创造力的） | inartistic（无艺术性的） |
-| ability | capability（能力） | inability（无能） |
-| perhaps | maybe（或许） | certainly（一定） |
-| invention | creation（创造） | — |
-| include | contain（包含） | exclude（排除） |
-| even | actually（甚至） | — |
-| however | nevertheless（然而） | therefore（因此） |
-| suddenly | abruptly（突然地） | gradually（逐渐地） |
-| nobody | no one（没有人） | everybody（所有人） |
-| fossil | remains（遗骸） | — |
-| win | succeed（获胜） | lose（失败） |
-| die out | disappear（消失） | survive（存活） |
-| find out | discover（发现） | — |
-| go for a walk | take a walk（散步） | — |
+| intelligent（聪明的） | clever（聪明的），smart（聪明的） | stupid（愚蠢的），foolish（愚笨的） |
+| talented（有才能的） | gifted（有天赋的），capable（有能力的） | untalented（无才能的），incompetent（无能力的） |
+| artistic（有艺术天赋的） | creative（有创造力的） | unartistic（无艺术才能的） |
+| perhaps（也许） | maybe（也许），possibly（可能） | certainly（当然），definitely（肯定地） |
+| completely（完全地） | totally（完全地），entirely（完全地） | partly（部分地），partially（部分地） |
+| original（原来的） | initial（最初的），first（最初的） | final（最终的），last（最后的） |
+| birth（出生） | nativity（出生） | death（死亡） |
+| suffering（苦难） | pain（痛苦），misery（苦难） | joy（快乐），happiness（幸福） |
+| death（死亡） | passing（去世） | birth（出生），life（生命） |
+| whole（全部的） | entire（全部的），complete（完整的） | partial（部分的），incomplete（不完整的） |
+| organize（组织） | arrange（安排），plan（计划） | disorganize（打乱），mess up（弄乱） |
+| order（顺序） | sequence（顺序），arrangement（排列） | disorder（混乱），chaos（混乱） |
+| record（记录） | write down（记下），note（记录） | erase（抹去），delete（删除） |
+| die out（灭绝） | become extinct（灭绝） | survive（存活），thrive（繁荣） |
+| be similar to（与……相似） | be like（像） | be different from（与……不同） |
+| go back a long way（历史悠久） | have a long history（历史悠久） | be of recent origin（起源较晚） |
 
 ---
 

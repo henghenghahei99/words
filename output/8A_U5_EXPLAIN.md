@@ -1,6 +1,6 @@
-# 8A_U5 说文解字 · Educational exchanges
+# 8A_U5 说文解字 · Going on an exchange trip
 
-> 配套 `8A_U5.md`（沪教牛津版 2024/2025 修订，24 条）
+> 配套 `8A_U5.md`（沪教牛津版 2024/2025 修订，28 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
 > 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
@@ -8,215 +8,237 @@
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
-| duc / duct | 引导，带领 | 拉丁语 ducere | introduce | conduct, produce, reduce, educate |
-| cult | 耕作，培育 | 拉丁语 colere | culture | cultivate, agriculture, cultural |
-| spect | 看 | 拉丁语 specere | respect | inspect, expect, spectator, suspect |
-| port | 携带，运送 | 拉丁语 portare |（存疑：无直接本单元词） | import, export, transport, portable |
-| host | 主人，客人 | 拉丁语 hospes（主客关系） | host, guest | hostel, hotel, hospital, hospitality |
-| ced / cess | 走，让步 | 拉丁语 cedere | success | proceed, exceed, access, process |
-| peri | 尝试，经验 | 希腊语 peira | experience | experiment, expert, peril |
-| fant | 显现，想象 | 希腊语 phainein | fantastic | fantasy, phantom, phenomenon |
-| stick | 刺，插 | 古英语 sticca | chopstick | stick, sticky, lipstick |
-| tour / torn | 转，绕行 | 拉丁语 tornare | tour | turn, return, tourist, tournament |
-| loc | 地方 | 拉丁语 locus | local | locate, location, allocate, dislocate |
-| intro- | 向内 | 拉丁语 intro | introduce | introvert, introspect, introduce |
+| pend | 悬挂；称量 | 拉丁语 pendere | independent | depend, pending, pendulum, suspend |
+| sens/sent | 感觉 | 拉丁语 sentire | feeling（存疑，feel 为日耳曼语源） | sense, sensitive, sensation, consent |
+| spect | 看 | 拉丁语 specere | expect | inspect, respect, spectator, suspect |
+| cept | 拿；取 | 拉丁语 capere | accept | receive, concept, except, intercept |
+| apt | 适合；调整 | 拉丁语 aptus | adaptation | adapt, apt, aptitude |
+| sit | 位置；放置 | 拉丁语 situs | situation | site, situate, position（同源存疑） |
+| host | 主人；客人 | 拉丁语 hospes | host family | host, hotel, hospital, hospitality |
+| cult | 耕种；培育 | 拉丁语 colere | culture shock | culture, cultivate, agriculture |
+| uni | 一 | 拉丁语 unus | unfamiliar（un- 为否定前缀，存疑） | unite, uniform, universe, unique |
+| dom | 家；主人 | 拉丁语 domus | homesick（home 为日耳曼语源，存疑） | domestic, dominate, domain |
+| lon | 单独 | 中古英语 lone | lonely | alone, lone, lonesome |
+| tour | 转；绕 | 拉丁语 tornare | tour | tourist, tournament, contour |
 
 ## 二、逐词说文解字
 
-### 1. educational /ˌedʒuˈkeɪʃənl/ adj. 有关教育的；有教育意义的
-- **词根·渊源**：拉丁 **educare**（养育、培养）→ 拉丁 *educatio*（养育、教育）→ 英语 education + **-al**；本义“培养、引导出来”，引申为“有关教育的”。
-- **同根词**：educate（**e-** 出 + duc 引导 + **-ate** 动词后缀 = 引导出来→教育）、education（educate + **-ion** 名词后缀 = 教育）、educator（educate + **-or** 人 = 教育者）、educe（**e-** 出 + duc 引导 = 引出）、conduct（**con-** 共同 + duct 引导 = 共同引导→指挥）、produce（**pro-** 向前 + duc 引导 = 向前引出→生产）。
-- **前缀·后缀**：形容词后缀 **-al**（例：natural, musical）；动词前缀 **e-**（例：evade）、**con-**（例：connect）、**pro-**（例：promote）。
-- **同义·反义**：同义 instructive（有教育意义的）, academic（学术的）；反义 uneducational（无教育意义的）。
-- **变形**：形容词 → 比较级：more educational；最高级：most educational；副词派生 → educationally adv. 教育上地；名词派生 → education n. 教育。
-
-### 2. exchange /ɪksˈtʃendʒ/ n. 交流；互访；交换
-- **词根·渊源**：拉丁 **cambiare**（交换）→ 古法语 *eschangier* → 英语 exchange；本义“互相更换”，引申为“交流、互访”。
-- **同根词**：change（源自拉丁 cambiare 交换→改变）、changeful（change + **-ful** 充满……的 = 多变的）、exchangeable（exchange + **-able** 可……的 = 可交换的）、interchange（**inter-** 相互 + change 交换 = 互换）、changeless（change + **-less** 无……的 = 不变的）。
-- **前缀·后缀**：前缀 **ex-**（例：export, exit）；名词后缀 **-able**（例：changeable, readable）。
-- **同义·反义**：同义 swap（交换）, interchange（互换）；反义 keep（保留）, retain（保持）。
+### 1. exchange /ɪksˈʧeɪnʤ/ n. 交流
+- **词根·渊源**：拉丁 **cambiare**（交换）→ 古法语 *changier* → 英语 change；前缀 **ex-**（出、向外）+ change，本义“向外换出”，引申为“互相交换、交流”。
+- **同根词**：change（单纯词：改变、交换）、exchangeable（exchange + **-able** 可…的：可交换的）、interchange（**inter-** 相互 + change = 相互交换→互换）、changeful（change + **-ful** 充满…的：多变的）。
+- **前缀·后缀**：前缀 **ex-**（例：export, exit）；名词后缀 **-able**（例：comfortable, readable）。
+- **同义·反义**：同义 interchange（交换）, communication（交流）；反义 无。
 - **变形**：名词 → 复数：exchanges；动词派生 → exchange v. 交换；形容词派生 → exchangeable adj. 可交换的。
 
-### 3. culture /ˈkʌltʃər/ n. 文化，文明
-- **词根·渊源**：拉丁 **colere**（耕种、培育）→ 拉丁 *cultura*（耕作、培养）→ 古法语 *culture* → 英语 culture；本义“耕种土地”，引申为“对心智的培养”，即“文化、文明”。
-- **同根词**：cultivate（cult 耕种 + **-ivate** 动词后缀 = 耕种→培养）、agriculture（**agri-** 田地 + culture 耕种 = 农业）、cultural（culture + **-al** ……的 = 文化的）、cult（cult 耕种→培育→崇拜 = 崇拜）、horticulture（**horti-** 花园 + culture 耕种 = 园艺）。
-- **前缀·后缀**：名词后缀 **-ure**（例：nature, picture）；前缀 **agri-**（例：agrimotor）。
-- **同义·反义**：同义 civilization（文明）, cultivation（培养）；反义 barbarism（野蛮）。
-- **变形**：名词 → 复数：cultures；形容词派生 → cultural adj. 文化的；副词派生 → culturally adv. 文化上地；动词派生 → cultivate v. 培养。
+### 2. nervous /ˈnərvəs/ adj. 焦虑的；担忧的
+- **词根·渊源**：拉丁 **nervus**（筋、神经）→ 拉丁 *nervosus*（多筋的）→ 英语 nervous；本义“与神经有关的”，因神经紧张引申为“焦虑的、担忧的”。
+- **同根词**：nerve（单纯词：神经）、nervously（nervous + **-ly** 副词后缀：焦虑地）、nervousness（nervous + **-ness** 名词后缀：紧张）、nervous system（nervous + system：神经系统）。
+- **前缀·后缀**：形容词后缀 **-ous**（例：famous, dangerous）；副词后缀 **-ly**（例：quickly, happily）。
+- **同义·反义**：同义 anxious（焦虑的）, worried（担忧的）；反义 calm（平静的）, relaxed（放松的）。
+- **变形**：形容词 → 比较级：more nervous；最高级：most nervous；副词派生 → nervously adv. 焦虑地；名词派生 → nervousness n. 紧张。
 
-### 4. host /hoʊst/ n. 主人；主持；东道主
-- **词根·渊源**：拉丁 **hospes / hospit-**（客人、主人）→ 古法语 *hoste* → 英语 host；本义“接待客人的人”，引申为“主人、东道主、主持人”。
-- **同根词**：hostess（host + **-ess** 女性 = 女主人）、hospitality（host + **-ality** 名词后缀 = 好客）、hospital（host 客人 + **-al** 场所 = 接待客人的地方→医院）、hostel（host + **-el** 小场所 = 小旅馆）、hotel（源自古法语 hostel 变体 = 旅馆）。
-- **前缀·后缀**：名词后缀 **-ess**（例：actress, waitress）；名词后缀 **-ality**（例：personality, nationality）。
-- **同义·反义**：同义 entertainer（招待者）, presenter（主持人）；反义 guest（客人）。
-- **变形**：名词 → 复数：hosts；动词派生 → host v. 主办、主持；名词派生 → hostess n. 女主人。
-
-### 5. local /ˈloʊkl/ adj. 当地的，本地的；地方的
-- **词根·渊源**：拉丁 **locus**（地方）→ 拉丁 *localis* → 古法语 *local* → 英语 local；本义“关于某地方的”，引申为“当地的、本地的”。
-- **同根词**：locate（loc 地方 + **-ate** 动词后缀 = 确定地方→定位）、location（locate + **-ion** 名词后缀 = 位置）、locality（local + **-ity** 名词后缀 = 地点）、locomotive（**loco-** 地方→移动 + motive 动 = 火车头）、dislocate（**dis-** 离开 + locate 定位 = 使脱位）。
-- **前缀·后缀**：形容词后缀 **-al**（例：national, natural）；前缀 **dis-**（例：discover, disagree）。
-- **同义·反义**：同义 regional（地区的）, native（本地的）；反义 foreign（外国的）, global（全球的）。
-- **变形**：形容词 → 比较级：more local；最高级：most local；名词派生 → locality n. 地点；副词派生 → locally adv. 当地地；动词派生 → locate v. 定位。
-
-### 6. British /ˈbrɪtɪʃ/ adj. 英国的，英国人的，英国人
-- **词根·渊源**：古英语 **Bryttisc**（不列颠人的）→ 凯尔特语 *Britto*（不列颠人）→ 英语 British；本义“不列颠人的”，引申为“英国的、英国人的”。
-- **同根词**：Britain（源自拉丁 Britannia 不列颠 = 不列颠）、Briton（Brit + **-on** 人 = 不列颠人）、Britannia（拉丁不列颠尼亚 = 不列颠的拟人化）、Briticism（British + **-ism** 语言特征 = 英式英语用法）。
-- **前缀·后缀**：形容词后缀 **-ish**（例：foolish, childish）；名词后缀 **-ism**（例：socialism, realism）。
-- **同义·反义**：同义 English（英格兰的）；反义 无。
-- **变形**：形容词 → 无比较级（专有形容词，不作比较）；名词派生 → Britain n. 不列颠；Briton n. 不列颠人。
-
-### 7. glad /ɡlæd/ adj. 高兴；愉快；高兴的；快乐的
-- **词根·渊源**：古英语 **glæd**（明亮的、高兴的）→ 原始日耳曼语 *glada-*；本义“明亮的、光滑的”，引申为“心情愉快的”。
-- **同根词**：gladden（glad + **-en** 使…… = 使高兴）、gladly（glad + **-ly** 副词后缀 = 高兴地）、gladness（glad + **-ness** 名词后缀 = 高兴）、gladsome（glad + **-some** 充满……的 = 令人高兴的）。
-- **前缀·后缀**：动词后缀 **-en**（例：widen, strengthen）；副词后缀 **-ly**（例：quickly, happily）。
-- **同义·反义**：同义 happy（快乐的）, pleased（高兴的）；反义 sad（悲伤的）, unhappy（不快乐的）。
-- **变形**：形容词 → 比较级：gladder；最高级：gladdest；副词派生 → gladly adv. 高兴地；名词派生 → gladness n. 高兴；动词派生 → gladden v. 使高兴。
-
-### 8. guest /ɡest/ n. 客人；宾客
-- **词根·渊源**：古诺斯语 **gestr**（客人）→ 原始日耳曼语 *gastiz*；与拉丁 hostis（陌生人、敌人）同出 PIE *ghos-ti-*（陌生人）；本义“外来者”，引申为“客人、宾客”。
-- **同根词**：guesthouse（guest + house 房子 = 宾馆）、guestroom（guest + room 房间 = 客房）、guestly（guest + **-ly** 形容词后缀 = 客人的）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 visitor（来访者）, caller（访客）；反义 host（主人）。
-- **变形**：名词 → 复数：guests；形容词派生 → guestly adj. 客人的。
-
-### 9. chopstick /ˈtʃɑ:pstɪk/ n. 筷子
-- **词根·渊源**：洋泾浜英语 **chop**（快）+ **stick**（棍）；本义“快棍”，即“筷子”；chop 可能源自粤语“速”或英语 chop（快），词源存疑。
-- **同根词**：stick（源自古英语 sticca 棍 = 棍）、chop（可能源自英语 chap 或粤语 = 快）、sticky（stick + **-y** 形容词后缀 = 黏的）、chophouse（chop + house 房子 = 小饭馆）。
-- **前缀·后缀**：无前后缀（复合词）。
+### 3. chopstick /ˈʧɑpˌstɪk/ n. 筷子
+- **词根·渊源**：英语 **chop**（切、砍，源自中古英语 *choppen*，可能与古法语 *choper* 有关）+ **stick**（棍、棒，古英语 *sticca*）；本义“切东西用的小棍”，即“筷子”。
+- **同根词**：chop（单纯词：切、砍）、stick（单纯词：棍、棒）、chopsticks（chopstick + **-s** 复数：筷子）、fishstick（fish + stick：鱼条）。
+- **前缀·后缀**：无前后缀（复合词：chop + stick）。
 - **同义·反义**：同义 无；反义 无。
 - **变形**：名词 → 复数：chopsticks。
 
-### 10. weekday /ˈwiːkdeɪ/ n. 工作日；平日（除周末以外的日子）
-- **词根·渊源**：古英语 **wicu**（星期）+ **dæg**（日）→ 英语 week + day；本义“一周中的日子”，引申为“工作日、平日”。
-- **同根词**：week（源自古英语 wicu 星期 = 星期）、day（源自古英语 dæg 日 = 日）、weekend（week + end 末端 = 周末）、weekly（week + **-ly** 形容词后缀 = 每周的）、daily（day + **-ly** 形容词后缀 = 每日的）。
-- **前缀·后缀**：无前后缀（复合词）。
-- **同义·反义**：同义 workday（工作日）；反义 weekend（周末）。
-- **变形**：名词 → 复数：weekdays。
-
-### 11. tour /tʊr/ n. 在......旅游；（短暂的）参观，游览
-- **词根·渊源**：拉丁 **tornare**（转动）→ 古法语 *torner* → 古法语 *tour*（一圈、巡回）→ 英语 tour；本义“转一圈”，引申为“周游、参观”。
-- **同根词**：tourism（tour + **-ism** 名词后缀 = 旅游业）、tourist（tour + **-ist** 人 = 游客）、tournament（tour + **-ament** 名词后缀 = 巡回比赛→锦标赛）、turn（源自拉丁 tornare 转动 = 转动）、return（**re-** 回 + turn 转 = 返回）。
-- **前缀·后缀**：名词后缀 **-ism**（例：socialism, realism）；名词后缀 **-ist**（例：artist, scientist）。
+### 4. tour /tʊr/ n. 旅行；旅游
+- **词根·渊源**：拉丁 **tornare**（转、绕圈）→ 古法语 *torner* → 古法语 *tour*（一圈、绕行）→ 英语 tour；本义“绕行一圈”，引申为“周游、旅行”。
+- **同根词**：tourist（tour + **-ist** 人：游客）、tourism（tour + **-ism** 主义、活动：旅游业）、tournament（tour + **-ament** 名词后缀：巡回比赛→锦标赛）、turn（同源：转）。
+- **前缀·后缀**：名词后缀 **-ist**（例：artist, scientist）；名词后缀 **-ism**（例：socialism, realism）。
 - **同义·反义**：同义 trip（旅行）, journey（旅程）；反义 无。
-- **变形**：名词 → 复数：tours；动词派生 → tour v. 旅游；名词派生 → tourist n. 游客；tourism n. 旅游业。
+- **变形**：名词 → 复数：tours；动词派生 → tour v. 旅行；名词派生 → tourist n. 游客；tourism n. 旅游业。
 
-### 12. fantastic /fænˈtæstɪk/ adj. 极好的；了不起的
-- **词根·渊源**：希腊 **phantazein**（使显现、想象）→ 拉丁 *phantasticus* → 古法语 *fantastique* → 英语 fantastic；本义“想象中的、幻想的”，引申为“极好的、了不起的”。
-- **同根词**：fantasy（希腊 phantasia 想象 = 幻想）、fantasize（fantasy + **-ize** 动词后缀 = 幻想）、phantom（希腊 phantasma 幻影 = 幽灵）、fancy（源自 fantasy 的缩略 = 想象）、fantastically（fantastic + **-ally** 副词后缀 = 极好地）。
-- **前缀·后缀**：形容词后缀 **-ic**（例：basic, historic）；动词后缀 **-ize**（例：realize, modernize）。
-- **同义·反义**：同义 wonderful（极好的）, excellent（优秀的）；反义 terrible（糟糕的）, awful（极坏的）。
-- **变形**：形容词 → 比较级：more fantastic；最高级：most fantastic；副词派生 → fantastically adv. 极好地；名词派生 → fantasy n. 幻想。
-
-### 13. experience /ɪkˈspɪriəns/ v. 经历，经验，体验
-- **词根·渊源**：拉丁 **experiri**（尝试、试验）→ 拉丁 *experientia*（试验、经验）→ 古法语 *experience* → 英语 experience；本义“尝试、试验”，引申为“经历、体验”。
-- **同根词**：experiment（**ex-** 出 + peri 尝试 + **-ment** 名词后缀 = 试验）、expert（**ex-** 出 + pert 尝试→有经验的 = 专家）、peril（源自拉丁 periculum 危险 = 危险）、empirical（**em-** 在内 + pir 尝试 + **-ical** 形容词后缀 = 经验的）。
-- **前缀·后缀**：前缀 **ex-**（例：export, exit）；名词后缀 **-ment**（例：movement, development）。
-- **同义·反义**：同义 undergo（经历）, feel（感受）；反义 无。
-- **变形**：动词 → 第三人称单数：experiences；过去式：experienced；过去分词：experienced；现在分词：experiencing；名词派生 → experience n. 经验；形容词派生 → experienced adj. 有经验的。
-
-### 14. t'ai chi  n. 太极拳，太极
+### 5. tai chi  n. 太极(拳)
 - **同义搭配**：tai chi chuan / taijiquan
 - **反义搭配**：无
 
-### 15. already /ɔːlˈredi/ adv. 已经；早已
-- **词根·渊源**：古英语 **eall**（全部）+ **ræde**（准备好的）→ 中古英语 *al redy* → 英语 already；本义“完全准备好的”，引申为“已经、早已”。
-- **同根词**：all（源自古英语 eall 全部 = 全部）、ready（源自古英语 ræde 准备好的 = 准备好的）、readily（ready + **-ly** 副词后缀 = 乐意地）、readiness（ready + **-ness** 名词后缀 = 准备就绪）。
-- **前缀·后缀**：无前后缀（复合词）。
-- **同义·反义**：同义 previously（先前）, formerly（以前）；反义 yet（尚未）。
-- **变形**：副词 → 无比较级（时间副词，不作比较）。
-
-### 16. introduce /ˌɪntrəˈduːs/ v. 使......初次了解......；使尝试；介绍，引见
-- **词根·渊源**：拉丁 **ducere**（引导）→ 拉丁 *introducere*（引入）→ 英语 introduce；本义“引导进入”，引申为“介绍、使初次了解”。
-- **同根词**：introduction（introduce + **-tion** 名词后缀 = 介绍）、introductory（introduce + **-ory** 形容词后缀 = 介绍的）、produce（**pro-** 向前 + duc 引导 = 生产）、conduct（**con-** 共同 + duct 引导 = 指挥）、reduce（**re-** 回 + duc 引导 = 减少）、educate（**e-** 出 + duc 引导 = 教育）。
-- **前缀·后缀**：前缀 **intro-**（例：introvert, introspect）；动词后缀 **-duce**（例：produce, reduce）。
-- **同义·反义**：同义 present（介绍）, acquaint（使了解）；反义 conceal（隐藏）, hide（隐藏）。
-- **变形**：动词 → 第三人称单数：introduces；过去式：introduced；过去分词：introduced；现在分词：introducing；名词派生 → introduction n. 介绍；形容词派生 → introductory adj. 介绍的。
-
-### 17. success /səkˈsɛs/ n. 成功，胜利
-- **词根·渊源**：拉丁 **cedere**（走、行进）→ 拉丁 *successus*（随后而来、成功）→ 英语 success；本义“随后而来、接续”，引申为“成功、胜利”。
-- **同根词**：succeed（**suc-** 在下 + ceed 走 = 随后走→成功）、successful（success + **-ful** 充满……的 = 成功的）、succession（**suc-** 在下 + cess 走 + **-ion** 名词后缀 = 连续）、process（**pro-** 向前 + cess 走 = 过程）、exceed（**ex-** 出 + ceed 走 = 超过）、proceed（**pro-** 向前 + ceed 走 = 前进）。
-- **前缀·后缀**：前缀 **suc-**（例：suffer, suggest）；名词后缀 **-ion**（例：action, nation）。
-- **同义·反义**：同义 victory（胜利）, achievement（成就）；反义 failure（失败）, defeat（失败）。
-- **变形**：名词 → 复数：successes；形容词派生 → successful adj. 成功的；副词派生 → successfully adv. 成功地；动词派生 → succeed v. 成功。
-
-### 18. yet /jɛt/ adv. 还没有；尚未；仍未
-- **词根·渊源**：古英语 **giet**（仍然、至今）→ 中古英语 *yet*；本义“仍然、至今”，引申为“还没有、尚未”。
-- **同根词**：无常用同根词。
+### 6. yet /jɛt/ adv. 尚 (未) ; 还；仍
+- **词根·渊源**：古英语 **giet**（直到现在、仍然）→ 中古英语 *yet*；本义“到此时为止”，引申为“尚（未）、还、仍”。
+- **同根词**：无常用同根词（单纯词）。
 - **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 still（仍然）, so far（至今）；反义 already（已经）。
-- **变形**：副词 → 无比较级（时间副词，不作比较）。
+- **同义·反义**：同义 still（仍然）, so far（到目前为止）；反义 无。
+- **变形**：副词 → 无比较级（不作比较）。
 
-### 19. respect /rɪˈspekt/ n. 慎重对待；尊敬，敬重
-- **词根·渊源**：拉丁 **re-**（回，再）+ **specere / spect-**（看）→ 拉丁 *respectus*（回看、顾及）→ 古法语 *respect* → 英语；本义“回头看、顾及”，引申为“慎重对待、尊敬”。
-- **同根词**：inspect（**in-** 向内 + spect 看 = 向内看→检查）、spectator（spect 看 + **-ator** 人 = 观看者→观众）、suspect（**sus-** 在下面 + spect 看 = 从下面看→怀疑）、prospect（**pro-** 向前 + spect 看 = 向前看→前景）、spectacle（spect 看 + **-acle** 物 = 供看之物→景象）、respectful（respect + **-ful** 充满……的：恭敬的）。
-- **前缀·后缀**：前缀 **re-**（例：return, review）；词根 **spect-**（例：inspect, spectator）；形容词后缀 **-ful**（例：helpful, careful）。
-- **同义·反义**：同义 esteem（尊敬）, regard（尊重）；反义 contempt（轻视）, disrespect（不敬）。
-- **变形**：名词 → 复数：respects；动词派生 → respect v. 尊敬；形容词派生 → respectful adj. 恭敬的；副词派生 → respectfully adv. 恭敬地。
+### 7. independent /ˌɪndɪˈpɛndənt/ adj. 自主的
+- **词根·渊源**：拉丁 **pendere**（悬挂、依靠）→ 拉丁 *dependentem*（依靠的）→ 英语 dependent；前缀 **in-**（不）+ dependent，本义“不依靠的”，引申为“自主的、独立的”。
+- **同根词**：depend（**de-** 下 + pend 悬挂 = 挂在下→依靠）、dependent（depend + **-ent** 形容词后缀：依赖的）、independence（in- 不 + dependence 依赖：独立）、pendant（pend 悬挂 + **-ant** 物：悬挂物→吊坠）。
+- **前缀·后缀**：否定前缀 **in-**（例：incorrect, invisible）；形容词后缀 **-ent**（例：different, silent）。
+- **同义·反义**：同义 self-reliant（自立的）, autonomous（自主的）；反义 dependent（依赖的）。
+- **变形**：形容词 → 比较级：more independent；最高级：most independent；名词派生 → independence n. 独立；副词派生 → independently adv. 独立地。
 
-### 20. at first /æt fɜːst/ prep. 起初，；起先；开始时；首先
-- **同义搭配**：at the beginning / in the beginning / initially
-- **反义搭配**：at last / in the end / finally
+### 8. content /ˈkɑntɛnt/ n. 内容
+- **词根·渊源**：拉丁 **continere**（包含、容纳）→ 拉丁 *contentum*（所容纳之物）→ 古法语 *content* → 英语 content；本义“被容纳的东西”，引申为“内容”。
+- **同根词**：contain（**con-** 共同 + tain 握持 = 握在一起→包含）、container（contain + **-er** 物：容器）、contents（content + **-s** 复数：内容、目录）、continent（**con-** 共同 + tin 握持 + **-ent**：连成一片的陆地→大陆）。
+- **前缀·后缀**：前缀 **con-**（例：connect, collect）；名词后缀 **-er**（例：teacher, worker）。
+- **同义·反义**：同义 substance（实质内容）, material（材料）；反义 无。
+- **变形**：名词 → 复数：contents；形容词派生 → content adj. 满足的（注意：此义项词源不同，存疑）。
 
-### 21. so far /soʊ fɑːr/ n. 到目前为止；迄今为止
-- **同义搭配**：up to now / until now / thus far
+### 9. feeling /ˈfilɪŋ/ n. 感觉；感情
+- **词根·渊源**：古英语 **fēlan**（触摸、感知）→ 中古英语 *felen* → 英语 feel；feel + **-ing** 名词后缀，本义“感知的行为”，引申为“感觉、感情”。
+- **同根词**：feel（单纯词：感觉）、feelingly（feeling + **-ly** 副词后缀：深情地）、unfeeling（**un-** 不 + feeling：无情的）、feel（动词：触摸）。
+- **前缀·后缀**：名词后缀 **-ing**（例：building, meeting）；否定前缀 **un-**（例：unhappy, unfair）。
+- **同义·反义**：同义 emotion（情感）, sensation（感觉）；反义 无。
+- **变形**：名词 → 复数：feelings；动词派生 → feel v. 感觉；形容词派生 → feeling adj. 有感情的；副词派生 → feelingly adv. 深情地。
+
+### 10. shock /ʃɑk/ n. 震惊；令人震惊的事
+- **词根·渊源**：法语 **choc**（撞击）→ 古法语 *choquer*（撞击）→ 英语 shock；本义“猛烈撞击”，引申为“精神上的冲击→震惊”。
+- **同根词**：shocking（shock + **-ing** 形容词后缀：令人震惊的）、shocked（shock + **-ed** 形容词后缀：感到震惊的）、shocker（shock + **-er** 物/人：令人震惊的事物）。
+- **前缀·后缀**：形容词后缀 **-ing**（例：interesting, exciting）；形容词后缀 **-ed**（例：interested, excited）。
+- **同义·反义**：同义 surprise（惊讶）, blow（打击）；反义 无。
+- **变形**：名词 → 复数：shocks；动词派生 → shock v. 使震惊；形容词派生 → shocking adj. 令人震惊的；shocked adj. 感到震惊的。
+
+### 11. foreign /ˈfɔrən/ adj. 外国的
+- **词根·渊源**：拉丁 **foris**（门外、外面）→ 古法语 *forain*（外面的）→ 英语 foreign；本义“在门外的”，引申为“外国的、外来的”。
+- **同根词**：foreigner（foreign + **-er** 人：外国人）、foreignness（foreign + **-ness** 名词后缀：外国性）、forfeit（同源：foris 外面 + facere 做 = 在门外做→丧失，存疑）。
+- **前缀·后缀**：名词后缀 **-er**（例：farmer, singer）；名词后缀 **-ness**（例：kindness, darkness）。
+- **同义·反义**：同义 alien（外国的）, overseas（海外的）；反义 domestic（国内的）, native（本国的）。
+- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → foreigner n. 外国人。
+
+### 12. anxious /ˈæŋʃəs/ adj. 焦虑的；忧虑的
+- **词根·渊源**：拉丁 **angere**（使窒息、勒紧）→ 拉丁 *anxius*（被勒紧的、焦虑的）→ 英语 anxious；本义“被勒紧的”，引申为“焦虑的、忧虑的”。
+- **同根词**：anxiety（anx + **-iety** 名词后缀：焦虑）、anxiously（anxious + **-ly** 副词后缀：焦虑地）、anxiousness（anxious + **-ness** 名词后缀：焦虑）、anger（同源：angere 勒紧→愤怒）。
+- **前缀·后缀**：形容词后缀 **-ous**（例：nervous, famous）；名词后缀 **-iety**（例：variety, society）。
+- **同义·反义**：同义 nervous（紧张的）, worried（担忧的）；反义 calm（平静的）, easy（放松的）。
+- **变形**：形容词 → 比较级：more anxious；最高级：most anxious；名词派生 → anxiety n. 焦虑；副词派生 → anxiously adv. 焦虑地。
+
+### 13. phase /feɪz/ n. 阶段；时期
+- **词根·渊源**：希腊 **phainein**（显现）→ 希腊 *phasis*（显现、月相）→ 英语 phase；本义“月亮的显现形态”，引申为“阶段、时期”。
+- **同根词**：phenomenon（希腊 phainein 显现 + **-menon** 名词后缀：现象）、phantom（希腊 phainein 显现 + **-tom**：显现之物→幽灵）、phenomenal（phenomenon + **-al** 形容词后缀：现象的）。
+- **前缀·后缀**：名词后缀 **-menon**（例：phenomenon）；形容词后缀 **-al**（例：natural, national）。
+- **同义·反义**：同义 stage（阶段）, period（时期）；反义 无。
+- **变形**：名词 → 复数：phases。
+
+### 14. honeymoon /ˈhəniˌmun/ n. 蜜月
+- **词根·渊源**：古英语 **hunig**（蜂蜜）+ **mōnaþ**（月）→ 中古英语 *hony mone* → 英语 honeymoon；本义“蜂蜜月”，指新婚第一个月甜蜜如蜜，引申为“蜜月”。
+- **同根词**：honey（单纯词：蜂蜜）、moon（单纯词：月亮）、honeymooner（honeymoon + **-er** 人：度蜜月的人）、moonlight（moon + light：月光）。
+- **前缀·后缀**：无前后缀（复合词：honey + moon）。
+- **同义·反义**：同义 wedding trip（新婚旅行）；反义 无。
+- **变形**：名词 → 复数：honeymoons；动词派生 → honeymoon v. 度蜜月；名词派生 → honeymooner n. 度蜜月的人。
+
+### 15. unfamiliar /ˌənfəˈmɪljər/ adj. 陌生的；不熟悉的
+- **词根·渊源**：拉丁 **familia**（家庭、家人）→ 拉丁 *familiaris*（家庭的、亲近的）→ 英语 familiar；前缀 **un-**（不）+ familiar，本义“不亲近的”，引申为“陌生的、不熟悉的”。
+- **同根词**：familiar（familia 家庭 + **-ar** 形容词后缀：熟悉的）、family（单纯词：家庭）、familiarity（familiar + **-ity** 名词后缀：熟悉）、familiarize（familiar + **-ize** 动词后缀：使熟悉）。
+- **前缀·后缀**：否定前缀 **un-**（例：unhappy, unknown）；形容词后缀 **-ar**（例：similar, popular）。
+- **同义·反义**：同义 strange（陌生的）, unknown（未知的）；反义 familiar（熟悉的）, known（已知的）。
+- **变形**：形容词 → 比较级：more unfamiliar；最高级：most unfamiliar；名词派生 → unfamiliarity n. 陌生。
+
+### 16. homesick /ˈhoʊmˌsɪk/ adj. 想家的
+- **词根·渊源**：古英语 **hām**（家、住所）+ 古英语 **sēoc**（病的、不适的）→ 英语 homesick；本义“因离家而病”，引申为“想家的”。
+- **同根词**：home（单纯词：家）、sick（单纯词：生病的）、homesickness（homesick + **-ness** 名词后缀：思乡病）、homework（home + work：家庭作业）。
+- **前缀·后缀**：无前后缀（复合词：home + sick）。
+- **同义·反义**：同义 nostalgic（怀旧的）；反义 无。
+- **变形**：形容词 → 无比较级（多作表语，不作比较）；名词派生 → homesickness n. 思乡病。
+
+### 17. lonely /ˈloʊnli/ adj. 孤独的
+- **词根·渊源**：中古英语 **alone**（独自的，al + one = 全部一人）→ 英语 alone + **-ly** 形容词后缀 → lonely；本义“独自一人的”，引申为“孤独的”。
+- **同根词**：alone（al + one = 全部一人：独自的）、loneliness（lonely + **-ness** 名词后缀：孤独）、lone（alone 缩略：单独的）、loner（lone + **-er** 人：独来独往的人）。
+- **前缀·后缀**：形容词后缀 **-ly**（例：friendly, lovely）；名词后缀 **-ness**（例：happiness, kindness）。
+- **同义·反义**：同义 solitary（孤独的）, isolated（孤立的）；反义 accompanied（有人陪伴的）, sociable（合群的）。
+- **变形**：形容词 → 比较级：lonelier；最高级：loneliest；名词派生 → loneliness n. 孤独。
+
+### 18. deal /dil/ v. 对付；应付
+- **词根·渊源**：古英语 **dǣlan**（分开、分配）→ 中古英语 *delen* → 英语 deal；本义“分开、分配”，引申为“处理、对付”（deal with）。
+- **同根词**：dealer（deal + **-er** 人：商人）、dealing（deal + **-ing** 名词后缀：交易、处理）、dealings（dealing + **-s** 复数：交往、交易）、deal（名词：交易）。
+- **前缀·后缀**：名词后缀 **-er**（例：worker, teacher）；名词后缀 **-ing**（例：meeting, building）。
+- **同义·反义**：同义 handle（处理）, cope（应付）；反义 无。
+- **变形**：动词 → 第三人称单数：deals；过去式：dealt；过去分词：dealt；现在分词：dealing；名词派生 → deal n. 交易；dealer n. 商人。
+
+### 19. expect /ɪkˈspɛkt/ v. 期待；盼望
+- **词根·渊源**：拉丁 **spect / spec-**（看）→ 拉丁 *exspectare*（ex- 向外 + spectare 看 = 向外张望）→ 拉丁 *expectare* → 英语 expect；本义“向外张望、等待”，引申为“期待、盼望”。
+- **同根词**：inspect（**in-** 向内 + spect 看 = 向里看→检查）、respect（**re-** 回 + spect 看 = 回头看→尊重）、spectator（spect 看 + **-ator** 人 = 观看的人→观众）、suspect（**sus-** 在下 + spect 看 = 从下往上看→怀疑）、aspect（**a-** 向 + spect 看 = 看的方向→方面）。
+- **前缀·后缀**：前缀 **ex-**（例：export, exit）；词根 spect 相关后缀 **-ator**（例：creator, narrator）。
+- **同义·反义**：同义 await（等待）, anticipate（预期）；反义 doubt（怀疑）, despair（绝望）。
+- **变形**：动词 → 第三人称单数：expects；过去式：expected；过去分词：expected；现在分词：expecting；名词派生 → expectation n. 期待；形容词派生 → expected adj. 预期的；副词派生 → expectedly adv. 如预期地。
+
+### 20. situation /ˌsɪʧuˈeɪʃən/ n. 情况
+- **词根·渊源**：拉丁 **situs**（位置，来自 *sinere* 放置）→ 中世纪拉丁 *situatio* → 法语 *situation* → 英语 situation；本义“放置的位置”，引申为“所处的位置、形势→情况”。
+- **同根词**：site（situs 位置→地点）、situate（situ 位置 + **-ate** 动词化 = 使位于→安置）、situated（situate + **-ed** …的 = 位于…的）。
+- **前缀·后缀**：名词后缀 **-ation**（例：information, education）。
+- **同义·反义**：同义 condition（状况）, circumstance（情形）；反义 无。
+- **变形**：名词 → 复数：situations；形容词派生 → situational adj. 情境的；副词派生 → situationally adv. 在情境上。
+
+### 21. accept /əkˈsɛpt/ v. 接受
+- **词根·渊源**：拉丁 **cap / cept-**（拿、抓）→ 拉丁 *accipere*（ad- 向 + capere 拿 = 拿到手）→ 古法语 *accepter* → 英语 accept；本义“拿到手中”，引申为“接受、认可”。
+- **同根词**：receive（**re-** 回 + ceive 拿 = 拿回来→收到）、concept（**con-** 共同 + cept 拿 = 共同拿住的想法→概念）、except（**ex-** 向外 + cept 拿 = 拿出去→除外）、capture（capt 抓 + **-ure** 名词/动词后缀 = 抓住→捕获）、participate（**part-** 部分 + cip 拿 + **-ate** = 拿一份→参加）。
+- **前缀·后缀**：前缀 **ac-**（= ad- 向，例：access, accuse）；词根 cept 相关后缀 **-ure**（例：failure, pleasure）。
+- **同义·反义**：同义 receive（接收）, take（拿取）；反义 refuse（拒绝）, reject（驳回）。
+- **变形**：动词 → 第三人称单数：accepts；过去式：accepted；过去分词：accepted；现在分词：accepting；名词派生 → acceptance n. 接受；形容词派生 → acceptable adj. 可接受的；副词派生 → acceptably adv. 可接受地。
+
+### 22. adaptation /ˌædəpˈteɪʃən/ n. 适应
+- **词根·渊源**：拉丁 **apt-**（适合，来自 *aptare* 使适合）→ 拉丁 *adaptare*（ad- 向 + aptare 使适合 = 使适合）→ 法语 *adapter* → 英语 adapt + 名词后缀 **-ation**；本义“使适合”，引申为“适应、改编”。
+- **同根词**：adapt（**ad-** 向 + apt 适合 = 使适合→适应）、apt（apt 适合的→恰当的）、aptitude（apt 适合 + **-itude** 性质 = 适合的能力→天资）、adaptable（adapt + **-able** 能…的 = 能适应的）。
+- **前缀·后缀**：前缀 **ad-**（例：advance, admire）；名词后缀 **-ation**（例：creation, preparation）。
+- **同义·反义**：同义 adjustment（调整）, acclimation（acclimation 适应气候）；反义 无。
+- **变形**：名词 → 复数：adaptations；形容词派生 → adaptational adj. 适应性的；动词派生 → adapt v. 适应；形容词派生 → adaptive adj. 适应的。
+
+### 23. Beijing opera  n. 京剧
+- **同义搭配**：Peking opera / Beijing Opera
 - **反义搭配**：无
 
-### 22. a bit of /ə bɪt əv/ n. 一点；小量
-- **同义搭配**：a little / a small amount of / a touch of
-- **反义搭配**：a lot of / plenty of
-
-### 23. introduce to /ˌɪntrəˈdus tɪ/ n. 使......初次了解......；使尝试
-- **同义搭配**：make familiar with / acquaint with / bring into contact with
+### 24. host family  n. 寄宿家庭
+- **同义搭配**：homestay family / guest family
 - **反义搭配**：无
 
-### 24. come over (to......)  v.（通常远距离地）从......到......
-- **同义搭配**：come across / travel to / visit
-- **反义搭配**：go away from / leave
+### 25. snake its way  n. 蜿蜓
+- **同义搭配**：wind its way / twist its way
+- **反义搭配**：go straight（直行）
+
+### 26. culture shock  n. 文化冲击
+- **同义搭配**：cultural shock / culture conflict
+- **反义搭配**：cultural adaptation（文化适应）
+
+### 27. deal with  v. 解决；处理
+- **同义搭配**：handle / cope with
+- **反义搭配**：ignore（忽视）
+
+### 28. feel at home  v. 感到舒适自在
+- **同义搭配**：feel comfortable / feel at ease
+- **反义搭配**：feel ill at ease（感到不自在）
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| -al | 形容词后缀，“……的” | educational, local | natural, national, personal |
-| -tion / -ation | 名词后缀，表行为或状态 | education（educational 的词基） | information, invitation, preparation |
-| ex- | 向外，出 | exchange | exit, export, exclude, express |
-| -change | 交换（源自拉丁语 cambire） | exchange | change, exchangeable |
-| -ish | 形容词后缀，“……的（常指民族）” | British | English, Spanish, childish |
-| -er | 名词后缀，表人 | host（对比 hoster 不常用） | teacher, worker, singer |
-| -st | 名词后缀，表人（古英语） | guest |（存疑：guest 源自古诺斯语 gestr） |
-| -ic | 形容词后缀，“……的” | fantastic | basic, historic, scientific |
-| -ence / -ance | 名词后缀，表状态、性质 | experience | difference, importance, patience |
-| -y | 副词后缀 | already | really, quickly, happily |
-| -day | 复合词成分，表日子 | weekday | birthday, holiday, today |
-| -stick | 复合词成分，表棍状物 | chopstick | lipstick, breadstick |
-| intro- | 向内，进入 | introduce | introvert, introspect, introduce |
-| -duce | 引导（duc 的变体） | introduce | produce, reduce, conduct |
-| -spect | 看（词根作后缀成分） | respect | inspect, suspect, expect |
-| -cess | 走，行进（ced 的变体） | success | process, access, excess |
+| ex- | 出；向外 | exchange | exit, export, exclude, expand |
+| in- | 不；否定 | independent | invisible, incorrect, informal, incapable |
+| un- | 不；否定 | unfamiliar | unhappy, unable, unfair, unknown |
+| -ness | 名词后缀，表状态 | nervous（-ous 为形容词后缀） | kindness, happiness, darkness, weakness |
+| -ous | 形容词后缀，充满……的 | nervous, anxious | famous, dangerous, curious, generous |
+| -ing | 名词后缀，表动作/结果 | feeling | meeting, building, painting, beginning |
+| -ly | 副词/形容词后缀 | lonely | friendly, lovely, quickly, happily |
+| -tion | 名词后缀，表行为/状态 | situation, adaptation | education, information, action, creation |
+| -al | 形容词后缀 | foreign（存疑） | natural, national, personal, musical |
+| -ic | 形容词后缀 | homesick（-sick 为组合成分） | basic, public, scientific, historic |
+| -an | 形容词/名词后缀 | American（扩展） | Asian, European, musician, librarian |
+| -ed | 形容词后缀，表具有……的 | unfamiliar（-ar 为形容词后缀） | excited, interested, surprised, tired |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
 | 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| educational（有教育意义的） | instructive（有教益的） | uneducational（无教育意义的） |
-| exchange（交换） | swap（交换） | keep（保留） |
-| host（主人） | hostess（女主人） | guest（客人） |
-| local（当地的） | native（本地的） | foreign（外国的） |
-| glad（高兴的） | happy（快乐的） | sad（悲伤的） |
-| guest（客人） | visitor（来访者） | host（主人） |
-| weekday（工作日） | workday（工作日） | weekend（周末） |
-| tour（游览） | trip（旅行） | stay（停留） |
-| fantastic（极好的） | wonderful（精彩的） | terrible（糟糕的） |
-| experience（经历） | undergo（经历） | — |
-| already（已经） | yet（已经，用于疑问/否定） | not yet（尚未） |
-| introduce（介绍） | present（引见） | conceal（隐藏） |
-| success（成功） | achievement（成就） | failure（失败） |
-| yet（尚未） | still（仍然） | already（已经） |
-| respect（尊敬） | esteem（敬重） | disrespect（不敬） |
-| at first（起初） | initially（最初） | finally（最终） |
-| so far（到目前为止） | up to now（至今） | — |
-| a bit of（一点） | a little（少量） | a lot of（大量） |
-| come over（过来） | visit（拜访） | leave（离开） |
+| nervous | anxious（焦虑的） | calm（平静的） |
+| anxious | worried（担忧的） | relaxed（放松的） |
+| independent | self-reliant（自主的） | dependent（依赖的） |
+| content | substance（内容） | — |
+| feeling | emotion（感情） | — |
+| shock | surprise（震惊） | calm（平静） |
+| foreign | overseas（外国的） | domestic（本国的） |
+| unfamiliar | strange（陌生的） | familiar（熟悉的） |
+| homesick | nostalgic（想家的） | — |
+| lonely | alone（孤独的） | accompanied（有人陪伴的） |
+| deal | handle（处理） | — |
+| expect | anticipate（期待） | — |
+| accept | receive（接受） | refuse（拒绝） |
+| situation | condition（情况） | — |
+| adaptation | adjustment（适应） | — |
+| tour | trip（旅行） | — |
+| exchange | interchange（交流） | — |
+| phase | stage（阶段） | — |
+| yet | still（还） | — |
+| deal with | handle（处理） | ignore（忽视） |
 
 ---
 

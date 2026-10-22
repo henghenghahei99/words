@@ -1,6 +1,6 @@
-# 9B_U1 说文解字 · Great explorations
+# 9B_U1 说文解字 · Sport and sportsmanship
 
-> 配套 `9B_U1.md`（沪教牛津版 2024/2025 修订，30 条）
+> 配套 `9B_U1.md`（沪教牛津版 2024/2025 修订，35 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
 > 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
@@ -8,251 +8,271 @@
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
-| via | 路，道路 | 拉丁语 via（道路） | voyage（航行） | deviate, obvious, previous, trivial |
-| pet | 追求，寻求 | 拉丁语 petere（追求） | repetition（重复） | compete, appetite, petition, perpetual |
-| tin/ten | 持有，保持 | 拉丁语 tenere（握住） | continent（大陆；洲） | contain, maintain, tenant, continue |
-| cover | 遮盖，覆盖 | 拉丁语 cooperire（完全遮盖） | discovery（发现） | cover, uncover, coverage, discover |
-| fic/fac | 做，制造 | 拉丁语 facere（做） | official（官员） | factory, difficult, perfect, efficient |
-| velop | 包裹，卷起 | 古法语 voloper（包裹） | develop（增强；加强） | envelope, development, developer |
-| lat | 携带，搬运 | 拉丁语 latus（携带） | relation（关系） | translate, relate, relative, correlate |
-| reg | 统治，管理 | 拉丁语 regere（统治） | region（地区） | regular, regime, regulate, royal |
-| ped/pod | 脚 | 拉丁语 pes/pedis（脚） | pioneer（先锋） | pedal, pedestrian, tripod, centipede |
-| fer | 携带，带来 | 拉丁语 ferre（携带） | foreign（外国的） | transfer, refer, offer, differ |
-| scop | 看，观察 | 希腊语 skopein（看） | discovery（发现） | scope, telescope, microscope, horoscope |
-| popul | 人民 | 拉丁语 populus（人民） | people（民族） | popular, population, populate, republic |
+| oper | 工作 | 拉丁语 operari（工作） | cooperate | operate, operator, opera, operation |
+| champ | 战场、原野 | 拉丁语 campus（原野） | championship | champion, campaign, campus |
+| med | 中间 | 拉丁语 medius（中间的） | medal | medium, mediate, immediate, intermediate |
+| port | 携带、运送 | 拉丁语 portare（携带） | (无直接词，见扩展) | transport, import, export, portable |
+| grat | 感谢、愉快 | 拉丁语 gratus（感谢的） | congratulation | grateful, gratitude, gratify, ingrate |
+| cap | 头 | 拉丁语 caput（头） | escape | capital, captain, caption, decapitate |
+| reg | 统治、直 | 拉丁语 regere（统治） | region | regular, regulate, reign, regime |
+| stand | 站立 | 古英语 standan（站立） | standard | stand, understand, withstand, outstanding |
+| vid/vis | 看 | 拉丁语 videre（看） | individually | video, visible, vision, evident |
+| sid/sed | 坐 | 拉丁语 sedere（坐） | president | sit, seat, session, sediment |
+| glu | 黏 | 拉丁语 glus/glutis（黏胶） | glue | gluten, agglutinate, glutinous |
+| fend/fens | 打击 | 拉丁语 fendere（打击） | (无直接词，见扩展) | defend, offense, defensive, fend |
+| mit/miss | 送、放 | 拉丁语 mittere（送） | committee | submit, permit, mission, transmit |
+| dat | 给 | 拉丁语 dare（给） | update | data, date, donate, mandate |
 
 ## 二、逐词说文解字
 
-### 1. Voyage /ˈvɔɪɪdʒ/ n. 航行
-- **词根·渊源**：拉丁 **viaticum**（旅费、旅途用品）→ 古法语 *voiage* → 英语 voyage，本义“旅程”，后专指“海上航行”。
-- **同根词**：via（拉丁 via 路→经由）、deviate（**de-** 离开 + via 路 = 偏离道路→偏离）、obvious（**ob-** 在前 + via 路 = 在路上→明显的）、previous（**pre-** 前 + via 路 = 走在前面的→先前的）、trivial（**tri-** 三 + via 路 = 三岔路口→琐碎的）。
-- **前缀·后缀**：名词后缀 **-age**（例：marriage, package）。
-- **同义·反义**：同义 journey（旅程）, trip（旅行）；反义 无。
-- **变形**：名词 → 复数：voyages；动词派生 → voyage v. 航行；名词派生 → voyager n. 航行者。
+### 1. cooperate /kˈwɑpərˌeɪt/ v. 合作
+- **词根·渊源**：拉丁 **co-**（共同）+ **operari**（工作）→ 晚期拉丁 *cooperari* → 英语，本义“一起工作”，引申为“合作”。
+- **同根词**：operation（oper 工作 + **-ation** 名词后缀 = 工作过程→操作、手术）、operator（operate + **-or** 人 = 操作者）、cooperation（**co-** 共同 + operation 工作 = 合作）。
+- **前缀·后缀**：前缀 **co-**（例：coexist, coauthor）；动词后缀 **-ate**（例：activate, calculate）。
+- **同义·反义**：同义 collaborate（协作）, unite（联合）；反义 compete（竞争）, oppose（反对）。
+- **变形**：动词 → 第三人称单数：cooperates；过去式：cooperated；过去分词：cooperated；现在分词：cooperating；名词派生 → cooperation n. 合作；cooperator n. 合作者；形容词派生 → cooperative adj. 合作的。
 
-### 2. repetition /ˌrepəˈtɪʃn/ n. 重复
-- **词根·渊源**：拉丁 **repetere**（re- 再 + petere 寻求、冲向）→ 古法语 *repetition* → 英语 repetition，本义“再次寻求”，引申为“重复”。
-- **同根词**：repeat（**re-** 再 + pet 寻求 = 再次寻求→重复）、repeated（repeat + **-ed** 已重复的→反复的）、repetitive（repetit + **-ive** 有重复倾向的→重复的）、petition（pet 寻求 + **-ition** 名词后缀 = 寻求→请愿）、appetite（**ap-** 向 + pet 寻求 = 寻求食物→食欲）、compete（**com-** 共同 + pet 寻求 = 共同追求→竞争）。
-- **前缀·后缀**：前缀 **re-**（例：return, rebuild）；名词后缀 **-ition**（例：addition, condition）。
-- **同义·反义**：同义 recurrence（反复）, duplication（重复）；反义 无。
-- **变形**：名词 → 复数：repetitions；动词派生 → repeat v. 重复；形容词派生 → repetitive adj. 重复的；副词派生 → repetitively adv. 重复地。
+### 2. championship /ˈʧæmpiənˌʃɪp/ n. 锦标赛
+- **词根·渊源**：拉丁 **campus**（战场）→ 古法语 *champ*（战场）→ 古法语 *champion*（战士）→ 英语 champion（冠军）+ **-ship**（名词后缀，表身份、状态），本义“冠军的身份/地位”，引申为“锦标赛”。
+- **同根词**：champion（源自古法语 champion 战士→冠军）、champ（champion 的缩略→冠军，口语）。
+- **前缀·后缀**：名词后缀 **-ship**（例：friendship, leadership）。
+- **同义·反义**：同义 tournament（锦标赛）, contest（比赛）；反义 无。
+- **变形**：名词 → 复数：championships。
 
-### 3. American /əˈmerɪkən/ adj. 美洲的
-- **词根·渊源**：新拉丁 **America**（源自意大利航海家 Amerigo Vespucci 之名）→ 英语 America + **-an**，本义“亚美利哥的”，引申为“美洲的、美国的”。
-- **同根词**：America（Amerigo + **-a** 地名后缀→美洲/美国）、Americanism（American + **-ism** 主义→美国特色）、Americanize（American + **-ize** 使…化→使美国化）、Amerindian（Amer 美洲 + Indian 印第安人→美洲印第安人）。
-- **前缀·后缀**：形容词兼名词后缀 **-an**（例：Canadian, musician）。
+### 3. Olympic /oʊˈlɪmpɪk/ adj. 奥林匹克运动会的
+- **词根·渊源**：希腊 **Olympia**（奥林匹亚，古希腊祭祀宙斯之地）→ 希腊 *Olympikos* → 拉丁 *Olympicus* → 英语，本义“奥林匹亚的”，因古代奥林匹克运动会在此举行，引申为“奥林匹克运动会的”。
+- **同根词**：Olympics（Olympic + **-s** 复数名词化 = 奥运会）、Olympian（Olympia + **-an** 属于…的→奥林匹亚的/威严的）。
+- **前缀·后缀**：形容词后缀 **-ic**（例：historic, basic）。
 - **同义·反义**：同义 无；反义 无。
-- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → American n. 美国人；复数：Americans。
+- **变形**：形容词 → 无比较级（关系形容词，不作比较）。
 
-### 4. continent /ˈkɑːntɪnənt/ adj. 大陆；洲
-- **词根·渊源**：拉丁 **continere**（com- 一起 + tenere 握持）= “连在一起”→ 拉丁 continens（连续的陆地）→ 古法语 → 英语 continent，本义“连成一片的陆地”，即“大陆、洲”。
-- **同根词**：contain（**con-** 一起 + tain 握持 = 握在一起→包含）、content（**con-** 一起 + tent 握持 = 容纳其中→内容）、continue（**con-** 一起 + tin 握持 = 连在一起→继续）、continuous（continu + **-ous** …的→连续的）、tenant（ten 握持 + **-ant** 人 = 持有者→房客）、retain（**re-** 回 + tain 握持 = 握回→保留）。
-- **前缀·后缀**：前缀 **con-**（例：connect, combine）；形容词后缀 **-ent**（例：different, silent）。
-- **同义·反义**：同义 mainland（大陆）, landmass（陆块）；反义 island（岛屿）。
-- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → continent n. 大陆；复数：continents；形容词派生 → continental adj. 大陆的。
+### 4. medal /ˈmɛdəl/ n. 奖章，勋章
+- **词根·渊源**：拉丁 **medalia**（小硬币）→ 古法语 *medaille* → 英语，本义“小金属片/硬币”，引申为“奖章”。
+- **同根词**：medallion（medal + **-ion** 大 = 大奖章/圆形装饰）、medalist（medal + **-ist** 人 = 奖牌获得者）。
+- **前缀·后缀**：名词后缀 **-al**（例：signal, manual）。
+- **同义·反义**：同义 award（奖品）, decoration（勋章）；反义 无。
+- **变形**：名词 → 复数：medals。
 
-### 5. route /ruːt/ v. 路线
-- **词根·渊源**：拉丁 **rupta via**（被开辟的路，rumpere 折断、开辟的过去分词）→ 古法语 *route* → 英语 route，本义“开辟出来的路”，引申为“路线”，动词义“按路线发送”。
-- **同根词**：routine（route + **-ine** 名词后缀 = 常走的路→常规）、rout（route 的变体 = 溃败路线→击溃）、rupture（rupt 断裂 + **-ure** 名词后缀→破裂）、interrupt（**inter-** 在…之间 + rupt 断裂 = 从中打断→打断）、bankrupt（bank 银行 + rupt 断裂 = 银行断裂→破产的）、erupt（**e-** 出 + rupt 断裂 = 断裂而出→爆发）。
+### 5. coach /koʊʧ/ n.（体育运动的）教练
+- **词根·渊源**：匈牙利 **kocsi**（科奇村，以造马车闻名）→ 法语 *coche*（马车）→ 英语，本义“马车”，19世纪英国俚语用“马车”比喻“带学生备考的私人教师”（像马车把人送到目的地），再引申为“教练”。
+- **同根词**：coachman（coach 马车 + **man** 人 = 马车夫）。
 - **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 path（路线）, course（路线）；反义 无。
-- **变形**：动词 → 第三人称单数：routes；过去式：routed；过去分词：routed；现在分词：routing；名词派生 → route n. 路线；复数：routes。
+- **同义·反义**：同义 trainer（教练）, instructor（指导者）；反义 无。
+- **变形**：名词 → 复数：coaches；动词派生 → coach v. 训练、辅导；动词 → 第三人称单数：coaches；过去式：coached；过去分词：coached；现在分词：coaching。
 
-### 6. discovery /dɪˈskʌvəri/ n. 发现；发觉；发现物
-- **词根·渊源**：拉丁 **discooperire**（dis- 去除 + cooperire 覆盖）→ 古法语 *descovrir* → 英语 discover + **-y**，本义“揭开覆盖物”，引申为“发现”。
-- **同根词**：discover（**dis-** 去除 + cover 覆盖 = 揭开覆盖→发现）、cover（拉丁 cooperire 覆盖→覆盖）、coverage（cover + **-age** 名词后缀→覆盖范围）、uncover（**un-** 去除 + cover 覆盖 = 揭开→揭露）、recover（**re-** 回 + cover 覆盖 = 重新覆盖→恢复）。
-- **前缀·后缀**：前缀 **dis-**（例：disappear, disagree）；名词后缀 **-y**（例：delivery, bravery）。
-- **同义·反义**：同义 finding（发现物）, detection（察觉）；反义 concealment（隐藏）。
-- **变形**：名词 → 复数：discoveries；动词派生 → discover v. 发现；名词派生 → discoverer n. 发现者。
+### 6. attitude /ˈætəˌtud/ n. 态度；看法
+- **词根·渊源**：拉丁 **aptus**（适合的）→ 意大利语 *attitudine*（姿态）→ 法语 *attitude* → 英语，本义“身体的姿态”，引申为“心理姿态→态度、看法”。
+- **同根词**：apt（源自拉丁 aptus 适合的→恰当的）、aptitude（apt + **-itude** 状态 = 天资、倾向）、attitudinize（attitude + **-ize** 动词化 = 装腔作势）。
+- **前缀·后缀**：名词后缀 **-itude**（例：gratitude, solitude）。
+- **同义·反义**：同义 viewpoint（观点）, stance（立场）；反义 无。
+- **变形**：名词 → 复数：attitudes。
 
-### 7. rise /raɪz/ v. 变得更加成功（或重要、强大等）
-- **词根·渊源**：古英语 **rīsan**（起来、升起）→ 中古英语 risen → 英语 rise，本义“起身、升起”，引申为“变得成功、重要”。
-- **同根词**：arise（**a-** 加强 + rise 升起 = 出现、产生）、raise（rise 的使役形式 = 使升起→举起）、risen（rise + **-en** 过去分词→升起的）、sunrise（sun 太阳 + rise 升起 = 日出）、uprising（**up-** 向上 + rising 升起 = 起义）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 ascend（上升）, climb（攀升）；反义 fall（下降）, decline（衰退）。
-- **变形**：动词 → 第三人称单数：rises；过去式：rose；过去分词：risen；现在分词：rising；名词派生 → rise n. 上升；复数：rises。
+### 7. hardship /ˈhɑrdʃɪp/ n. 艰难；困苦
+- **词根·渊源**：古英语 **heard**（硬的、严酷的）+ 古英语 **-scipe**（状态、情况）→ 中古英语 *hardshipe* → 英语，本义“严酷的状态”，引申为“艰难、困苦”。
+- **同根词**：hard（古英语 heard 硬的→困难的）、hardly（hard + **-ly** 副词后缀 = 几乎不）、hardness（hard + **-ness** 名词后缀 = 坚硬）。
+- **前缀·后缀**：名词后缀 **-ship**（例：friendship, ownership）。
+- **同义·反义**：同义 difficulty（困难）, suffering（苦难）；反义 ease（安逸）, comfort（舒适）。
+- **变形**：名词 → 复数：hardships。
 
-### 8. official /əˈfɪʃl/ adj. 官员
-- **词根·渊源**：拉丁 **officium**（op- 工作 + facere 做 = 做事、职务）→ 古法语 → 英语 office + **-ial**，本义“与职务有关的”，引申为“官方的”，名词义“官员”。
-- **同根词**：office（拉丁 officium 职务→办公室）、officer（office + **-er** 人 = 担任职务的人→官员）、officiate（offici + **-ate** 动词后缀 = 履行职责→主持）、officious（offici + **-ous** …的 = 爱管职务的→爱管闲事的）。
-- **前缀·后缀**：形容词后缀 **-ial**（例：social, financial）。
-- **同义·反义**：同义 formal（正式的）, authorized（授权的）；反义 unofficial（非官方的）, informal（非正式的）。
-- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → official n. 官员；复数：officials；副词派生 → officially adv. 官方地。
+### 8. false /fɔls/ adj. 人造的；假的
+- **词根·渊源**：拉丁 **falsus**（欺骗的，fals- 为 fallere“欺骗”的过去分词词干）→ 古法语 *fals* → 英语，本义“欺骗性的”，引申为“假的、人造的”。
+- **同根词**：falsify（fals 假 + **-ify** 使… = 使变假→伪造）、falsity（fals 假 + **-ity** 名词后缀 = 虚假）、falsehood（false + **-hood** 状态 = 谎言）、fallacy（拉丁 fallere 欺骗 + **-acy** 名词后缀 = 谬论）。
+- **前缀·后缀**：无前缀；形容词后缀 **-e**（源自拉丁分词词尾，非能产后缀）。
+- **同义·反义**：同义 fake（假的）, artificial（人造的）；反义 true（真的）, genuine（真正的）。
+- **变形**：形容词 → 比较级：falser；最高级：falsest；副词派生 → falsely adv. 虚假地；名词派生 → falseness n. 虚假。
 
-### 9. develop /dɪˈveləp/ v. 增强；加强
-- **词根·渊源**：古法语 **desveloper**（des- 去除 + voloper 包裹）= “解开包裹”→ 英语 develop，本义“展开、解开”，引申为“发展、增强”。
-- **同根词**：development（develop + **-ment** 名词后缀→发展）、developer（develop + **-er** 人 = 开发者）、developmental（development + **-al** …的→发展的）、envelop（**en-** 使 + velop 包裹 = 包起来→包裹）。
-- **前缀·后缀**：前缀 **de-**（例：decline, decrease）；无后缀（动词原形）。
-- **同义·反义**：同义 grow（增长）, strengthen（加强）；反义 decline（衰退）, weaken（削弱）。
-- **变形**：动词 → 第三人称单数：develops；过去式：developed；过去分词：developed；现在分词：developing；名词派生 → development n. 发展；形容词派生 → developed adj. 发达的。
+### 9. escape /ɪˈskeɪp/ v. 逃脱；摆脱
+- **词根·渊源**：拉丁 **ex-**（出）+ **cappa**（斗篷）→ 通俗拉丁 *excappare*（脱掉斗篷）→ 古法语 *eschaper* → 英语，本义“脱掉斗篷（留下追捕者抓着斗篷）”，引申为“逃脱、摆脱”。
+- **同根词**：escapee（escape + **-ee** 被…者 = 逃脱者）、escapism（escape + **-ism** 主义 = 逃避现实）。
+- **前缀·后缀**：前缀 **ex-**（例：exit, export）。
+- **同义·反义**：同义 flee（逃跑）, avoid（避开）；反义 remain（留下）, stay（停留）。
+- **变形**：动词 → 第三人称单数：escapes；过去式：escaped；过去分词：escaped；现在分词：escaping；名词派生 → escape n. 逃跑；escapement n.  escapement（钟表擒纵机构）。
 
-### 10. relation /rɪˈleɪʃn/ n. 关系；联系；交往
-- **词根·渊源**：拉丁 **relatio**（re- 回 + latus 携带，ferre 的过去分词）= “带回、报告”→ 古法语 → 英语 relation，本义“带回的消息”，引申为“关系、联系”。
-- **同根词**：relate（**re-** 回 + late 携带 = 带回联系→关联）、relative（relat + **-ive** …的→相对的；亲属）、relatively（relative + **-ly** 副词后缀→相对地）、relationship（relation + **-ship** 名词后缀→关系）、translate（**trans-** 转移 + late 携带 = 带过去→翻译）、refer（**re-** 回 + fer 携带 = 带回→提及）。
-- **前缀·后缀**：前缀 **re-**（例：return, recall）；名词后缀 **-tion**（例：action, education）。
-- **同义·反义**：同义 connection（联系）, association（关联）；反义 separation（分离）。
-- **变形**：名词 → 复数：relations；动词派生 → relate v. 关联；形容词派生 → relational adj. 关系的；副词派生 → relatively adv. 相对地。
+### 10. congratulation /kənˌgræʧəˈleɪʃən/ n. 祝贺；恭贺
+- **词根·渊源**：拉丁 **con-**（共同）+ **gratulari**（表示高兴，源自 gratus“令人愉快的”）→ 拉丁 *congratulari* → 英语，本义“共同表示高兴”，引申为“祝贺”。
+- **同根词**：congratulate（con- 共同 + gratulari 高兴 + **-ate** 动词后缀 = 祝贺）、grateful（grat 高兴 + **-ful** 充满…的 = 感激的）、gratitude（grat 高兴 + **-itude** 状态 = 感激）、gratify（grat 高兴 + **-ify** 使… = 使高兴）。
+- **前缀·后缀**：前缀 **con-**（例：connect, combine）；名词后缀 **-ation**（例：information, education）。
+- **同义·反义**：同义 felicitation（祝贺）, compliment（称赞）；反义 condolence（哀悼）。
+- **变形**：名词 → 复数：congratulations（常用复数表贺词）；动词派生 → congratulate v. 祝贺；形容词派生 → congratulatory adj. 祝贺的。
 
-### 11. trade /treɪd/ n. 贸易；交易；做买卖；从事贸易
-- **词根·渊源**：中古英语 **trade**（路径、轨道，可能源自中古低地德语 trade 踪迹）→ 英语 trade，本义“走的路、习惯”，引申为“行业”，再引申为“贸易、交易”。
-- **同根词**：trader（trade + **-er** 人 = 商人）、trading（trade + **-ing** 名词/形容词后缀→贸易的）、tradesman（trade + **-s** + man 人 = 商人、手艺人）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 commerce（商业）, business（生意）；反义 无。
-- **变形**：名词 → 复数：trades；动词 → 第三人称单数：trades；过去式：traded；过去分词：traded；现在分词：trading；名词派生 → trader n. 商人。
+### 11. thoughtful /ˈθɔtfəl/ adj. 缜密思考过的；深思熟虑的
+- **词根·渊源**：古英语 **thoht**（思想，源自 think 的名词形式）+ **-ful**（充满…的）→ 中古英语 *thoughtful* → 英语，本义“充满思想的”，引申为“深思熟虑的、体贴的”。
+- **同根词**：thought（古英语 thoht 思想→想法）、think（古英语 thencan 思考→想）、thoughtless（thought + **-less** 无 = 轻率的）、thank（与 think 同源，古英语 thanc 思想→感谢）。
+- **前缀·后缀**：形容词后缀 **-ful**（例：careful, helpful）。
+- **同义·反义**：同义 considerate（体贴的）, reflective（深思的）；反义 thoughtless（轻率的）, careless（粗心的）。
+- **变形**：形容词 → 比较级：more thoughtful；最高级：most thoughtful；副词派生 → thoughtfully adv. 深思地；名词派生 → thoughtfulness n. 体贴。
 
-### 12. foreign /ˈfɔːrən/ adj. 外国的;涉外的;外交的
-- **词根·渊源**：拉丁 **foris**（门外、外面）→ 古法语 *forain*（外来的）→ 英语 foreign，本义“门外的”，引申为“外国的、涉外的”。
-- **同根词**：foreigner（foreign + **-er** 人 = 外国人）、foreignness（foreign + **-ness** 名词后缀→外国性）、forfeit（**foris** 外面 + facere 做 = 在门外做→丧失）、forum（拉丁 forum 门外广场→论坛）。
-- **前缀·后缀**：形容词后缀 **-eign**（例：sovereign 中同源成分，存疑）。
-- **同义·反义**：同义 alien（外国的）, overseas（海外的）；反义 domestic（国内的）, native（本国的）。
-- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → foreigner n. 外国人；复数：foreigners。
+### 12. headline /ˈhɛˌdlaɪn/ n. 大字标题
+- **词根·渊源**：古英语 **heafod**（头）→ 中古英语 *hed* → 英语 head（头）+ 古英语 **lin**（线）→ 英语 line（线），本义“头部的线/顶部的线”，引申为“报纸顶部的大字标题”。
+- **同根词**：head（古英语 heafod 头→头部/标题）、line（古英语 lin 线→行）、headliner（headline + **-er** 人 = 头条人物/主演）。
+- **前缀·后缀**：无前后缀（复合词：head + line）。
+- **同义·反义**：同义 title（标题）, heading（标题）；反义 无。
+- **变形**：名词 → 复数：headlines；动词派生 → headline v. 给…加标题；动词 → 第三人称单数：headlines；过去式：headlined；过去分词：headlined；现在分词：headlining。
 
-### 13. fleet /fliːt/ n.（统一调度的）船队；机群
-- **词根·渊源**：古英语 **flēot**（船，源自 fleotan 漂浮）→ 中古英语 flete → 英语 fleet，本义“漂浮的船”，引申为“船队、机群”。
-- **同根词**：float（古英语 flotian 漂浮→漂浮）、flow（古英语 flowan 流动→流动）、flood（古英语 flod 洪水→洪水）、fleet 的动词义 fleet（漂浮→疾驰，存疑）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 armada（舰队）, squadron（中队）；反义 无。
-- **变形**：名词 → 复数：fleets；形容词派生 → fleet adj. 快速的（同形异义，无比较级）。
-
-### 14. Africa /'æfrɪkə/ n. 非洲
-- **词根·渊源**：拉丁 **Africa**（罗马阿非利加行省名，可能源自柏柏尔语 afar 或腓尼基语，存疑）→ 英语 Africa，本义“阿非利加地区”，引申为“非洲”。
-- **同根词**：African（Africa + **-n** …的→非洲的）、Afro-（Africa 的构词成分→非洲的，如 Afro-American）、Afrikaans（Africa + **-aans** 荷兰语后缀→南非荷兰语）。
-- **前缀·后缀**：名词后缀 **-a**（地名后缀，例：Asia, America）。
-- **同义·反义**：同义 无；反义 无。
-- **变形**：名词 → 不可数（专有名词）；形容词派生 → African adj. 非洲的；名词派生 → African n. 非洲人；复数：Africans。
-
-### 15. nowhere /ˈnoʊwer/ adv. 无处,任何地方都不。
-- **词根·渊源**：古英语 **nāhwǣr**（nā 不 + hwǣr 何处）= “不在任何地方”→ 英语 no + where，本义“无处”。
-- **同根词**：anywhere（any 任何 + where 地方 = 任何地方）、somewhere（some 某 + where 地方 = 某处）、everywhere（every 每 + where 地方 = 到处）、wherever（where + **-ever** 无论 = 无论何处）。
-- **前缀·后缀**：无前后缀（复合词 no + where）。
-- **同义·反义**：同义 无；反义 everywhere（到处）, somewhere（某处）。
-- **变形**：副词 → 无比较级（地点副词，不作比较）。
-
-### 16. silk /sɪlk/ n. 蚕丝，丝绸；丝织品
-- **词根·渊源**：古英语 **seolc / sioloc**（借自拉丁 sericum，源自希腊 Seres 丝国、中国人）→ 英语 silk，本义“中国人的织物”，即“丝绸”。
-- **同根词**：silky（silk + **-y** …的→丝滑的）、silkworm（silk 丝 + worm 虫 = 蚕）、silkscreen（silk 丝 + screen 网 = 丝网印刷）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 无；反义 无。
-- **变形**：名词 → 复数：silks（作“丝绸”义时不可数）；形容词派生 → silky adj. 丝滑的；副词派生 → silkily adv. 丝滑地。
-
-### 17. giraffe /dʒəˈrɑːf/ n. 长颈鹿
-- **词根·渊源**：阿拉伯语 **zarāfa**（长颈鹿）→ 意大利语 *giraffa* → 古法语 *girafe* → 英语 giraffe，本义即“长颈鹿”。
-- **同根词**：无常用同根词（外来借词，孤立词）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 无；反义 无。
-- **变形**：名词 → 复数：giraffes（也可作 giraffe）。
-
-### 18. besides /bɪˈsaɪdz/ prep. 而且，再说；除…之外(还)
-- **词根·渊源**：古英语 **be sīdan**（be 在 + sīdan 旁边）= “在旁边”→ 中古英语 besides，本义“在旁”，引申为“除…之外、而且”。
-- **同根词**：beside（**be-** 在 + side 旁边 = 在…旁边）、side（古英语 side 边→边）、sideways（side + **-ways** 方向后缀 = 向旁边→侧向地）、alongside（**along** 沿着 + side 边 = 在…旁边）。
-- **前缀·后缀**：前缀 **be-**（例：before, behind）；副词性后缀 **-s**（例：towards, afterwards）。
-- **同义·反义**：同义 moreover（而且）, in addition（此外）；反义 无。
-- **变形**：介词/副词 → 无比较级（不作比较）。
-
-### 19. development /dɪˈvɛləpmənt/ n. 发展；发育；成长
-- **词根·渊源**：古法语 **desveloper**（解开、展开）→ 古法语 *desvelopement*，本义“展开、解开”，引申为“逐步展开的过程”→ 发展、发育。
-- **同根词**：develop（**de-** 去除 + 古法语 voloper 包裹 = 解开包裹→发展）、envelop（**en-** 使进入 + veloper 包裹 = 包起来→包裹）、envelope（envelop + **-e** 名词化 = 包裹物→信封）、redevelop（**re-** 再 + develop 发展 = 再发展→重新开发）。
-- **前缀·后缀**：动词前缀 **de-**（例：decline, decrease）；名词后缀 **-ment**（例：movement, agreement）。
-- **同义·反义**：同义 growth（成长）, progress（进步）；反义 decline（衰退）, stagnation（停滞）。
-- **变形**：名词 → 复数：developments；动词派生 → develop v. 发展；形容词派生 → developmental adj. 发展的；副词派生 → developmentally adv. 在发展方面。
-
-### 20. region /ˈriːdʒən/ n. 地区
-- **词根·渊源**：拉丁 **regio / region-**（方向、界线、地区）← *regere*（统治、划界）→ 古法语 *region* → 英语，本义“划定的范围”→ 地区。
-- **同根词**：regal（reg 王 + **-al** …的 = 国王的→王室的）、royal（古法语 roial ← 拉丁 regalis 王室的→王室的）、regulate（reg 统治 + **-ulate** 动词化 = 统治管理→管理、调节）、regime（reg 统治 + **-ime** 名词化 = 统治制度→政权）、regular（reg 规则 + **-ular** …的 = 有规则的→规则的）。
+### 13. region /ˈriʤən/ n. 地区；区域
+- **词根·渊源**：拉丁 **regere**（统治，reg- 为词根）→ 拉丁 *regio*（统治的区域）→ 古法语 *region* → 英语，本义“统治所及的区域”，引申为“地区、区域”。
+- **同根词**：regular（reg 规则 + **-ular** 形容词后缀 = 规则的）、regulate（reg 规则 + **-ulate** 动词后缀 = 管理）、regime（reg 统治 + **-ime** 名词后缀 = 政权）、regal（reg 王 + **-al** …的 = 王室的）。
 - **前缀·后缀**：名词后缀 **-ion**（例：action, nation）。
 - **同义·反义**：同义 area（地区）, district（区域）；反义 无。
-- **变形**：名词 → 复数：regions；形容词派生 → regional adj. 地区的；副词派生 → regionally adv. 在地区层面。
+- **变形**：名词 → 复数：regions；形容词派生 → regional adj. 地区的；副词派生 → regionally adv. 地区性地。
 
-### 21. pioneer /ˌpaɪəˈnɪr/ v. 先锋；先驱；开拓者
-- **词根·渊源**：古法语 **pionier**（步兵、开路者）← 拉丁 *pedo / pedon-*（步兵）← *pes / ped-*（脚）→ 英语，本义“走在前面开路的人”→ 先锋、开拓者；动词义“开创”。
-- **同根词**：pedal（ped 脚 + **-al** …的 = 脚的→踏板）、pedestrian（ped 脚 + **-estrian** 人 = 步行的人→行人）、pedicure（ped 脚 + cure 护理 = 足部护理）、centipede（centi 百 + pede 脚 = 百足虫→蜈蚣）、expedition（**ex-** 出 + ped 脚 + **-ition** 名词化 = 走出去→远征）。
-- **前缀·后缀**：名词后缀 **-eer**（例：engineer, volunteer）。
-- **同义·反义**：同义 explorer（探险者）, forerunner（先驱）；反义 follower（追随者）。
-- **变形**：名词 → 复数：pioneers；动词 → 第三人称单数：pioneers；过去式：pioneered；过去分词：pioneered；现在分词：pioneering；形容词派生 → pioneering adj. 开创性的。
-
-### 22. people /ˈpiːpl/ n. 民族；种族
-- **词根·渊源**：拉丁 **populus**（人民）→ 古法语 *pueple* → 英语，本义“民众”→ 人们；作“民族、种族”义时复数常作 peoples。
-- **同根词**：popular（popul 人民 + **-ar** …的 = 人民的→受欢迎的）、population（popul 人民 + **-ation** 名词化 = 人口）、populate（popul 人民 + **-ate** 动词化 = 使有人居住→居住于）、populous（popul 人民 + **-ous** 多的 = 人口稠密的）、public（拉丁 publicus ← populus 人民→公共的）。
+### 14. male /meɪl/ adj. 男性的；雄性的
+- **词根·渊源**：拉丁 **masculus**（男性的，源自 mas“男性”）→ 古法语 *masle* → 中古英语 *male*，本义“男性的”，引申为“雄性的”。
+- **同根词**：masculine（拉丁 masculus 男性 + **-ine** 形容词后缀 = 男性的）、masculinity（masculine + **-ity** 名词后缀 = 男子气概）。
 - **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 nation（民族）, race（种族）；反义 无。
-- **变形**：名词 → 复数：people（作“人们”义时复数同形）/ peoples（作“民族”义时）；形容词派生 → popular adj. 受欢迎的；populous adj. 人口稠密的。
+- **同义·反义**：同义 masculine（男性的）, manly（有男子气概的）；反义 female（女性的）。
+- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → male n. 男性；名词 → 复数：males。
 
-### 23. wealth /wɛlθ/ n. 财富；财产
-- **词根·渊源**：中古英语 **welthe** ← **weal**（幸福、福利）+ **-th**（名词后缀，表状态）→ 英语，本义“幸福、安康的状态”→ 富足→ 财富。
-- **同根词**：weal（weal 福利 = 福利→幸福）、commonweal（common 共同 + weal 福利 = 公共福利→公益）、well（与 weal 同源 = 好地→好）、welfare（well 好 + fare 过活 = 过得好→福利）。
-- **前缀·后缀**：名词后缀 **-th**（例：health, growth）。
-- **同义·反义**：同义 riches（财富）, fortune（财产）；反义 poverty（贫穷）。
-- **变形**：名词 → 复数：不可数；形容词派生 → wealthy adj. 富有的；副词派生 → wealthily adv. 富裕地。
+### 15. standard /ˈstændərd/ n. 标准；水平
+- **词根·渊源**：古法语 **estandart**（旗帜、军旗）→ 英语，本义“竖立的旗帜（军队集合的标志）”，引申为“衡量事物的基准→标准”。
+- **同根词**：stand（古英语 standan 站立→站）、standardize（standard + **-ize** 动词化 = 使标准化）、standardization（standardize + **-ation** 名词后缀 = 标准化）。
+- **前缀·后缀**：名词后缀 **-ard**（例：drunkard, coward）。
+- **同义·反义**：同义 criterion（标准）, norm（规范）；反义 无。
+- **变形**：名词 → 复数：standards；形容词派生 → standard adj. 标准的；动词派生 → standardize v. 使标准化。
 
-### 24. open up /ˈoʊpən ʌp/ v. 开辟；开启；开创
-- **同义搭配**：open / unlock
-- **反义搭配**：close up / shut down
+### 16. weightlifting /ˈweɪˌtlɪftɪŋ/ n. 举重
+- **词根·渊源**：古英语 **gewiht**（重量）→ 英语 weight（重量）+ 古诺斯语 **lypta**（举起）→ 英语 lift（举起）+ **-ing**（名词后缀，表活动），本义“举起重量的活动”，即“举重”。
+- **同根词**：weight（古英语 gewiht 重量→重量）、lift（古诺斯语 lypta 举起→举起）、weightlifter（weight + lift + **-er** 人 = 举重运动员）。
+- **前缀·后缀**：名词后缀 **-ing**（例：swimming, running）。
+- **同义·反义**：同义 无；反义 无。
+- **变形**：名词 → 不可数。
 
-### 25. go on a trip /ɡəʊ ɒn ə trɪp/ v. 去旅游
-- **同义搭配**：take a trip / go traveling
-- **反义搭配**：stay at home
+### 17. individually /ˌɪndɪˈvɪʤəli/ adv. 分别地，单独地
+- **词根·渊源**：拉丁 **in-**（不）+ **dividere**（分开）→ 中世纪拉丁 *individualis*（不可分的）→ 英语 individual（个人的）+ **-ly**（副词后缀），本义“以不可分个体的方式”，引申为“分别地、单独地”。
+- **同根词**：individual（in- 不 + divid 分 + **-ual** 形容词后缀 = 不可分的→个人的）、divide（拉丁 dividere 分开→分开）、division（divid 分 + **-ion** 名词后缀 =  division 分开/部门）。
+- **前缀·后缀**：前缀 **in-**（例：incorrect, invisible）；副词后缀 **-ly**（例：quickly, happily）。
+- **同义·反义**：同义 separately（分别地）, singly（单独地）；反义 collectively（集体地）, together（一起）。
+- **变形**：副词 → 无比较级（派生副词，不作比较）；形容词派生 → individual adj. 个人的；名词派生 → individuality n. 个性。
 
-### 26. set up /ˈset ʌp/ v. 建起；设立；建立，创建
-- **同义搭配**：establish / found
-- **反义搭配**：tear down / shut down
+### 18. committee /kəˈmɪti/ n. 委员会
+- **词根·渊源**：拉丁 **com-**（共同）+ **mittere**（送、派）→ 英语 commit（委托）+ **-ee**（被…者）→ 英语 committee，本义“被委托的人（群体）”，引申为“委员会”。
+- **同根词**：commit（com- 共同 + mit 送 = 委托、犯（罪））、commitment（commit + **-ment** 名词后缀 = 承诺）、commission（com- 共同 + miss 送 + **-ion** 名词后缀 = 委托/委员会）、transmit（trans- 穿过 + mit 送 = 传送）。
+- **前缀·后缀**：前缀 **com-**（例：combine, compare）；名词后缀 **-ee**（例：employee, trainee）。
+- **同义·反义**：同义 commission（委员会）, board（董事会）；反义 无。
+- **变形**：名词 → 复数：committees。
 
-### 27. as well as /ɛz wɛl ɛz/ prep. 也；除……之外，不但……而且；并且，还
-- **同义搭配**：in addition to / along with
-- **反义搭配**：except for
+### 19. update /ˈəpˌdeɪt/ v. 更新
+- **词根·渊源**：**up-**（向上）+ **date**（日期，源自拉丁 *datum* 给定之物）→ 本义“把日期改到最新”，引申为“更新、使现代化”。
+- **同根词**：date（拉丁 datum 给定之日→日期）、dated（date + **-ed** 带日期的→过时的）、datable（date + **-able** 可定日期的）、up-to-date（up 到 + to + date 日期 = 直到今天的→最新的）。
+- **前缀·后缀**：前缀 **up-**（例：upgrade, uphold）；无后缀（复合动词）。
+- **同义·反义**：同义 renew（更新）, refresh（刷新）；反义 outdated（使过时的）, degrade（降级）。
+- **变形**：动词 → 第三人称单数：updates；过去式：updated；过去分词：updated；现在分词：updating；名词派生 → update n. 更新、最新消息。
 
-### 28. lead to /liːd tu/ v. 导致
-- **同义搭配**：result in / bring about
-- **反义搭配**：prevent
+### 20. president /ˈprɛzɪdənt/ n. 会长；主席
+- **词根·渊源**：拉丁 **prae-**（在前）+ **sedēre**（坐）→ 古法语 *president*，本义“坐在前面的人”，即主持会议者→主席、会长、总统。
+- **同根词**：preside（**pre-** 前 + sid 坐 = 坐在前面→主持）、presidency（president + **-cy** 职位→任期、职位）、presidential（president + **-ial** 总统的）、sedentary（sed 坐 + **-entary** 久坐的）、session（ses 坐 + **-ion** 坐下→会议）、reside（**re-** 回 + sid 坐 = 坐下不走→居住）。
+- **前缀·后缀**：前缀 **pre-**（例：prepare, predict）；名词后缀 **-ent**（例：student, resident）。
+- **同义·反义**：同义 chairman（主席）, head（首领）；反义 follower（追随者）, member（成员）。
+- **变形**：名词 → 复数：presidents；形容词派生 → presidential adj. 总统的；名词派生 → presidency n. 总统职位、任期。
 
-### 29. compare... with  n. 比较；对比
-- **同义搭配**：compare... to / contrast... with
-- **反义搭配**：无
+### 21. glue /glu/ v. 黏合；粘牢
+- **词根·渊源**：古法语 *glu* ← 晚期拉丁 *glus / glut-*（胶）→ 本义“用胶粘”，名词“胶水”转作动词“黏合”。
+- **同根词**：gluey（glue + **-y** 有…性质的→胶质的）、glueyness（gluey + **-ness** 名词后缀→黏性）、gluepot（glue + pot 罐 = 胶罐）、glutinous（拉丁 glutin- 胶 + **-ous** 黏的→黏性的）、aglutition（**a-** 无 + glutin 胶 + **-ition** 名词后缀→吞咽不能，存疑）。
+- **前缀·后缀**：无前缀；名词后缀 **-y**（例：rainy, dirty）。
+- **同义·反义**：同义 stick（粘贴）, paste（粘贴）；反义 unglue（使脱胶）, detach（分离）。
+- **变形**：动词 → 第三人称单数：glues；过去式：glued；过去分词：glued；现在分词：gluing（亦作 glueing）；名词 → 复数：glues（作“胶水”义时不可数）；形容词派生 → gluey adj. 胶质的；glued adj. 粘住的。
 
-### 30. set sail /set seɪl/ v. 起航
-- **同义搭配**：depart / set off
-- **反义搭配**：drop anchor / dock
+### 22. show respect  v. 表示尊重
+- **同义搭配**：pay respect / give respect
+- **反义搭配**：show disrespect
+
+### 23. work hard  v. 努力；苦干
+- **同义搭配**：labor hard / toil hard
+- **反义搭配**：idle away
+
+### 24. go all out  v. 全力以赴
+- **同义搭配**：spare no effort / do one's utmost
+- **反义搭配**：hold back
+
+### 25. in a row  prep. 连续几次地
+- **同义搭配**：in succession / on end
+- **反义搭配**：at intervals
+
+### 26. fighting spirit  n. 斗志；战斗精神
+- **同义搭配**：combative spirit / will to fight
+- **反义搭配**：defeatism
+
+### 27. in the face of  prep. 面对 (问题、困难等)
+- **同义搭配**：in the presence of / confronted with
+- **反义搭配**：in the absence of
+
+### 28. ups and downs  n. 浮沉；兴衰
+- **同义搭配**：vicissitudes / rise and fall
+- **反义搭配**：steady progress
+
+### 29. without doubt  prep. 毫无疑问；的确
+- **同义搭配**：beyond doubt / undoubtedly
+- **反义搭配**：in doubt
+
+### 30. false leg  n. 假肢
+- **同义搭配**：artificial leg / prosthetic leg
+- **反义搭配**：natural leg
+
+### 31. sign up for  v. 报名
+- **同义搭配**：enroll in / register for
+- **反义搭配**：withdraw from
+
+### 32. good job  n. 干得不错，办得好
+- **同义搭配**：well done / nice work
+- **反义搭配**：poor job
+
+### 33. well done  n. 干得好
+- **同义搭配**：good job / nice work
+- **反义搭配**：badly done
+
+### 34. try one's best  v. 努力；尽力
+- **同义搭配**：do one's best / make every effort
+- **反义搭配**：give up
+
+### 35. be glued to  v. 全神贯注看着某物
+- **同义搭配**：be absorbed in / be engrossed in
+- **反义搭配**：be distracted from
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| re- | 再，重新 | repetition（重复） | rebuild, rewrite, return, review |
-| dis- | 分开，否定 | discovery（发现） | disagree, disappear, disconnect, dishonest |
-| -tion/-sion | 名词后缀，表行为或状态 | repetition（重复） | action, education, decision, conclusion |
-| -ment | 名词后缀，表行为或结果 | development（发展） | movement, agreement, government, achievement |
-| -er/-or | 名词后缀，表人或物 | pioneer（先锋） | teacher, actor, worker, inventor |
-| -ous | 形容词后缀，表充满……的 |（本单元无直接例词） | famous, dangerous, nervous, curious |
-| -al | 形容词后缀，表……的 | official（官员） | natural, national, personal, cultural |
-| -y | 名词后缀，表状态或性质 | discovery（发现） | victory, history, memory, mystery |
-| -ance/-ence | 名词后缀，表状态或性质 |（本单元无直接例词） | importance, difference, patience, silence |
-| -ive | 形容词后缀，表有……性质的 |（本单元无直接例词） | active, creative, effective, attractive |
-| -ly | 副词后缀，表方式 | nowhere（无处） | quickly, happily, carefully, suddenly |
-| -ship | 名词后缀，表状态或关系 |（本单元无直接例词） | friendship, leadership, relationship, hardship |
+| co- | 共同、一起 | cooperate | coexist, co-worker, coauthor, cofound |
+| -ship | 名词后缀，表状态、身份 | championship | friendship, leadership, hardship, membership |
+| -ic | 形容词后缀，……的 | Olympic | basic, historic, poetic, scientific |
+| -al | 形容词/名词后缀 | medal | normal, final, natural, arrival |
+| -ful | 形容词后缀，充满……的 | thoughtful | careful, helpful, useful, beautiful |
+| -less | 形容词后缀，无……的 | (扩展) | careless, hopeless, endless, useless |
+| -ly | 副词后缀，……地 | individually | quickly, happily, carefully, suddenly |
+| -ment | 名词后缀，表行为、结果 | (扩展) | movement, development, agreement, government |
+| -tion/-ation | 名词后缀，表行为、状态 | congratulation | education, information, invitation, celebration |
+| -er | 名词后缀，表人、物 | (扩展) | teacher, worker, leader, player |
+| -ist | 名词后缀，表人 | (扩展) | artist, scientist, tourist, pianist |
+| -ous | 形容词后缀，充满……的 | (扩展) | famous, dangerous, nervous, curious |
+| -ity | 名词后缀，表性质、状态 | (扩展) | ability, activity, reality, quality |
+| -ize/-ise | 动词后缀，使……化 | (扩展) | realize, organize, modernize, apologize |
+| un- | 否定前缀，不 | (扩展) | unhappy, unfair, unknown, unable |
+| re- | 前缀，再、回 | (扩展) | return, review, rebuild, rewrite |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
 | 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| voyage（航行） | journey（旅程） | — |
-| repetition（重复） | repeat（重复） | — |
-| continent（大陆；洲） | mainland（大陆） | island（岛屿） |
-| route（路线） | path（路径） | — |
-| discovery（发现） | finding（发现） | loss（丢失） |
-| rise（变得更加成功） | ascend（上升） | fall（下降） |
-| official（官员） | officer（官员） | — |
-| develop（增强；加强） | grow（发展） | decline（衰退） |
-| relation（关系） | connection（联系） | separation（分离） |
-| trade（贸易） | commerce（商业） | — |
-| foreign（外国的） | overseas（海外的） | domestic（国内的） |
-| fleet（船队） | navy（舰队） | — |
-| nowhere（无处） | — | everywhere（到处） |
-| besides（而且） | moreover（而且） | except（除……之外） |
-| development（发展） | growth（成长） | decline（衰退） |
-| region（地区） | area（区域） | — |
-| pioneer（先锋） | explorer（探索者） | follower（追随者） |
-| wealth（财富） | fortune（财富） | poverty（贫穷） |
-| open up（开辟） | unlock（开启） | close（关闭） |
-| lead to（导致） | cause（导致） | prevent（阻止） |
+| cooperate | collaborate（合作） | compete（竞争） |
+| championship | tournament（锦标赛） | — |
+| medal | award（奖章） | — |
+| coach | trainer（教练） | — |
+| attitude | viewpoint（看法） | — |
+| hardship | difficulty（困难） | ease（安逸） |
+| false | artificial（人造的） | real（真实的） |
+| escape | flee（逃脱） | remain（留下） |
+| congratulation | felicitation（祝贺） | — |
+| thoughtful | considerate（体贴的） | thoughtless（粗心的） |
+| headline | title（标题） | — |
+| region | area（地区） | — |
+| male | masculine（男性的） | female（女性的） |
+| standard | criterion（标准） | — |
+| individually | separately（分别地） | collectively（集体地） |
+| committee | board（委员会） | — |
+| update | renew（更新） | — |
+| president | chairman（主席） | — |
+| glue | stick（黏合） | separate（分开） |
+| work hard | strive（努力） | slack（懈怠） |
 
 ---
 

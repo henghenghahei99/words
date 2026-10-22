@@ -1,6 +1,6 @@
-# 9B_U3 说文解字 · The environment
+# 9B_U3 说文解字 · Protecting the environment
 
-> 配套 `9B_U3.md`（沪教牛津版 2024/2025 修订，33 条）
+> 配套 `9B_U3.md`（沪教牛津版 2024/2025 修订，25 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
 > 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
@@ -8,275 +8,209 @@
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
-| cern, cret | 分开；辨别 | 拉丁语 cernere | concern | discern, certain, secret, discriminate |
-| spher | 球 | 希腊语 sphaira | atmosphere | sphere, spherical, hemisphere |
-| temp | 时间；适度 | 拉丁语 tempus/temperare | temperature | temporary, tempo, temper, contemporary |
-| sum, sumpt | 拿；取；用 | 拉丁语 sumere | consumer | consume, assume, resume, presumption |
-| struct | 建造；堆起 | 拉丁语 struere | destroy | structure, construct, instruct, destruction |
-| nat | 出生；天生 | 拉丁语 nasci | nature | native, nation, innate, natural |
-| fac, fic | 做；面 | 拉丁语 facere/facies | surface | fact, effect, perfect, difficult |
-| solv, solu | 松开；解开 | 拉丁语 solvere | solution | solve, dissolve, solvent, absolute |
-| reg | 统治；引导 | 拉丁语 regere | government | regular, region, regulate, regime |
-| port | 携带；运 | 拉丁语 portare | (存疑：result 无此根) | transport, import, export, portable |
-| flu | 流 | 拉丁语 fluere | flood | fluent, influence, fluid, flush |
-| hab | 持有；居住 | 拉丁语 habere | habit | inhabit, habitat, exhibit, prohibit |
-| cycl | 圆；环 | 希腊语 kyklos | recycle | cycle, bicycle, cyclone, encyclopedia |
-| pur | 向前；在前 | 拉丁语 pro- | purpose | pursue, purchase (存疑) |
-| mont | 山 | 拉丁语 mons | mountains of | mountain, mount, amount, surmount |
-| act | 做；驱动 | 拉丁语 agere/actus | take action, act as | action, active, agent, agenda |
+| rupt | 破，裂 | 拉丁语 rumpere | eruption | interrupt, disrupt, bankrupt, corrupt |
+| entir | 完整，整个 | 拉丁语 integer（完整的） | entire | integral, integrate, integrity |
+| dry/drought | 干 | 古英语 drȳge（干） | drought | dry, dryness |
+| cycl | 圆，环 | 希腊语 kyklos（圆圈） | recycle | bicycle, cycle, cyclone, encyclopedia |
+| heat | 热 | 古英语 hǣtu | heat-wave | hot, heater, overheat |
+| take | 拿，取 | 古英语 tacan（古北欧语源） | takeaway | mistake, overtake, undertake |
+| nat | 出生 | 拉丁语 nasci（出生） | native | nature, nation, innate, prenatal |
+| sphere | 球，层 | 希腊语 sphaira（球） | atmosphere | hemisphere, biosphere, spherical |
+| therm | 热 | 希腊语 thermē（热） | the greenhouse effect | thermometer, thermal, thermos |
+| extrem | 极端的 | 拉丁语 extremus（最外的） | extreme weather | extreme, extremity, extremist |
+| volcan | 火山 | 拉丁语 Vulcanus（火神） | volcanic eruption | volcano, volcanic |
+| carbon | 碳 | 拉丁语 carbo（炭） | carbon dioxide | carbonate, carbonic, carbohydrate |
+| action | 行动 | 拉丁语 agere（做） | take action | act, active, react, agent |
+| port | 运送 | 拉丁语 portare（搬运） | public transport | import, export, portable, report |
+| glob | 球体 | 拉丁语 globus（球） | global warming | globe, global, globalization |
 
 ## 二、逐词说文解字
 
-### 1. concern /kənˈsɜːn/ n. 担心；忧虑
-- **词根·渊源**：拉丁 **con-**（一起）+ **cernere**（筛选、分辨）→ 拉丁 *concernere*（混合、筛在一起→涉及）→ 古法语 *concerner* → 英语；本义“把事物筛在一起加以辨别”→涉及→牵涉→心中牵挂→担心、忧虑。
-- **同根词**：discern（**dis-** 分开 + cern 筛 = 分开筛选→辨别）、certain（**cert-** 确定 + **-ain** 形容词后缀，源自 cernere 的过去分词 certus 已确定的→确定的）、secret（**se-** 分开 + cret 筛 = 分开筛出→隐秘的）、discriminate（**dis-** 分开 + crimin 筛 + **-ate** 动词后缀 = 分开筛选→区别、歧视）、concerning（concern + **-ing** 形容词后缀：关于的、令人担忧的）。
-- **前缀·后缀**：前缀 **con-**（例：connect, contain）；名词后缀 **-ern** 存疑（例：无常用同类）。
-- **同义·反义**：同义 worry（担心）, anxiety（焦虑）；反义 unconcern（漠不关心）, indifference（冷漠）。
-- **变形**：名词 → 复数：concerns；动词派生 → concern v. 涉及、使担忧；形容词派生 → concerned adj. 担心的；concerning adj. 令人担忧的；副词派生 → concernedly adv. 担忧地。
+### 1. eruption /ˌɪˈrəpʃən/ n. 喷发
+- **词根·渊源**：拉丁 **rupt-**（断裂、爆发）+ **e-**（向外）→ 拉丁 *eruptio*（爆发、喷出）→ 英语 eruption；本义“向外猛然冲出”，引申为火山喷发等自然现象。
+- **同根词**：erupt（**e-** 向外 + rupt 断裂 = 向外冲出→喷发）、interrupt（**inter-** 在…之间 + rupt 断裂 = 在中间打断→中断）、corrupt（**cor-** 完全 + rupt 断裂 = 彻底败坏→腐败）、rupture（rupt 断裂 + **-ure** 名词后缀 = 断裂→破裂）、bankrupt（**bank** 银行 + rupt 断裂 = 银行破产→破产的）。
+- **前缀·后缀**：前缀 **e-**（例：evade, eject）；名词后缀 **-ion**（例：action, nation）。
+- **同义·反义**：同义 explosion（爆炸）, outburst（爆发）；反义 无。
+- **变形**：名词 → 复数：eruptions；动词派生 → erupt v. 喷发；形容词派生 → eruptive adj. 喷发的。
 
-### 2. atmosphere /'ætməsfɪə(r)/ n. 大气层
-- **词根·渊源**：希腊 **atmos**（蒸汽、气）+ **sphaira**（球、天球）→ 新拉丁 *atmosphaera*（17世纪科学家造词）→ 英语；本义“包围地球的气球层”→大气层→引申为“气氛”。
-- **同根词**：sphere（希腊 sphaira 球→球体、领域）、spherical（sphere + **-ical** 形容词后缀：球形的）、atmospheric（atmosphere + **-ic** 形容词后缀：大气的）、biosphere（**bio-** 生命 + sphere 球 = 生命圈→生物圈）、hemisphere（**hemi-** 半 + sphere 球 = 半球）。
-- **前缀·后缀**：前缀 **atmo-**（例：atmometer 汽化计）；名词后缀 **-sphere**（例：lithosphere, hydrosphere）。
-- **同义·反义**：同义 air（空气）, sky（天空）；反义 无。
-- **变形**：名词 → 复数：atmospheres；形容词派生 → atmospheric adj. 大气的；副词派生 → atmospherically adv. 在大气方面。
+### 2. knock-on /n k n/ adj. 使产生连锁反应的
+- **词根·渊源**：英语短语动词 *knock on*（敲击后继续向前）→ 形容词 knock-on；本义“一物撞击后带动下一物”，引申为“连锁引发的”。
+- **同根词**：knock（拟声词，敲击声→敲）、knockout（knock 敲 + out 出 = 击倒→淘汰）、knockdown（knock 敲 + down 下 = 击倒→压倒性的）、knocker（knock + **-er** 者 = 敲门者→门环）。
+- **前缀·后缀**：无前后缀（复合词，由 knock + on 构成）。
+- **同义·反义**：同义 chain-reaction（连锁反应的）, domino（多米诺式的）；反义 无。
+- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → knock-on n. 连锁反应。
 
-### 3. temperature /ˈtemprətʃər/ n. 温度
-- **词根·渊源**：拉丁 **temperare**（调和、适度混合）→ 拉丁 *temperatura*（适度调和）→ 法语 *température* → 英语；本义“调和到适度状态”→气候的调和状态→温度。
-- **同根词**：temper（拉丁 temperare 调和→使缓和→脾气）、temperate（temper + **-ate** 形容词后缀：有节制的、温带的）、temperament（temper + **-ament** 名词后缀：调和的气质→性情）、temperance（temper + **-ance** 名词后缀：节制）、distemper（**dis-** 去除 + temper 调和 = 失调→疾病）。
-- **前缀·后缀**：名词后缀 **-ature**（例：creature, signature）；前缀 **dis-**（例：distemper）。
-- **同义·反义**：同义 warmth（温暖）, heat（热度）；反义 cold（寒冷）, chill（寒意）。
-- **变形**：名词 → 复数：temperatures；形容词派生 → temperatured adj. 有温度的（少用）；副词派生 → 无。
+### 3. entire /ɪnˈtaɪər/ adj. 全部的，整个的
+- **词根·渊源**：拉丁 **integer**（完整的、未触动的）→ 古法语 *entier*（完整的）→ 英语 entire；本义“完整无损的”，引申为“全部的、整个的”。
+- **同根词**：integrity（integr 完整 + **-ity** 名词后缀 = 完整→正直）、integrate（integr 完整 + **-ate** 动词后缀 = 使完整→整合）、integral（integr 完整 + **-al** …的 = 完整的→必需的）、integer（拉丁 integer 完整→整数）、disintegrate（**dis-** 去除 + integrate 整合 = 使瓦解→分解）。
+- **前缀·后缀**：前缀 **in-**（例：invisible, informal）；形容词后缀 **-e**（例：complete, discrete）。
+- **同义·反义**：同义 whole（整个的）, complete（完整的）；反义 partial（部分的）, incomplete（不完整的）。
+- **变形**：形容词 → 无比较级（绝对形容词，不作比较）；副词派生 → entirely adv. 完全地；名词派生 → entirety n. 整体。
 
-### 4. consumer /kənˈsjuːmə(r)/ n. 消费者
-- **词根·渊源**：拉丁 **con-**（完全）+ **sumere**（拿取，sum- 拿 + -ere 动词后缀）→ 拉丁 *consumere*（拿光、用尽）→ 古法语 *consumer* → 英语；本义“把东西拿光用尽”→消耗→消费→消费者。
-- **同根词**：consume（**con-** 完全 + sume 拿 = 拿光→消耗、消费）、consumption（consume + **-ption** 名词后缀：消耗、消费）、consumptive（consume + **-ptive** 形容词后缀：消耗性的）、assume（**as-** 向 + sume 拿 = 拿向自己→假定、承担）、resume（**re-** 再 + sume 拿 = 再拿起→恢复、继续）、presume（**pre-** 先 + sume 拿 = 先拿→假定、冒昧）。
-- **前缀·后缀**：前缀 **con-**（例：contain, connect）；名词后缀 **-er**（例：teacher, worker）。
-- **同义·反义**：同义 buyer（购买者）, user（使用者）；反义 producer（生产者）, supplier（供应者）。
-- **变形**：名词 → 复数：consumers；动词派生 → consume v. 消耗、消费；形容词派生 → consumerist adj. 消费主义的；名词派生 → consumerism n. 消费主义。
+### 4. drought /draʊt/ n. 久旱；旱灾
+- **词根·渊源**：古英语 **drūgath**（干燥）→ 中古英语 *droghte* → 英语 drought；与 dry 同出日耳曼语根 *draug-*（干燥），本义“干燥状态”，引申为“久旱、旱灾”。
+- **同根词**：dry（日耳曼语根 *draug-* 干燥→干的）、dryness（dry + **-ness** 名词后缀 = 干燥→干旱）、dryer（dry + **-er** 者/物 = 干燥者→烘干机）。
+- **前缀·后缀**：名词后缀 **-th**（例：warmth, growth）。
+- **同义·反义**：同义 dryness（干旱）, aridity（干燥）；反义 flood（洪水）, wetness（潮湿）。
+- **变形**：名词 → 复数：droughts；形容词派生 → droughty adj. 干旱的。
 
-### 5. guess /ɡes/ v. 猜，猜测
-- **词源存疑**：可能源自中古英语 *gessen*，与古诺尔斯语 *geta*（获得、猜想）相关，最终或与 **get** 同源（PIE *ghend-* 抓取）；本义“凭直觉抓取”→猜测。
-- **同根词**：get（古诺尔斯语 geta 获得→得到）、forget（**for-** 失去 + get 得到 = 失去所得→忘记）、beget（**be-** 加强 + get 得到 = 产生、引起）。
+### 5. worsen /ˈwərsən/ v. (使) 变得更糟；(使) 恶化
+- **词根·渊源**：古英语 **wiersa**（更坏）→ 中古英语 *worse*（更糟）→ worse + **-en**（使…）→ 英语 worsen；本义“使变得更坏”，即“恶化”。
+- **同根词**：worse（古英语 wiersa 更坏→更糟的）、worst（古英语 wierrest 最坏→最糟的）、bad（日耳曼语根 *bad-* 坏→坏的）、badly（bad + **-ly** 副词后缀 = 坏地→严重地）。
+- **前缀·后缀**：动词后缀 **-en**（例：strengthen, widen）。
+- **同义·反义**：同义 deteriorate（恶化）, aggravate（使恶化）；反义 improve（改善）, better（改善）。
+- **变形**：动词 → 第三人称单数：worsens；过去式：worsened；过去分词：worsened；现在分词：worsening；名词派生 → worsening n. 恶化。
+
+### 6. recycle /riˈsaɪkəl/ v. 回收利用
+- **词根·渊源**：**re-**（再、回）+ 英语 **cycle**（循环，源自希腊 *kyklos* 圆圈）→ 英语 recycle；本义“使再循环”，引申为“回收利用”。
+- **同根词**：cycle（希腊 kyklos 圆圈→循环）、bicycle（**bi-** 二 + cycle 轮 = 两轮车→自行车）、tricycle（**tri-** 三 + cycle 轮 = 三轮车）、cyclone（cycl 圆圈 + **-one** 名词后缀 = 旋转的风→气旋）、recycling（recycle + **-ing** 名词后缀 = 回收利用）。
+- **前缀·后缀**：前缀 **re-**（例：rebuild, rewrite）；名词后缀 **-le**（例：handle, sparkle）。
+- **同义·反义**：同义 reuse（再利用）, reprocess（再处理）；反义 discard（丢弃）, waste（浪费）。
+- **变形**：动词 → 第三人称单数：recycles；过去式：recycled；过去分词：recycled；现在分词：recycling；名词派生 → recycling n. 回收利用；形容词派生 → recyclable adj. 可回收的。
+
+### 7. heat-wave /hi t we v/ n. 酷热期；热浪
+- **词根·渊源**：古英语 **hǣtu**（热）+ 古英语 **wafian**（挥动、波浪）→ 英语 heat + wave → heat-wave；本义“热的波浪”，引申为“持续酷热期”。
+- **同根词**：heat（古英语 hǣtu 热→加热）、heated（heat + **-ed** …的 = 加热的→激烈的）、heater（heat + **-er** 物 = 加热器）、wave（古英语 wafian 挥动→波浪）、wavy（wave + **-y** …的 = 波浪状的）。
+- **前缀·后缀**：无前后缀（复合词，由 heat + wave 构成）。
+- **同义·反义**：同义 hot spell（酷热期）, hot wave（热浪）；反义 cold wave（寒潮）, cold spell（寒期）。
+- **变形**：名词 → 复数：heat-waves。
+
+### 8. takeaway /te k we/ n. 外卖的饭菜；外卖食物
+- **词根·渊源**：英语短语动词 *take away*（拿走）→ 名词 takeaway；本义“拿走的东西”，引申为“外卖食物”。
+- **同根词**：take（古诺斯语 *taka* 拿→拿）、takeover（take 拿 + over 过 = 接管→收购）、takeout（take 拿 + out 出 = 取出→外卖）、away（古英语 *onweg* 离开→离开）。
+- **前缀·后缀**：无前后缀（复合词，由 take + away 构成）。
+- **同义·反义**：同义 takeout（外卖）, carryout（外卖）；反义 dine-in（堂食）。
+- **变形**：名词 → 复数：takeaways。
+
+### 9. kangaroo /ˌkæŋgərˈu/ n. 袋鼠
+- **词根·渊源**：源自澳大利亚原住民语言（一般认为来自 Guugu Yimithirr 语 *gangurru*，1770 年库克船长记录）→ 英语 kangaroo；本义即“袋鼠”，词源存疑（早期有“不懂”之说的民间故事，不可信）。
+- **同根词**：kangaroo 为借词，英语中无常用同根派生词。
+- **前缀·后缀**：无前后缀（借词，单纯词）。
+- **同义·反义**：同义 无；反义 无。
+- **变形**：名词 → 复数：kangaroos。
+
+### 10. fox /fɑks/ n. 狐狸
+- **词根·渊源**：古英语 **fox**（狐狸）→ 中古英语 *fox* → 英语 fox；与德语 *Fuchs* 同源，本义即“狐狸”，引申为“狡猾的人”。
+- **同根词**：fox（古英语 fox 狐狸→狐狸）、foxy（fox + **-y** …的 = 狐狸般的→狡猾的）、foxhole（fox 狐狸 + hole 洞 = 狐狸洞→战壕）、foxhound（fox 狐狸 + hound 猎犬 = 猎狐犬）。
 - **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 suppose（假定）, estimate（估计）；反义 know（知道）, prove（证明）。
-- **变形**：动词 → 第三人称单数：guesses；过去式：guessed；过去分词：guessed；现在分词：guessing；名词派生 → guess n. 猜测；名词派生 → guesser n. 猜测者。
+- **同义·反义**：同义 无；反义 无。
+- **变形**：名词 → 复数：foxes；形容词派生 → foxy adj. 狡猾的；foxlike adj. 狐狸般的。
 
-### 6. green /ɡriːn/ adj. 环境保护的；赞成环境保护的
-- **词根·渊源**：古英语 **grēne**（绿色的），与德语 *grün* 同源，PIE *ghre-*（生长、变绿）；本义“草木生长的颜色”→绿色→引申为“环保的”（因绿色象征自然）。
-- **同根词**：greenish（green + **-ish** 形容词后缀：微绿的）、greenery（green + **-ery** 名词后缀：绿色植物）、greenhouse（green + house 房子 = 温室）、evergreen（**ever-** 永远 + green 绿 = 常青的）。
-- **前缀·后缀**：形容词后缀 **-ish**（例：reddish, childish）；名词后缀 **-ery**（例：bakery, scenery）。
-- **同义·反义**：同义 eco-friendly（环保的）, environmental（环境的）；反义 polluting（污染的）, harmful（有害的）。
-- **变形**：形容词 → 比较级：greener；最高级：greenest；名词派生 → green n. 绿色；greenness n. 绿色、环保性；副词派生 → greenly adv. 绿色地。
+### 11. furthermore /ˈfərðərˌmɔr/ adv. 此外；而且
+- **词根·渊源**：古英语 **furðor**（更远）+ **māra**（更多）→ 英语 further + more → furthermore；本义“更进一步说”，引申为“此外、而且”。
+- **同根词**：further（古英语 furðor 更远→进一步）、far（古英语 feor 远→远的）、farther（far 的比较级→更远）、more（古英语 māra 更多→更多）、moreover（more 更多 + over 超过 = 此外→而且）。
+- **前缀·后缀**：无前后缀（复合词，由 further + more 构成）。
+- **同义·反义**：同义 moreover（此外）, besides（而且）；反义 无。
+- **变形**：副词 → 无比较级（不作比较）。
 
-### 7. lifeless /'laɪfləs/ adj. 无生命的；无生物生长的
-- **词根·渊源**：古英语 **līf**（生命）+ 后缀 **-lēas**（无、缺少）→ 中古英语 *lifles* → 英语；本义“没有生命的”→无生命的→无生气的。
-- **同根词**：life（古英语 lif 生命→生命）、lively（life + **-ly** 形容词后缀：活泼的）、alive（**a-** 在…状态 + live 活 = 活着的）、live（古英语 libban 活着→生活）、lifelike（life + like 像 = 逼真的）。
-- **前缀·后缀**：形容词后缀 **-less**（例：hopeless, careless）；前缀 **a-**（例：alive, asleep）。
-- **同义·反义**：同义 dead（死的）, inanimate（无生命的）；反义 living（有生命的）, alive（活着的）。
-- **变形**：形容词 → 无比较级（绝对形容词，不作比较）；名词派生 → lifelessness n. 无生命；副词派生 → lifelessly adv. 无生气地。
+### 12. series /ˈsɪriz/ n. 一系列；连续
+- **词根·渊源**：拉丁 **serere**（连接、排列）→ 拉丁 *series*（连续、系列）→ 英语 series；本义“连成串的东西”，引申为“一系列、连续”。
+- **同根词**：serial（ser 连接 + **-ial** …的 = 连续的→连载的）、serialize（serial + **-ize** 动词后缀 = 使连载→连载）、insert（**in-** 进入 + sert 连接 = 插入→插入）、assert（**ad-** 向 + sert 连接 = 连接上去→断言）、desert（**de-** 去除 + sert 连接 = 断开联系→抛弃）。
+- **前缀·后缀**：名词后缀 **-ies**（例：species, rabies）。
+- **同义·反义**：同义 sequence（序列）, succession（连续）；反义 无。
+- **变形**：名词 → 复数：series（单复数同形）；形容词派生 → serial adj. 连续的。
 
-### 8. fuel /ˈfjuːəl/ v. 燃料
-- **词根·渊源**：拉丁 **focus**（炉灶、火）→ 古法语 *fouaille*（柴火）→ 英语 *fuel*；本义“炉灶用的柴火”→燃料→动词“给…加燃料”→助长。
-- **同根词**：focus（拉丁 focus 炉灶→焦点）、focal（focus + **-al** 形容词后缀：焦点的）、refuel（**re-** 再 + fuel 燃料 = 再加油）、fossil fuel（fossil 化石 + fuel 燃料 = 化石燃料）。
-- **前缀·后缀**：前缀 **re-**（例：refuel, rebuild）；无后缀（单纯词）。
-- **同义·反义**：同义 energy（能源）, power（动力）；反义 无。
-- **变形**：动词 → 第三人称单数：fuels；过去式：fueled/fuelled；过去分词：fueled/fuelled；现在分词：fueling/fuelling；名词 → 复数：fuels（作“燃料”义时不可数）；名词派生 → fueling n. 加燃料。
+### 13. atmosphere /ˈætməsˌfɪr/ n. (围绕地球的) 大气
+- **词根·渊源**：希腊 **atmos**（蒸汽、气）+ **sphaira**（球、天球）→ 新拉丁 *atmosphaera* → 英语 atmosphere；本义“包围地球的气球层”，引申为“大气、气氛”。
+- **同根词**：sphere（希腊 sphaira 球→球体）、spherical（sphere + **-ical** …的 = 球形的）、atmospheric（atmosphere + **-ic** …的 = 大气的）、biosphere（**bio-** 生命 + sphere 球 = 生命圈→生物圈）、hemisphere（**hemi-** 半 + sphere 球 = 半球）。
+- **前缀·后缀**：前缀 **atmo-**（例：atmometer）；名词后缀 **-sphere**（例：lithosphere, hydrosphere）。
+- **同义·反义**：同义 air（空气）, ambiance（气氛）；反义 无。
+- **变形**：名词 → 复数：atmospheres；形容词派生 → atmospheric adj. 大气的。
 
-### 9. coal /koʊl/ v. 煤；煤块，煤炭
-- **词根·渊源**：古英语 **col**（炭、煤），与德语 *Kohle* 同源，PIE *g(e)u-lo-*（烧红的炭）；本义“烧红的炭火”→煤。
-- **同根词**：charcoal（**char-** 烧焦 + coal 炭 = 木炭）、coalfield（coal + field 田 = 煤田）、coalmine（coal + mine 矿 = 煤矿）、coaly（coal + **-y** 形容词后缀：含煤的）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 charcoal（木炭）, fuel（燃料）；反义 无。
-- **变形**：名词 → 复数：coals（作“煤”义时不可数）；动词 → 第三人称单数：coals；过去式：coaled；过去分词：coaled；现在分词：coaling；形容词派生 → coaly adj. 含煤的。
+### 14. native /ˈneɪtɪv/ adj. 本地的，当地的
+- **词根·渊源**：拉丁 **nasci / nat-**（出生）→ 拉丁 *nativus*（天生的、出生的）→ 古法语 *natif* → 英语 native；本义“出生地的”，引申为“本地的、当地的”。
+- **同根词**：nation（nat 出生 + **-ion** 名词后缀 = 出生群体→民族）、nature（nat 出生 + **-ure** 名词后缀 = 天生→自然）、natural（nature + **-al** …的 = 自然的）、innate（**in-** 在内 + nat 出生 = 生来就有的→天生的）、prenatal（**pre-** 前 + nat 出生 + **-al** …的 = 出生前的→产前的）。
+- **前缀·后缀**：形容词后缀 **-ive**（例：active, creative）。
+- **同义·反义**：同义 local（本地的）, indigenous（土著的）；反义 foreign（外国的）, alien（外来的）。
+- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → native n. 本地人；名词派生 → nativity n. 出生。
 
-### 10. result /rɪˈzʌlt/ n. 结果；后果
-- **词根·渊源**：拉丁 **re-**（回）+ **saltare**（跳，源自 salire 跳）→ 拉丁 *resultare*（跳回）→ 中世纪拉丁 *resultare*（反弹）→ 英语；本义“弹回来”→反弹产生的结果→结果、后果。
-- **同根词**：insult（**in-** 向 + sult 跳 = 跳向别人→侮辱）、assault（**as-** 向 + sault 跳 = 跳向→攻击）、exult（**ex-** 出 + ult 跳 = 跳出→欢跃）、resilient（**re-** 回 + sil 跳 + **-ent** 形容词后缀：弹回的→有弹性的）、salient（sal 跳 + **-ient** 形容词后缀：跳出的→显著的）。
-- **前缀·后缀**：前缀 **re-**（例：return, react）；名词后缀 **-ult** 存疑（例：无常用同类）。
-- **同义·反义**：同义 outcome（结果）, consequence（后果）；反义 cause（原因）, origin（起源）。
-- **变形**：名词 → 复数：results；动词派生 → result v. 导致、产生；形容词派生 → resultant adj. 作为结果的。
-
-### 11. increase /ɪnˈkris/ n. 增加；增长
-- **词根·渊源**：拉丁 **in-**（向内、加强）+ **crescere**（生长）→ 拉丁 *increscere*（生长起来）→ 古法语 *encreistre* → 英语；本义“长起来”→增加、增长。
-- **同根词**：decrease（**de-** 向下 + crease 生长 = 向下长→减少）、crescent（cresc 生长 + **-ent** 形容词后缀：生长的→新月）、concrete（**con-** 一起 + cret 生长 = 一起长成→具体的、混凝土）、increase（**in-** 加强 + crease 生长 = 增长）、recruit（**re-** 再 + cru 生长 = 再生长→招募新兵）。
-- **前缀·后缀**：前缀 **in-**（例：include, inflate）；名词后缀 **-ease** 存疑（例：无常用同类）。
-- **同义·反义**：同义 growth（增长）, rise（上升）；反义 decrease（减少）, reduction（缩减）。
-- **变形**：名词 → 复数：increases；动词派生 → increase v. 增加；形容词派生 → increasing adj. 增加的；副词派生 → increasingly adv. 越来越。
-
-### 12. sea level /ˈsiː levl/ n. 海平面
-- **同义搭配**：sea surface（海面）/ ocean level（海面高度）
+### 15. the greenhouse effect n. 温室效应
+- **同义搭配**：global warming（全球变暖）/ climate change（气候变化）
 - **反义搭配**：无
 
-### 13. destroy /dɪ'strɔɪ/ v. 摧毁；毁灭
-- **词根·渊源**：拉丁 **de-**（向下、相反）+ **struere**（建造、堆起）→ 拉丁 *destruere*（拆毁建造之物）→ 古法语 *destruire* → 英语；本义“把建起来的东西拆掉”→摧毁、毁灭。
-- **同根词**：destruction（destroy 的名词形式，源自拉丁 destructio：破坏）、construct（**con-** 一起 + struct 建造 = 一起建造→建造）、structure（struct 建造 + **-ure** 名词后缀：建造物→结构）、instruct（**in-** 向内 + struct 建造 = 在头脑中建造→指导）、obstruct（**ob-** 反对 + struct 建造 = 对着建→阻碍）。
-- **前缀·后缀**：前缀 **de-**（例：decrease, decline）；动词后缀 **-oy** 源自法语（例：employ, enjoy）。
-- **同义·反义**：同义 ruin（毁坏）, demolish（拆除）；反义 build（建造）, create（创造）。
-- **变形**：动词 → 第三人称单数：destroys；过去式：destroyed；过去分词：destroyed；现在分词：destroying；名词派生 → destroyer n. 破坏者、驱逐舰；destruction n. 破坏。
+### 16. extreme weather n. 极端天气
+- **同义搭配**：severe weather（恶劣天气）/ harsh weather（恶劣天气）
+- **反义搭配**：mild weather（温和天气）
 
-### 14. nature /ˈneɪtʃə(r)/ n. 自然界；大自然
-- **词根·渊源**：拉丁 **natura**（出生、天性，源自 nasci 出生）→ 古法语 *nature* → 英语；本义“与生俱来的性质”→天性→引申为“产生万物的自然界”。
-- **同根词**：natural（nature + **-al** 形容词后缀：自然的）、native（nat 出生 + **-ive** 形容词后缀：出生的→本地的）、nation（nat 出生 + **-ion** 名词后缀：出生的人群→民族、国家）、innate（**in-** 在内 + nat 出生 + **-ate** 形容词后缀：生来就有的）、prenatal（**pre-** 前 + nat 出生 + **-al** 形容词后缀：出生前的）。
-- **前缀·后缀**：名词后缀 **-ure**（例：culture, picture）；前缀 **in-**（例：innate, inborn）。
-- **同义·反义**：同义 environment（环境）, the wild（野外）；反义 无。
-- **变形**：名词 → 复数：natures（作“大自然”义时不可数）；形容词派生 → natural adj. 自然的；副词派生 → naturally adv. 自然地。
-
-### 15. surface /ˈsɜ:rfɪs/ n. 表面；表层
-- **词根·渊源**：法语 **sur-**（在上）+ **face**（脸、面）→ 法语 *surface* → 英语；本义“在脸上方”→表面、表层。
-- **同根词**：face（拉丁 facies 脸→脸、表面）、facial（face + **-ial** 形容词后缀：面部的）、superficial（**super-** 在上 + fici 面 + **-al** 形容词后缀：表面的→肤浅的）、surpass（**sur-** 超过 + pass 通过 = 超过）、surround（**sur-** 在上 + round 圆 = 围住）。
-- **前缀·后缀**：前缀 **sur-**（例：surpass, surround）；名词后缀 **-face**（例：interface）。
-- **同义·反义**：同义 exterior（外部）, outside（外面）；反义 interior（内部）, inside（里面）。
-- **变形**：名词 → 复数：surfaces；动词派生 → surface v. 浮出水面、显露；形容词派生 → surface adj. 表面的。
-
-### 16. soil /sɔɪl/ n. 泥土，土壤
-- **词根·渊源**：古法语 **soil**（土地、地块），可能源自拉丁 *solium*（座位、地基）或 *solum*（土地、地面）→ 英语；本义“地面、地块”→土壤。
-- **同根词**：subsoil（**sub-** 下 + soil 土 = 底土）、topsoil（top 顶 + soil 土 = 表土）、soil（拉丁 solum 土地→土壤）。
-- **前缀·后缀**：前缀 **sub-**（例：subsoil, submarine）；无后缀（单纯词）。
-- **同义·反义**：同义 earth（泥土）, dirt（泥土）；反义 无。
-- **变形**：名词 → 复数：soils（作“土壤”义时不可数）；动词派生 → soil v. 弄脏；形容词派生 → soily adj. 多土的。
-
-### 17. flood /flʌd/ n. 洪水；水灾
-- **词根·渊源**：古英语 **flōd**（洪水、水流），与 **flōwan**（流动）同源，PIE *pleu-*（流动）；本义“流动的水”→洪水→大量涌来。
-- **同根词**：flow（古英语 flowan 流动→流动）、float（古英语 flotian 漂浮→漂浮）、fleet（古英语 fleot 船队→舰队）、fluent（拉丁 fluere 流动 + **-ent** 形容词后缀：流利的）、fluid（拉丁 fluidus 流动的→流体）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 deluge（洪水）, torrent（激流）；反义 drought（干旱）, ebb（退潮）。
-- **变形**：名词 → 复数：floods；动词派生 → flood v. 淹没、泛滥；形容词派生 → flooded adj. 被淹没的。
-
-### 18. habit /ˈhæbɪt/ n. 习惯
-- **词根·渊源**：拉丁 **habere**（持有、拥有）→ 拉丁 *habitus*（持有的状态、举止）→ 古法语 *abit* → 英语；本义“持有的状态”→一贯的举止→习惯。
-- **同根词**：inhabit（**in-** 在内 + habit 持有 = 持有在内→居住于）、habitat（habit 持有 + **-at** 名词后缀：居住地→栖息地）、habitual（habit + **-ual** 形容词后缀：习惯的）、exhibit（**ex-** 出 + hibit 持有 = 拿出来→展出）、prohibit（**pro-** 前 + hibit 持有 = 挡在前面→禁止）。
-- **前缀·后缀**：名词后缀 **-it**（例：credit, limit）；前缀 **in-**（例：inhabit, include）。
-- **同义·反义**：同义 custom（习俗）, routine（惯例）；反义 无。
-- **变形**：名词 → 复数：habits；形容词派生 → habitual adj. 习惯的；副词派生 → habitually adv. 习惯性地。
-
-### 19. proper /ˈprɑːpər/ adj. 正规的,合适的；恰当的
-- **词根·渊源**：拉丁 **proprius**（自己的、特有的）→ 古法语 *propre* → 英语 proper；本义“属于自己的、固有的”，引申为“合乎本性的→恰当的、正规的”。
-- **同根词**：property（proper + **-ty** 名词后缀 = 自己拥有的东西→财产）、proprietor（propri 自己的 + **-etor** 人 = 拥有者→业主）、appropriate（**ad-** 向 + propri 自己的 = 使之归己→恰当的）、improper（**im-** 不 + proper = 不恰当的）、expropriate（**ex-** 出 + propri 自己的 = 使出自所有→征用）。
-- **前缀·后缀**：形容词后缀 **-er**（例：clever, tender）；否定前缀 **im-**（例：impossible, impolite）。
-- **同义·反义**：同义 suitable（合适的）, correct（正确的）；反义 improper（不恰当的）, wrong（错误的）。
-- **变形**：形容词 → 比较级：more proper；最高级：most proper；副词派生 → properly adv. 恰当地；名词派生 → propriety n. 得体。
-
-### 20. friendly /ˈfrendli/ adj. 无害的
-- **词根·渊源**：古英语 **frēond**（朋友，freon“爱”的现在分词）+ 形容词后缀 **-ly** → 古英语 *freondlic* → 英语 friendly；本义“像朋友一样的”，引申为“友善的→无害的”。
-- **同根词**：friend（freon 爱 + **-d** 分词后缀 = 爱人者→朋友）、friendship（friend + **-ship** 状态 = 朋友关系→友谊）、friendless（friend + **-less** 无 = 无朋友的）、unfriendly（**un-** 不 + friendly = 不友善的）、befriend（**be-** 使 + friend = 使成为朋友→帮助）。
-- **前缀·后缀**：形容词后缀 **-ly**（例：lovely, lonely）；否定前缀 **un-**（例：unhappy, unfair）。
-- **同义·反义**：同义 harmless（无害的）, kind（友善的）；反义 harmful（有害的）, unfriendly（不友善的）。
-- **变形**：形容词 → 比较级：friendlier；最高级：friendliest；名词派生 → friendliness n. 友善；副词派生 → friendlily adv. 友善地。
-
-### 21. recycle /ˌriːˈsaɪkl/ v. 回收利用，循环利用
-- **词根·渊源**：**re-**（再）+ 希腊 **kyklos**（圆圈、轮子）→ 英语 cycle（循环）→ recycle；本义“使再循环”，即“回收利用”。
-- **同根词**：cycle（kyklos 圆圈→循环）、bicycle（**bi-** 二 + cycle 轮 = 两轮车→自行车）、tricycle（**tri-** 三 + cycle 轮 = 三轮车）、cyclone（cycl 圆圈 + **-one** 名词后缀 = 旋转的风→气旋）、recycling（recycle + **-ing** 名词后缀 = 回收利用）。
-- **前缀·后缀**：前缀 **re-**（例：rebuild, rewrite）；名词后缀 **-ing**（例：building, painting）。
-- **同义·反义**：同义 reuse（再利用）, reprocess（再处理）；反义 waste（浪费）, discard（丢弃）。
-- **变形**：动词 → 第三人称单数：recycles；过去式：recycled；过去分词：recycled；现在分词：recycling；名词派生 → recycling n. 回收利用；recycler n. 回收者。
-
-### 22. purpose /ˈpɜ:rpəs/ n. 目的；目标；意图
-- **词根·渊源**：古法语 **porpos**（意图）← **por-**（向前，拉丁 pro-）+ **poser**（放置，拉丁 ponere）→ 英语 purpose；本义“放在前面（要做的事）”，即“目的、意图”。
-- **同根词**：propose（**pro-** 向前 + pose 放 = 放到前面→提议）、proposal（propose + **-al** 名词后缀 = 提议）、pose（放置→摆姿势）、position（posit 放 + **-ion** 名词后缀 = 放置的位置→位置）、compose（**com-** 一起 + pose 放 = 放在一起→组成）。
-- **前缀·后缀**：前缀 **pro-**（例：produce, protect）；名词后缀 **-al**（例：arrival, refusal）。
-- **同义·反义**：同义 aim（目标）, goal（目的）；反义 无。
-- **变形**：名词 → 复数：purposes；形容词派生 → purposeful adj. 有目的的；副词派生 → purposely adv. 故意地。
-
-### 23. solution /səˈluːʃn/ n. 解决办法；处理手段
-- **词根·渊源**：拉丁 **solvere**（松开、解开）的过去分词 *solutus* + **-ion** → 古法语 *solucion* → 英语 solution；本义“解开（难题）”，引申为“解决办法”。
-- **同根词**：solve（solv 松开 + **-e** = 解开→解决）、solvable（solve + **-able** 可…的 = 可解决的）、dissolve（**dis-** 分开 + solve 松开 = 松开分散→溶解）、absolute（**ab-** 离开 + solu 松开 = 松开限制→绝对的）、resolve（**re-** 再 + solve 解开 = 再解开→决心、解决）。
-- **前缀·后缀**：名词后缀 **-ion**（例：action, invention）；前缀 **dis-**（例：discover, disagree）。
-- **同义·反义**：同义 answer（答案）, remedy（补救办法）；反义 problem（问题）, difficulty（困难）。
-- **变形**：名词 → 复数：solutions；动词派生 → solve v. 解决；形容词派生 → soluble adj. 可溶的。
-
-### 24. government /ˈgʌvərnmənt/ n. 政府；内阁
-- **词根·渊源**：希腊 **kybernan**（掌舵）→ 拉丁 *gubernare*（掌舵、治理）→ 古法语 *governer* → 英语 govern + **-ment** → government；本义“掌舵、治理”，引申为“治理机构→政府”。
-- **同根词**：govern（掌舵→治理）、governor（govern + **-or** 人 = 治理者→州长）、governance（govern + **-ance** 名词后缀 = 治理、管理）、ungovernable（**un-** 不 + govern + **-able** 可…的 = 无法治理的）、cybernetic（希腊 kybernan 掌舵 + **-etic** …的 = 控制论的）。
-- **前缀·后缀**：名词后缀 **-ment**（例：movement, development）；否定前缀 **un-**（例：unable, unknown）。
-- **同义·反义**：同义 administration（行政机构）, regime（政权）；反义 无。
-- **变形**：名词 → 复数：governments；形容词派生 → governmental adj. 政府的；动词派生 → govern v. 治理。
-
-### 25. role model /ˈrəʊl mɒdl/ n. 模范，榜样
-- **同义搭配**：example（榜样） / idol（偶像）
+### 17. volcanic eruption n. 火山喷发
+- **同义搭配**：volcanic explosion（火山爆发）/ volcanic outburst（火山喷发）
 - **反义搭配**：无
 
-### 26. greenhouse effect /'ɡriːnhaʊs ɪ'fekt/ n. 温室效应
-- **同义搭配**：global warming（全球变暖） / climate change（气候变化）
+### 18. carbon dioxide n. 二氧化碳
+- **同义搭配**：CO₂（二氧化碳）/ carbonic acid gas（碳酸气）
 - **反义搭配**：无
 
-### 27. in danger /ɪn ˈdeɪndʒə(r)/ prep. 面临危险，处于危险中，处境危险
-- **同义搭配**：at risk（处于危险中） / in peril（处于险境）
-- **反义搭配**：out of danger（脱离危险） / safe（安全的）
+### 19. result in /rɪˈzʌlt ɪn/ v. 造成；导致
+- **同义搭配**：lead to（导致） / bring about（带来；引起） / cause（造成）
+- **反义搭配**：result from（由……造成） / stem from（源于）
 
-### 28. as a result of /æz ə rɪ'zʌlt əv/ prep. 由于
-- **同义搭配**：because of（因为） / due to（由于）
-- **反义搭配**：in spite of（尽管）
+### 20. take action /teɪk ˈækʃn/ v. 采取行动
+- **同义搭配**：act（行动） / do something（做点什么） / take steps（采取措施）
+- **反义搭配**：take no action（不采取行动） / do nothing（无所作为）
 
-### 29. result in /rɪ'zʌlt ɪn/ n. 造成；导致
-- **同义搭配**：lead to（导致） / cause（引起）
-- **反义搭配**：result from（由…引起）
+### 21. public transport /ˈpʌblɪk ˈtrænspɔːt/ n. 公共交通
+- **同义搭配**：public transportation（公共交通） / mass transit（大众运输）
+- **反义搭配**：private transport（私人交通） / private car（私家车）
 
-### 30. mountains of /ˈmaʊntɪnz ɒv/ n. 许多；大量
-- **同义搭配**：lots of（许多） / plenty of（大量）
-- **反义搭配**：few（很少） / little（少量）
+### 22. power plant /ˈpaʊə plɑːnt/ n. 发电站
+- **同义搭配**：power station（发电站） / generating station（发电厂）
+- **反义搭配**：无
 
-### 31. take action /teɪk ˈækʃn/ v. 采取行动
-- **同义搭配**：act（行动） / do something（做点什么）
-- **反义搭配**：do nothing（什么都不做）
+### 23. environmentally friendly /ɪnˌvaɪrənˈmentəli ˈfrendli/ n. 环保的
+- **同义搭配**：eco-friendly（环保的） / green（绿色的；环保的）
+- **反义搭配**：polluting（污染的） / harmful to the environment（对环境有害的）
 
-### 32. make a difference /meɪk ə ˈdɪfərəns/ v. 影响；有作用
-- **同义搭配**：have an effect（有影响） / matter（要紧）
-- **反义搭配**：make no difference（没有影响）
+### 24. global warming /ˈɡləʊbl ˈwɔːmɪŋ/ n. 全球变暖
+- **同义搭配**：climate change（气候变化） / the greenhouse effect（温室效应）
+- **反义搭配**：global cooling（全球变冷）
 
-### 33. act as /ækt æz/ n. 充当
-- **同义搭配**：serve as（充当） / function as（起…作用）
+### 25. a series of /ə ˈsɪəriːz əv/ n. 一系列；一连串
+- **同义搭配**：a succession of（一连串的） / a string of（一连串的） / a range of（一系列的）
 - **反义搭配**：无
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| con- | 共同；一起 | concern | connect, combine, collect, confirm |
-| atmo- | 气；蒸汽 | atmosphere | (存疑：atmo- 构词少) |
-| -er | 人；物 | consumer | teacher, worker, computer, driver |
-| -less | 无；没有 | lifeless | hopeless, careless, endless, useless |
-| re- | 再；回 | recycle | return, rebuild, review, repeat |
-| -tion | 名词后缀：行为/状态 | solution | action, education, information, invention |
-| -ment | 名词后缀：行为/结果 | government | movement, development, agreement, management |
-| -ful | 充满……的 | (扩展) | useful, helpful, careful, beautiful |
-| -ly | 副词/形容词后缀 | friendly | quickly, happily, friendly, lovely |
-| in- | 进入；不 | increase, in danger | include, inside, incorrect, invisible |
-| de- | 向下；去除 | destroy | decrease, decline, depart, delete |
-| sur- | 在上；超过 | surface | super, surpass, survive, surplus |
-| -al | 形容词/名词后缀 | (扩展) | natural, national, arrival, survival |
-| pro- | 向前；赞成 | proper, purpose | progress, protect, produce, promote |
-| -able | 能……的 | (扩展) | comfortable, readable, valuable, suitable |
-| -ous | 充满……的 | (扩展) | dangerous, famous, nervous, curious |
+| -ion | 名词后缀，表行为/状态 | eruption | invention, education, discussion |
+| -en | 动词后缀，使…… | worsen | strengthen, widen, lengthen |
+| re- | 再，重新 | recycle | rebuild, rewrite, return |
+| -er | 名词后缀，表人或物 | heat-wave（wave 为词根） | teacher, worker, computer |
+| -away | 复合词成分，离开 | takeaway | faraway, runaway, giveaway |
+| fur-（forth） | 向前，进一步 | furthermore | forward, forth, forthcoming |
+| -more | 复合词成分，更多 | furthermore | moreover, evermore |
+| -ous | 形容词后缀，充满……的 |（本单元无直接例词） | dangerous, famous, nervous |
+| -ive | 形容词后缀，有……性质的 | native | active, creative, effective |
+| -ment | 名词后缀，表行为/结果 |（本单元无直接例词） | movement, development, agreement |
+| -al | 形容词后缀，……的 | global warming | natural, national, personal |
+| -ly | 副词/形容词后缀 | environmentally friendly | quickly, friendly, carefully |
+| -en（形容词） | ……的 |（本单元无直接例词） | wooden, golden, woolen |
+| -ance | 名词后缀，表状态 |（本单元无直接例词） | importance, distance, performance |
+| -ity | 名词后缀，表性质 |（本单元无直接例词） | activity, ability, reality |
+| -ic | 形容词后缀，……的 | volcanic eruption | historic, scientific, basic |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
 | 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| concern | worry（担心） | indifference（漠不关心） |
-| atmosphere | air（空气） | — |
-| temperature | heat level（温度） | — |
-| consumer | buyer（购买者） | producer（生产者） |
-| guess | suppose（推测） | know（知道） |
-| green | eco-friendly（环保的） | polluting（污染的） |
-| lifeless | dead（无生命的） | living（有生命的） |
-| fuel | energy source（能源） | — |
-| result | outcome（结果） | cause（原因） |
-| increase | rise（增加） | decrease（减少） |
-| destroy | ruin（毁灭） | protect（保护） |
-| nature | environment（自然环境） | — |
-| surface | exterior（表面） | interior（内部） |
-| soil | earth（泥土） | — |
-| flood | deluge（洪水） | drought（干旱） |
-| habit | custom（习惯） | — |
-| proper | suitable（合适的） | improper（不合适的） |
-| friendly | harmless（无害的） | harmful（有害的） |
+| eruption | explosion（爆发） | calm（平静） |
+| entire | whole（全部的） | partial（部分的） |
+| drought | dry spell（干旱期） | flood（洪水） |
+| worsen | deteriorate（恶化） | improve（改善） |
 | recycle | reuse（再利用） | waste（浪费） |
-| purpose | aim（目的） | — |
-| solution | answer（解决办法） | problem（问题） |
-| government | administration（政府） | — |
-| in danger | at risk（处于危险中） | safe（安全的） |
-| take action | act（采取行动） | ignore（忽视） |
+| heat-wave | hot spell（酷热期） | cold wave（寒潮） |
+| takeaway | takeout（外卖） | dine-in（堂食） |
+| furthermore | moreover（此外） | however（然而） |
+| series | sequence（一连串） | single（单个） |
+| atmosphere | air（空气） | — |
+| native | local（本地的） | foreign（外来的） |
+| extreme | severe（极端的） | mild（温和的） |
+| result in | cause（导致） | result from（由……引起） |
+| take action | act（行动） | do nothing（无所作为） |
+| public transport | mass transit（公共交通） | private car（私家车） |
+| environmentally friendly | eco-friendly（环保的） | polluting（污染的） |
+| global warming | climate change（气候变化） | global cooling（全球变冷） |
+| a series of | a chain of（一系列） | — |
 
 ---
 

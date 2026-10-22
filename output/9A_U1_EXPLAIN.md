@@ -1,6 +1,6 @@
-# 9A_U1 说文解字 · Wise men in history
+# 9A_U1 说文解字 · Great people
 
-> 配套 `9A_U1.md`（沪教牛津版 2024/2025 修订，31 条）
+> 配套 `9A_U1.md`（沪教牛津版 2024/2025 修订，25 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
 > 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
@@ -8,267 +8,231 @@
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
-| gold | 金 | 古英语 gold | golden | goldfish, goldsmith, goldmine |
-| crown | 王冠 | 拉丁语 corona（花环、王冠） | crown | coronation, corona, coronal |
-| agree | 同意 | 拉丁语 ad-（向）+ gratus（令人愉快的） | agreement | agreeable, disagree, agreement |
-| firm | 坚固的、确定的 | 拉丁语 firmus（坚固的） | confirmation | confirm, firm, affirm, infirm |
-| doubt | 怀疑 | 拉丁语 dubitare（犹豫） | doubt | doubtful, doubtless, undoubtedly |
-| real | 真实的 | 拉丁语 realis（真实的） | real | reality, realize, really |
-| true | 真实的 | 古英语 trēowe（忠实） | truth | truthful, truly, untrue |
-| solv/solut | 松开、解开 | 拉丁语 solvere（松开） | solve | solution, dissolve, resolve, absolute |
-| plen/fill | 充满 | 古英语 fyllan（填满） | fill | full, fulfill, refill |
-| plac | 地方、放置 | 拉丁语 platea（广场） | displace | place, replace, placement |
-| cert | 确定的 | 拉丁语 certus（确定的） | certain | certainly, certainty, certify |
-| pris | 抓住、关押 | 拉丁语 prehendere（抓住） | prison | prisoner, imprison, capture |
-| punct | 点、刺 | 拉丁语 punctus（点） | punctuation | punctual, puncture, point |
-| rect | 直的、正确的 | 拉丁语 rectus（直的） | correct | direct, rectangle, erect |
-| mit/miss | 送、放 | 拉丁语 mittere（送） | mistake | mission, submit, permit, admit |
+| stand | 站；立 | 古英语 standan | outstanding | stand, standard, understand, withstand |
+| class | 等级；类别 | 拉丁语 classis（罗马人的等级划分） | classical | class, classify, classic, classroom |
+| ordin | 顺序；次序 | 拉丁语 ordo/ordinis | ordinary | order, ordinary, coordinate, disorder |
+| lum/lamp | 光；灯 | 希腊语 lampas（火炬）经拉丁语 lampas | lamp | lamp, lantern, lamp-post |
+| poet | 创造；制作 | 希腊语 poiein（制作） | poet | poet, poetry, poem, poetic |
+| vinc | 征服；克服 | 拉丁语 vincere | convinced | convince, invincible, victory（同源存疑）, convict |
+| soph | 智慧 | 希腊语 sophos（聪明的） | philosopher | philosophy, sophisticated, sophomore |
+| drama | 动作；戏剧 | 希腊语 dran（做、行动） | dramatist | drama, dramatic, dramatize |
+| jud/jur | 判断；法律 | 拉丁语 judicare（判断） | judgement | judge, judicial, prejudice, justice |
+| val/valu | 价值；强壮 | 拉丁语 valere（有价值、强健） | evaluation | value, valid, valuable, evaluate |
+| sid/sed | 坐 | 拉丁语 sedere | consider | consider, president, resident, sediment |
+| sign | 标记；记号 | 拉丁语 signum | significant | sign, signal, design, signature |
+| mil | 千 | 拉丁语 mille | milestone | mile, million, millimeter, millennium |
+| man | 手 | 拉丁语 manus | manage | manual, manufacture, manuscript, manipulate |
+| tract | 拉；拖 | 拉丁语 trahere/tractus | concentrated（存疑，一说源自 centrum“中心”） | attract, contract, extract, tractor |
+| cred | 相信 | 拉丁语 credere | belief（同义根 cred，belief 本身为日耳曼语源） | credit, incredible, credible, creed |
 
 ## 二、逐词说文解字
 
-### 1. golden /ˈɡoʊldən/ adj. 金的；金色的；金黄色的
-- **词根·渊源**：日耳曼语 **gulth-**（金）→ 古英语 *gold*（金）+ 形容词后缀 **-en**（由……制成的）→ 中古英语 *golden*，本义“金子做的”，引申为“金色的、金黄色的”。
-- **同根词**：gold（**gold** 金 + 零后缀 = 金子）、goldfish（gold 金 + fish 鱼 = 金鱼）、goldmine（gold 金 + mine 矿 = 金矿）、goldsmith（gold 金 + smith 匠 = 金匠）。
-- **前缀·后缀**：形容词后缀 **-en**（例：wooden, woolen）。
-- **同义·反义**：同义 gold（金色的）, auric（金的）；反义 无。
-- **变形**：形容词 → 比较级：more golden；最高级：most golden；名词派生 → goldenness n. 金色、宝贵；副词派生 → goldenly adv. 金色地（罕用）。
+### 1. outstanding /ˌaʊtˈstændɪŋ/ adj. 优秀的；杰出的
+- **词根·渊源**：古英语 **ūt**（出、向外）+ **standan**（站立）+ 后缀 **-ing**，本义“站出来的、突出的”，引申为“优秀的、杰出的”。
+- **同根词**：outstandingly（outstanding + **-ly** 副词后缀：杰出地）、stand（古英语 standan 站立：站）、understand（**under-** 在下 + stand 站 = 站在下面→理解）、withstand（**with-** 对抗 + stand 站 = 站住对抗→抵抗）、outstandingness（outstanding + **-ness** 名词后缀：杰出）。
+- **前缀·后缀**：前缀 **out-**（例：outcome, outside）；后缀 **-ing**（例：interesting, exciting）。
+- **同义·反义**：同义 excellent（优秀的）, remarkable（卓越的）；反义 ordinary（普通的）, mediocre（平庸的）。
+- **变形**：形容词 → 比较级：more outstanding；最高级：most outstanding；副词派生 → outstandingly adv. 杰出地；名词派生 → outstandingness n. 杰出。
 
-### 2. crown /kraʊn/ n. 王冠；皇冠
-- **词根·渊源**：拉丁 **corona**（花环、冠）→ 古法语 *corone* → 中古英语 *coroune*，本义“戴在头上的花环”，引申为“王冠、皇冠”。
-- **同根词**：corona（**coron-** 冠 + **-a** = 冠、日冕）、coronate（coron 冠 + **-ate** 动词化 = 给……加冕）、coronation（coron 冠 + **-ation** 名词化 = 加冕礼）、coronet（coron 冠 + **-et** 小 = 小冠冕）。
-- **前缀·后缀**：名词后缀 **-et**（例：floweret, pocket）。
-- **同义·反义**：同义 diadem（王冠）, tiara（冠冕）；反义 无。
-- **变形**：名词 → 复数：crowns；动词派生 → crown v. 为……加冕；形容词派生 → crowned adj. 戴冠的；crownless adj. 无冠的。
+### 2. old-fashioned /ˌoʊldˈfæʃənd/ adj. 陈旧的；过时的
+- **词根·渊源**：**old**（古英语 eald 老的）+ **fashion**（古法语 façon 做法、样式，源自拉丁 factio 制作）+ 后缀 **-ed**，本义“按老样式做的”，引申为“过时的”。
+- **同根词**：fashion（古法语 façon 做法→样式：时尚）、fashionable（fashion + **-able** 能…的：时髦的）、olden（old + **-en** 形容词后缀：古老的）、oldish（old + **-ish** 稍…的：稍老的）、fashionably（fashionable + **-ly** 副词后缀：时髦地）。
+- **前缀·后缀**：无前缀；后缀 **-ed**（例：talented, gifted）。
+- **同义·反义**：同义 outdated（过时的）, out-of-date（过时的）；反义 modern（现代的）, fashionable（时髦的）。
+- **变形**：形容词 → 比较级：more old-fashioned；最高级：most old-fashioned；名词派生 → old-fashionedness n. 过时。
 
-### 3. Olympics /oʊ'lɪmpɪks/ n. 奥运会；奥林匹克运动会
-- **词根·渊源**：希腊 **Olympia**（奥林匹亚，古希腊祭祀宙斯之地）→ 希腊 *Olympikos*（奥林匹亚的）→ 拉丁 *Olympicus* → 英语 *Olympic* + 复数 **-s**，本义“奥林匹亚的竞技会”，引申为“奥运会”。
-- **同根词**：Olympic（**Olymp-** 奥林匹亚 + **-ic** ……的 = 奥林匹克的）、Olympian（Olymp + **-ian** ……的人/神的 = 奥林匹斯山的、威严的）、Olympiad（Olymp + **-ad** 周期 = 四年周期、奥运会）。
-- **前缀·后缀**：形容词后缀 **-ic**（例：historic, basic）；名词后缀 **-ian**（例：musician, historian）。
-- **同义·反义**：同义 the Olympic Games（奥运会）；反义 无。
-- **变形**：名词 → 复数：Olympics（作“奥运会”义时复数）；形容词派生 → Olympic adj. 奥林匹克的；Olympian adj. 奥林匹斯山的、威严的。
+### 3. classical /ˈklæsɪkəl/ adj. 古典的；经典的
+- **词根·渊源**：拉丁 **classis**（等级、班级）→ 拉丁 *classicus*（第一等级的、优秀的）→ 英语 classic + 后缀 **-al**，本义“属于最高等级的”，引申为“古典的、经典的”。
+- **同根词**：class（拉丁 classis 等级：班级）、classic（class + **-ic** …的：经典的）、classify（class + **-ify** 使…化 = 按等级分→分类）、classicist（classic + **-ist** 人：古典主义者）、classically（classical + **-ly** 副词后缀：古典地）。
+- **前缀·后缀**：无前缀；后缀 **-al**（例：natural, musical）。
+- **同义·反义**：同义 classic（经典的）, traditional（传统的）；反义 modern（现代的）, contemporary（当代的）。
+- **变形**：形容词 → 比较级：more classical；最高级：most classical；副词派生 → classically adv. 古典地；名词派生 → classicality n. 古典性。
 
-### 4. agreement /əˈɡrimənt/ n.（意见或看法）一致；同意；应允
-- **词根·渊源**：拉丁 **gratus**（令人愉快的）→ 古法语 *agreer*（使高兴、同意）→ 英语 *agree* + 名词后缀 **-ment**，本义“使彼此高兴、合意”，引申为“一致、同意”。
-- **同根词**：agree（**a-** 向 + gree 喜悦 = 合意→同意）、agreeable（agree + **-able** 可……的 = 令人愉快的、同意的）、disagree（**dis-** 不 + agree = 不同意）、disagreement（dis + agree + **-ment** = 分歧）。
-- **前缀·后缀**：名词后缀 **-ment**（例：movement, development）；否定前缀 **dis-**（例：dislike, disappear）。
-- **同义·反义**：同义 consent（同意）, accord（一致）；反义 disagreement（分歧）, dispute（争执）。
-- **变形**：名词 → 复数：agreements；动词派生 → agree v. 同意；形容词派生 → agreeable adj. 令人愉快的、同意的；副词派生 → agreeably adv. 愉快地。
+### 4. ordinary /ˈɔrdəˌnɛri/ adj. 普通的；平凡的
+- **词根·渊源**：拉丁 **ordo / ordin-**（顺序、次序）→ 拉丁 *ordinarius*（按常规的）→ 古法语 *ordinarie* → 英语，本义“按常规次序的”，引申为“普通的、平凡的”。
+- **同根词**：order（拉丁 ordo 顺序：顺序、命令）、ordinate（ordin + **-ate** 使…：使按次序→纵坐标）、ordination（ordin + **-ation** 名词后缀：按次序排列→授职）、ordinarily（ordinary + **-ly** 副词后缀：通常地）、extraordinary（**extra-** 超出 + ordinary 普通 = 超出普通的→非凡的）。
+- **前缀·后缀**：无前缀；后缀 **-ary**（例：necessary, military）。
+- **同义·反义**：同义 common（普通的）, usual（通常的）；反义 extraordinary（非凡的）, unusual（不寻常的）。
+- **变形**：形容词 → 比较级：more ordinary；最高级：most ordinary；副词派生 → ordinarily adv. 通常地；名词派生 → ordinariness n. 普通。
 
-### 5. confirmation /ˌkɑːnfərˈmeɪʃn/ n. 确认，确定；证实，证明；批准，许可
-- **词根·渊源**：拉丁 **firmus**（坚固的）→ 拉丁 *confirmare*（使坚固、证实）→ 古法语 *confirmer* → 英语 *confirm* + 名词后缀 **-ation**，本义“使坚固、坐实”，引申为“确认、证实、批准”。
-- **同根词**：confirm（**con-** 加强 + firm 坚固 = 使坚固→确认）、firm（**firm** 坚固的 = 坚固的、公司）、firmly（firm + **-ly** 地 = 坚定地）、infirm（**in-** 不 + firm 坚固 = 虚弱的）、affirm（**af-** 向 + firm = 断言、肯定）。
-- **前缀·后缀**：名词后缀 **-ation**（例：information, education）；加强前缀 **con-**（例：connect, conclude）；否定前缀 **in-**（例：incorrect, invisible）。
-- **同义·反义**：同义 verification（证实）, approval（批准）；反义 denial（否认）, rejection（拒绝）。
-- **变形**：名词 → 复数：confirmations；动词派生 → confirm v. 确认；形容词派生 → confirmatory adj. 证实的；confirmed adj. 已确认的。
-
-### 6. pot /pɒt/ n.（盛食品的）罐，瓶，壶
-- **词根·渊源**：古英语 **pott**（罐、壶），与古法语 *pot* 同源，可能借自拉丁 *pottus*（饮器，存疑），本义“陶制容器”，引申为“罐、瓶、壶”。
-- **同根词**：potter（**pot** 罐 + **-er** 人 = 制陶人）、pottery（potter + **-y** 场所/技艺 = 陶器、陶艺）、potful（pot + **-ful** 满 = 一罐之量）、potbelly（pot 罐 + belly 腹 = 大肚皮）。
-- **前缀·后缀**：名词后缀 **-er**（例：teacher, worker）；名词后缀 **-ful**（例：handful, mouthful）。
-- **同义·反义**：同义 jar（罐）, vessel（容器）；反义 无。
-- **变形**：名词 → 复数：pots；动词派生 → pot v. 把……栽入盆中；形容词派生 → potted adj. 盆栽的、罐装的。
-
-### 7. doubt /daʊt/ v. 不能肯定；对......无把握；怀疑，不确定；不信任
-- **词根·渊源**：拉丁 **duo**（二）→ 拉丁 *dubitare*（在二者间摇摆）→ 古法语 *douter* → 中古英语 *douten*，本义“在两种看法间摇摆”，引申为“怀疑、不确定”。
-- **同根词**：doubtful（**doubt** 怀疑 + **-ful** 充满……的 = 怀疑的）、doubtless（doubt + **-less** 无 = 无疑的）、dubious（拉丁 dub 二 + **-ious** ……的 = 可疑的）、dubitate（dubit 摇摆 + **-ate** = 犹豫，罕用）。
-- **前缀·后缀**：形容词后缀 **-ful**（例：careful, helpful）；形容词后缀 **-less**（例：hopeless, careless）。
-- **同义·反义**：同义 question（质疑）, suspect（怀疑）；反义 believe（相信）, trust（信任）。
-- **变形**：动词 → 第三人称单数：doubts；过去式：doubted；过去分词：doubted；现在分词：doubting；名词派生 → doubt n. 怀疑；形容词派生 → doubtful adj. 怀疑的；副词派生 → doubtfully adv. 怀疑地。
-
-### 8. real /ˈriːəl/ adj. 真的；正宗的；真实的
-- **词根·渊源**：拉丁 **res**（事物）→ 晚期拉丁 *realis*（事物的、真实的）→ 古法语 *reel* → 英语 *real*，本义“属于事物的、实际存在的”，引申为“真的、真实的”。
-- **同根词**：reality（**real** 真实 + **-ity** 性质 = 现实）、realize（real + **-ize** 使……化 = 使真实→意识到）、really（real + **-ly** 地 = 真正地）、unreal（**un-** 不 + real = 不真实的）、surreal（**sur-** 超 + real = 超现实的）。
-- **前缀·后缀**：名词后缀 **-ity**（例：activity, ability）；动词后缀 **-ize**（例：modernize, organize）；否定前缀 **un-**（例：unhappy, unfair）。
-- **同义·反义**：同义 true（真实的）, genuine（真正的）；反义 fake（假的）, unreal（不真实的）。
-- **变形**：形容词 → 比较级：more real；最高级：most real；名词派生 → reality n. 现实；副词派生 → really adv. 真正地；动词派生 → realize v. 意识到、实现。
-
-### 9. truth /truθ/ n. 事实，真相；真实性；真理，原理；的确，事实上
-- **词根·渊源**：古英语 **treowth**（忠诚、真实），由 *treowe*（忠诚的，即 true）+ 名词后缀 **-th** 构成，本义“忠诚、可信”，引申为“真相、真理”。
-- **同根词**：true（**true** 真实的 = 真的）、truthful（truth + **-ful** 充满……的 = 诚实的）、truthless（truth + **-less** 无 = 不忠的）、troth（同源，**troth** 忠诚 = 誓言，古语）、trust（同源日耳曼 *traust* 信任 = 信任）。
-- **前缀·后缀**：名词后缀 **-th**（例：warmth, length）；形容词后缀 **-ful**（例：useful, peaceful）。
-- **同义·反义**：同义 fact（事实）, reality（真实）；反义 lie（谎言）, falsehood（虚假）。
-- **变形**：名词 → 复数：truths；形容词派生 → true adj. 真的；truthful adj. 诚实的；副词派生 → truly adv. 真正地；truthfully adv. 诚实地。
-
-### 10. seem /siːm/ v. 似乎；好像
-- **词根·渊源**：古诺斯语 **sœma**（适合、相称）→ 中古英语 *semen*，本义“显得相称、合适”，引申为“似乎、好像”。
-- **同根词**：seemly（**seem** 相称 + **-ly** ……的 = 得体的）、unseemly（**un-** 不 + seemly = 不得体的）、seeming（seem + **-ing** ……的 = 表面上的）。
-- **前缀·后缀**：形容词后缀 **-ly**（例：friendly, lovely）；否定前缀 **un-**（例：unable, untrue）。
-- **同义·反义**：同义 appear（似乎）, look（看起来）；反义 无。
-- **变形**：动词 → 第三人称单数：seems；过去式：seemed；过去分词：seemed；现在分词：seeming；形容词派生 → seeming adj. 表面上的；副词派生 → seemingly adv. 表面上、看来。
-
-### 11. solve /sɑ:lv/ v. 解决，处理；解释，解答
-- **词根·渊源**：拉丁 **solvere**（松开、解开）→ 拉丁 *solvere* 的过去分词 *solutus* → 英语 *solve*，本义“把结解开”，引申为“解决、解答”。
-- **同根词**：solution（**solut-** 解开 + **-ion** 名词化 = 解决办法）、soluble（solu 解开 + **-ble** 可……的 = 可溶的、可解的）、dissolve（**dis-** 分开 + solve 解开 = 溶解）、absolve（**ab-** 离开 + solve 解开 = 赦免）、solvent（solv 解开 + **-ent** ……的 = 有溶解力的、溶剂）。
-- **前缀·后缀**：名词后缀 **-ion**（例：action, invention）；形容词后缀 **-ble**（例：visible, possible）；前缀 **dis-**（例：discover, dismiss）。
-- **同义·反义**：同义 resolve（解决）, settle（处理）；反义 complicate（使复杂）, confuse（使混乱）。
-- **变形**：动词 → 第三人称单数：solves；过去式：solved；过去分词：solved；现在分词：solving；名词派生 → solution n. 解决办法；形容词派生 → solvable adj. 可解决的。
-
-### 12. fill /fɪl/ v.（使）充满；装满，占满
-- **词根·渊源**：古英语 **fyllan**（使满），与 *full*（满的）同源，日耳曼语 **full-**（满），本义“使变满”，引申为“充满、装满”。
-- **同根词**：full（**full** 满的 = 满的）、fully（full + **-ly** 地 = 完全地）、fill（fill 满 = 装满）、filler（fill + **-er** 物 = 填充物）、refill（**re-** 再 + fill = 再装满）、fulfill（**ful** 满 + fill 填 = 履行、实现）。
-- **前缀·后缀**：名词后缀 **-er**（例：worker, teacher）；前缀 **re-**（例：return, rebuild）。
-- **同义·反义**：同义 load（装满）, pack（塞满）；反义 empty（倒空）, drain（排空）。
-- **变形**：动词 → 第三人称单数：fills；过去式：filled；过去分词：filled；现在分词：filling；名词派生 → filler n. 填充物；形容词派生 → filled adj. 充满的；full adj. 满的。
-
-### 13. bowl /bəʊl/ n. 碗；盆
-- **词根·渊源**：古英语 **bolla**（碗、杯），与古诺斯语 *bolli* 同源，日耳曼语 **bul-**（圆鼓之物），本义“圆鼓的容器”，引申为“碗、盆”。
-- **同根词**：bowling（**bowl** 球 + **-ing** 名词化 = 保龄球，由“滚球”义来）、bowler（bowl + **-er** 人 = 投球手）、bowlful（bowl + **-ful** 满 = 一碗之量）。
-- **前缀·后缀**：名词后缀 **-ing**（例：swimming, building）；名词后缀 **-ful**（例：spoonful, cupful）。
-- **同义·反义**：同义 basin（盆）, dish（碟）；反义 无。
-- **变形**：名词 → 复数：bowls；动词派生 → bowl v. 投球、滚球；形容词派生 → bowl-like adj. 碗状的。
-
-### 14. displace /dɪsˈpleɪs/ v. 取代，代替
-- **词根·渊源**：拉丁 **platea**（宽街、场地）→ 古法语 *place*（地方）→ 英语 *place* + 前缀 **dis-**（离开），本义“使离开原位”，引申为“取代、代替”。
-- **同根词**：place（**place** 地方 = 地方、放置）、displacement（displace + **-ment** 名词化 = 取代、位移）、replace（**re-** 回 + place = 放回→取代）、misplace（**mis-** 错 + place = 放错地方）、placement（place + **-ment** = 安置）。
-- **前缀·后缀**：前缀 **dis-**（例：disappear, disagree）；前缀 **re-**（例：return, rebuild）；名词后缀 **-ment**（例：movement, agreement）。
-- **同义·反义**：同义 replace（取代）, supplant（替代）；反义 restore（恢复）, reinstate（复位）。
-- **变形**：动词 → 第三人称单数：displaces；过去式：displaced；过去分词：displaced；现在分词：displacing；名词派生 → displacement n. 取代、位移；形容词派生 → displaced adj. 流离失所的。
-
-### 15. less /lɛs/ adj. 较少的，更少的
-- **词根·渊源**：古英语 **lǣssa**（更小的、更少的），日耳曼语 **lais-**（小），是 *little* 的比较级形式，本义“更小”，引申为“较少的”。
-- **同根词**：lessen（**less** 少 + **-en** 使…… = 减少）、lesser（less + **-er** 比较 = 较小的）、unless（**un-** 不 + less 少 = 除非）、least（同源，**least** 最小 = 最少）。
-- **前缀·后缀**：动词后缀 **-en**（例：widen, strengthen）；否定前缀 **un-**（例：unfair, unable）。
-- **同义·反义**：同义 fewer（更少的）, smaller（更小的）；反义 more（更多的）, greater（更大的）。
-- **变形**：形容词 → 比较级：less（本身即比较级）；最高级：least；动词派生 → lessen v. 减少；副词派生 → less adv. 更少地。
-
-### 16. metal /ˈmetl/ adj. 金属；金属制的
-- **词根·渊源**：希腊 **metallon**（矿、金属）→ 拉丁 *metallum*（金属、矿）→ 古法语 *metal* → 英语 *metal*，本义“从矿中采出之物”，引申为“金属、金属制的”。
-- **同根词**：metallic（**metal** 金属 + **-ic** ……的 = 金属的）、metallurgy（metall 金属 + **-urgy** 工艺 = 冶金学）、metalloid（metal + **-oid** 像……的 = 类金属）。
-- **前缀·后缀**：形容词后缀 **-ic**（例：basic, historic）；后缀 **-oid**（例：humanoid, android）。
-- **同义·反义**：同义 metallic（金属的）；反义 nonmetal（非金属的）。
-- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → metal n. 金属；形容词派生 → metallic adj. 金属的。
-
-### 17. certain /ˈsɜ:rtn/ adj. 确定的；无疑的；肯定的
-- **词根·渊源**：拉丁 **cernere**（分辨、判定）→ 拉丁 *certus*（已判定的、确定的）→ 古法语 *certain* → 英语 *certain*，本义“已判定清楚的”，引申为“确定的、无疑的”。
-- **同根词**：certainly（**certain** 确定 + **-ly** 地 = 当然）、certainty（certain + **-ty** 性质 = 确定性）、uncertain（**un-** 不 + certain = 不确定的）、certify（cert 确定 + **-ify** 使…… = 证明）、certificate（cert 确定 + **-ificate** 名词化 = 证书）。
-- **前缀·后缀**：副词后缀 **-ly**（例：quickly, happily）；名词后缀 **-ty**（例：safety, beauty）；否定前缀 **un-**（例：unhappy, unknown）。
-- **同义·反义**：同义 sure（确定的）, definite（明确的）；反义 uncertain（不确定的）, doubtful（怀疑的）。
-- **变形**：形容词 → 比较级：more certain；最高级：most certain；名词派生 → certainty n. 确定性；副词派生 → certainly adv. 当然、确定地。
-
-### 18. prison /ˈprɪzn/ n. 监狱；牢狱
-- **词根·渊源**：拉丁 **prehendere**（抓住）→ 拉丁 *prehensio*（抓取）→ 古法语 *prison*（囚禁），本义“被抓、被囚”，引申为“监狱、牢狱”。
-- **同根词**：prisoner（**prison** 监狱 + **-er** 人 = 囚犯）、imprison（**im-** 进入 + prison = 关进监狱→监禁）、apprehend（**ap-** 向 + prehend 抓 = 抓住→逮捕、理解）、comprehend（**com-** 完全 + prehend 抓 = 完全抓住→理解）。
-- **前缀·后缀**：名词后缀 **-er**（例：worker, teacher）；前缀 **im-**（例：import, imprison）；前缀 **com-**（例：connect, combine）。
-- **同义·反义**：同义 jail（监狱）, cell（牢房）；反义 freedom（自由）, liberty（自由）。
-- **变形**：名词 → 复数：prisons；动词派生 → imprison v. 监禁；名词派生 → prisoner n. 囚犯。
-
-### 19. boxing /ˈbɑːksɪŋ/ v. 拳击（运动）
-- **词根·渊源**：英语 **box**（击打，原为动词“用拳打”）+ 动名词后缀 **-ing**；box 的“击打”义可能源自中古英语 *boxen*，与荷兰语 *boken*（打）同源，存疑；本义“用拳头击打”引申为“拳击运动”。
-- **同根词**：box（**box** 击打 + 无后缀 = 用拳打→拳击）、boxer（box 拳击 + **-er** 人 = 拳击手）、boxing glove（boxing 拳击 + glove 手套 = 拳击手套）。
-- **前缀·后缀**：动名词后缀 **-ing**（例：running, swimming）。
-- **同义·反义**：同义 pugilism（拳击术）, fighting（搏斗）；反义 无。
-- **变形**：动词 → 第三人称单数：boxes；过去式：boxed；过去分词：boxed；现在分词：boxing；名词派生 → boxer n. 拳击手；boxing n. 拳击运动。
-
-### 20. racing /ˈreɪsɪŋ/ v. 赛马；竞赛；赛马（运动）
-- **词根·渊源**：古诺斯语 *rás*（奔跑、冲刺）→ 中古英语 *race*（快速奔跑）→ 英语 **race**（竞赛）+ 动名词后缀 **-ing**；本义“快速奔跑”引申为“赛马、竞赛”。
-- **同根词**：race（**race** 奔跑 + 无后缀 = 快速奔跑→竞赛）、racer（race 竞赛 + **-er** 人 = 参赛者）、racehorse（race 赛马 + horse 马 = 赛马用的马）。
-- **前缀·后缀**：动名词后缀 **-ing**（例：walking, driving）。
-- **同义·反义**：同义 competing（竞争）, contesting（竞赛）；反义 无。
-- **变形**：动词 → 第三人称单数：races；过去式：raced；过去分词：raced；现在分词：racing；名词派生 → racer n. 参赛者；racing n. 赛马运动。
-
-### 21. wrestling /ˈreslɪŋ/ v. 摔跤；格斗；摔跤运动
-- **词根·渊源**：古英语 *wrǣstlian*（扭打、摔跤）→ 中古英语 *wrastlen* → 英语 **wrestle**（摔跤）+ 动名词后缀 **-ing**；本义“扭拧、用力扳倒”引申为“摔跤运动”。
-- **同根词**：wrestle（**wrestle** 扭打 + 无后缀 = 扭打→摔跤）、wrestler（wrestle 摔跤 + **-er** 人 = 摔跤手）、wrist（与 wrestle 同出日耳曼语 *wristiz* 扭关节→手腕）。
-- **前缀·后缀**：动名词后缀 **-ing**（例：fighting, struggling）。
-- **同义·反义**：同义 grappling（扭斗）, fighting（格斗）；反义 无。
-- **变形**：动词 → 第三人称单数：wrestles；过去式：wrestled；过去分词：wrestled；现在分词：wrestling；名词派生 → wrestler n. 摔跤手；wrestling n. 摔跤运动。
-
-### 22. hit /hɪt/ v. 到达；击中；碰撞
-- **词根·渊源**：古英语 *hyttan*（遇见、碰击）→ 中古英语 *hitten* → 英语 **hit**；本义“碰击、打中”引申为“到达（某地）”；词源存疑，可能与古诺斯语 *hitta*（遇见）有关。
-- **同根词**：hitter（hit 击打 + **-er** 人 = 击打者）、hitman（hit 打击 + man 人 = 职业杀手）、hit-and-run（hit 撞 + and 和 + run 跑 = 撞了就跑的）。
+### 5. lamp /læmp/ n. 灯
+- **词根·渊源**：希腊 **lampas**（火炬、灯）→ 拉丁 *lampas* → 古法语 *lampe* → 英语，本义“火炬、照明物”，引申为“灯”。
+- **同根词**：lamplight（lamp + light 光：灯光）、lampshade（lamp + shade 罩：灯罩）、lamppost（lamp + post 柱：灯柱）、lamplit（lamp + **-lit** 被照的：灯光照亮的）、lampoon（法语 lampon 嘲讽歌，可能与 lamp 同源，存疑：讽刺文）。
 - **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 strike（打击）, knock（敲击）；反义 miss（错过）。
-- **变形**：动词 → 第三人称单数：hits；过去式：hit；过去分词：hit；现在分词：hitting；名词派生 → hitter n. 击打者；hit n. 打击、热门。
+- **同义·反义**：同义 light（灯）, lantern（灯笼）；反义 无。
+- **变形**：名词 → 复数：lamps；形容词派生 → lamplit adj. 灯光照亮的。
 
-### 23. brave /breɪv/ adj. 勇敢的；无畏的
-- **词根·渊源**：意大利语 *bravo*（勇敢的）→ 法语 *brave*（勇敢的）→ 英语 **brave**；本义“野蛮的、凶猛的”经法语转为“勇敢的”；与 barbarous 同出拉丁 *barbarus*（外邦的），存疑。
-- **同根词**：bravery（brave 勇敢 + **-ery** 名词后缀 = 勇敢）、bravely（brave 勇敢 + **-ly** 副词后缀 = 勇敢地）、bravado（brave 勇敢 + **-ado** 西班牙语名词后缀 = 虚张声势）。
-- **前缀·后缀**：形容词后缀 **-ly** 构成副词（例：quickly, safely）；名词后缀 **-ery**（例：bakery, bravery）。
-- **同义·反义**：同义 courageous（勇敢的）, bold（大胆的）；反义 cowardly（胆小的）, timid（胆怯的）。
-- **变形**：形容词 → 比较级：braver；最高级：bravest；名词派生 → bravery n. 勇敢；副词派生 → bravely adv. 勇敢地。
+### 6. poet /poʊət/ n. 诗人
+- **词根·渊源**：希腊 **poiein**（制作、创作）→ 希腊 *poiētēs*（创作者）→ 拉丁 *poeta* → 古法语 *poete* → 英语，本义“创作者”，引申为“诗人”。
+- **同根词**：poem（希腊 poiēma 创作物：诗）、poetry（poet + **-ry** 集合名词后缀：诗歌）、poetic（poet + **-ic** …的：诗的）、poetically（poetic + **-ally** 副词后缀：诗意地）、poetess（poet + **-ess** 女性后缀：女诗人）。
+- **前缀·后缀**：无前缀；后缀 **-et**（借自法语，例：ballet, bouquet）。
+- **同义·反义**：同义 versifier（作诗者）, bard（吟游诗人）；反义 无。
+- **变形**：名词 → 复数：poets；形容词派生 → poetic adj. 诗的；副词派生 → poetically adv. 诗意地。
 
-### 24. punctuation /ˌpʌŋktʃuˈeɪʃn/ n. 标点；标点符号
-- **词根·渊源**：拉丁 **punctum**（点，刺）→ 中世纪拉丁 *punctuatio*（加标点）→ 英语 **punctuation**；本义“在文中加点”引申为“标点符号”。
-- **同根词**：punctual（punct 点 + **-ual** 形容词后缀 = 准时的）、puncture（punct 刺 + **-ure** 名词后缀 = 刺孔）、punctate（punct 点 + **-ate** 形容词后缀 = 有斑点的）、point（与 punct 同出拉丁 *punctum* 点→点）。
-- **前缀·后缀**：名词后缀 **-ation**（例：information, education）。
-- **同义·反义**：同义 marks（符号）, symbols（标记）；反义 无。
-- **变形**：名词 → 复数：punctuations（多作不可数）；形容词派生 → punctuational adj. 标点的；动词派生 → punctuate v. 加标点。
+### 7. convinced /kənˈvɪnst/ adj. 坚信的；确信的
+- **词根·渊源**：拉丁 **vincere**（征服）→ 拉丁 *convincere*（彻底征服、证明有罪）→ 古法语 *convaincre* → 英语 convince + 后缀 **-ed**，本义“被说服征服的”，引申为“确信的”。
+- **同根词**：convince（**con-** 完全 + vinc 征服 = 彻底说服→使确信）、convincing（convince + **-ing** …的：有说服力的）、invincible（**in-** 不 + vinc 征服 + **-ible** 可…的 = 不可征服的→无敌的）、victory（拉丁 victoria 胜利：胜利）、victor（拉丁 victor 征服者：胜利者）。
+- **前缀·后缀**：前缀 **con-**（例：connect, confirm）；后缀 **-ed**（例：interested, excited）。
+- **同义·反义**：同义 certain（确信的）, sure（确定的）；反义 doubtful（怀疑的）, uncertain（不确定的）。
+- **变形**：形容词 → 比较级：more convinced；最高级：most convinced；动词派生 → convince v. 使确信；名词派生 → conviction n. 确信。
 
-### 25. correct /kəˈrekt/ adj. 正确的，准确无误的；恰当的，合适的
-- **词根·渊源**：拉丁 **cor-**（加强）+ **rect-**（直、正）→ 拉丁 *correctus*（改正的）→ 英语 **correct**；本义“弄直、改正”引申为“正确的”。
-- **同根词**：correction（correct 改正 + **-ion** 名词后缀 = 改正）、correctly（correct 正确 + **-ly** 副词后缀 = 正确地）、direct（**di-** 加强 + rect 直 = 直接的）、erect（**e-** 出 + rect 直 = 竖立的）、rectangle（rect 直 + angle 角 = 直角→长方形）。
-- **前缀·后缀**：前缀 **cor-**（例：correspond, corrupt）；词根 **rect**（例：direct, erect）。
-- **同义·反义**：同义 right（正确的）, accurate（准确的）；反义 wrong（错误的）, incorrect（不正确的）。
-- **变形**：形容词 → 比较级：more correct；最高级：most correct；名词派生 → correctness n. 正确性；副词派生 → correctly adv. 正确地；动词派生 → correct v. 改正。
+### 8. philosopher /fəˈlɑsəfər/ n. 哲学家
+- **词根·渊源**：希腊 **philos**（爱）+ **sophos**（智慧）+ 后缀 **-er**（人），本义“爱智慧的人”，引申为“哲学家”。
+- **同根词**：philosophy（philo 爱 + soph 智慧 + **-y** 名词后缀：哲学）、philosophic（philosoph + **-ic** …的：哲学的）、philosophize（philosoph + **-ize** 动词后缀：哲学思考）、philosophically（philosophic + **-ally** 副词后缀：哲学地）、sophomore（希腊 sophos 智慧 + moros 愚蠢 = 自以为有智慧的人→二年级学生）。
+- **前缀·后缀**：前缀 **philo-**（例：philanthropy, philology）；后缀 **-er**（例：teacher, worker）。
+- **同义·反义**：同义 thinker（思想家）, scholar（学者）；反义 无。
+- **变形**：名词 → 复数：philosophers；形容词派生 → philosophic adj. 哲学的；副词派生 → philosophically adv. 哲学地。
 
-### 26. mistake /mɪˈsteɪk/ n. 错误，失误；误会，误解
-- **词根·渊源**：古诺斯语 *mistaka*（拿错）→ 中古英语 *mistaken* → 英语 **mistake**；**mis-**（错）+ **take**（拿）= 拿错→错误。
-- **同根词**：mistaken（mistake 错误 + **-en** 形容词后缀 = 错误的）、mistakable（mistake 错误 + **-able** 可…的 = 易弄错的）、take（**take** 拿 + 无后缀 = 拿取）。
-- **前缀·后缀**：前缀 **mis-**（例：misunderstand, mislead）。
-- **同义·反义**：同义 error（错误）, fault（过失）；反义 correctness（正确）, accuracy（准确）。
-- **变形**：名词 → 复数：mistakes；动词 → 第三人称单数：mistakes；过去式：mistook；过去分词：mistaken；现在分词：mistaking；形容词派生 → mistaken adj. 错误的。
+### 9. dramatist /ˈdrɑmətɪst/ n. 剧作家
+- **词根·渊源**：希腊 **dran**（做、行动）→ 希腊 *drama*（行动、戏剧）→ 拉丁 *drama* → 英语 drama + 后缀 **-ist**（人），本义“写戏剧的人”，即“剧作家”。
+- **同根词**：drama（希腊 drama 行动→戏剧：戏剧）、dramatic（drama + **-ic** …的：戏剧性的）、dramatize（drama + **-ize** 使…化：改编成戏剧）、dramatically（dramatic + **-ally** 副词后缀：戏剧性地）、dramatics（dramatic + **-s** 名词后缀：戏剧表演）。
+- **前缀·后缀**：无前缀；后缀 **-ist**（例：artist, scientist）。
+- **同义·反义**：同义 playwright（剧作家）, screenwriter（编剧）；反义 无。
+- **变形**：名词 → 复数：dramatists；形容词派生 → dramatic adj. 戏剧的；动词派生 → dramatize v. 改编成戏剧。
 
-### 27. be happy with /bi ˈhæpi wɪθ/ v. 与……在一起很高兴；对……感到满意
-- **同义搭配**：be pleased with（对……满意） / be satisfied with（对……满意）
-- **反义搭配**：be unhappy with（对……不满意）
+### 10. judgement /ˈʤəʤmənt/ n. 看法；意见；评价
+- **词根·渊源**：拉丁 **judex / judic-**（法官，由 jus 法律 + dicere 说构成）→ 古法语 *jugement* → 英语 judge + 后缀 **-ment**，本义“法官的裁决”，引申为“看法、评价”。
+- **同根词**：judge（拉丁 judex 法官：判断）、judicial（拉丁 judicium 审判 + **-ial** …的：司法的）、judicious（judic + **-ious** 有…的：明智的）、judgment（judge + **-ment** 名词后缀：判断，美式拼写）、prejudice（**pre-** 预先 + judic 判断 = 预先判断→偏见）。
+- **前缀·后缀**：无前缀；后缀 **-ment**（例：movement, development）。
+- **同义·反义**：同义 opinion（意见）, evaluation（评价）；反义 无。
+- **变形**：名词 → 复数：judgements；动词派生 → judge v. 判断；形容词派生 → judgemental adj. 评判的。
 
-### 28. fill...with... /fɪl wɪθ/ v. 用……把……装满；用……填充……
-- **同义搭配**：fill up with（用……装满） / load with（用……装载）
-- **反义搭配**：empty of（清空）
+### 11. evaluation /ɪˌvæljuˈeɪʃən/ n. 评价；评估
+- **词根·渊源**：拉丁 **valere**（有价值）→ 古法语 *value*（价值）→ 英语 value + 前缀 **e-/ex-**（出）+ 后缀 **-ation**，本义“算出价值”，引申为“评价、评估”。
+- **同根词**：value（拉丁 valere 有价值：价值）、evaluate（**e-** 出 + valu 价值 + **-ate** 动词后缀 = 算出价值→评估）、valuable（valu + **-able** 可…的：有价值的）、invaluable（**in-** 不 + valuable 可估价的 = 无法估价的→极宝贵的）、valid（拉丁 validus 强壮的：有效的）。
+- **前缀·后缀**：前缀 **e-/ex-**（例：emit, export）；后缀 **-ation**（例：information, education）。
+- **同义·反义**：同义 assessment（评估）, appraisal（评价）；反义 无。
+- **变形**：名词 → 复数：evaluations；动词派生 → evaluate v. 评估；形容词派生 → evaluative adj. 评价的。
 
-### 29. run over /rʌn 'əʊvə/ v. 溢出；辗过
-- **同义搭配**：spill over（溢出） / knock down（撞倒）
-- **反义搭配**：无
+### 12. consider /kənˈsɪdər/ v. 认为；觉得
+- **词根·渊源**：拉丁 **considerare**（仔细观察，可能由 com- 完全 + sidus 星辰构成，本义“观星占卜”，存疑）→ 古法语 *considerer* → 英语，本义“仔细观察”，引申为“认为、觉得”。
+- **同根词**：consideration（consider + **-ation** 名词后缀：考虑）、considerate（consider + **-ate** …的：体贴的）、considerable（consider + **-able** 可…的：相当大的）、considering（consider + **-ing** 介词/连词：考虑到）、inconsiderate（**in-** 不 + considerate 体贴的 = 不体贴的）。
+- **前缀·后缀**：前缀 **con-**（例：connect, confirm）；后缀 **-er**（例：teacher, worker）。
+- **同义·反义**：同义 think（认为）, regard（看作）；反义 ignore（忽视）, disregard（不理会）。
+- **变形**：动词 → 第三人称单数：considers；过去式：considered；过去分词：considered；现在分词：considering；名词派生 → consideration n. 考虑；形容词派生 → considerate adj. 体贴的。
 
-### 30. send......to prison /send tu ˈprɪzn/ v. 把……关进监狱
-- **同义搭配**：put in prison（关进监狱） / send to jail（送进监狱）
-- **反义搭配**：release from prison（从监狱释放）
+### 13. background /ˈbækˌgraʊnd/ n. 背景
+- **词根·渊源**：**back**（古英语 bæc 背）+ **ground**（古英语 grund 地面），本义“背后的地面”，引申为“背景”。
+- **同根词**：back（古英语 bæc 背：背部）、ground（古英语 grund 地面：地面）、backgrounder（background + **-er** 人/物：背景资料）、groundless（ground + **-less** 无…的：无根据的）、underground（**under-** 下 + ground 地面 = 地下的）。
+- **前缀·后缀**：无前后缀（复合词）。
+- **同义·反义**：同义 setting（环境）, context（背景）；反义 foreground（前景）。
+- **变形**：名词 → 复数：backgrounds；形容词派生 → background adj. 背景的。
 
-### 31. make sure /meɪk ʃʊr/ v. 确保；查明；设法保证
-- **同义搭配**：ensure（确保） / make certain（确保）
-- **反义搭配**：无
+### 14. significant /sɪgˈnɪfɪkənt/ adj. 有重大意义的；显著的
+- **词根·渊源**：拉丁 **signum**（记号）+ **facere**（做）→ 拉丁 *significare*（做记号、表示）→ 拉丁 *significant-* → 英语，本义“有表示的”，引申为“有重大意义的”。
+- **同根词**：signify（sign 记号 + **-ify** 使… = 做记号→表示）、significance（signific + **-ance** 名词后缀：重要性）、sign（拉丁 signum 记号：记号）、signal（sign + **-al** 名词/形容词后缀：信号）、insignificant（**in-** 不 + significant 重要的 = 不重要的）。
+- **前缀·后缀**：无前缀；后缀 **-ant**（例：important, distant）。
+- **同义·反义**：同义 important（重要的）, notable（显著的）；反义 insignificant（不重要的）, trivial（微不足道的）。
+- **变形**：形容词 → 比较级：more significant；最高级：most significant；副词派生 → significantly adv. 显著地；名词派生 → significance n. 重要性。
+
+### 15. milestone /ˈmaɪlˌstoʊn/ n. 重要事件；里程碑
+- **词根·渊源**：**mile**（拉丁 milia passuum 千步，古英语 mīl 英里）+ **stone**（古英语 stān 石头），本义“标里程的石碑”，引申为“重要事件、里程碑”。
+- **同根词**：mile（拉丁 milia 千：英里）、stone（古英语 stān 石头：石头）、mileage（mile + **-age** 名词后缀：里程）、stoned（stone + **-ed** …的：去核的/醉的）、stonily（stony + **-ly** 副词后缀：冷酷地）。
+- **前缀·后缀**：无前后缀（复合词）。
+- **同义·反义**：同义 landmark（里程碑）, turning point（转折点）；反义 无。
+- **变形**：名词 → 复数：milestones；形容词派生 → milestone adj. 里程碑式的。
+
+### 16. manage /ˈmænɪʤ/ v. 完成（困难的事）
+- **词根·渊源**：意大利 **maneggiare**（驯马，源自 mano 手，拉丁 manus 手）→ 法语 *manège*（驯马术）→ 英语，本义“用手驾驭马”，引申为“管理、设法完成”。
+- **同根词**：management（manage + **-ment** 名词后缀：管理）、manager（manage + **-er** 人：经理）、manageable（manage + **-able** 可…的：可管理的）、manipulate（拉丁 manipulus 一把 + **-ate** 动词后缀：操纵）、manual（拉丁 manualis 手的：手工的）。
+- **前缀·后缀**：无前缀；后缀 **-age**（借自法语，例：courage, marriage）。
+- **同义·反义**：同义 accomplish（完成）, handle（处理）；反义 fail（失败）, mismanage（管理不善）。
+- **变形**：动词 → 第三人称单数：manages；过去式：managed；过去分词：managed；现在分词：managing；名词派生 → management n. 管理；形容词派生 → manageable adj. 可管理的。
+
+### 17. impact /ˌɪmˈpækt/ n. 巨大影响；强大作用
+- **词根·渊源**：拉丁 **pangere**（钉、击）→ 拉丁 *impactus*（撞击的）→ 英语，本义“撞击”，引申为“巨大影响、强大作用”。
+- **同根词**：impinge（**im-** 进入 + ping 击 = 撞击→侵犯）、impaction（impact + **-ion** 名词后缀：撞击）、impactful（impact + **-ful** 充满…的：有影响力的）、compact（**com-** 一起 + pact 钉 = 钉在一起→紧凑的）、pact（拉丁 pactum 约定：协定）。
+- **前缀·后缀**：前缀 **im-**（例：import, impress）；后缀 无。
+- **同义·反义**：同义 effect（影响）, influence（影响）；反义 无。
+- **变形**：名词 → 复数：impacts；动词派生 → impact v. 影响；形容词派生 → impactful adj. 有影响力的。
+
+### 18. truth /truθ/ n. 真理
+- **词根·渊源**：古英语 **trēow**（忠诚、信仰）→ 古英语 *trēowth*（忠诚）→ 中古英语 *truth*，本义“忠诚”，引申为“真实、真理”。
+- **同根词**：true（古英语 trēowe 忠诚的：真的）、truly（true + **-ly** 副词后缀：真正地）、truthful（truth + **-ful** 充满…的：诚实的）、trust（古诺斯语 traust 信任：信任）、truce（古英语 trēow 忠诚：停战）。
+- **前缀·后缀**：无前缀；后缀 **-th**（例：warmth, depth）。
+- **同义·反义**：同义 fact（事实）, reality（现实）；反义 falsehood（虚假）, lie（谎言）。
+- **变形**：名词 → 复数：truths；形容词派生 → truthful adj. 诚实的；副词派生 → truthfully adv. 诚实地。
+
+### 19. concentrated /ˈkɔnsənˌtreɪtɪd/ adj. 全神贯注的；全力以赴的
+- **词根·渊源**：拉丁 **con-**（共同）+ **centrum**（中心）→ 法语 *concentrer* → 英语 concentrate；本义“使聚集到同一中心”，引申为“集中注意力”，再派生出形容词“全神贯注的”。
+- **同根词**：concentrate（**con-** 共同 + centr 中心 + **-ate** 动词后缀 = 聚到中心→集中）、concentration（concentrate + **-ion** 名词后缀 = 集中→专注）、eccentric（**ec-** 出 + centr 中心 = 偏离中心的→古怪的）、centrifugal（centr 中心 + **-fug-** 逃离 + **-al** …的 = 离心的）、centripetal（centr 中心 + **-pet-** 寻求 + **-al** …的 = 向心的）。
+- **前缀·后缀**：前缀 **con-**（例：connect, combine）；形容词后缀 **-ed**（例：talented, excited）。
+- **同义·反义**：同义 focused（专注的）, attentive（专心的）；反义 distracted（分心的）, unfocused（不专注的）。
+- **变形**：形容词 → 比较级：more concentrated；最高级：most concentrated；动词派生 → concentrate v. 集中；名词派生 → concentration n. 集中、专注；副词派生 → concentratedly adv. 专注地。
+
+### 20. belief /bɪˈlif/ n. 相信
+- **词根·渊源**：古英语 **gelēafa**（信仰）→ 中古英语 *bileve*，与 **be-**（加强）+ **lēfan**（相信、允许）同源，本义“所信赖之事”，引申为“相信、信念”。
+- **同根词**：believe（**be-** 加强 + lief 相信 = 相信）、believer（believe + **-er** 人 = 信徒）、believable（believe + **-able** 可…的 = 可信的）、unbelievable（**un-** 不 + believable 可信的 = 难以置信的）、disbelief（**dis-** 否定 + belief = 不相信）。
+- **前缀·后缀**：前缀 **be-**（例：belong, become）；名词后缀 **-ief**（例：relief, grief）。
+- **同义·反义**：同义 faith（信仰）, trust（信任）；反义 doubt（怀疑）, disbelief（不信）。
+- **变形**：名词 → 复数：beliefs；形容词派生 → believable adj. 可信的；副词派生 → believably adv. 可信地；动词派生 → believe v. 相信。
+
+### 21. with something in mind  prep. 考虑到……
+- **同义搭配**：with regard to / in consideration of
+- **反义搭配**：without regard to
+
+### 22. in addition to  prep. 除……之外
+- **同义搭配**：besides / apart from
+- **反义搭配**：except for
+
+### 23. be fond of  v. 喜爱
+- **同义搭配**：be keen on / be interested in
+- **反义搭配**：be tired of
+
+### 24. reach for  v. 伸手去拿
+- **同义搭配**：stretch out for / grab at
+- **反义搭配**：withdraw from
+
+### 25. fight for  v. 为……作斗争
+- **同义搭配**：struggle for / strive for
+- **反义搭配**：give up
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| -en | 形容词后缀，表示“由……制成的” | golden | wooden, woolen, silken |
-| -ment | 名词后缀，表示行为、结果 | agreement, confirmation | movement, development, government |
-| con- | 前缀，表示“共同、加强” | confirmation | connect, combine, collect |
-| -tion | 名词后缀，表示行为、状态 | confirmation, punctuation | action, education, information |
-| dis- | 前缀，表示“分开、否定” | displace | disagree, discover, disappear |
-| -ing | 名词/形容词后缀，表示活动 | boxing, racing, wrestling | swimming, running, building |
-| -less | 形容词后缀，表示“没有” | less | hopeless, careless, endless |
-| -al | 形容词后缀，表示“……的” | real | natural, national, personal |
-| -ful | 形容词后缀，表示“充满……的” | fill（相关） | helpful, useful, careful |
-| -er | 名词后缀，表示“人、物” | prisoner（相关） | teacher, worker, driver |
-| -ly | 副词后缀，表示“……地” | certainly（相关） | quickly, happily, carefully |
-| -ous | 形容词后缀，表示“充满……的” | doubtful（相关） | dangerous, famous, nervous |
+| out- | 超出；向外 | outstanding | outnumber, outgrow, outlive, outspoken |
+| -ing | 构成形容词/名词 | outstanding | interesting, exciting, building, meeting |
+| -ed | 构成形容词（具有……的） | old-fashioned, convinced, concentrated | talented, excited, interested, crowded |
+| -al | ……的（形容词后缀） | classical | natural, musical, personal, national |
+| -ary | ……的；与……有关的 | ordinary | necessary, military, voluntary, imaginary |
+| -ist | ……的人（从事某职业/信仰者） | poet（存疑，poet 非 -ist 后缀）, dramatist | artist, scientist, pianist, tourist |
+| -ment | 名词后缀（行为、结果） | judgement | movement, development, agreement, government |
+| -ation/-tion | 名词后缀（行为、过程） | evaluation | education, information, invitation, creation |
+| con- | 共同；加强 | convinced, concentrated, consider | connect, combine, confirm, construct |
+| sign- | 标记（词根作前缀成分） | significant | signal, signature, design |
+| -ance/-ence | 名词后缀（性质、状态） |（本单元无直接例词，见 significant→significance） | importance, difference, patience, silence |
+| -ive | ……的（形容词后缀） |（本单元无直接例词，见 impact→impressive 存疑） | active, creative, effective, attractive |
+| -ful | 充满……的 |（本单元无直接例词，见 truth→truthful） | useful, helpful, careful, powerful |
+| in addition to | 介词短语（除……之外） | in addition to | in addition, apart from, besides |
+| be fond of | 短语（喜爱） | be fond of | be interested in, be keen on, care for |
+| reach for | 短语动词（伸手去拿） | reach for | look for, ask for, wait for, search for |
+| fight for | 短语动词（为……而斗争） | fight for | struggle for, work for, stand for, care for |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
 | 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| golden | gold（金的） | — |
-| agreement | consent（同意） | disagreement（分歧） |
-| confirmation | proof（证明） | denial（否认） |
-| doubt | uncertainty（不确定） | certainty（确定） |
-| real | true（真实的） | fake（假的） |
-| truth | fact（事实） | lie（谎言） |
-| seem | appear（似乎） | — |
-| solve | resolve（解决） | — |
-| fill | load（装满） | empty（倒空） |
-| displace | replace（取代） | keep（保留） |
-| less | fewer（较少的） | more（更多的） |
-| certain | sure（确定的） | uncertain（不确定的） |
-| brave | courageous（勇敢的） | cowardly（胆小的） |
-| correct | right（正确的） | wrong（错误的） |
-| mistake | error（错误） | correctness（正确） |
-| hit | strike（击中） | miss（错过） |
-| prison | jail（监狱） | freedom（自由） |
-| make sure | ensure（确保） | — |
-| be happy with | be satisfied with（对……满意） | be unhappy with（对……不满） |
-| run over | overflow（溢出） | — |
+| outstanding（杰出的） | excellent（优秀的）, remarkable（卓越的） | ordinary（普通的）, mediocre（平庸的） |
+| old-fashioned（过时的） | outdated（过时的）, out of date（陈旧的） | modern（现代的）, fashionable（时髦的） |
+| classical（古典的） | traditional（传统的）, classic（经典的） | modern（现代的）, contemporary（当代的） |
+| ordinary（普通的） | common（常见的）, average（一般的） | extraordinary（非凡的）, unusual（不寻常的） |
+| convinced（确信的） | certain（确定的）, sure（肯定的） | doubtful（怀疑的）, uncertain（不确定的） |
+| judgement（评价） | opinion（意见）, assessment（评估） | — |
+| evaluation（评估） | assessment（评估）, appraisal（评价） | — |
+| consider（认为） | think（认为）, regard（看作） | ignore（忽视）, disregard（不理会） |
+| significant（重大的） | important（重要的）, major（主要的） | insignificant（不重要的）, minor（次要的） |
+| milestone（里程碑） | landmark（里程碑）, turning point（转折点） | — |
+| manage（完成） | accomplish（完成）, succeed in（成功做到） | fail（失败）, give up（放弃） |
+| impact（影响） | influence（影响）, effect（作用） | — |
+| truth（真理） | fact（事实）, reality（真实） | falsehood（虚假）, lie（谎言） |
+| concentrated（全神贯注的） | focused（专注的）, attentive（专心的） | distracted（分心的）, absent-minded（心不在焉的） |
+| belief（相信） | faith（信念）, trust（信任） | doubt（怀疑）, disbelief（不信） |
+| be fond of（喜爱） | like（喜欢）, love（热爱） | hate（讨厌）, dislike（不喜欢） |
+| reach for（伸手去拿） | stretch for（伸手够）, grasp at（抓取） | withdraw（收回）, let go（放开） |
+| fight for（为……斗争） | struggle for（为……奋斗）, strive for（争取） | give up（放弃）, surrender（投降） |
+| in addition to（除……之外） | besides（此外）, apart from（除……外） | except（除……之外，不包括） |
+| with something in mind（考虑到） | considering（考虑到）, taking into account（考虑到） | ignoring（忽视）, disregarding（不顾） |
 
 ---
 

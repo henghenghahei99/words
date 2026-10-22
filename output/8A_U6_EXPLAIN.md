@@ -1,6 +1,6 @@
-# 8A_U6 说文解字 · Ancient stories
+# 8A_U6 说文解字 · Wisdom counts
 
-> 配套 `8A_U6.md`（沪教牛津版 2024/2025 修订，36 条）
+> 配套 `8A_U6.md`（沪教牛津版 2024/2025 修订，30 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
 > 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
@@ -8,297 +8,260 @@
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
-| anci- | 古老、从前 | 拉丁语 ante（在……之前） | ancient | ancestor, antique, antecede |
-| capt- | 抓、拿、取 | 拉丁语 capere（抓取） | capture, captain | accept, receive, concept, except |
-| sold- | 整块、坚固（引申为军饷、服役） | 拉丁语 solidus（金币、坚固的） | soldier | solid, consolidate, solder |
-| struct- | 建造、堆积 | 拉丁语 struere（建造） | understand（存疑，一说与“站在其中”有关） | structure, construct, instruct, destroy |
-| pyr- | 火 | 希腊语 pyr（火） | pyramid | pyre, pyromania, pyrite |
-| greg- | 群体、群 | 拉丁语 grex（群） | Greek（存疑，族称来源不明） | gregarious, aggregate, congregate |
-| milit- | 士兵、战斗 | 拉丁语 miles（士兵） | army（存疑，源自拉丁语 armata 武装） | military, militia, militant |
-| ced-/cess- | 走、行进 | 拉丁语 cedere（走、让） | succeed | proceed, exceed, access, process |
-| empt- | 买、取 | 拉丁语 emere（买） | empty（存疑，源自古英语 ǣmetta“空闲”） | exempt, redeem, preempt |
-| sid- | 坐、安放 | 拉丁语 sedere（坐） | side（存疑，源自古英语 sīde“侧面”） | preside, resident, sediment |
-| princip- | 第一、首要 | 拉丁语 princeps（第一人） | prince | principal, principle, principality |
-| pun- | 惩罚 | 拉丁语 punire（惩罚） | punish | penalty, punitive, impunity |
-| scaen- | 舞台、帐篷 | 希腊语 skēnē（帐篷、舞台） | scene | scenic, scenario, scenery |
-| reg- | 统治、王 | 拉丁语 rex/regis（王） | queen（存疑，源自古英语 cwēn“女人、妻子”） | regal, reign, royal, regime |
+| auct- | 使生长、增加 | 拉丁语 augere | author | auction, augment, authority, auxiliary |
+| loc- | 地方、位置 | 拉丁语 locus | locate | local, location, dislocate, allocate |
+| milit- | 士兵、战斗 | 拉丁语 miles/militis | soldier | military, militia, militant, militarism |
+| vict- | 征服、胜利 | 拉丁语 vincere | victory | victor, victorious, convince, invincible |
+| joc- | 玩笑、戏谑 | 拉丁语 jocus | joke | jocular, jocose, jocund |
+| medi- | 中间 | 拉丁语 medius | midnight | medium, mediate, medieval, intermediate |
+| capt-/cept- | 拿、抓、取 | 拉丁语 capere | except | capture, accept, receive, concept |
+| fid- | 信任、相信 | 拉丁语 fidere | secretly（存疑，secret 词源另说） | fidelity, confident, faith, defy |
+| ced-/cess- | 走、让步 | 拉丁语 cedere | succeed | proceed, exceed, access, concede |
+| host- | 敌人 | 拉丁语 hostis | enemy（存疑，enemy 来自 inimicus） | hostile, hostility, hostage |
+| fall- | 欺骗、失误 | 拉丁语 fallere | fail | fallacy, fallible, false, fault |
+| plen-/plet- | 满、充满 | 拉丁语 plenus | fill | complete, plenty, replenish, supplement |
+| tang-/tact- | 触摸、打击 | 拉丁语 tangere | attack | contact, tactile, tangible, intact |
+| frag-/fract- | 打破 | 拉丁语 frangere | fight（存疑，fight 为日耳曼语源） | fragment, fracture, fragile, infringe |
 
 ## 二、逐词说文解字
 
-### 1. ancient /ˈenʃənt/ adj. 古代的；古老的
-- **词根·渊源**：拉丁 **ante-**（在……之前）→ 古法语 *ancien* → 英语 ancient，本义“在前的、先前的”，引申为“古代的、古老的”。
-- **同根词**：antique（ante 前 + **-ique** 形容词后缀 = 以前的→古董的）、anticipate（**anti-** 前 + cip 拿 + **-ate** 动词后缀 = 提前拿到→预期）、ancestor（**an-** 前 + cess 走 + **-or** 人 = 走在前面的人→祖先）、antecedent（**ante-** 前 + ced 走 + **-ent** = 走在前面的→先行的）。
-- **前缀·后缀**：前缀 **ante-**（例：anteroom, antedate）；形容词后缀 **-ent**（例：different, silent）。
-- **同义·反义**：同义 old（古老的）, aged（年老的）；反义 modern（现代的）, recent（最近的）。
-- **变形**：形容词 → 比较级：more ancient；最高级：most ancient；副词派生 → anciently adv. 在古代。
+### 1. author /ˈɔθər/ n. 作者；作家
+- **词根·渊源**：拉丁 **auct-**（使生长、增加）→ 拉丁 *auctor*（创造者、创始人）→ 古法语 *autor* → 英语 author；本义“使事物产生的人”引申为“创作作品的人”。
+- **同根词**：authority（author + **-ity** 名词后缀 = 创始者所具有的权威→权威）、authorize（author + **-ize** 动词后缀 = 使具有作者/创始者的权力→授权）、auxiliary（拉丁 auxilium 帮助，与 auct- 同源存疑→辅助的）。
+- **前缀·后缀**：名词后缀 **-or**（例：actor, doctor）。
+- **同义·反义**：同义 writer（作家）, creator（创作者）；反义 reader（读者）。
+- **变形**：名词 → 复数：authors；名词派生 → authorship n. 作者身份；形容词派生 → authorial adj. 作者的。
 
-### 2. Trojan /ˈtroʊʤən/ adj. 特洛伊人；特洛伊的；特洛伊人的
-- **词根·渊源**：希腊语 **Troia**（特洛伊城）→ 拉丁 *Troianus* → 古英语 *Troian* → 英语 Trojan，本义“特洛伊城的”，引申为“特洛伊的、特洛伊人的”。
-- **同根词**：Troy（希腊语 Troia 直接借入英语 = 特洛伊城）、Trojan horse（Trojan + horse = 特洛伊木马→暗藏的危险）。
-- **前缀·后缀**：形容词后缀 **-an**（例：American, Roman）。
-- **同义·反义**：同义 无；反义 无。
-- **变形**：形容词 → 无比较级（专有形容词，不作比较）；名词派生 → Trojan n. 特洛伊人。
+### 2. remains /rɪˈmeɪnz/ n. 遗迹；遗址
+- **词根·渊源**：拉丁 **man-**（停留）→ 拉丁 *remanere*（留下）→ 古法语 *remaindre* → 英语 remain；remains 为 remain 的复数名词化，本义“留下来的东西”引申为“遗迹”。
+- **同根词**：remain（**re-** 回 + main 停留 = 留下→保持）、remainder（remain + **-der** 名词后缀 = 剩余物→余数）、permanent（**per-** 贯穿 + man 停留 + **-ent** …的 = 一直停留的→永久的）。
+- **前缀·后缀**：前缀 **re-**（例：return, recall）；名词后缀 **-s** 表复数（例：goods, clothes）。
+- **同义·反义**：同义 ruins（废墟）, relics（遗物）；反义 无。
+- **变形**：名词 → 复数：remains（本身为复数形式，作“遗迹”义常用复数）；动词派生 → remain v. 留下、保持。
 
-### 3. war /wɔːr/ n. 战争
-- **词根·渊源**：古北法语 *werre* → 古英语 *wyrre*，源自日耳曼语 *werra*（混乱、争斗），本义“混乱、纷争”，引申为“战争”。
-- **同根词**：warrior（war + **-ior** 人 = 打仗的人→战士）、warfare（war + fare 进行 = 进行战争→作战）、warlike（war + like 像……的 = 像战争的→好战的）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 conflict（冲突）, battle（战斗）；反义 peace（和平）。
-- **变形**：名词 → 复数：wars；形容词派生 → warlike adj. 好战的；warring adj. 交战的。
+### 3. locate /ˈloʊˌkeɪt/ v. 把……安置在(或建造于)
+- **词根·渊源**：拉丁 **loc-**（地方）→ 拉丁 *locare*（放置）→ 拉丁 *locatus*（被放置的）→ 英语 locate；本义“放在某地方”引申为“安置、建造于”。
+- **同根词**：location（loc + **-ation** 名词后缀 = 放置的地方→位置）、local（loc + **-al** …的 = 地方的→当地的）、dislocate（**dis-** 离开 + locate 放置 = 使离开原位→使脱臼）。
+- **前缀·后缀**：动词后缀 **-ate**（例：create, calculate）；前缀 **dis-**（例：discover, disagree）。
+- **同义·反义**：同义 place（放置）, situate（使位于）；反义 displace（使移位）。
+- **变形**：动词 → 第三人称单数：locates；过去式：located；过去分词：located；现在分词：locating；名词派生 → location n. 位置；形容词派生 → located adj. 位于……的。
 
-### 4. understand (understood) /ˌʌndərˈstænd/ v. 懂；理解；明白
-- **同义搭配**：comprehend（理解）, grasp（领会）
-- **反义搭配**：misunderstand（误解）
-
-### 5. difference /ˈdɪfrəns/ n. 差异；差别：不同之处
-- **词根·渊源**：拉丁 **dis-**（分开）+ **ferre**（携带）→ 拉丁 *differentia* → 古法语 *difference* → 英语 difference，本义“分开携带”，即“区分开”，引申为“差异、不同”。
-- **同根词**：differ（**dif-** 分开 + fer 携带 = 分开拿→不同）、different（differ + **-ent** 形容词后缀 = 不同的）、differential（different + **-ial** 形容词后缀 = 有差别的→微分的）、ferry（fer 携带 + **-y** 名词后缀 = 运载→渡船）、transfer（**trans-** 转移 + fer 携带 = 转移携带→转移）。
-- **前缀·后缀**：前缀 **dis-/dif-**（例：disagree, difficult）；名词后缀 **-ence**（例：silence, patience）。
-- **同义·反义**：同义 distinction（区别）, disparity（差异）；反义 similarity（相似）, sameness（相同）。
-- **变形**：名词 → 复数：differences；形容词派生 → different adj. 不同的；副词派生 → differently adv. 不同地。
-
-### 6. pyramid /ˈpɪrəmɪd/ v.（古埃及的）金字塔
-- **词根·渊源**：希腊语 **pyramis**（金字塔）→ 拉丁 *pyramis* → 法语 *pyramide* → 英语 pyramid，词源存疑（一说源自希腊语 *pyros* 麦粒，因形似麦堆）。
-- **同根词**：pyramidal（pyramid + **-al** 形容词后缀 = 金字塔形的）、pyramidical（pyramid + **-ical** 形容词后缀 = 金字塔状的）。
-- **前缀·后缀**：形容词后缀 **-al**（例：natural, musical）。
-- **同义·反义**：同义 无；反义 无。
-- **变形**：名词 → 复数：pyramids；形容词派生 → pyramidal adj. 金字塔形的。
-
-### 7. captain /ˈkæptɪn/ n. 队长；首领
-- **词根·渊源**：拉丁 **caput / capit-**（头）→ 拉丁 *capitaneus*（首领）→ 古法语 *capitaine* → 英语 captain，本义“为首的人”，引申为“队长、首领”。
-- **同根词**：capital（capit 头 + **-al** 形容词后缀 = 头的→首要的→首都）、captaincy（captain + **-cy** 名词后缀 = 队长职位）、decapitate（**de-** 去除 + capit 头 + **-ate** 动词后缀 = 去掉头→斩首）、recapitulate（**re-** 再 + capitul 头 + **-ate** = 再从头→概括）。
-- **前缀·后缀**：名词后缀 **-ain**（例：certain, mountain）；前缀 **de-**（例：decrease, defrost）。
-- **同义·反义**：同义 leader（领导者）, chief（首领）；反义 follower（追随者）, subordinate（下属）。
-- **变形**：名词 → 复数：captains；名词派生 → captaincy n. 队长职位。
-
-### 8. Greek /ɡriːk/ n. 希腊语；希腊人
-- **词根·渊源**：拉丁 **Graecus**（希腊的）→ 古英语 *Grēc* → 英语 Greek，源自希腊语 *Graikos*（希腊部落名），本义“希腊人”，引申为“希腊语、希腊人”。
-- **同根词**：Greece（拉丁 Graecia 希腊→希腊国名）、grecian（拉丁 Graecus + **-ian** 形容词后缀 = 希腊的）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 Hellene（希腊人）；反义 无。
-- **变形**：名词 → 复数：Greeks；形容词派生 → Greek adj. 希腊的。
-
-### 9. capture /ˈkæptʃər/ v. 用武力夺取；攻占；占领
-- **词根·渊源**：拉丁 **capere / capt-**（抓、拿）→ 拉丁 *captura*（捕获）→ 法语 *capture* → 英语 capture，本义“抓住”，引申为“用武力夺取、攻占”。
-- **同根词**：captive（capt 抓 + **-ive** 形容词后缀 = 被抓住的→俘虏）、capture（capt 抓 + **-ure** 名词后缀 = 捕获）、accept（**ac-** 向 + cept 拿 = 拿过来→接受）、receive（**re-** 回 + ceive 拿 = 拿回来→收到）、concept（**con-** 共同 + cept 拿 = 共同拿住→概念）。
-- **前缀·后缀**：动词后缀 **-ure**（例：departure, failure）；前缀 **ac-**（例：accept, access）。
-- **同义·反义**：同义 seize（夺取）, conquer（征服）；反义 release（释放）, free（解放）。
-- **变形**：动词 → 第三人称单数：captures；过去式：captured；过去分词：captured；现在分词：capturing；名词派生 → capture n. 捕获；captivity n. 囚禁。
-
-### 10. soldier /ˈsoʊldʒər/ n. 士兵，战士
-- **词根·渊源**：拉丁 **solidus**（一种金币）→ 古法语 *soudier*（领饷的兵）→ 英语 soldier，本义“为军饷服役的人”，引申为“士兵、战士”。
-- **同根词**：solid（拉丁 solidus 坚实→坚固的）、solidify（solid + **-ify** 动词后缀 = 使坚固→凝固）、consolidate（**con-** 共同 + solid 坚固 + **-ate** = 使共同坚固→巩固）。
+### 4. soldier /ˈsoʊlʤər/ n. 士兵
+- **词根·渊源**：拉丁 **solid-**（坚固的）→ 拉丁 *solidus*（一种金币）→ 古法语 *soudier*（领饷的兵）→ 英语 soldier；本义“靠军饷（金币）服役的人”引申为“士兵”。
+- **同根词**：solid（solid 坚固的→固体的）、consolidate（**con-** 共同 + solid 坚固 + **-ate** 动词后缀 = 使共同坚固→巩固）、solidity（solid + **-ity** 名词后缀 = 坚固性）。
 - **前缀·后缀**：名词后缀 **-ier**（例：cashier, premier）；前缀 **con-**（例：connect, confirm）。
-- **同义·反义**：同义 warrior（战士）, fighter（斗士）；反义 civilian（平民）。
-- **变形**：名词 → 复数：soldiers；形容词派生 → soldierly adj. 军人般的。
+- **同义·反义**：同义 warrior（战士）, fighter（战斗者）；反义 civilian（平民）。
+- **变形**：名词 → 复数：soldiers；名词派生 → soldiery n. 军队、士兵们。
 
-### 11. huge /hjuːdʒ/ adj. 巨大的，极多的
-- **词根·渊源**：古法语 **ahuge**（巨大的）→ 英语 huge，词源存疑（可能与古法语 *huge* 相关），本义“巨大的”，引申为“极多的”。
-- **同根词**：hugely（huge + **-ly** 副词后缀 = 巨大地）、hugeness（huge + **-ness** 名词后缀 = 巨大）。
-- **前缀·后缀**：副词后缀 **-ly**（例：quickly, badly）；名词后缀 **-ness**（例：kindness, darkness）。
-- **同义·反义**：同义 enormous（巨大的）, vast（广阔的）；反义 tiny（微小的）, small（小的）。
-- **变形**：形容词 → 比较级：huger；最高级：hugest；副词派生 → hugely adv. 巨大地；名词派生 → hugeness n. 巨大。
+### 5. empty /ˈɛmti/ adj. 空的
+- **词根·渊源**：古英语 **ǣmetta**（空闲、闲暇）→ 中古英语 *emty* → 英语 empty；本义“空闲无事的”引申为“空的”。
+- **同根词**：emptiness（empty + **-ness** 名词后缀 = 空的状态→空虚）、emptily（empty + **-ly** 副词后缀 = 空地→空洞地）。
+- **前缀·后缀**：形容词后缀 **-y**（例：happy, dirty）。
+- **同义·反义**：同义 vacant（空的）, bare（空的）；反义 full（满的）, filled（装满的）。
+- **变形**：形容词 → 比较级：emptier；最高级：emptiest；动词 → 第三人称单数：empties；过去式：emptied；过去分词：emptied；现在分词：emptying；名词派生 → emptiness n. 空虚；副词派生 → emptily adv. 空洞地。
 
-### 12. pull /pʊl/ v. 拉；拖；拽；拉动
-- **词根·渊源**：古英语 **pullian**（拔、摘），本义“拔、摘取”，引申为“拉、拖、拽”。
-- **同根词**：pullover（pull + over 在上 = 拉过来套上→套头衫）、pullback（pull + back 回 = 拉回→撤退）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 drag（拖）, draw（拉）；反义 push（推）。
-- **变形**：动词 → 第三人称单数：pulls；过去式：pulled；过去分词：pulled；现在分词：pulling；名词派生 → pull n. 拉力。
+### 6. victory /ˈvɪktəri/ n. 胜利；成功
+- **词根·渊源**：拉丁 **vict-**（征服）→ 拉丁 *victoria*（胜利）→ 古法语 *victorie* → 英语 victory；本义“征服的结果”即“胜利”。
+- **同根词**：victor（vict + **-or** 人 = 征服者→胜利者）、victorious（victory + **-ous** …的 = 胜利的）、convince（**con-** 完全 + vinc 征服 = 完全征服对方→使信服）、invincible（**in-** 不 + vinc 征服 + **-ible** 可…的 = 不可征服的）。
+- **前缀·后缀**：名词后缀 **-y**（例：memory, history）；前缀 **con-**（例：conquer, confirm）、**in-**（例：invisible, incorrect）。
+- **同义·反义**：同义 triumph（胜利）, success（成功）；反义 defeat（失败）, failure（失败）。
+- **变形**：名词 → 复数：victories；形容词派生 → victorious adj. 胜利的；副词派生 → victoriously adv. 胜利地。
 
-### 13. main /meɪn/ adj. 主要的；最重要的
-- **词根·渊源**：古英语 **mægen**（力量、强大）→ 中古英语 *mayn* → 英语 main，本义“有力量的”，引申为“主要的、最重要的”。
-- **同根词**：mainly（main + **-ly** 副词后缀 = 主要地）、mainland（main + land 陆地 = 主要的陆地→大陆）、mainstay（main + stay 支撑 = 主要支撑→支柱）。
-- **前缀·后缀**：副词后缀 **-ly**（例：hardly, lately）。
-- **同义·反义**：同义 chief（主要的）, principal（首要的）；反义 minor（次要的）, secondary（第二的）。
-- **变形**：形容词 → 无比较级（关系形容词，不作比较）；副词派生 → mainly adv. 主要地。
+### 7. joke /ʤoʊk/ n. 笑话；玩笑
+- **词根·渊源**：拉丁 **joc-**（玩笑）→ 拉丁 *jocus*（玩笑、戏谑）→ 英语 joke；本义“戏谑的话”引申为“笑话”。
+- **同根词**：joker（joke + **-er** 人 = 爱开玩笑的人→小丑）、jocular（joc + **-ular** …的 = 爱开玩笑的→诙谐的）、jocose（joc + **-ose** …的 = 开玩笑的→幽默的）。
+- **前缀·后缀**：名词后缀 **-er**（例：teacher, worker）；形容词后缀 **-ular**（例：popular, regular）。
+- **同义·反义**：同义 jest（玩笑）, gag（笑话）；反义 无。
+- **变形**：名词 → 复数：jokes；动词 → 第三人称单数：jokes；过去式：joked；过去分词：joked；现在分词：joking；形容词派生 → jokey adj. 爱开玩笑的。
 
-### 14. celebrate /ˈselɪbreɪt/ v. 庆祝；庆贺
-- **词根·渊源**：拉丁 **celeber**（著名的、热闹的）→ 拉丁 *celebrare*（使著名、聚集庆祝）→ 英语 celebrate，本义“使热闹、聚集”，引申为“庆祝、庆贺”。
-- **同根词**：celebration（celebrate + **-ion** 名词后缀 = 庆祝）、celebrity（celeber 著名 + **-ity** 名词后缀 = 著名→名人）、celebrated（celebrate + **-ed** 形容词后缀 = 被庆祝的→著名的）。
-- **前缀·后缀**：动词后缀 **-ate**（例：create, educate）；名词后缀 **-ion**（例：action, nation）。
-- **同义·反义**：同义 commemorate（纪念）, observe（庆祝）；反义 mourn（哀悼）。
-- **变形**：动词 → 第三人称单数：celebrates；过去式：celebrated；过去分词：celebrated；现在分词：celebrating；名词派生 → celebration n. 庆祝；celebrity n. 名人。
-
-### 15. stupid /ˈstuːpɪd/ adj. 愚蠢的；笨的；糊涂的
-- **词根·渊源**：拉丁 **stupere**（发愣、惊呆）→ 拉丁 *stupidus*（发愣的）→ 法语 *stupide* → 英语 stupid，本义“发愣的”，引申为“愚蠢的、笨的”。
-- **同根词**：stupor（stup 发愣 + **-or** 名词后缀 = 昏迷→麻木）、stupidity（stupid + **-ity** 名词后缀 = 愚蠢）、stupendous（stup 发愣 + **-endous** 形容词后缀 = 令人发愣的→惊人的）。
-- **前缀·后缀**：形容词后缀 **-id**（例：rapid, vivid）；名词后缀 **-ity**（例：activity, reality）。
-- **同义·反义**：同义 foolish（愚蠢的）, silly（傻的）；反义 clever（聪明的）, wise（明智的）。
-- **变形**：形容词 → 比较级：stupider；最高级：stupidest；名词派生 → stupidity n. 愚蠢；副词派生 → stupidly adv. 愚蠢地。
-
-### 16. midnight /ˈmɪdnaɪt/ n. 子夜,午夜
-- **词根·渊源**：古英语 **midniht** = **mid-**（中间）+ **niht**（夜），本义“夜的中间”，即“午夜、子夜”。
-- **同根词**：midday（mid + day 白天 = 白天中间→正午）、midway（mid + way 路 = 路的中间→中途）、midland（mid + land 陆地 = 陆地中间→内陆）、night（古英语 niht 夜→夜晚）。
-- **前缀·后缀**：前缀 **mid-**（例：midday, midway）。
-- **同义·反义**：同义 无；反义 midday（正午）, noon（中午）。
+### 8. midnight /ˈmɪdˌnaɪt/ n. 午夜
+- **词根·渊源**：古英语 **mid**（中间）+ **niht**（夜）→ 中古英语 *midnight* → 英语 midnight；本义“夜的中间”即“午夜”。
+- **同根词**：midday（mid 中间 + day 白天 = 正午）、midway（mid 中间 + way 路 = 中途）、midland（mid 中间 + land 土地 = 内陆的）、nightly（night 夜 + **-ly** …的 = 每夜的）。
+- **前缀·后缀**：复合词前缀 **mid-**（例：midterm, midsummer）；名词后缀 **-ly**（例：daily, weekly）。
+- **同义·反义**：同义 无；反义 noon（正午）, midday（正午）。
 - **变形**：名词 → 复数：midnights；形容词派生 → midnight adj. 午夜的。
 
-### 17. empty /ˈempti/ adj. 空的
-- **词根·渊源**：古英语 **ǣmettig**（空闲的）→ 中古英语 *emty* → 英语 empty，本义“空闲的、未被占用的”，引申为“空的”。
-- **同根词**：emptiness（empty + **-ness** 名词后缀 = 空）、emptily（empty + **-ly** 副词后缀 = 空空地）。
-- **前缀·后缀**：形容词后缀 **-y**（例：happy, dirty）；名词后缀 **-ness**（例：happiness, darkness）。
-- **同义·反义**：同义 vacant（空的）, bare（空的）；反义 full（满的）, filled（装满的）。
-- **变形**：形容词 → 比较级：emptier；最高级：emptiest；名词派生 → emptiness n. 空；副词派生 → emptily adv. 空空地；动词派生 → empty v. 倒空。
-
-### 18. except /ɪkˈsɛpt/ prep. 除……之外；除了；只是
-- **词根·渊源**：拉丁 **ex-**（出）+ **capere**（拿）→ 拉丁 *exceptus*（被拿出的）→ 英语 except，本义“被拿出来的”，引申为“除……之外”。
-- **同根词**：exception（except + **-ion** 名词后缀 = 例外）、exceptional（exception + **-al** 形容词后缀 = 例外的→杰出的）、accept（**ac-** 向 + cept 拿 = 拿过来→接受）、receive（**re-** 回 + ceive 拿 = 拿回来→收到）、capture（capt 拿 + **-ure** 名词后缀 = 捕获）。
-- **前缀·后缀**：前缀 **ex-**（例：exit, export）；名词后缀 **-ion**（例：action, nation）。
+### 9. except /ɪkˈsɛpt/ prep. 除……之外
+- **词根·渊源**：拉丁 **cap-/cept-**（拿、取）→ 拉丁 *excipere*（取出、除外）→ 拉丁 *exceptus* → 英语 except；本义“被拿出去”引申为“除……之外”。
+- **同根词**：exception（except + **-ion** 名词后缀 = 被取出的事物→例外）、accept（**ac-** 向 + cept 拿 = 拿过来→接受）、receive（**re-** 回 + ceive 拿 = 拿回来→收到）、capture（capt 拿 + **-ure** 名词后缀 = 抓住→捕获）。
+- **前缀·后缀**：前缀 **ex-**（例：exit, export）；词根 **cept-**（例：concept, intercept）。
 - **同义·反义**：同义 excluding（除……之外）, but（除了）；反义 including（包括）。
-- **变形**：介词 → 无形态变化；名词派生 → exception n. 例外；形容词派生 → exceptional adj. 例外的；副词派生 → exceptionally adv. 例外地。
+- **变形**：介词 → 无形态变化；动词 → 第三人称单数：excepts；过去式：excepted；过去分词：excepted；现在分词：excepting；名词派生 → exception n. 例外；形容词派生 → exceptional adj. 例外的、杰出的。
 
-### 19. secret /ˈsiːkrət/ adj. 秘密的，保密的；（感情、担心、行动）不公开的，暗自的
-- **词根·渊源**：拉丁 **secernere / secret-**（分开、筛出）→ 拉丁 *secretus*（被分开的、隐藏的）→ 古法语 *secret* → 英语；本义“被分离出来不让人知道”，引申为“秘密的、保密的”。
-- **同根词**：secrete（**se-** 分开 + cret 筛 = 分出来藏起→分泌；藏匿）、secretion（secrete + **-ion** 名词后缀：分泌物）、secretive（secret + **-ive** …的：爱保密的）、secretly（secret + **-ly** 副词后缀：秘密地）、secrecy（secret + **-cy** 名词后缀：保密状态）。
-- **前缀·后缀**：前缀 **se-**（例：separate, select）；形容词后缀 **-ive**（例：active, creative）；副词后缀 **-ly**（例：quickly, happily）。
-- **同义·反义**：同义 hidden（隐藏的）, private（私密的）；反义 public（公开的）, open（公开的）。
-- **变形**：形容词 → 比较级：more secret；最高级：most secret；名词派生 → secrecy n. 保密；副词派生 → secretly adv. 秘密地；名词 → secret n. 秘密（复数：secrets）。
+### 10. hide /haɪd/ v. 藏；隐蔽
+- **词根·渊源**：古英语 **hȳdan**（隐藏）→ 中古英语 *hiden* → 英语 hide；本义“把……藏起来”即“隐蔽”。
+- **同根词**：hiding（hide + **-ing** 名词后缀 = 隐藏的行为→躲藏）、hidden（hide 的过去分词→隐藏的）。
+- **前缀·后缀**：无前后缀（单纯词）。
+- **同义·反义**：同义 conceal（隐藏）, cover（遮盖）；反义 reveal（揭示）, expose（暴露）。
+- **变形**：动词 → 第三人称单数：hides；过去式：hid；过去分词：hidden；现在分词：hiding；名词派生 → hiding n. 躲藏。
 
-### 20. side /saɪd/ n. 侧面；一方；队
-- **词根·渊源**：古英语 **side**（身体的侧面、 flank）→ 中古英语 *side* → 英语；与古诺尔斯语 *síða* 同源，本义“身体的一侧”，引申为“物体的侧面、立场的一方、队伍”。
-- **同根词**：sideways（side + **-ways** 方向后缀：向一侧地）、beside（**be-** 在…旁 + side 侧 = 在旁边）、besides（beside + **-s** 副词性词尾：此外）、outside（**out-** 外 + side 侧 = 外面）、inside（**in-** 内 + side 侧 = 里面）、sidelong（side + **-long** 方向后缀：斜向的）。
-- **前缀·后缀**：前缀 **be-**（例：behind, below）、**out-**（例：outdoor, outcome）、**in-**（例：indoor, income）；后缀 **-ways**（例：always, sideways）。
-- **同义·反义**：同义 flank（侧面）, team（队）；反义 center（中心）, middle（中间）。
-- **变形**：名词 → 复数：sides；形容词派生 → sided adj. 有…边的；副词派生 → sideways adv. 向一侧地。
+### 11. secretly /ˈsikrɪtli/ adv. 秘密地
+- **词根·渊源**：拉丁 **secr-**（分开、隐藏）→ 拉丁 *secretus*（被分开的、隐藏的）→ 英语 secret + **-ly** → secretly；本义“以隐藏的方式”即“秘密地”。
+- **同根词**：secret（secr 隐藏 + **-et** 形容词/名词后缀 = 隐藏的→秘密）、secrecy（secret + **-cy** 名词后缀 = 秘密状态→保密）、secrete（secret + **-e** 动词后缀 = 使隐藏→分泌）。
+- **前缀·后缀**：副词后缀 **-ly**（例：quickly, happily）；名词后缀 **-cy**（例：accuracy, privacy）。
+- **同义·反义**：同义 privately（私下地）, covertly（隐蔽地）；反义 openly（公开地）, publicly（公开地）。
+- **变形**：副词 → 无比较级（多音节副词用 more secretly / most secretly）；形容词派生 → secret adj. 秘密的；名词派生 → secrecy n. 保密。
 
-### 21. quietly /ˈkwaɪətlɪ/ adv. 小声地；安静地，寂静地
-- **词根·渊源**：拉丁 **quietus**（安静的，休息的）→ 古法语 *quiet* → 英语 *quiet*（安静的）+ **-ly** 副词后缀 → quietly；本义“处于安静状态地”，引申为“小声地、寂静地”。
-- **同根词**：quiet（词根 quiet 安静：安静的）、quieten（quiet + **-en** 动词后缀：使安静）、quietness（quiet + **-ness** 名词后缀：安静）、quietude（quiet + **-ude** 名词后缀：平静）、disquiet（**dis-** 不 + quiet 安静 = 使不安）、acquiesce（**ac-** 向 + quies 安静 = 默许）。
-- **前缀·后缀**：前缀 **dis-**（例：disagree, discover）、**ac-**（例：accept, achieve）；副词后缀 **-ly**（例：slowly, bravely）；动词后缀 **-en**（例：widen, strengthen）。
-- **同义·反义**：同义 softly（轻柔地）, silently（无声地）；反义 loudly（大声地）, noisily（吵闹地）。
-- **变形**：副词 → 无比较级（派生副词，不作比较）；形容词派生 → quiet adj. 安静的；名词派生 → quietness n. 安静；动词派生 → quieten v. 使安静。
-
-### 22. army /ˈɑːrmi/ n. 军队
-- **词根·渊源**：拉丁 **arma**（武器）→ 古法语 *armée*（武装力量）→ 英语 *army*；本义“武装起来的人群”，引申为“军队”。
-- **同根词**：arm（词根 arm 武器：武器；武装）、armed（arm + **-ed** 形容词后缀：武装的）、armor（arm + **-or** 名词后缀：盔甲）、armament（arma + **-ment** 名词后缀：军备）、disarm（**dis-** 去除 + arm 武器 = 解除武装）、armistice（arma 武器 + stice 停止 = 停战）。
-- **前缀·后缀**：前缀 **dis-**（例：disappear, disconnect）；名词后缀 **-ment**（例：movement, government）；形容词后缀 **-ed**（例：talented, excited）。
-- **同义·反义**：同义 troops（部队）, forces（武装力量）；反义 civilians（平民）, 无。
-- **变形**：名词 → 复数：armies；形容词派生 → army-like adj. 军队般的。
-
-### 23. enter /ˈentər/ v. 进来；进入
-- **词根·渊源**：拉丁 **intra-**（在内）→ 拉丁 *intrare*（进入）→ 古法语 *entrer* → 英语 *enter*；本义“走到里面”，引申为“进入、参加”。
-- **同根词**：entrance（enter + **-ance** 名词后缀：入口；进入）、entry（enter + **-y** 名词后缀：进入；条目）、entrant（enter + **-ant** 人后缀：进入者）、reenter（**re-** 再 + enter 进入 = 再进入）。
-- **前缀·后缀**：前缀 **re-**（例：return, rebuild）；名词后缀 **-ance**（例：importance, performance）、**-ant**（例：servant, assistant）。
-- **同义·反义**：同义 come in（进来）, go into（进入）；反义 exit（退出）, leave（离开）。
+### 12. enter /ˈɛnər/ v. 进来；进入
+- **词根·渊源**：拉丁 **intra-**（在内）→ 拉丁 *intrare*（进入）→ 古法语 *entrer* → 英语 enter；本义“走到里面”即“进入”。
+- **同根词**：entrance（enter + **-ance** 名词后缀 = 进入的地方→入口）、entry（enter + **-y** 名词后缀 = 进入→入口）、internal（**intern-** 内部 + **-al** …的 = 内部的）。
+- **前缀·后缀**：前缀 **en-**（例：enable, enclose）；名词后缀 **-ance**（例：importance, distance）。
+- **同义·反义**：同义 come in（进来）, go in（进去）；反义 exit（出去）, leave（离开）。
 - **变形**：动词 → 第三人称单数：enters；过去式：entered；过去分词：entered；现在分词：entering；名词派生 → entrance n. 入口；entry n. 进入。
 
-### 24. succeed /səkˈsid/ v. 实现目标；成功；达到目的
-- **词根·渊源**：拉丁 **sub-**（在下、接着）+ **cedere**（走）→ 拉丁 *succedere*（接着走、接替）→ 古法语 *succeder* → 英语；本义“跟在后面走”，引申为“接替”，再引申为“顺利进行、成功”。
-- **同根词**：success（suc- 接着 + cess 走 = 接着走→成功）、successful（success + **-ful** 充满…的：成功的）、succession（suc- + cess 走 + **-ion** 名词后缀：连续；继承）、successive（suc- + cess + **-ive** …的：连续的）、succeed 本身含 ced 走；proceed（**pro-** 向前 + ceed 走 = 前进）、exceed（**ex-** 超出 + ceed 走 = 超过）。
-- **前缀·后缀**：前缀 **suc-**（=sub-，例：support, suggest）、**pro-**（例：progress, produce）、**ex-**（例：export, exit）；名词后缀 **-ion**（例：action, education）；形容词后缀 **-ful**（例：helpful, useful）。
-- **同义·反义**：同义 achieve（实现）, triumph（获胜）；反义 fail（失败）, lose（输掉）。
+### 13. succeed /səkˈsid/ v. 达到目的；成功
+- **词根·渊源**：拉丁 **ced-/cess-**（走）→ 拉丁 *succedere*（跟在后面、接替）→ 古法语 *succeder* → 英语 succeed；本义“跟在后面走”引申为“接替”再引申为“达到目的、成功”。
+- **同根词**：success（suc- 在后 + cess 走 = 跟在后面走的结果→成功）、succession（success + **-ion** 名词后缀 = 接连→连续）、proceed（**pro-** 向前 + ceed 走 = 向前走→继续进行）、exceed（**ex-** 超出 + ceed 走 = 走出界限→超过）。
+- **前缀·后缀**：前缀 **suc-**（=sub- 在下，例：support, suggest）、**pro-**（例：produce, progress）；词根 **ceed-/cess-**（例：proceed, access）。
+- **同义·反义**：同义 achieve（达到）, triumph（获胜）；反义 fail（失败）。
 - **变形**：动词 → 第三人称单数：succeeds；过去式：succeeded；过去分词：succeeded；现在分词：succeeding；名词派生 → success n. 成功；形容词派生 → successful adj. 成功的；副词派生 → successfully adv. 成功地。
 
-### 25. trick /trɪk/ v. 计谋；恶作剧；诡计
-- **词根·渊源**：古法语 **trique**（欺骗、花招）→ 中古英语 *trik* → 英语；本义“欺骗的手段”，引申为“计谋、恶作剧、诡计”（词源存疑，一说与拉丁 *tricari* 耍花招有关）。
-- **同根词**：tricky（trick + **-y** 形容词后缀：狡猾的；棘手的）、trickery（trick + **-ery** 名词后缀：欺骗行为）、trickster（trick + **-ster** 人后缀：骗子）、trickily（tricky + **-ly** 副词后缀：狡猾地）。
-- **前缀·后缀**：名词后缀 **-ery**（例：bakery, bravery）、**-ster**（例：gangster, youngster）；形容词后缀 **-y**（例：rainy, healthy）。
-- **同义·反义**：同义 deceive（欺骗）, cheat（欺骗）；反义 无。
-- **变形**：动词 → 第三人称单数：tricks；过去式：tricked；过去分词：tricked；现在分词：tricking；名词 → 复数：tricks；形容词派生 → tricky adj. 狡猾的；名词派生 → trickery n. 欺骗。
+### 14. trick /trɪk/ n. 诡计
+- **词根·渊源**：古法语 **trique**（欺骗、诡计）→ 中古英语 *trik* → 英语 trick；本义“欺骗的手段”即“诡计”（更早语源存疑）。
+- **同根词**：tricky（trick + **-y** …的 = 诡计多端的→棘手的）、trickery（trick + **-ery** 名词后缀 = 欺骗行为→欺诈）。
+- **前缀·后缀**：形容词后缀 **-y**（例：rainy, sleepy）；名词后缀 **-ery**（例：bravery, bakery）。
+- **同义·反义**：同义 ruse（计策）, prank（恶作剧）；反义 honesty（诚实）。
+- **变形**：名词 → 复数：tricks；动词 → 第三人称单数：tricks；过去式：tricked；过去分词：tricked；现在分词：tricking；形容词派生 → tricky adj. 狡猾的、棘手的。
 
-### 26. prince /prɪns/ n. 王子
-- **词根·渊源**：拉丁 **princeps**（第一人、首领）= **primus**（第一）+ **capere**（拿、取）→ 古法语 *prince* → 英语；本义“占据首位的人”，引申为“王子、亲王”。
-- **同根词**：princess（prince + **-ess** 女性后缀：公主）、princely（prince + **-ly** 形容词后缀：王子的；高贵的）、principality（prince + **-ality** 名词后缀：公国）、principal（prin 第一 + cip 取 + **-al** …的：首要的）、principle（prin 第一 + cip 取 + **-le** 名词后缀：原则）。
-- **前缀·后缀**：女性后缀 **-ess**（例：actress, hostess）；形容词后缀 **-ly**（例：friendly, lovely）；名词后缀 **-ality**（例：personality, nationality）。
-- **同义·反义**：同义 royal（王室成员）, 无；反义 princess（公主）, 无。
-- **变形**：名词 → 复数：princes；形容词派生 → princely adj. 王子的；名词派生 → princess n. 公主。
+### 15. fight /faɪt/ v. 打仗；战斗
+- **词根·渊源**：古英语 **feohtan**（打斗）→ 中古英语 *fighten* → 英语 fight；本义“打斗”即“战斗”。
+- **同根词**：fighter（fight + **-er** 人 = 战斗者→战士）、fighting（fight + **-ing** 名词后缀 = 战斗）。
+- **前缀·后缀**：名词后缀 **-er**（例：singer, dancer）。
+- **同义·反义**：同义 battle（战斗）, combat（战斗）；反义 surrender（投降）, yield（屈服）。
+- **变形**：动词 → 第三人称单数：fights；过去式：fought；过去分词：fought；现在分词：fighting；名词 → 复数：fights；名词派生 → fighter n. 战士。
 
-### 27. queen /kwiːn/ n. 女王；王后
-- **词根·渊源**：古英语 **cwēn**（女人、妻子、王后）→ 中古英语 *quene* → 英语；与古诺尔斯语 *kona* 同源，本义“女人”，后专指“王后、女王”。
-- **同根词**：queenly（queen + **-ly** 形容词后缀：女王般的）、queenhood（queen + **-hood** 名词后缀：女王身份）、queendom（queen + **-dom** 名词后缀：女王统治的王国）。
-- **前缀·后缀**：形容词后缀 **-ly**（例：kingly, motherly）；名词后缀 **-hood**（例：childhood, brotherhood）、**-dom**（例：kingdom, freedom）。
-- **同义·反义**：同义 monarch（君主）, 无；反义 king（国王）, 无。
-- **变形**：名词 → 复数：queens；形容词派生 → queenly adj. 女王般的；名词派生 → queendom n. 女王统治的王国。
+### 16. beat /bit/ v. 打败(某人) v. 敲打
+- **词根·渊源**：古英语 **bēatan**（敲打）→ 中古英语 *beten* → 英语 beat；本义“敲打”引申为“打败（把对方打下去）”。
+- **同根词**：beating（beat + **-ing** 名词后缀 = 敲打→跳动）、beaten（beat 的过去分词→被打败的）。
+- **前缀·后缀**：名词后缀 **-ing**（例：running, building）。
+- **同义·反义**：同义 defeat（打败）, strike（敲打）；反义 lose（输给）, surrender（投降）。
+- **变形**：动词 → 第三人称单数：beats；过去式：beat；过去分词：beaten；现在分词：beating；名词 → 复数：beats；名词派生 → beating n. 敲打、跳动。
 
-### 28. punish /ˈpʌnɪʃ/ v. 处罚；惩罚
-- **词根·渊源**：拉丁 **poena**（惩罚、代价）→ 古法语 *punir*（惩罚）→ 英语 *punish*；本义“使付出代价”，引申为“处罚、惩罚”。
-- **同根词**：punishment（punish + **-ment** 名词后缀：惩罚）、punishable（punish + **-able** 可…的：可惩罚的）、punitive（pun 惩罚 + **-itive** …的：惩罚性的）、penalty（pen 惩罚 + **-alty** 名词后缀：处罚）、penal（pen 惩罚 + **-al** …的：刑罚的）。
-- **前缀·后缀**：名词后缀 **-ment**（例：achievement, development）；形容词后缀 **-able**（例：readable, comfortable）、**-al**（例：natural, national）。
-- **同义·反义**：同义 penalize（处罚）, discipline（惩戒）；反义 reward（奖励）, praise（表扬）。
-- **变形**：动词 → 第三人称单数：punishes；过去式：punished；过去分词：punished；现在分词：punishing；名词派生 → punishment n. 惩罚；形容词派生 → punishable adj. 可惩罚的。
+### 17. enemy /ˈɛnəmi/ n. 敌人
+- **词根·渊源**：拉丁 **in-**（不）+ **amic-**（朋友）→ 拉丁 *inimicus*（不是朋友的）→ 古法语 *enemi* → 英语 enemy；本义“非朋友者”即“敌人”。
+- **同根词**：inimical（in- 不 + imic 朋友 + **-al** …的 = 不友好的→敌意的）、amicable（amic 朋友 + **-able** 可…的 = 可做朋友的→友好的）、amity（am 朋友 + **-ity** 名词后缀 = 友好）。
+- **前缀·后缀**：前缀 **in-**（不，例：incorrect, invisible）；名词后缀 **-y**（例：memory, victory）。
+- **同义·反义**：同义 foe（敌人）, opponent（对手）；反义 friend（朋友）, ally（盟友）。
+- **变形**：名词 → 复数：enemies。
 
-### 29. scene /siːn/ n. [戏剧中的]一场
-- **词根·渊源**：希腊 **skēnē**（帐篷、舞台背景）→ 拉丁 *scaena* → 古法语 *scene* → 英语；本义“舞台上的布景”，引申为“戏剧的一场、场景”。
-- **同根词**：scenery（scene + **-ery** 名词后缀：风景；舞台布景）、scenic（scene + **-ic** 形容词后缀：风景的）、scenario（scene + **-ario** 名词后缀：剧情梗概；设想）、scenically（scenic + **-ally** 副词后缀：风景优美地）。
-- **前缀·后缀**：名词后缀 **-ery**（例：gallery, bakery）；形容词后缀 **-ic**（例：basic, historic）；副词后缀 **-ally**（例：basically, dramatically）。
-- **同义·反义**：同义 setting（场景）, view（景象）；反义 无。
-- **变形**：名词 → 复数：scenes；形容词派生 → scenic adj. 风景的；名词派生 → scenery n. 风景。
+### 18. fail /feɪl/ v. 失败；未能(做到)
+- **词根·渊源**：拉丁 **fall-**（犯错、欺骗）→ 古法语 *faillir*（缺乏、失败）→ 英语 fail；本义“缺乏、不足”引申为“未能做到、失败”。
+- **同根词**：failure（fail + **-ure** 名词后缀 = 失败）、failing（fail + **-ing** 名词后缀 = 缺点、失败）、fallible（fall 犯错 + **-ible** 可…的 = 可能犯错的）。
+- **前缀·后缀**：名词后缀 **-ure**（例：pleasure, pressure）；形容词后缀 **-ible**（例：visible, possible）。
+- **同义·反义**：同义 lose（输）, flop（失败）；反义 succeed（成功）, win（赢）。
+- **变形**：动词 → 第三人称单数：fails；过去式：failed；过去分词：failed；现在分词：failing；名词派生 → failure n. 失败；形容词派生 → failing adj. 衰退的。
 
-### 30. sir /sɜː(r)/ n.（对男子或男教师的礼貌称呼）先生；长官
-- **词根·渊源**：古法语 **sire**（老爷、君主）→ 中古英语 *sire / sir* → 英语；源自拉丁 *senior*（年长者），本义“老爷”，引申为对男子的尊称“先生、长官”。
-- **同根词**：sire（词根 sire 老爷：父系；陛下）、senior（sen 老 + **-ior** 比较级后缀：年长的；上级）、senate（sen 老 + **-ate** 名词后缀：元老院；参议院）、senator（senate + **-or** 人后缀：参议员）。
-- **前缀·后缀**：比较级后缀 **-ior**（例：junior, superior）；名词后缀 **-ate**（例：graduate, fortunate）、**-or**（例：actor, doctor）。
-- **同义·反义**：同义 mister（先生）, gentleman（先生）；反义 madam（女士）, 无。
-- **变形**：名词 → 复数：sirs；无比较级（称呼语，不作比较）。
+### 19. therefore /ˈðɛrˌfɔr/ adv. 因此；所以
+- **词根·渊源**：古英语 **þær**（那里）+ **fore**（在前）→ 中古英语 *therfore*，本义“为此、为此事”，由“为了那个（原因）”引申为“因此；所以”。
+- **同根词**：there（þær 那里→那里）、fore（fore 在前→前面的）、before（**be-** 在 + fore 前 = 在前→以前）、forecast（fore 前 + cast 投 = 预先投出→预报）、foresee（fore 前 + see 看 = 预先看到→预见）。
+- **前缀·后缀**：无前后缀（复合词，由 there + fore 构成）。
+- **同义·反义**：同义 hence（因此）, consequently（因此）；反义 无。
+- **变形**：副词 → 无比较级（连接副词，不作比较）；无词性派生。
 
-### 31. act out /ækt aʊt/ n. 把...表演出来
-- **同义搭配**：perform（表演）/ act（表演）
-- **反义搭配**：无
+### 20. within /wɪˈθɪn/ prep. 在(某段时间)之内
+- **词根·渊源**：古英语 **wiðinnan**（从内部）→ 中古英语 *withinne*，由 **with**（相对、往回）+ **innan**（在内）构成，本义“在里面”，引申为“在（某段时间）之内”。
+- **同根词**：with（with 相对→和……一起）、without（with 相对 + out 在外 = 在外面→没有）、in（innan 在内→在……里）、inner（in 内 + **-er** 比较级 = 更内的→内部的）、inside（in 内 + side 边 = 内边→里面）。
+- **前缀·后缀**：无前后缀（复合词，由 with + in 构成）。
+- **同义·反义**：同义 inside（在……之内）, during（在……期间）；反义 beyond（超出）, outside（在……之外）。
+- **变形**：介词 → 无形态变化；无词性派生。
 
-### 32. make jokes about /meɪk ʤoʊks əˈbaʊt/ v. 拿…开玩笑，以…为笑柄
-- **同义搭配**：laugh at（嘲笑）/ tease（取笑）
-- **反义搭配**：take seriously（认真对待）
+### 21. fill /fɪl/ v. (使)充满；(使)装满
+- **词根·渊源**：古英语 **fyllan**（使满）→ 中古英语 *fillen*，与 **full**（满的）同源，出自原始日耳曼语 *fullijan*，本义“使满”，引申为“(使)充满；(使)装满”。
+- **同根词**：full（full 满的→满的）、fully（full 满 + **-ly** 地 = 满满地→完全地）、fulfil（full 满 + fill 填 = 填满→履行、实现）、refill（**re-** 再 + fill 填 = 再装满→重新装满）、fullness（full 满 + **-ness** 名词后缀 = 满→充满）。
+- **前缀·后缀**：动词前缀 **re-**（例：rebuild, rewrite）；名词后缀 **-ness**（例：kindness, darkness）。
+- **同义·反义**：同义 pack（装满）, load（装载）；反义 empty（倒空）, drain（排空）。
+- **变形**：动词 → 第三人称单数：fills；过去式：filled；过去分词：filled；现在分词：filling；名词派生 → filling n. 填充物；filler n. 填充物。
 
-### 33. except for /ɪk'sept fɔː/ prep. 除了…以外；要不是由于
-- **同义搭配**：apart from（除…之外）/ besides（除…之外还）
-- **反义搭配**：including（包括）
+### 22. towards /təˈwɔrdz/ prep. 向；朝；对着
+- **词根·渊源**：古英语 **tōweard**（朝向）→ 中古英语 *toward*，由 **to**（向）+ **-weard**（朝向……的，后缀）构成，本义“朝……方向”，引申为“向；朝；对着”。
+- **同根词**：to（to 向→向）、toward（toward 朝向→朝向）、afterward（after 后 + **-ward** 向 = 向后→后来）、forward（fore 前 + **-ward** 向 = 向前→向前）、homeward（home 家 + **-ward** 向 = 向家→回家方向）。
+- **前缀·后缀**：方向后缀 **-ward / -wards**（例：backward, upwards）。
+- **同义·反义**：同义 toward（朝向）, to（向）；反义 away from（远离）, from（从……离开）。
+- **变形**：介词 → 无形态变化；无词性派生。
 
-### 34. be full of /bi fʊl əv/ v. 大量的；（有）许多的；满是
-- **同义搭配**：be filled with（充满）/ be crowded with（挤满）
-- **反义搭配**：be empty of（空无）
+### 23. attack /əˈtæk/ n. 袭击；攻击
+- **词根·渊源**：意大利语 **attaccare**（攻击、接上）→ 法语 *attaquer* → 英语，本义“接上、系上（战斗）”，由“接战”引申为“袭击；攻击”。
+- **同根词**：attacker（attack 攻击 + **-er** 者 = 攻击者→袭击者）、attacking（attack 攻击 + **-ing** ……的 = 攻击的→进攻性的）、counterattack（**counter-** 反 + attack 攻击 = 反击→反攻）、attach（at- 向 + tacc 系 = 系上→附上）、detach（**de-** 去除 + tach 系 = 解开→分离）。
+- **前缀·后缀**：名词后缀 **-er**（例：teacher, worker）；前缀 **counter-**（例：countermeasure）、**de-**（例：decrease）。
+- **同义·反义**：同义 assault（袭击）, raid（突袭）；反义 defense（防御）, protection（保护）。
+- **变形**：名词 → 复数：attacks；动词派生 → attack v. 攻击；attacker n. 攻击者。
 
-### 35. in the end /ɪn ðə end/ prep. 最后，终于
-- **同义搭配**：finally（最后）/ at last（终于）
-- **反义搭配**：at first（起初）
+### 24. fog /fɔg/ n. 雾
+- **词根·渊源**：词源存疑；一说源自丹麦语 *fog*（草堆后吹来的雾）或古诺尔斯语 *fok*（飞雪、雾气），16 世纪进入英语，本义“浓雾”，引申为“雾”。
+- **同根词**：foggy（fog 雾 + **-y** 多……的 = 多雾的→有雾的）、fogged（fog 雾 + **-ed** 被……的 = 被雾罩的→起雾的）、defog（**de-** 去除 + fog 雾 = 除雾→去雾）、fogbound（fog 雾 + bound 被束缚的 = 被雾困住的→因雾受阻的）。
+- **前缀·后缀**：形容词后缀 **-y**（例：rainy, windy）；前缀 **de-**（例：defrost）。
+- **同义·反义**：同义 mist（薄雾）, haze（霾）；反义 clarity（清晰）, sunshine（阳光）。
+- **变形**：名词 → 复数：fogs（作“雾”义时多不可数）；形容词派生 → foggy adj. 有雾的；副词派生 → foggily adv. 有雾地。
 
-### 36. come on /kʌm/ v. 快；加油；加把劲
-- **同义搭配**：hurry up（快点）/ cheer up（加油）
-- **反义搭配**：slow down（慢点）
+### 25. make jokes about  v. 开……的玩笑
+- **同义搭配**：make fun of / laugh at
+- **反义搭配**：take seriously
+
+### 26. succeed in  v. 在……方面成功
+- **同义搭配**：manage to do / achieve success in
+- **反义搭配**：fail in
+
+### 27. be tired of  v. 厌烦
+- **同义搭配**：be fed up with / be sick of
+- **反义搭配**：be fond of
+
+### 28. go on board  v. 上船
+- **同义搭配**：board / get on
+- **反义搭配**：go ashore
+
+### 29. be jealous of  v. 嫉妒
+- **同义搭配**：be envious of / envy
+- **反义搭配**：be content with
+
+### 30. be full of  v. 装满；充满
+- **同义搭配**：be filled with / be packed with
+- **反义搭配**：be empty of
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| under- | 在……下面；不足 | understand | underground, underwater, underestimate |
-| dif-（dis- 的变体） | 分开、不 | difference | differ, difficult, diffuse |
-| -ence | 名词后缀，表状态、性质 | difference | patience, silence, confidence |
-| -er | 名词后缀，表人 | soldier | teacher, worker, farmer |
-| -ain | 名词后缀，表人 | captain | mountain, certain, fountain |
-| -ate | 动词后缀，表使…… | celebrate | activate, motivate, separate |
-| -id | 形容词后缀 | stupid | rapid, valid, humid |
-| mid- | 中间 | midnight | midday, midway, midsummer |
-| ex- | 向外、出 | except | exit, export, exclude |
-| -ly | 副词后缀 | quietly | quickly, happily, carefully |
-| -ish | 动词后缀，表使…… | punish | finish, establish, accomplish |
-| -y | 名词后缀 | army | party, family, country |
-| -ture | 名词后缀，表行为、结果 | capture | culture, nature, mixture |
-| -ic | 形容词后缀 | Greek（存疑） | basic, public, historic |
+| -er | 表人、施动者 | soldier | teacher, worker, driver, farmer |
+| -y | 构成名词或形容词 | victory | history, memory, happy, rainy |
+| -ly | 构成副词 | secretly | quickly, happily, carefully, badly |
+| -ful | 充满……的 | be full of（full 本身） | helpful, useful, careful, beautiful |
+| -less | 无……的 | — | hopeless, careless, endless, useless |
+| -ment | 构成名词 | — | movement, development, government, agreement |
+| -tion/-sion | 构成名词 | — | action, education, decision, discussion |
+| ex- | 向外、出 | except | exit, export, express, exclude |
+| en- | 使……、进入 | enter, enemy（存疑） | enable, enlarge, encourage, enrich |
+| in-/im- | 不、向内 | — | impossible, invisible, incorrect, import |
+| mid- | 中间 | midnight | midday, midway, midterm, midsummer |
+| there- | 那里、因此 | therefore | thereby, therein, thereafter |
+| with- | 向后、相对 | within | withdraw, withstand, withhold |
+| to- | 向、朝 | towards | today, together, tomorrow, tonight |
+| at- | 向、加强 | attack | attend, attract, attempt, arrive |
+| suc-/sub- | 在下、随后 | succeed | subway, submit, support, suggest |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
 | 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| ancient（古代的） | old（古老的） | modern（现代的） |
-| war（战争） | battle（战斗） | peace（和平） |
-| understand（理解） | comprehend（理解） | misunderstand（误解） |
-| difference（差异） | distinction（区别） | similarity（相似） |
-| huge（巨大的） | enormous（巨大的） | tiny（微小的） |
-| pull（拉） | drag（拖） | push（推） |
-| main（主要的） | chief（主要的） | minor（次要的） |
-| celebrate（庆祝） | commemorate（纪念） | mourn（哀悼） |
-| stupid（愚蠢的） | foolish（愚蠢的） | clever（聪明的） |
+| author（作者） | writer（作家） | reader（读者） |
+| remains（遗迹） | ruins（废墟） | — |
+| locate（安置） | place（放置） | remove（移走） |
 | empty（空的） | vacant（空的） | full（满的） |
-| secret（秘密的） | hidden（隐藏的） | public（公开的） |
-| quietly（安静地） | silently（无声地） | loudly（大声地） |
-| enter（进入） | come in（进来） | exit（出去） |
-| succeed（成功） | achieve（实现） | fail（失败） |
-| punish（惩罚） | penalize（处罚） | reward（奖励） |
-| capture（攻占） | seize（夺取） | release（释放） |
-| army（军队） | troops（部队） | — |
-| trick（诡计） | scheme（计谋） | honesty（诚实） |
+| victory（胜利） | success（成功） | defeat（失败） |
+| joke（笑话） | fun（乐趣） | — |
+| midnight（午夜） | — | noon（正午） |
 | except（除……之外） | besides（除……之外还有） | including（包括） |
-| in the end（最后） | finally（最终） | at first（起初） |
+| hide（藏） | conceal（隐藏） | reveal（显露） |
+| secretly（秘密地） | privately（私下地） | openly（公开地） |
+| enter（进入） | come in（进来） | exit（出去） |
+| succeed（成功） | achieve（达到） | fail（失败） |
+| trick（诡计） | scheme（计谋） | honesty（诚实） |
+| fight（战斗） | battle（战斗） | — |
+| beat（打败） | defeat（击败） | lose（输） |
+| enemy（敌人） | foe（敌人） | friend（朋友） |
+| fail（失败） | lose（输） | succeed（成功） |
+| therefore（因此） | so（所以） | — |
+| within（在……之内） | inside（在里面） | beyond（超出） |
+| attack（攻击） | assault（袭击） | defend（防御） |
 
 ---
 

@@ -20,7 +20,21 @@ words/
 ```
 
 每个 `output/xx_UN.md` 为一张表：序号 / **英文 / 音标 / 词性 / 中文**。
-共 46 个单元、1537 条（含短语）；**词性 1537/1537**、音标 1511/1537。
+共 46 个单元、1442 条（含短语）；每个单元另配一份 `*_EXPLAIN.md`。
+
+> **版次**：全部按 **沪教牛津版（2024/2025 修订）新教材** 重建。
+> 7A 与课本拍照逐词一致；7B 与新版词汇表逐词一致（多出的是短语）；
+> 8A / 8B / 9A / 9B 原先误用了 2013 旧版（单元名都不对），已于 2026-10-22 全部重建。
+
+| 册 | 单元数 | 条目 |
+|---|---|---|
+| 7A | 8 | 331 |
+| 7B | 8 | 290 |
+| 8A | 8 | 253 |
+| 8B | 8 | 214 |
+| 9A | 8 | 207 |
+| 9B | 6 | 147 |
+| 合计 | 46 | **1442** |
 
 ## 单元标题
 
@@ -28,16 +42,24 @@ words/
 |---|---|---|---|---|---|---|---|---|
 | 7A | Friendship | School life | The seasons | The Earth | Off to space | Travelling around | Fun after school | Collecting as a hobby |
 | 7B | People around us | Travelling around the world | Trees and us | Our animal friends | Water is life | Electricity everywhere | Role models of our time | Follow your interests |
-| 8A | Encyclopaedias | Numbers | Computers | Inventions | Educational exchanges | Ancient stories | Memory | English week |
-| 8B | Helping those in need | Body Language | Traditional skills | Cartoons and comic strips | Save the endangered animals | Pets | The unknown world | Life in the future |
-| 9A | Wise men in history | Great minds | Family life | Problems and advice | Action! | Healthy diet | The Adventures of Tom Sawyer | Surprise endings |
-| 9B | Great explorations | Culture shock | The environment | Natural disasters | Sport | Caring for your health | — | — |
+| 8A | Look it up! | Amazing numbers | Our digital lives | Inventions | Going on an exchange trip | Wisdom counts | The secret of memory | Pets and us |
+| 8B | Helping those in need | Body language | Comics and animation | Arts and heritage | Saving animals in danger | Learning by doing | Space exploration | Imagine that |
+| 9A | Great people | Great ideas | Family traditions | A better me | My time, my joy | Food and health | Reading Mark Twain | The power of love |
+| 9B | Sport and sportsmanship | Finding balance in life | Protecting the environment | Natural disasters | Great explorers and explorations | Experiencing different cultures | — | — |
 
-## 数据来源（2026-10-21 抓取）
+## 数据来源（2026-10-22 重建）
 
-- 7A：`zy.21cnjy.com/20926785`《七年级英语上册单词表及单词默写表【牛津版（深圳·广州）（2024）】》
-- 7B：`yy.suyang123.com/…/hjnjb_2025xiace_words1-8.html`（沪教牛津版七下，逐单元页）
-- 8A / 8B / 9A / 9B：`yyld.51jiaoxi.com/{bashang,baxia,jiushang,jiuxia}/hjnjb_danci.html`
+| 册 | 来源 |
+|---|---|
+| 7A | `zy.21cnjy.com/20926785`（2024 版七上单词表）+ 用户提供的课本照片核对 |
+| 7B | `yy.suyang123.com/…/hjnjb_2025xiace_words1-8`（新版七下，逐单元页）|
+| 8A | 21世纪教育网「Unit N … 单词表（背诵版+默写版）2025新沪教牛津版八上」U1–U7 + 朗读宝 U8 |
+| 8B | 21世纪教育网「沪教新 8 下全册 U1~8 单词背诵版·默写版」| 
+| 9A | 21世纪教育网「新版沪教牛津 9 上词汇汇总背诵版」|
+| 9B | 21世纪教育网「沪教版初中英语九年级下册 全册单词精讲（6 份）」|
+
+音标统一用 `eng_to_ipa` 重算（源站音标普遍缺字符，如 `/da n s (r)/`）；
+短语条目不标音标，词性按首词标。
 
 ## 说文解字（*_EXPLAIN.md）
 

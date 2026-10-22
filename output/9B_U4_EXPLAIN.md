@@ -1,6 +1,6 @@
 # 9B_U4 说文解字 · Natural disasters
 
-> 配套 `9B_U4.md`（沪教牛津版 2024/2025 修订，31 条）
+> 配套 `9B_U4.md`（沪教牛津版 2024/2025 修订，24 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
 > 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
@@ -8,257 +8,217 @@
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
-| aster- / astro- | 星 | 希腊语 astron（星） | asteroid | astronomy, astronaut, disaster, asterisk |
-| typh- | 旋、卷（存疑，一说源自希腊语 typhon 旋风） | 希腊语 typhon | typhoon | 存疑，同根词极少 |
-| quake | 震动、颤抖 | 古英语 cwacian（颤抖） | earthquake | quake, quaky, quaking |
-| melt | 融化 | 古英语 meltan | melt | molten, melting, meltdown |
-| flood | 洪水、泛滥 | 古英语 flōd | flood | flow, float, fleet |
-| viv / vit | 活、生命 | 拉丁语 vivere（活） | alive | survive, vivid, revive, vital |
-| ject | 投、扔 | 拉丁语 jacere（投掷） | object | reject, project, inject, subject |
-| pass | 通过、步 | 拉丁语 passus（步） | pass, pass by | passage, passenger, passport |
-| medi | 中间 | 拉丁语 medius（中间） | immediately | medium, mediate, medieval |
-| miss | 送、放 | 拉丁语 mittere（送） | missing | mission, dismiss, permit, submit |
-| nat | 出生 | 拉丁语 nasci（出生） | natural disaster | nature, native, nation, innate |
-| viv | 活 | 拉丁语 vivere | survival kit | survive, vivid, revive |
-| st- / sta- | 站、立 | 拉丁语 stare（站立） | stare, stare at | stand, stable, station, statue |
-| not | 知道、标记 | 拉丁语 notus（已知） | notice | notify, notable, notion |
-| kit | 一套用具（存疑，词源不确定） | 中古英语 kytte | survival kit | toolkit, first-aid kit |
-| dis- + aster | 星位不正→灾祸 | 拉丁语 dis-（坏）+ astrum（星） | natural disaster | disaster, disastrous |
+| earth | 地球；土地 | 古英语 eorþe | earthquake | earth, earthy, earthen, earthling |
+| quake | 震动；颤抖 | 古英语 cwacian | earthquake | quake, quaky, quaking |
+| pair- / par- | 准备；安排 | 拉丁语 parare | repair | prepare, repair, apparatus, parade |
+| norm | 标准；规范 | 拉丁语 norma（木匠的角尺） | normal | norm, normal, abnormal, enormous |
+| nounce / nunci- | 宣布；报告 | 拉丁语 nuntiare | announce | announce, pronounce, denounce, enunciate |
+| cid / cis- | 切；割 | 拉丁语 caedere | cancel | decide, precise, scissors, incise |
+| bill | 账单；告示 | 中世纪拉丁语 billa | billboard | bill, billboard, booklet（存疑） |
+| purpose | 意图；目的 | 古法语 porpos | purpose | purpose, purposeful, purposely |
+| place | 地方；放置 | 拉丁语 platea（宽街） | replace | place, replace, displace, placement |
+| jur- / jus- | 法律；公正 | 拉丁语 jus, juris | injured | injury, injure, justice, jury |
+| cred- | 相信 | 拉丁语 credere | credit card | credit, credible, incredible, creditor |
+| sale | 卖 | 古英语 sala | on sale | sale, sell, salesman, wholesale |
+| sense | 感觉；意义 | 拉丁语 sentire | make sense | sense, sensible, sensitive, sensation |
+| storm | 风暴 | 古英语 storm | ice storm | storm, stormy, brainstorm |
+| eye | 眼睛 | 古英语 ēage | keep an eye on | eye, eyesight, eyebrow, eyewitness |
+| council | 会议；委员会 | 拉丁语 concilium | student council | council, councillor, counsel（存疑） |
 
 ## 二、逐词说文解字
 
-### 1. asteroid /ˈæstərɔɪd/ adj. 小行星
-- **词根·渊源**：希腊 **aster / astron-**（星）→ 希腊 *asteroeidēs*（星状的）→ 英语；本义“星状的”，因小行星在望远镜中呈星点状而得名。
-- **同根词**：astronomy（aster 星 + **-nomy** 法则 = 星辰的法则→天文学）、astronaut（aster 星 + naut 航行者 = 星际航行者→宇航员）、disaster（**dis-** 坏 + aster 星 = 星位不吉→灾难）、asterisk（aster 星 + **-isk** 小 = 小星号→星号）。
-- **前缀·后缀**：后缀 **-oid**（例：humanoid, planetoid）。
-- **同义·反义**：同义 planetoid（小行星）；反义 无。
-- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → asteroid n. 小行星；复数：asteroids。
-
-### 2. typhoon /taɪ'fuːn/ n. 台风
-- **词根·渊源**：希腊 **typhōn**（旋风、巨风，源自 typhos 烟、旋风）→ 阿拉伯语 *tūfān* → 葡萄牙语 *tufão* → 英语；本义“猛烈的旋风”，引申为“台风”。汉语“台风”与英语 typhoon 的对应关系存疑（一说汉语借自英语，一说英语受汉语影响）。
-- **同根词**：typhonic（typhoon + **-ic** …的：台风的）、typhoonish（typhoon + **-ish** 似…的：似台风的）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 cyclone（气旋）, hurricane（飓风）；反义 无。
-- **变形**：名词 → 复数：typhoons；形容词派生 → typhonic adj. 台风的。
-
-### 3. earthquake /ˈɜ:rθkweɪk/ n. 地震
-- **词根·渊源**：古英语 **eorþe**（地）+ **cwacian**（震动）→ 中古英语 *erthequake* → 英语；本义“大地的震动”，即“地震”。
-- **同根词**：earth（地：earth + **-ly**  earthly 尘世的）、quaky（quake + **-y** …的：震动的）、quaver（与 quake 同源，颤动→颤声）、earthworm（earth 地 + worm 虫 = 蚯蚓）。
+### 1. earthquake /ˈərθkˌweɪk/ n. 地震
+- **词根·渊源**：earth（地球、大地）+ quake（震动，源自古英语 cwacian“颤抖”）→ 复合词，字面义“大地震动”，即“地震”。
+- **同根词**：earth（大地，本词）、quake（**cwacian** 颤抖→震动）、earthly（earth + **-ly** …的：尘世的）、earthquake-proof（earthquake + proof 防…的：抗震的）。
 - **前缀·后缀**：无前后缀（复合词）。
 - **同义·反义**：同义 quake（地震）, tremor（震动）；反义 无。
 - **变形**：名词 → 复数：earthquakes；形容词派生 → earthquaky adj. 地震的（罕用）。
 
-### 4. melt /mɛlt/ v.（使）熔化；（使）融化
-- **词根·渊源**：古英语 **meltan**（熔化、消化）→ 中古英语 *melten* → 英语；与古诺斯语 *melta* 同源，本义“使变软、消融”，引申为“熔化、融化”。
-- **同根词**：molten（melt 的过去分词变体：熔化的）、melting（melt + **-ing** …的：融化的）、meltdown（melt 熔化 + down 下 = 熔毁→（核）熔毁）。
+### 2. repair /rɪˈpɛr/ v. 修理；修缮
+- **词根·渊源**：拉丁 **re-**（再）+ **parare**（准备）→ 拉丁 reparare“重新准备、恢复”→ 古法语 reparer → 英语，本义“使恢复原状”，引申为“修理”。
+- **同根词**：reparation（re- 再 + parare 准备 + **-ion** 名词后缀：赔偿、修复）、prepare（**pre-** 预先 + parare 准备：准备）、preparation（prepare + **-ation** 名词后缀：准备）、apparatus（**ad-** 向 + parare 准备 + **-us**：装备）。
+- **前缀·后缀**：前缀 **re-**（例：rebuild, return）；词根 parare 相关后缀 **-ation**（例：preparation, information）。
+- **同义·反义**：同义 fix（修理）, mend（修补）；反义 break（弄坏）, damage（损坏）。
+- **变形**：动词 → 第三人称单数：repairs；过去式：repaired；过去分词：repaired；现在分词：repairing；名词派生 → repair n. 修理；repairer n. 修理者。
+
+### 3. shut /ʃət/ adj. 停业；关门
+- **词根·渊源**：古英语 scyttan“闩上门、关闭”，与 shoot“射出（门闩）”同源，本义“插上门闩”，引申为“关闭的、停业的”。
+- **同根词**：shutter（shut + **-er** 名词后缀：百叶窗、快门）、shutdown（shut + down 向下：停工、关机）。
 - **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 dissolve（溶解）, thaw（融化）；反义 freeze（冻结）, solidify（凝固）。
-- **变形**：动词 → 第三人称单数：melts；过去式：melted；过去分词：melted（古变体 molten）；现在分词：melting；名词派生 → melting n. 熔化；形容词派生 → melted adj. 熔化的。
+- **同义·反义**：同义 closed（关闭的）；反义 open（开着的）。
+- **变形**：形容词 → 无比较级（状态形容词，不作比较）；动词派生 → shut v. 关闭（第三人称单数：shuts；过去式：shut；过去分词：shut；现在分词：shutting）。
 
-### 5. flood /flʌd/ n.（使）灌满水；淹没
-- **词根·渊源**：古英语 **flōd**（水流、洪水）→ 中古英语 *flod* → 英语；与 flow 同出 PIE *pleu-*（流动），本义“大水流动”，引申为“洪水、淹没”。
-- **同根词**：flow（与 flood 同源：流动）、float（与 flow 同源：漂浮）、floodgate（flood 洪水 + gate 门 = 泄洪闸门）、floodlight（flood 泛 + light 光 = 泛光灯）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 deluge（洪水）, inundate（淹没）；反义 drought（干旱）, drain（排干）。
-- **变形**：名词 → 复数：floods；动词 → 第三人称单数：floods；过去式：flooded；过去分词：flooded；现在分词：flooding；形容词派生 → flooded adj. 被淹没的。
+### 4. normal /ˈnɔrməl/ n. 常态
+- **词根·渊源**：拉丁 **norma**（木匠的角尺、规范）+ **-alis**（…的）→ 拉丁 normalis“合乎规范的”→ 英语，本义“符合标准的”，名词义“常态”由形容词转化而来。
+- **同根词**：norm（norma 规范：标准）、normalize（normal + **-ize** 使…化：使正常化）、abnormal（**ab-** 偏离 + normal 正常：反常的）、enormous（**e-** 出 + norma 规范 + **-ous** …的：超出常规→巨大的）。
+- **前缀·后缀**：前缀 **ab-**（例：absent, abnormal）；后缀 **-al**（例：natural, personal）。
+- **同义·反义**：同义 standard（标准）, usual（通常的）；反义 abnormal（反常的）, unusual（不寻常的）。
+- **变形**：名词 → 复数：normals（多用单数）；形容词派生 → normal adj. 正常的；副词派生 → normally adv. 正常地；动词派生 → normalize v. 使正常化。
 
-### 6. badly /ˈbædli/ adv. 严重地；厉害地
-- **词根·渊源**：古英语 **bæddel**（坏、劣）→ 中古英语 *badde* → 英语 bad（坏的）+ **-ly**（…地）→ badly；本义“以坏的方式”，引申为“严重地、厉害地”。
-- **同根词**：bad（坏的：bad + **-ness** badness 坏）、worse（bad 的比较级：更坏的）、worst（bad 的最高级：最坏的）、badness（bad + **-ness** 性质：坏）。
-- **前缀·后缀**：副词后缀 **-ly**（例：quickly, sadly）。
-- **同义·反义**：同义 seriously（严重地）, severely（严厉地）；反义 well（好地）, slightly（轻微地）。
-- **变形**：副词 → 比较级：worse；最高级：worst；形容词派生 → bad adj. 坏的；名词派生 → badness n. 坏。
+### 5. downstairs /ˈdaʊnˈstɛrz/ adv. 在楼下；往楼下
+- **词根·渊源**：down（向下，古英语 dūne“从山上向下”）+ stairs（楼梯，古英语 stǣger“阶梯”）→ 复合副词，字面义“沿楼梯向下”，即“在楼下、往楼下”。
+- **同根词**：down（向下，本词素）、stair（stǣger 阶梯：楼梯）、upstairs（**up-** 向上 + stairs 楼梯：在楼上）、downward（down + **-ward** 向…方向：向下的）。
+- **前缀·后缀**：无前后缀（复合词）。
+- **同义·反义**：同义 below（在下面）；反义 upstairs（在楼上）。
+- **变形**：副词 → 无比较级（方位副词，不作比较）；形容词派生 → downstairs adj. 楼下的。
 
-### 7. alive /əˈlaɪv/ adj. 活着的，在世的
-- **词根·渊源**：古英语 **on līfe**（在生命之中）→ 中古英语 *alive* → 英语；本义“处于生命状态”，即“活着的”。
-- **同根词**：life（与 alive 同源：生命）、live（与 alive 同源：活的、居住）、lively（live + **-ly** …的：活泼的）、livelihood（live 生活 + -lihood 状态 = 生计）。
-- **前缀·后缀**：前缀 **a-**（例：asleep, awake）。
-- **同义·反义**：同义 living（活着的）, live（活的）；反义 dead（死的）, lifeless（无生命的）。
-- **变形**：形容词 → 无比较级（表语形容词，不作比较）；名词派生 → aliveness n. 活力。
+### 6. alright /ˌɔˈlraɪt/ adj. 安全健康 (的)；平安无恙 (的)
+- **词根·渊源**：all（完全）+ right（正确、良好，古英语 riht）→ 19 世纪口语缩合词，本义“一切正常”，引申为“平安无恙的”。拼写 alright 曾受争议，现已被广泛接受。
+- **同根词**：all（完全，本词素）、right（riht 正确的：对的）、rightly（right + **-ly** 副词后缀：正确地）、upright（**up-** 向上 + right 直：直立的）。
+- **前缀·后缀**：无前后缀（复合词）。
+- **同义·反义**：同义 fine（好的）, well（健康的）；反义 ill（生病的）, unwell（不适的）。
+- **变形**：形容词 → 无比较级（状态形容词，不作比较）；副词派生 → alright adv. 还好、没问题。
 
-### 8. pool /puːl/ n. 水坑；水塘
-- **词根·渊源**：古英语 **pōl**（水塘、深水处）→ 中古英语 *pol* → 英语；与荷兰语 *poel* 同源，本义“小水塘”，引申为“水坑、水池、游泳池”。
-- **同根词**：puddle（与 pool 同源：水坑）、poolside（pool 池 + side 边 = 池边）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 pond（池塘）, puddle（水坑）；反义 无。
-- **变形**：名词 → 复数：pools；动词 → 第三人称单数：pools；过去式：pooled；过去分词：pooled；现在分词：pooling。
+### 7. announce /əˈnaʊns/ v. 宣布；公布
+- **词根·渊源**：拉丁 **ad-**（向）+ **nuntiare**（报告，源自 nuntius 信使）→ 拉丁 annuntiare“向…传信”→ 古法语 anoncer → 英语，本义“传信给人”，引申为“宣布”。
+- **同根词**：announcement（announce + **-ment** 名词后缀：公告）、announcer（announce + **-er** 人：播音员）、pronounce（**pro-** 向前 + nuntiare 报告：发音、宣布）、denounce（**de-** 向下 + nuntiare 报告：谴责）。
+- **前缀·后缀**：前缀 **ad-**（例：advance, admire）、**pro-**（例：produce, protect）；后缀 **-ment**（例：movement, agreement）。
+- **同义·反义**：同义 declare（宣布）, proclaim（宣告）；反义 conceal（隐瞒）, withhold（扣留不报）。
+- **变形**：动词 → 第三人称单数：announces；过去式：announced；过去分词：announced；现在分词：announcing；名词派生 → announcement n. 公告；announcer n. 播音员。
 
-### 9. object /ˈɑ:bdʒekt/ n. 物体；物品；目的，目标
-- **词根·渊源**：拉丁 **ob-**（对着）+ **jacere**（投、扔）→ 拉丁 *objectum*（投在面前之物）→ 中世纪拉丁 → 英语；本义“投放在眼前的东西”，引申为“物体、目标”。
-- **同根词**：project（**pro-** 向前 + ject 投 = 向前投→投射、项目）、reject（**re-** 回 + ject 投 = 投回→拒绝）、inject（**in-** 入 + ject 投 = 投入→注射）、subject（**sub-** 下 + ject 投 = 投于下→主题、臣民）、eject（**e-** 出 + ject 投 = 投出→喷射）。
-- **前缀·后缀**：前缀 **ob-**（例：obtain, observe）；词根 **ject**（例：project, reject）。
-- **同义·反义**：同义 thing（东西）, aim（目标）；反义 无。
-- **变形**：名词 → 复数：objects；动词 → 第三人称单数：objects；过去式：objected；过去分词：objected；现在分词：objecting；名词派生 → objection n. 反对；形容词派生 → objective adj. 客观的。
+### 8. rainfall /ˈreɪnˌfɔl/ n. 降雨量；下雨
+- **词根·渊源**：rain（雨，古英语 regn）+ fall（落下，古英语 feallan）→ 复合名词，字面义“雨之降落”，引申为“降雨、降雨量”。
+- **同根词**：rain（regn 雨：雨）、fall（feallan 落下：落下）、rainy（rain + **-y** …的：多雨的）、raincoat（rain + coat 外套：雨衣）、rainbow（rain + bow 弓形：彩虹）。
+- **前缀·后缀**：无前后缀（复合词）。
+- **同义·反义**：同义 precipitation（降水）, rain（雨）；反义 drought（干旱）。
+- **变形**：名词 → 复数：rainfalls（作“降雨量”义时不可数）；形容词派生 → rainy adj. 多雨的。
 
-### 10. coach /kəʊtʃ/ n. 长途旅游车，长途汽车
-- **词根·渊源**：法语 **coche**（马车）→ 匈牙利语 *kocsi*（科奇村制造的车）→ 英语；本义“四轮马车”，后指“火车车厢、长途汽车”，又引申为“教练”。
-- **同根词**：coachman（coach 马车 + man 人 = 马车夫）、coaching（coach + **-ing** 行为：教练指导）。
-- **前缀·后缀**：无前后缀（单纯词）。
-- **同义·反义**：同义 bus（公共汽车）, carriage（车厢）；反义 无。
-- **变形**：名词 → 复数：coaches；动词 → 第三人称单数：coaches；过去式：coached；过去分词：coached；现在分词：coaching；名词派生 → coaching n. 教练指导。
+### 9. onwards /ˈɑnwərdz/ adv. 从 (某时) 起一直
+- **词根·渊源**：on（向前，古英语 on）+ **-ward**（向…方向）+ **-s**（副词性属格词尾）→ 本义“朝前的方向”，引申为“从某时起一直”。
+- **同根词**：onward（on + **-ward** 向…方向：向前的）、forward（**fore-** 前 + ward 向：向前的）、backward（back 后 + ward 向：向后的）、toward（to 向 + ward 向：朝向）。
+- **前缀·后缀**：后缀 **-ward**（例：forward, homeward）、**-s** 副词词尾（例：besides, upwards）。
+- **同义·反义**：同义 forward（向前）；反义 backwards（向后）。
+- **变形**：副词 → 无比较级（方位副词，不作比较）；形容词派生 → onward adj. 向前的。
 
-### 11. pass /pɑːs/ v. 通过
-- **词根·渊源**：拉丁 **passus**（步、步伐）→ 古法语 *passer*（走过）→ 英语；本义“迈步走过”，引申为“通过、经过、传递”。
-- **同根词**：passage（pass + **-age** 行为：通道、通过）、passenger（pass 经过 + **-enger** 人 = 过路人→乘客）、passport（pass 通过 + port 港口 = 通过港口的证件→护照）、surpass（**sur-** 超过 + pass 过 = 超过）。
-- **前缀·后缀**：前缀 **sur-**（例：surface, survive）；后缀 **-age**（例：marriage, package）。
-- **同义·反义**：同义 go through（通过）, cross（穿过）；反义 fail（失败）, stop（停止）。
-- **变形**：动词 → 第三人称单数：passes；过去式：passed；过去分词：passed；现在分词：passing；名词派生 → passage n. 通道；形容词派生 → passing adj. 经过的。
+### 10. cancel /ˈkænsəl/ v. 取消；撤销
+- **词根·渊源**：拉丁 **cancelli**（栅栏、网格线）→ 拉丁 cancellare“画网格线划掉”→ 古法语 canceler → 英语，本义“用交叉线划去文字”，引申为“取消”。
+- **同根词**：cancellation（cancel + **-ation** 名词后缀：取消）、chancel（cancelli 栅栏→教堂围栏：圣坛）、chancellor（cancelli 栅栏 + **-or** 人：掌印官→大臣）。
+- **前缀·后缀**：后缀 **-ation**（例：celebration, information）。
+- **同义·反义**：同义 call off（取消）, revoke（撤销）；反义 confirm（确认）, keep（保留）。
+- **变形**：动词 → 第三人称单数：cancels；过去式：canceled（英式 cancelled）；过去分词：canceled（英式 cancelled）；现在分词：canceling（英式 cancelling）；名词派生 → cancellation n. 取消。
 
-### 12. line /laɪn/ n. 电话线路
-- **词根·渊源**：拉丁 **linea**（线，源自 linum 亚麻）→ 古法语 *ligne* → 英语；本义“亚麻绳、拉直的绳”，引申为“线、线路、电话线”。
-- **同根词**：linear（line + **-ar** …的：线性的）、lineage（line 线 + **-age** 系统 = 血统线→世系）、outline（**out-** 外 + line 线 = 外轮廓→大纲）、underline（**under-** 下 + line 线 = 在下面画线→强调）。
-- **前缀·后缀**：前缀 **out-**（例：outside, outcome）、**under-**（例：underground, understand）。
-- **同义·反义**：同义 wire（电线）, route（路线）；反义 无。
-- **变形**：名词 → 复数：lines；动词 → 第三人称单数：lines；过去式：lined；过去分词：lined；现在分词：lining；形容词派生 → linear adj. 线性的。
+### 11. billboard /ˈbɪlˌbɔrd/ n. 大幅广告牌
+- **词根·渊源**：bill（广告、招贴，源自古法语 bulle“文书”）+ board（木板，古英语 bord）→ 复合名词，字面义“贴广告的木板”，即“大幅广告牌”。
+- **同根词**：bill（bulle 文书：账单、广告）、board（bord 木板：板、董事会）、billposter（bill + poster 张贴者：贴广告的人）、blackboard（black 黑 + board 板：黑板）。
+- **前缀·后缀**：无前后缀（复合词）。
+- **同义·反义**：同义 signboard（招牌）, hoarding（广告牌）；反义 无。
+- **变形**：名词 → 复数：billboards；形容词派生 → billboard adj. 广告牌的（作定语）。
 
-### 13. dead /dɛd/ adj.（因为缺电）不运行的；不转动的
-- **词根·渊源**：古英语 **dēad**（死的）→ 中古英语 *ded* → 英语；与古诺斯语 *dauðr* 同源，本义“失去生命的”，引申为“（机器）不运行的、不转动的”。
-- **同根词**：death（dead + **-th** 名词后缀：死亡）、deadly（dead + **-ly** …的：致命的）、deadline（dead 死 + line 线 = 死线→截止日期）、deaden（dead + **-en** 使…：使麻木）。
-- **前缀·后缀**：后缀 **-th**（例：warmth, growth）、**-en**（例：widen, strengthen）。
-- **同义·反义**：同义 lifeless（无生命的）, inactive（不活动的）；反义 alive（活着的）, live（带电的）。
-- **变形**：形容词 → 比较级：deader；最高级：deadest；名词派生 → death n. 死亡；副词派生 → deadly adv. 致命地。
+### 12. hurricane /ˈhərəˌkeɪnz/ n. 尤指西大西洋的）飓风
+- **词根·渊源**：西班牙语 huracán ← 泰诺语（加勒比原住民语）hurakán“风暴之神”→ 英语，本义“加勒比海地区的风暴”，即“飓风”。
+- **同根词**：hurricane lamp（hurricane + lamp 灯：防风灯）、hurricane-proof（hurricane + proof 防…的：防飓风的）。
+- **前缀·后缀**：无前后缀（借词）。
+- **同义·反义**：同义 typhoon（台风）, cyclone（气旋）；反义 无。
+- **变形**：名词 → 复数：hurricanes；形容词派生 → hurricane adj. 飓风般的（作定语）。
 
-### 14. boss /bɔːs/ n. 老板；上司
-- **词根·渊源**：荷兰语 **baas**（主人、工头）→ 美国英语 *boss* → 英语；本义“主人、工头”，引申为“老板、上司”。词源存疑（一说源自荷兰语 baas）。
-- **同根词**：bossy（boss + **-y** …的：专横的）、bossism（boss + **-ism** 主义：老板政治）。
-- **前缀·后缀**：后缀 **-y**（例：rainy, dirty）。
-- **同义·反义**：同义 employer（雇主）, manager（经理）；反义 employee（雇员）, worker（工人）。
-- **变形**：名词 → 复数：bosses；动词 → 第三人称单数：bosses；过去式：bossed；过去分词：bossed；现在分词：bossing；形容词派生 → bossy adj. 专横的。
+### 13. purpose /ˈpərpəs/ n. 意图；目的
+- **词根·渊源**：古法语 porpos ← 拉丁 **pro-**（向前）+ **ponere**（放置）→ 本义“放在前面（的计划）”，引申为“意图、目的”。
+- **同根词**：propose（**pro-** 向前 + ponere 放：提出）、proposal（propose + **-al** 名词后缀：提议）、compose（**com-** 一起 + ponere 放：组成）、position（ponere 放 + **-ion** 名词后缀：位置）。
+- **前缀·后缀**：前缀 **pro-**（例：produce, protect）、**com-**（例：combine, compare）；后缀 **-al**（例：arrival, approval）。
+- **同义·反义**：同义 aim（目标）, intention（意图）；反义 无。
+- **变形**：名词 → 复数：purposes；形容词派生 → purposeful adj. 有目的的；副词派生 → purposely adv. 故意地。
 
-### 15. deaf /dɛf/ adj. 聋的
-- **词根·渊源**：古英语 **dēaf**（聋的）→ 中古英语 *def* → 英语；与古诺斯语 *daufr* 同源，本义“听觉迟钝的”，即“聋的”。
-- **同根词**：deafen（deaf + **-en** 使…：使聋）、deafness（deaf + **-ness** 性质：聋）、deafening（deafen + **-ing** …的：震耳欲聋的）。
-- **前缀·后缀**：后缀 **-en**（例：widen, strengthen）、**-ness**（例：kindness, darkness）。
-- **同义·反义**：同义 hard of hearing（听力差的）；反义 hearing（听力正常的）。
-- **变形**：形容词 → 比较级：deafer；最高级：deafest；名词派生 → deafness n. 聋；动词派生 → deafen v. 使聋。
+### 14. figure /ˈfɪgjər/ n. 人物；人士
+- **词根·渊源**：拉丁 **fingere**（塑造、形成）→ 拉丁 figura“形状、形象”→ 古法语 figure → 英语，本义“塑造出的形状”，引申为“人物、人士”。
+- **同根词**：figment（fingere 塑造 + **-ment** 名词后缀：虚构之物）、fiction（fingere 塑造 + **-ion** 名词后缀：虚构→小说）、fictitious（fiction + **-itious** …的：虚构的）、configure（**con-** 共同 + figurare 塑造：配置）。
+- **前缀·后缀**：前缀 **con-**（例：connect, confirm）；后缀 **-ment**（例：movement, argument）。
+- **同义·反义**：同义 personage（人物）, character（人物）；反义 无。
+- **变形**：名词 → 复数：figures；动词派生 → figure v. 认为、计算（第三人称单数：figures；过去式：figured；过去分词：figured；现在分词：figuring）；形容词派生 → figurative adj. 比喻的。
 
-### 16. stare /stɛr/ v. 盯；注视
-- **词根·渊源**：古英语 **starian**（凝视）→ 中古英语 *staren* → 英语；与古诺斯语 *stara* 同源，本义“睁大眼睛看”，即“盯、注视”。
-- **同根词**：staring（stare + **-ing** …的：凝视的）、starrer（stare + **-er** 人：凝视者）。
-- **前缀·后缀**：后缀 **-er**（例：teacher, worker）。
-- **同义·反义**：同义 gaze（凝视）, gape（目瞪口呆地看）；反义 glance（瞥一眼）, ignore（忽视）。
-- **变形**：动词 → 第三人称单数：stares；过去式：stared；过去分词：stared；现在分词：staring；名词派生 → stare n. 凝视。
+### 15. replace /ˌriˈpleɪs/ v. 代替；取代
+- **词根·渊源**：**re-**（再、回）+ place（放置，源自拉丁 platea“宽街”→ 古法语 place）→ 本义“放回原处”，引申为“以新代旧、取代”。
+- **同根词**：place（platea 宽街→地方：地方、放置）、replacement（replace + **-ment** 名词后缀：替换）、displace（**dis-** 离开 + place 放置：取代、迫使离开）、misplace（**mis-** 错误 + place 放置：放错）。
+- **前缀·后缀**：前缀 **re-**（例：return, rebuild）、**dis-**（例：disagree, disappear）、**mis-**（例：mistake, misunderstand）；后缀 **-ment**（例：agreement, movement）。
+- **同义·反义**：同义 substitute（代替）, take over（接管）；反义 keep（保留）, retain（保持）。
+- **变形**：动词 → 第三人称单数：replaces；过去式：replaced；过去分词：replaced；现在分词：replacing；名词派生 → replacement n. 替换。
 
-### 17. screen /skriːn/ n. 显示屏，屏幕
-- **词根·渊源**：古法语 **escren**（屏障、挡板）→ 中古英语 *screne* → 英语；本义“遮挡物、屏风”，引申为“屏幕、显示屏”。
-- **同根词**：screening（screen + **-ing** 行为： screening 筛选、放映）、screenshot（screen 屏幕 + shot 拍摄 = 屏幕截图）、screensaver（screen 屏幕 + saver 保护者 = 屏幕保护程序）。
-- **前缀·后缀**：后缀 **-ing**（例：running, building）。
-- **同义·反义**：同义 display（显示器）, monitor（监视器）；反义 无。
-- **变形**：名词 → 复数：screens；动词 → 第三人称单数：screens；过去式：screened；过去分词：screened；现在分词：screening；名词派生 → screening n. 筛选、放映。
+### 16. injured /ˈɪnʤərd/ adj. 受伤的，有伤的
+- **词根·渊源**：拉丁 **in-**（不）+ **jus / jur-**（法律、公正）→ 拉丁 injuria“不公正、伤害”→ 英语 injury“伤害”→ injure“使受伤”→ injured，本义“受到不公对待”，引申为“受伤的”。
+- **同根词**：injure（in- 不 + jur 法：伤害）、injury（injure + **-y** 名词后缀：伤害）、injurious（injury + **-ous** …的：有害的）、justice（jus 法 + **-tice** 名词后缀：公正）。
+- **前缀·后缀**：前缀 **in-**（例：incorrect, invisible）；后缀 **-ed**（例：excited, tired）、**-ous**（例：famous, dangerous）。
+- **同义·反义**：同义 hurt（受伤的）, wounded（受伤的）；反义 uninjured（未受伤的）, healthy（健康的）。
+- **变形**：形容词 → 无比较级（状态形容词，不作比较）；名词派生 → injury n. 伤害；动词派生 → injure v. 使受伤（第三人称单数：injures；过去式：injured；过去分词：injured；现在分词：injuring）。
 
-### 18. notice /ˈnoʊtɪs/ v. 看（或听）到；注意，察觉；意识到
-- **词根·渊源**：拉丁 **notus**（已知的，源自 noscere 知道）→ 拉丁 *notitia*（知识、通知）→ 古法语 *notice* → 英语；本义“得知、知晓”，引申为“注意到、察觉”。
-- **同根词**：notion（not 知 + **-ion** 名词：概念）、notify（not 知 + **-ify** 使…：通知）、notable（not 知 + **-able** 可…的：值得注意的）、notorious（not 知 + **-orious** …的：众所周知的→臭名昭著的）。
-- **前缀·后缀**：后缀 **-ion**（例：action, nation）、**-ify**（例：simplify, beautify）。
-- **同义·反义**：同义 observe（注意到）, perceive（察觉）；反义 ignore（忽视）, overlook（忽略）。
-- **变形**：动词 → 第三人称单数：notices；过去式：noticed；过去分词：noticed；现在分词：noticing；名词派生 → notice n. 通知、注意；形容词派生 → noticeable adj. 显而易见的。
+### 17. cruel /kruəl/ adj. 残酷的
+- **词根·渊源**：拉丁 **crudus**（生的、粗糙的）→ 古法语 cruel“严酷的”→ 英语，本义“生硬未化的”，引申为“残酷的”。
+- **同根词**：cruelty（cruel + **-ty** 名词后缀：残酷）、crude（crudus 生的：粗糙的、未加工的）、crudity（crude + **-ity** 名词后缀：粗糙）。
+- **前缀·后缀**：后缀 **-ty**（例：safety, beauty）、**-ity**（例：activity, reality）。
+- **同义·反义**：同义 brutal（残忍的）, harsh（严酷的）；反义 kind（善良的）, merciful（仁慈的）。
+- **变形**：形容词 → 比较级：crueler（英式 crueller）；最高级：cruelest（英式 cruellest）；名词派生 → cruelty n. 残酷；副词派生 → cruelly adv. 残酷地。
 
-### 19. immediately /ɪˈmiːdiətli/ adv. 立即,马上
-- **词根·渊源**：拉丁 **medi-**（中间）→ 拉丁 *immediatus*（无间隔的）→ 英语 immediate + **-ly**；本义“中间无物相隔”→ 立即、马上。
-- **同根词**：immediate（**im-** 无 + medi 中间 + **-ate** 形容词后缀 = 无间隔的→立即的）、medium（medi 中间 + **-um** 名词后缀 = 中间物→媒介）、medieval（medi 中间 + ev 时代 + **-al** …的 = 中间时代的→中世纪的）、intermediate（**inter-** 在…之间 + medi 中间 + **-ate** = 在中间的→中级的）、mediate（medi 中间 + **-ate** 动词后缀 = 居于中间→调解）。
-- **前缀·后缀**：否定前缀 **im-**（例：impossible, impolite）；副词后缀 **-ly**（例：quickly, happily）。
-- **同义·反义**：同义 instantly（立即）, at once（立刻）；反义 later（后来）, eventually（最终）。
-- **变形**：副词 → 无比较级（多音节副词用 more immediately / most immediately，但通常不作比较）；形容词派生 → immediate adj. 立即的；名词派生 → immediacy n. 直接性、即时性。
-
-### 20. missing /ˈmɪsɪŋ/ adj. 找不到的；失踪的
-- **词根·渊源**：古英语 **missan**（未击中、未找到）→ 中古英语 missen → 英语 miss + **-ing** 分词形容词；本义“未被找到的”→ 失踪的、缺失的。
-- **同根词**：miss（miss 未击中→错过、思念）、missile（miss 投掷 + **-ile** 名词后缀 = 被投掷之物→导弹）、mission（miss 送 + **-ion** 名词后缀 = 被送出之事→任务）、dismiss（**dis-** 离开 + miss 送 = 送走→解散、解雇）、admit（**ad-** 向 + mit 送 = 送入→承认、准许进入）。
-- **前缀·后缀**：分词后缀 **-ing**（例：interesting, exciting）；分离前缀 **dis-**（例：disappear, disconnect）。
-- **同义·反义**：同义 lost（丢失的）, absent（缺席的）；反义 found（找到的）, present（在场的）。
-- **变形**：形容词 → 无比较级（作“失踪的”时不用比较级）；动词派生 → miss v. 错过、思念；名词派生 → missingness n. 缺失状态（罕用）。
-
-### 21. fellow /'feləʊ/ n. 同类的；同伴的
-- **词根·渊源**：古诺斯语 **félagi**（合伙人、伙伴）→ 古英语 *feolaga* → 中古英语 felaw → 英语 fellow；本义“共同出资者”→ 同伴、同类。
-- **同根词**：fellowship（fellow 同伴 + **-ship** 名词后缀 = 同伴关系→友谊、团体）、fellowman（fellow 同伴 + man 人 = 同胞）、fellow traveler（fellow 同伴 + traveler 旅行者 = 同路人）。
-- **前缀·后缀**：名词后缀 **-ship**（例：friendship, leadership）；无前缀。
-- **同义·反义**：同义 companion（同伴）, comrade（同志）；反义 stranger（陌生人）, enemy（敌人）。
-- **变形**：名词 → 复数：fellows；形容词派生 → fellow adj. 同伴的（作定语）；名词派生 → fellowship n. 友谊、团体。
-
-### 22. pass by /pɑːs baɪ/ n. 通过；经过
-- **同义搭配**：go past / walk past
-- **反义搭配**：stop（停下）
-
-### 23. stick with /stɪk wɪð/ n. 持续；坚持
-- **同义搭配**：keep on / hold on to
-- **反义搭配**：give up（放弃）
-
-### 24. sit around /sɪt əˈraʊnd/ v. 无所事事地消磨时间；闲坐
-- **同义搭配**：idle about / lounge around
-- **反义搭配**：work hard（努力工作）
-
-### 25. have no time to do /hæv noʊ taɪm tɪ du/ v. 不愿为……花时间；没有时间做……
-- **同义搭配**：be too busy to do / have no time for
-- **反义搭配**：have time to do（有时间做）
-
-### 26. fall on deaf ears /fɔl ɔn dɛf ɪrz/ v. 不被理睬；不被注意
-- **同义搭配**：be ignored / be unnoticed
-- **反义搭配**：be listened to（被听取）
-
-### 27. stare at /steə(r) æt/ n. 盯着看；凝视；注视
-- **同义搭配**：gaze at / look fixedly at
-- **反义搭配**：glance at（瞥一眼）
-
-### 28. in surprise /ɪn səˈpraɪz/ prep. 惊讶地
-- **同义搭配**：in amazement / with astonishment
-- **反义搭配**：calmly（平静地）
-
-### 29. for now /fɔː(r) naʊ/ prep. 目前，暂时
-- **同义搭配**：for the time being / at present
-- **反义搭配**：forever（永远）
-
-### 30. survival kit /sərˈvaɪvəl kɪt/ n. 救生包（装有食物、医疗用品和工具）
-- **同义搭配**：emergency kit / first-aid kit
+### 18. ice storm  n. 冰风暴
+- **同义搭配**：glaze storm（冻雨风暴）/ freezing rain storm（冻雨风暴）
 - **反义搭配**：无
 
-### 31. natural disaster /'nætʃərəl dɪ'zɑːstə/ n. 自然灾害
-- **同义搭配**：natural catastrophe / act of God
-- **反义搭配**：man-made disaster（人为灾害）
+### 19. credit card  n. 信用卡
+- **同义搭配**：bank card（银行卡） / charge card（签账卡）
+- **反义搭配**：无
+
+### 20. power cut  n. 供电中断；停电 (的一段时间)
+- **同义搭配**：power outage（停电） / blackout（断电）
+- **反义搭配**：power supply（供电）
+
+### 21. on sale  prep. 出售；上市
+- **同义搭配**：for sale（待售） / on the market（在市场上出售）
+- **反义搭配**：sold out（售罄）
+
+### 22. keep an eye on  v. 留神；留意
+- **同义搭配**：watch over（照看） / look after（照料）
+- **反义搭配**：ignore（忽视）
+
+### 23. student council  n. 学生会
+- **同义搭配**：students' union（学生会） / student government（学生自治会）
+- **反义搭配**：无
+
+### 24. make sense  v. 表述清楚；易于理解
+- **同义搭配**：be clear（清楚） / be understandable（可理解的）
+- **反义搭配**：make no sense（讲不通）
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| -oid | ……样的、似……的 | asteroid | humanoid, planetoid, android |
-| earth- | 地球、土 | earthquake | earthworm, earthwork, earthbound |
-| a- | 处于……状态（形容词前缀） | alive | asleep, awake, alone, afraid |
-| ob- | 对着、朝向 | object | obtain, observe, oppose |
-| im- | 不、向内（in- 的变体） | immediately | impossible, import, impress |
-| -ing | 构成形容词/名词 | missing | interesting, exciting, building |
-| -ly | 构成副词 | badly, immediately | quickly, happily, carefully |
-| -al | ……的（形容词后缀） | natural | national, personal, musical |
-| -ure | 名词后缀，表状态/结果 | in surprise | pleasure, failure, mixture |
-| -val | 名词后缀（-al 变体） | survival kit | arrival, approval, refusal |
-| -er | 表人/物 | fellow（存疑，非典型） | teacher, worker, computer |
-| -ed | 构成形容词，表状态 | dead | tired, excited, worried |
-| -s | 名词复数/动词第三人称 | ears（deaf ears） | books, runs |
-| -y | 构成形容词 | badly（相关 bad） | happy, rainy, windy |
-| -ence / -ance | 名词后缀 | 存疑（本单元无典型） | difference, importance |
-| -tion | 名词后缀 | 存疑（本单元无典型） | action, education, information |
+| -quake | 震动（构词成分） | earthquake | moonquake, starquake |
+| re- | 再；重新 | repair, replace | rebuild, rewrite, return, review |
+| -al | 形容词后缀：……的 | normal | natural, national, personal, formal |
+| down- | 向下 | downstairs | downstairs, download, downhill, downtown |
+| -stairs | 楼梯（构词成分） | downstairs | upstairs, stairway, staircase |
+| an- / ad- | 向；朝（同化形式） | announce | advance, approach, attend, announce |
+| -fall | 落下；降下（构词成分） | rainfall | snowfall, waterfall, rainfall, windfall |
+| -wards | 方向后缀：朝……方向 | onwards | backwards, forwards, upwards, downwards |
+| -board | 板；牌 | billboard | blackboard, keyboard, cupboard, skateboard |
+| -ane | 名词后缀（多表风名） | hurricane | hurricane, membrane（存疑） |
+| -ed | 形容词后缀：具有……的 | injured | excited, interested, surprised, tired |
+| -ful | 形容词后缀：充满……的 | cruel（存疑，非典型） | careful, helpful, useful, beautiful |
+| -er | 名词后缀：……的人/物 | credit card（非典型） | teacher, worker, singer, computer |
+| -ing | 名词/动名词后缀 | ice storm（非典型） | building, meeting, swimming, reading |
+| -sale | 卖（构词成分） | on sale | wholesale, resale, salesgirl |
+| -cut | 切；割（构词成分） | power cut | haircut, shortcut, cutback |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
 | 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| asteroid | 小行星（planetoid） | 恒星（star） |
-| typhoon | 台风（storm） | 无风（calm） |
-| earthquake | 地震（quake） | 平静（calm） |
-| melt | 融化（thaw） | 凝固（freeze） |
-| flood | 淹没（inundate） | 排干（drain） |
-| badly | 严重地（seriously） | 轻微地（slightly） |
-| alive | 活着的（living） | 死的（dead） |
-| pool | 水塘（pond） | 干地（dry land） |
-| object | 物体（thing） | 无（—） |
-| coach | 长途汽车（bus） | 无（—） |
-| pass | 通过（go through） | 失败（fail） |
-| dead | 不运行的（not working） | 运行的（working） |
-| boss | 老板（manager） | 员工（employee） |
-| deaf | 聋的（hard of hearing） | 听得见的（hearing） |
-| stare | 凝视（gaze） | 瞥一眼（glance） |
-| screen | 屏幕（display） | 无（—） |
-| notice | 注意到（observe） | 忽视（ignore） |
-| immediately | 立即（at once） | 延迟地（later） |
-| missing | 失踪的（lost） | 找到的（found） |
-| fellow | 同伴（companion） | 陌生人（stranger） |
+| earthquake | quake（震动） | — |
+| repair | fix（修理） | break（损坏） |
+| shut | closed（关着的） | open（开着的） |
+| normal | usual（通常的） | abnormal（反常的） |
+| downstairs | below（在下面） | upstairs（在楼上） |
+| alright | fine（好的） | ill（生病的） |
+| announce | declare（宣布） | conceal（隐瞒） |
+| rainfall | rain（雨） | drought（干旱） |
+| onwards | forward（向前） | backwards（向后） |
+| cancel | call off（取消） | confirm（确认） |
+| billboard | sign（招牌） | — |
+| hurricane | typhoon（台风） | — |
+| purpose | aim（目的） | — |
+| figure | person（人物） | — |
+| replace | substitute（代替） | keep（保留） |
+| injured | hurt（受伤的） | uninjured（未受伤的） |
+| cruel | brutal（残酷的） | kind（仁慈的） |
+| on sale | for sale（出售） | — |
+| keep an eye on | watch（留意） | ignore（忽视） |
+| make sense | be clear（清楚） | be confusing（令人困惑） |
 
 ---
 

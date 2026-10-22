@@ -1,6 +1,6 @@
-# 9A_U5 说文解字 · Action!
+# 9A_U5 说文解字 · My time, my joy
 
-> 配套 `9A_U5.md`（沪教牛津版 2024/2025 修订，28 条）
+> 配套 `9A_U5.md`（沪教牛津版 2024/2025 修订，29 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
 > 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
@@ -8,243 +8,228 @@
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
-| vid-/vis- | 看 | 拉丁语 videre（看） | view | video, visible, vision, visit |
-| script-/scrib- | 写 | 拉丁语 scribere（写） | script | describe, prescribe, manuscript, subscribe |
-| rect-/reg- | 引导，统治；直 | 拉丁语 regere（引导，统治） | director | direct, correct, regular, regime |
-| art- | 技艺，技巧 | 拉丁语 ars/artis（技艺） | artist | art, artistic, artificial, artisan |
-| stud- | 热心，努力 | 拉丁语 studium（热心，钻研） | studio | study, student, studio, studious |
-| test- | 见证，证明 | 拉丁语 testis（证人） | contestant | test, testify, protest, contest |
-| vict- | 征服，胜利 | 拉丁语 vincere（征服） | victory | victor, victorious, convince, invincible |
-| fort- | 强，有力 | 拉丁语 fortis（强壮的） | forward（存疑，一说与 forth 同源） | fort, fortify, effort, comfort |
-| lax-/lax- | 松，放松 | 拉丁语 laxare（放松） | relaxed | relax, lax, laxative, relaxation |
-| sec-/sequ- | 跟随 | 拉丁语 sequi（跟随） | second（存疑，一说源自 sequi“跟随”） | sequence, sequel, consecutive, pursue |
-| luc- | 光 | 拉丁语 lux/lucis（光） | lucky（存疑，一说与中古荷兰语 luk“运气”有关） | lucid, translucent, lucent |
-| super- | 在上，超过 | 拉丁语 super（在上） | survey（存疑，一说源自 super-“在上”+ videre“看”） | supervise, superior, supreme, supermarket |
-| medi- | 中间 | 拉丁语 medius（中间的） | emergency（存疑，一说源自 emergere“浮现”） | medium, mediate, medieval, intermediate |
-| plan- | 平，平面 | 拉丁语 planus（平的） | floor plan | plane, plain, explain, planet |
+| rect | 直、引导 | 拉丁语 regere/rectus（引导、直） | director, conduct | correct, direct, erect, rectangle |
+| test | 见证、证明 | 拉丁语 testis（证人） | contestant | testify, protest, contest, testament |
+| zon | 带、区域 | 希腊语 zone（腰带、地带） | zone, time zone | zonal, zonation, ozone |
+| duc/duct | 引导 | 拉丁语 ducere（引导） | conduct | produce, reduce, introduce, education |
+| cert | 确定、比赛 | 拉丁语 certare（竞争）/certus（确定） | concert | concert, certify, certain, certificate |
+| mand | 命令、委托 | 拉丁语 mandare（委托） | recommendation | command, demand, mandate, commend |
+| vari | 变化、不同 | 拉丁语 varius（多样的） | various | vary, variety, variable, variation |
+| cal | 热、温暖 | 拉丁语 calere（发热） | calm（存疑） | calorie, caloric |
+| plic/plot | 折叠、编织（存疑） | 拉丁语 plicare（折叠） | plot（存疑） | complex, simple, duplicate, explicit |
+| lumin/light | 光 | 拉丁语 lumen（光）/古英语 leoht | lighting operator | illuminate, luminous, lighten, enlighten |
+| oper | 工作 | 拉丁语 opus/operis（工作） | lighting operator, sound operator | operate, operation, cooperate, opera |
+| art | 技艺 | 拉丁语 ars/artis（技艺） | make-up artist | artist, artistic, artifact, artisan |
+| son | 声音 | 拉丁语 sonus（声音） | sound operator | sonic, sonar, resonance, unison |
+| vid/vis | 看 | 拉丁语 videre（看） | TV drama | video, visible, vision, television |
+| fin | 结束、界限 | 拉丁语 finis（界限） | film review（存疑） | final, finish, define, infinite |
+| port | 携带 | 拉丁语 portare（携带） | pass out（存疑） | transport, import, export, portable |
 
 ## 二、逐词说文解字
 
-### 1. praise /preɪz/ n. 表扬，赞扬；称赞
-- **词根·渊源**：拉丁 **preti-**（价值、价格）→ 古法语 *preisier*（估价、珍视）→ 中古英语 *preisen*，本义“评定价值→珍视→称赞”，现义为“表扬、赞扬”。
-- **同根词**：appraise（**ap-** 向 + preisier 估价 = 对……估价→评估）、appreciate（**ap-** 向 + preti 价值 + **-ate** 动词后缀 = 看出价值→欣赏）、precious（preti 价值 + **-ous** ……的 = 有价值的→珍贵的）、price（与 praise 同出拉丁 pretium 价格→价格）。
-- **前缀·后缀**：无前后缀（单纯词，源自动词词干）。
-- **同义·反义**：同义 compliment（称赞）, commendation（表扬）；反义 criticism（批评）, blame（责备）。
-- **变形**：名词 → 复数：praises；动词派生 → praise v. 表扬；形容词派生 → praiseworthy adj. 值得赞扬的；副词派生 → praiseworthily adv. 值得赞扬地。
+### 1. director /dɪˈrɛktər/ n. (电影、戏剧等的)导演
+- **词根·渊源**：拉丁 **direct-**（使成直线、引导）→ 拉丁 *director*（指挥者、管理者）→ 英语；本义“指引方向的人”引申为“指导拍摄的人→导演”。
+- **同根词**：direct（**di-** 加强 + reg 直 = 使直→指引→导演）、direction（direct + **-ion** 名词后缀：方向）、directly（direct + **-ly** 副词后缀：直接地）、directory（direct + **-ory** 名词后缀：指南→名录）、erect（**e-** 出 + reg 直 = 直立→竖立）。
+- **前缀·后缀**：名词后缀 **-or**（例：actor, visitor）。
+- **同义·反义**：同义 filmmaker（电影制作人）, conductor（指挥）；反义 无。
+- **变形**：名词 → 复数：directors；形容词派生 → directorial adj. 导演的；名词派生 → direction n. 方向；动词派生 → direct v. 指导。
 
-### 2. view /vjuː/ n. 看；观看；观点，看法
-- **词根·渊源**：拉丁 **vid-**（看）→ 古法语 *veue*（看见、景象）→ 中古英语 *view*，本义“看见的行为→所见之景→看法”，现义为“看；观点”。
-- **同根词**：vision（vid 看 + **-ion** 名词后缀 = 看的能力→视力、远见）、visible（vid 看 + **-ible** 可……的 = 可看见的）、video（拉丁 videre 看 + **-o** = 我看见→视频）、evident（**e-** 出 + vid 看 + **-ent** ……的 = 看得出来的→明显的）、supervise（**super-** 在上 + vid 看 = 从上面看→监督）。
-- **前缀·后缀**：无前后缀（单纯词，源自拉丁 videre 的过去分词词干）。
-- **同义·反义**：同义 sight（景象）, opinion（观点）；反义 blindness（盲目）, 无。
-- **变形**：名词 → 复数：views；动词派生 → view v. 观看；名词派生 → viewer n. 观看者；形容词派生 → viewable adj. 可观看的。
+### 2. studio /ˈstudiˌoʊ/ n. (广播、电视的)演播室
+- **词根·渊源**：拉丁 **studium**（热情、钻研）→ 意大利语 *studio*（书房、画室）→ 英语；本义“钻研之所→工作室”，引申为“演播室”。
+- **同根词**：study（stud 钻研 + **-y** 动词/名词后缀：学习）、student（stud 钻研 + **-ent** 人：学生）、studious（studi + **-ous** …的：好学的）、studio 本身与 study 同源。
+- **前缀·后缀**：无前后缀（借自意大利语）。
+- **同义·反义**：同义 workshop（工作室）, atelier（画室）；反义 无。
+- **变形**：名词 → 复数：studios。
 
-### 3. script /skrɪpt/ n. 剧本，讲稿；广播（或讲话等）稿
-- **词根·渊源**：拉丁 **scrib-/script-**（写）→ 拉丁 *scriptum*（写下的东西）→ 中古英语 *script*，本义“写下的东西→文稿→剧本、讲稿”。
-- **同根词**：describe（**de-** 向下 + scrib 写 = 写下来→描述）、prescribe（**pre-** 预先 + scrib 写 = 预先写下→开处方、规定）、inscription（**in-** 在……上 + script 写 + **-ion** 名词后缀 = 写在上面→铭文）、manuscript（**manu-** 手 + script 写 = 手写的东西→手稿）、subscribe（**sub-** 在下 + scrib 写 = 在下面签名→订阅）。
-- **前缀·后缀**：无前后缀（单纯词，源自拉丁 scriptum）。
-- **同义·反义**：同义 screenplay（电影剧本）, text（文本）；反义 无, 无。
-- **变形**：名词 → 复数：scripts；动词派生 → script v. 编写剧本；名词派生 → scriptwriter n. 编剧。
+### 3. contestant /kənˈtɛstənt/ n. 比赛者;竞争者
+- **词根·渊源**：拉丁 **contestari**（共同作证、争讼）→ 拉丁 *contestari* → 古法语 *contester* → 英语 contest + **-ant**；本义“在法庭上共同作证→争辩”，引申为“参赛者”。
+- **同根词**：contest（**con-** 共同 + test 作证 = 共同作证→争辩→比赛）、testify（test 作证 + **-ify** 动词后缀：证明）、testimony（test 作证 + **-mony** 名词后缀：证词）、protest（**pro-** 向前 + test 作证 = 公开作证→抗议）。
+- **前缀·后缀**：前缀 **con-**（例：connect, combine）；名词后缀 **-ant**（例：servant, assistant）。
+- **同义·反义**：同义 competitor（竞争者）, player（参赛者）；反义 无。
+- **变形**：名词 → 复数：contestants；动词派生 → contest v. 竞争；名词派生 → contest n. 比赛。
 
-### 4. director /dəˈrektər/ n. 导演；部门负责人
-- **词根·渊源**：拉丁 **reg-/rect-**（引导、使直）→ 拉丁 *directus*（被引导的、直的）→ 古法语 *director*，本义“指引方向的人→管理者→导演”。
-- **同根词**：direct（**di-** 加强 + rect 直 = 使直→指引、直接的）、direction（direct + **-ion** 名词后缀 = 指引→方向）、correct（**cor-** 加强 + rect 直 = 使直→改正）、erect（**e-** 出 + rect 直 = 直立起来→竖立）、rectangle（rect 直 + **-angle** 角 = 直角→长方形）。
-- **前缀·后缀**：名词后缀 **-or**（例：actor, visitor）；前缀 **di-**（例：divide, divert）。
-- **同义·反义**：同义 filmmaker（电影导演）, manager（负责人）；反义 无, 无。
-- **变形**：名词 → 复数：directors；形容词派生 → directorial adj. 导演的；名词派生 → directorship n. 导演职位。
+### 4. upon /əˈpɑn/ prep. (同 on)在······上
+- **词根·渊源**：古英语 **uppon** = up（上）+ on（在……上）→ 中古英语 *upon* → 英语；本义“在上面”，与 on 同义，多用于书面或固定搭配。
+- **同根词**：up（古英语 upp：向上）、on（古英语 on：在……上）、upward（up + **-ward** 方向后缀：向上地）、uphold（up + hold 持 = 向上持→支持）。
+- **前缀·后缀**：无前后缀（复合词 up + on）。
+- **同义·反义**：同义 on（在……上）；反义 无。
+- **变形**：介词 → 无形态变化。
 
-### 5. make-up /ˈmeɪk ʌp/ n. 化妆；化妆品
-- **词根·渊源**：英语本土动词短语 **make up**（制作、补足、打扮）→ 名词化 *make-up*，本义“把脸打扮起来→化妆→化妆品”。
-- **同根词**：make（古英语 macian 制作→做）、maker（make + **-er** 做的人 = 制作者）、making（make + **-ing** 名词后缀 = 制作）、remake（**re-** 再 + make 做 = 重做→翻拍）、up（古英语 up 向上→向上）。
-- **前缀·后缀**：无前后缀（复合词：make + up）。
-- **同义·反义**：同义 cosmetics（化妆品）, makeup（化妆）；反义 无, 无。
-- **变形**：名词 → 复数：make-ups；形容词派生 → made-up adj. 化过妆的。
+### 5. zone /zoʊn/ n. 区域
+- **词根·渊源**：希腊 **zōnē**（腰带、地带）→ 拉丁 *zona* → 法语 *zone* → 英语；本义“腰带→环绕地球的地带”，引申为“区域”。
+- **同根词**：zonate（zon 带 + **-ate** 形容词后缀：有带状纹的）、zonation（zon 带 + **-ation** 名词后缀：分带）、zonal（zon 带 + **-al** …的：地带的）。
+- **前缀·后缀**：无前后缀（单纯词）。
+- **同义·反义**：同义 area（区域）, region（地区）；反义 无。
+- **变形**：名词 → 复数：zones；动词派生 → zone v. 划分区域；形容词派生 → zonal adj. 地带的。
 
-### 6. artist /ˈɑːtɪst/ n. 画家；艺术家
-- **词根·渊源**：拉丁 **ars/art-**（技艺、艺术）→ 古法语 *artiste* → 英语 *artist*，本义“有技艺的人→艺术家、画家”。
-- **同根词**：art（拉丁 ars 技艺→艺术）、artistic（artist + **-ic** ……的 = 艺术的）、artful（art + **-ful** 充满……的 = 有技巧的→狡猾的）、artificial（**arti-** 技艺 + **fic** 做 + **-ial** ……的 = 人工做的→人造的）、artisan（arti 技艺 + **-san** 人 = 手艺人）。
-- **前缀·后缀**：名词后缀 **-ist**（例：pianist, scientist）。
-- **同义·反义**：同义 painter（画家）, creator（创作者）；反义 无, 无。
-- **变形**：名词 → 复数：artists；形容词派生 → artistic adj. 艺术的；副词派生 → artistically adv. 艺术地。
+### 6. outdoors /ˈaʊtˈdɔrz/ adv. 在户外;在野外
+- **词根·渊源**：**out**（外）+ **doors**（门，door 的复数）→ 英语复合词；本义“在门外”，引申为“在户外”。
+- **同根词**：outdoor（out + door 门 = 门外的→户外的）、indoor（**in-** 内 + door 门 = 门内的→室内的）、indoors（in + doors = 在室内）、door（古英语 duru：门）。
+- **前缀·后缀**：无前后缀（复合词 out + doors）。
+- **同义·反义**：同义 outside（在外面）, alfresco（在户外）；反义 indoors（在室内）。
+- **变形**：副词 → 无比较级（方位副词，不作比较）。
 
-### 7. studio /ˈstuːdioʊ/ n. 工作室；录音室；演播室
-- **词根·渊源**：拉丁 **stud-**（热心、钻研）→ 意大利语 *studio*（书房、钻研之所）→ 英语 *studio*，本义“钻研用功的地方→工作室→录音室、演播室”。
-- **同根词**：study（stud 钻研 + **-y** 名词后缀 = 钻研→学习）、student（stud 钻研 + **-ent** 人 = 钻研的人→学生）、studious（stud + **-ious** ……的 = 好学的）、studio 本身即 study 的同源意大利语形式。
-- **前缀·后缀**：无前后缀（单纯词，源自意大利语）。
-- **同义·反义**：同义 workshop（工作室）, atelier（画室）；反义 无, 无。
-- **变形**：名词 → 复数：studios；形容词派生 → studio-based adj. 以工作室为基础的。
+### 7. conduct /ˈkɑndəkt/ v. 实施
+- **词根·渊源**：拉丁 **conducere** = **con-**（共同）+ **ducere**（引导）→ 拉丁 *conductus* → 英语；本义“共同引导→带领”，引申为“实施、进行”。
+- **同根词**：conductor（conduct + **-or** 人：指挥→导体）、conduction（conduct + **-ion** 名词后缀：传导）、deduce（**de-** 向下 + duc 引导 = 向下引→推断）、produce（**pro-** 向前 + duc 引导 = 向前引→生产）、reduce（**re-** 回 + duc 引导 = 引回→减少）。
+- **前缀·后缀**：前缀 **con-**（例：connect, combine）；词根 **duc-**（例：produce, reduce）。
+- **同义·反义**：同义 carry out（实施）, perform（执行）；反义 无。
+- **变形**：动词 → 第三人称单数：conducts；过去式：conducted；过去分词：conducted；现在分词：conducting；名词派生 → conduct n. 行为；名词派生 → conductor n. 指挥、导体。
 
-### 8. contestant /kənˈtestənt/ n. 参赛者，竞争者；比赛者
-- **词根·渊源**：拉丁 **test-**（见证）→ 拉丁 *contestari*（共同作证→争辩）→ 古法语 *contester* → 英语 *contest* + **-ant**，本义“一起作证争辩的人→竞争者→参赛者”。
-- **同根词**：contest（**con-** 共同 + test 见证 = 共同作证→争辩→比赛）、testify（test 见证 + **-ify** 使…… = 作证）、testimony（test + **-mony** 名词后缀 = 证词）、protest（**pro-** 向前 + test 见证 = 公开作证→抗议）、test（test 见证→检验）。
-- **前缀·后缀**：名词后缀 **-ant**（例：servant, assistant）；前缀 **con-**（例：connect, confirm）。
-- **同义·反义**：同义 competitor（竞争者）, player（参赛选手）；反义 spectator（观众）, 无。
-- **变形**：名词 → 复数：contestants；动词派生 → contest v. 争夺；名词派生 → contestation n. 争论。
+### 8. concert /ˈkɑnsərt/ n. 音乐会;演奏会
+- **词根·渊源**：拉丁 **concertare** = **con-**（共同）+ **certare**（竞争、努力）→ 意大利语 *concerto* → 法语 *concert* → 英语；本义“共同协调→和谐”，引申为“音乐会”。
+- **同根词**：concerto（意大利语 concert + **-o** 名词后缀：协奏曲）、disconcert（**dis-** 去除 + concert 协调 = 打乱协调→使不安）、certify（cert 确定 + **-ify** 动词后缀：证明）。
+- **前缀·后缀**：前缀 **con-**（例：connect, combine）。
+- **同义·反义**：同义 performance（演出）, recital（演奏会）；反义 无。
+- **变形**：名词 → 复数：concerts；动词派生 → concert v. 协调（较少用）。
 
-### 9. upon /əˈpɑ:n/ prep. 在......上；到......上
-- **词根·渊源**：古英语 **uppan**（up + on 在上）→ 中古英语 *upon*，本义“在……上面”，现义为“在……上；到……上”。
-- **同根词**：up（古英语 up 向上→向上）、on（古英语 on 在……上→在……上）、upward（up + **-ward** 向……方向 = 向上）、uphold（up + hold 持 = 向上持→支持）、uptake（up + take 拿 = 拿起→吸收）。
-- **前缀·后缀**：无前后缀（复合词：up + on）。
-- **同义·反义**：同义 on（在……上）, atop（在……顶上）；反义 beneath（在……下面）, under（在……下）。
-- **变形**：介词 → 无形态变化；无词性派生。
+### 9. gain /geɪn/ v. 获得
+- **词根·渊源**：古法语 **gaaignier**（耕作、获利）→ 古法语 *gaain* → 英语；本义“耕作收获→获利”，引申为“获得”。
+- **同根词**：gainful（gain + **-ful** 充满…的：有收益的）、gainfully（gainful + **-ly** 副词后缀：有收益地）、regain（**re-** 再 + gain 获得 = 重新获得）。
+- **前缀·后缀**：无前后缀（单纯词）。
+- **同义·反义**：同义 obtain（获得）, acquire（取得）；反义 lose（失去）。
+- **变形**：动词 → 第三人称单数：gains；过去式：gained；过去分词：gained；现在分词：gaining；名词派生 → gain n. 收益；形容词派生 → gainful adj. 有收益的。
 
-### 10. among /əˈmʌŋ/ prep. 在……当中，周围是；与……在一起
-- **词根·渊源**：古英语 **on gemang**（在人群中）→ 中古英语 *among*，本义“在人群之中→在……当中”。
-- **同根词**：mingle（与 among 同源，古英语 mengan 混合→混合）、amongst（among + **-st** 副词性后缀 = 在……当中）、mongrel（同源 meng 混合 + **-rel** 名词后缀 = 混血→杂种狗）。
-- **前缀·后缀**：无前后缀（单纯词，源自古英语短语 on gemang）。
-- **同义·反义**：同义 amidst（在……当中）, surrounded by（被……围绕）；反义 outside（在……之外）, beyond（在……之外）。
-- **变形**：介词 → 无形态变化；无词性派生。
+### 10. recommendation /ˌrɛkəmənˈdeɪʃən/ n. 推荐；介绍
+- **词根·渊源**：拉丁 **recommendare** = **re-**（加强）+ **commendare**（托付、称赞）→ 中世纪拉丁 *recommendatio* → 英语；本义“郑重托付→称赞推荐”，引申为“推荐”。
+- **同根词**：recommend（**re-** 加强 + commend 托付 = 郑重托付→推荐）、commend（**com-** 加强 + mand 命令 = 托付→称赞）、command（**com-** 加强 + mand 命令 = 命令）、mandate（mand 命令 + **-ate** 名词后缀：授权）。
+- **前缀·后缀**：前缀 **re-**（例：return, rebuild）；名词后缀 **-ation**（例：information, education）。
+- **同义·反义**：同义 suggestion（建议）, advice（建议）；反义 无。
+- **变形**：名词 → 复数：recommendations；动词派生 → recommend v. 推荐。
 
-### 11. onto /ˈɑːntə/ prep. 向；朝
-- **词根·渊源**：古英语 **on**（在……上）+ **to**（向）→ 英语 *onto*，本义“到……上面去”，现义为“向；朝”。
-- **同根词**：on（古英语 on 在……上→在……上）、to（古英语 to 向→向）、into（**in-** 入 + to 向 = 进入）、unto（古英语 un- 到 + to 向 = 到……去）、upon（up + on = 在……上）。
-- **前缀·后缀**：无前后缀（复合词：on + to）。
-- **同义·反义**：同义 on top of（在……上面）, up to（到……上）；反义 off（离开）, away from（远离）。
-- **变形**：介词 → 无形态变化；无词性派生。
+### 11. plot /plɑt/ n. 故事情节
+- **词根·渊源**：古英语 **plot**（一块土地）→ 中古英语 *plot*；本义“小块土地→平面图”，引申为“情节布局→故事情节”（词源存疑，一说与古法语 complot 阴谋有关）。
+- **同根词**：plotter（plot + **-er** 人：密谋者）、plotting（plot + **-ing** 名词后缀：密谋）、complot（**com-** 共同 + plot 密谋 = 共谋，古词）。
+- **前缀·后缀**：无前后缀（单纯词）。
+- **同义·反义**：同义 storyline（故事情节）, scheme（计划）；反义 无。
+- **变形**：名词 → 复数：plots；动词派生 → plot v. 密谋；名词派生 → plotter n. 密谋者。
 
-### 12. forward /ˈfɔ:rwərd/ adv. 转寄；发送；向前；前进
-- **词根·渊源**：古英语 **foreweard**（fore 前 + weard 向）→ 中古英语 *forward*，本义“朝前的方向→向前→转寄（向前发送）”。
-- **同根词**：fore（古英语 fore 在前→前部）、before（**be-** 在 + fore 前 = 在……之前）、forehead（fore 前 + head 头 = 前额）、forecast（fore 前 + cast 投 = 预先投出→预报）、foreword（fore 前 + word 词 = 写在前面的话→前言）。
-- **前缀·后缀**：副词后缀 **-ward**（例：backward, upward）。
-- **同义·反义**：同义 ahead（向前）, onward（向前）；反义 backward（向后）, backward（向后）。
-- **变形**：副词 → 无比较级（方向副词，不作比较）；形容词派生 → forward adj. 向前的；名词派生 → forwardness n. 早熟、冒失。
+### 12. calm /kɑm/ v. 使平静
+- **词根·渊源**：希腊 **kauma**（酷热、正午炎热）→ 拉丁 *cauma* → 古法语 *calme* → 英语；本义“正午炎热→无风”，引申为“平静→使平静”。
+- **同根词**：calmly（calm + **-ly** 副词后缀：平静地）、calmness（calm + **-ness** 名词后缀：平静）、becalm（**be-** 使 + calm 平静 = 使平静）。
+- **前缀·后缀**：无前后缀（单纯词）。
+- **同义·反义**：同义 soothe（安抚）, quiet（使安静）；反义 agitate（使激动）, excite（使兴奋）。
+- **变形**：动词 → 第三人称单数：calms；过去式：calmed；过去分词：calmed；现在分词：calming；形容词派生 → calm adj. 平静的；副词派生 → calmly adv. 平静地；名词派生 → calmness n. 平静。
 
-### 13. second /ˈsekənd , sɪˈkɒnd/ n. 秒(时间单位)
-- **词根·渊源**：拉丁 **sequ-/secut-**（跟随）→ 拉丁 *secunda*（第二的，即“第二小份”）→ 古法语 *seconde* → 英语 *second*，本义“第二小份（小时的第二次分割）→秒”。
-- **同根词**：sequence（sequ 跟随 + **-ence** 名词后缀 = 跟随而来→顺序）、consecutive（**con-** 共同 + secut 跟随 + **-ive** ……的 = 连续跟随的→连续的）、pursue（**pur-** 向前 + sue 跟随 = 向前追→追求）、consequence（**con-** 共同 + sequ 跟随 + **-ence** = 随之而来的事→结果）、execute（**ex-** 出 + secut 跟随 = 跟到底→执行）。
-- **前缀·后缀**：无前后缀（单纯词，源自拉丁 secunda）。
-- **同义·反义**：同义 moment（片刻）, instant（瞬间）；反义 无, 无。
-- **变形**：名词 → 复数：seconds；形容词派生 → second adj. 第二的；动词派生 → second v. 附议。
-
-### 14. relaxed /rɪˈlækst/ adj. 放松的;自在的;冷静的
-- **词根·渊源**：拉丁 **lax-**（松的）→ 拉丁 *relaxare*（**re-** 加强 + laxare 放松 = 使松弛）→ 英语 *relax* + **-ed**，本义“被放松的→放松的、自在的”。
-- **同根词**：relax（**re-** 加强 + lax 松 = 使松弛→放松）、lax（拉丁 laxus 松的→松弛的）、laxative（lax 松 + **-ative** ……的 = 使松弛的→泻药）、relaxation（relax + **-ation** 名词后缀 = 放松）。
-- **前缀·后缀**：形容词后缀 **-ed**（例：excited, tired）；前缀 **re-**（例：return, rebuild）。
-- **同义·反义**：同义 calm（冷静的）, easygoing（自在的）；反义 tense（紧张的）, nervous（紧张的）。
-- **变形**：形容词 → 比较级：more relaxed；最高级：most relaxed；名词派生 → relaxation n. 放松；动词派生 → relax v. 放松；副词派生 → relaxedly adv. 放松地。
-
-### 15. ahead of /əˈhed əv/ n. 在……前面；领先
-- **同义搭配**：in front of（在……前面） / before（在……之前）
-- **反义搭配**：behind（在……后面）
-
-### 16. beat(beat) /bit/ v. 打败；战胜；赢
-- **词根·渊源**：古英语 **beatan**（敲打）→ 中古英语 *beten*，本义“敲打→打击→打败”，现义为“打败；战胜；赢”。
-- **同根词**：beating（beat + **-ing** 名词后缀 = 敲打→跳动）、beaten（beat + **-en** 过去分词后缀 = 被打的→被击败的）、battle（与 beat 同源，拉丁 battuere 打→战斗）、batter（beat 的变体 + **-er** 反复动作 = 连续猛打→击打）。
-- **前缀·后缀**：无前后缀（单纯词，源自古英语 beatan）。
-- **同义·反义**：同义 defeat（打败）, conquer（征服）；反义 lose（输）, surrender（投降）。
-- **变形**：动词 → 第三人称单数：beats；过去式：beat；过去分词：beaten；现在分词：beating；名词派生 → beat n. 敲打、节拍。
-
-### 17. still /stɪl/ adj. 平静的；安静的；宁静的，寂静的
-- **词根·渊源**：古英语 **stille**（不动的、安静的）→ 中古英语 *still*，本义“不动的→平静的、安静的”，现义为“平静的；安静的”。
-- **同根词**：stillness（still + **-ness** 名词后缀 = 安静）、stilly（still + **-y** ……的 = 安静的）、install（**in-** 入 + stall 位置 = 放入位置→安装，与 still 同源“放置”义，存疑）。
-- **前缀·后缀**：无前后缀（单纯词，源自古英语 stille）。
-- **同义·反义**：同义 calm（平静的）, quiet（安静的）；反义 noisy（吵闹的）, moving（移动的）。
-- **变形**：形容词 → 比较级：still（或 more still）；最高级：stillest（或 most still）；副词派生 → still adv. 仍然、静止地；名词派生 → stillness n. 寂静。
-
-### 18. single /ˈsɪŋɡəl/ adj. 仅一个的；单个的；单身的
-- **词根·渊源**：拉丁 **singul-**（单个的）→ 古法语 *sengle* → 中古英语 *single*，本义“一个的→单个的→单身的”。
-- **同根词**：singular（singul 单个 + **-ar** ……的 = 单个的→单数的、非凡的）、singleton（single + **-ton** 名词后缀 = 单个→独生子、单元素）、singles（single + **-s** 复数后缀 = 单打比赛）、singularity（singular + **-ity** 名词后缀 = 单一性→奇点）。
-- **前缀·后缀**：形容词后缀 **-le**（例：little, gentle）。
-- **同义·反义**：同义 sole（唯一的）, unmarried（未婚的）；反义 multiple（多个的）, married（已婚的）。
-- **变形**：形容词 → 比较级：more single；最高级：most single；名词派生 → singleness n. 单一、单身；动词派生 → single v. 挑选出。
-
-### 19. victory /ˈvɪktəri/ n. 胜利；成功
-- **词根·渊源**：拉丁 **vinc- / vict-**（征服、战胜）→ 拉丁 *victoria*（胜利）→ 古法语 *victorie* → 英语 victory；本义“战胜对手的行为”，引申为“胜利、成功”。
-- **同根词**：victor（vict 战胜 + **-or** 者 = 胜利者）、convince（**con-** 完全 + vinc 征服 = 彻底征服对方→使信服）、invincible（**in-** 不 + vinc 征服 + **-ible** 可…的 = 不可征服的→无敌的）、convict（**con-** 完全 + vict 征服 = 彻底证明有罪→定罪）。
-- **前缀·后缀**：名词后缀 **-y**（例：memory, delivery）；前缀 **con-**（例：confirm）、**in-**（例：invisible）。
-- **同义·反义**：同义 success（成功）, triumph（凯旋）；反义 defeat（失败）, failure（失败）。
-- **变形**：名词 → 复数：victories；形容词派生 → victorious adj. 胜利的；副词派生 → victoriously adv. 胜利地。
-
-### 20. England /ˈɪŋɡlənd/ n. 英格兰
-- **词根·渊源**：古英语 *Englaland*（盎格鲁人的土地）→ 中古英语 *Engeland* → 英语 England；**Engl-** 来自日耳曼部落名 Angles（盎格鲁人），**-land** 意为“土地”，本义“盎格鲁人的国土”。
-- **同根词**：English（Engl 盎格鲁人 + **-ish** …的 = 盎格鲁人的→英语的）、Englishman（English + **man** 人 = 英格兰人）、Anglo-（Angl 盎格鲁 + **-o** 组合形式 = 盎格鲁…的）、land（单纯词，土地）。
-- **前缀·后缀**：名词后缀 **-land**（例：island, homeland）；无前缀。
+### 13. snowboarding /ˈsnoʊˌbɔrdɪŋ/ n. 滑雪板运动
+- **词根·渊源**：**snow**（雪）+ **board**（板）+ **-ing**（名词后缀）→ 英语复合词；本义“在雪上踩板滑行”，即“滑雪板运动”。
+- **同根词**：snowboard（snow + board 板 = 滑雪板）、skateboard（skate 滑冰 + board 板 = 滑板）、surfboard（surf 冲浪 + board 板 = 冲浪板）、snowy（snow + **-y** …的：多雪的）。
+- **前缀·后缀**：名词后缀 **-ing**（例：swimming, running）。
 - **同义·反义**：同义 无；反义 无。
-- **变形**：名词 → 复数：不可数（专有名词）；形容词派生 → English adj. 英格兰的、英语的；名词派生 → Englishman n. 英格兰人。
+- **变形**：名词 → 不可数；动词派生 → snowboard v. 玩滑雪板；名词派生 → snowboarder n. 滑雪板运动员。
 
-### 21. lucky /ˈlʌki/ adj. 运气好的;幸运的;带来好运的
-- **词根·渊源**：中古荷兰语 *luc*（好运、幸福）→ 中古英语 *lucke*（运气）+ **-y**（…的）→ lucky；本义“有好运的”，引申为“幸运的、带来好运的”。
-- **同根词**：luck（单纯词，运气）、luckily（lucky 变 y 为 i + **-ly** 副词后缀 = 幸运地）、unlucky（**un-** 不 + lucky 幸运的 = 不幸的）、misfortune（**mis-** 坏 + fortune 运气 = 厄运，与 luck 同义关联词）。
-- **前缀·后缀**：形容词后缀 **-y**（例：rainy, windy）；否定前缀 **un-**（例：unhappy）、**mis-**（例：mistake）。
-- **同义·反义**：同义 fortunate（幸运的）, blessed（有福的）；反义 unlucky（不幸的）, unfortunate（倒霉的）。
-- **变形**：形容词 → 比较级：luckier；最高级：luckiest；副词派生 → luckily adv. 幸运地；名词派生 → luck n. 运气。
+### 14. various /ˈvɛriəs/ adj. 各种不同的;各种各样的
+- **词根·渊源**：拉丁 **varius**（多变的、杂色的）→ 拉丁 *varius* → 英语；本义“杂色的→多样的”，引申为“各种各样的”。
+- **同根词**：vary（vari 变化 + **-y** 动词后缀：变化）、variety（vari 变化 + **-ety** 名词后缀：多样性）、variable（vari 变化 + **-able** 可…的：可变的）、variance（vari 变化 + **-ance** 名词后缀：分歧）。
+- **前缀·后缀**：形容词后缀 **-ous**（例：famous, dangerous）。
+- **同义·反义**：同义 diverse（多样的）, different（不同的）；反义 same（相同的）, uniform（一致的）。
+- **变形**：形容词 → 无比较级（关系形容词，不作比较）；名词派生 → variety n. 多样性；副词派生 → variously adv. 不同地；动词派生 → vary v. 变化。
 
-### 22. survey /ˈsɜːrve/ v. 调查；查看
-- **词根·渊源**：拉丁 **super-**（在上）+ **vid-**（看）→ 盎格鲁-法语 *surveier*（俯视、查看）→ 英语 survey；本义“从上方看”，引申为“查看、调查”。
-- **同根词**：vision（vid 看 + **-ion** 名词后缀 = 视力、视野）、visible（vis 看 + **-ible** 可…的 = 可见的）、supervise（**super-** 在上 + vis 看 = 从上面看→监督）、evident（**e-** 出 + vid 看 + **-ent** …的 = 看得出来的→明显的）。
-- **前缀·后缀**：前缀 **super-**（例：supermarket）、**e-**（例：emerge）；名词后缀 **-ion**（例：action）。
-- **同义·反义**：同义 inspect（检查）, examine（审查）；反义 ignore（忽视）, overlook（忽略）。
-- **变形**：动词 → 第三人称单数：surveys；过去式：surveyed；过去分词：surveyed；现在分词：surveying；名词派生 → survey n. 调查；名词派生 → surveyor n. 测量员。
-
-### 23. floor plan /flɔː plæn/ n. 建筑的平面图；楼层平面图
-- **同义搭配**：layout / blueprint
+### 15. lighting operator n. 灯光师
+- **同义搭配**：lighting technician / lighting engineer
 - **反义搭配**：无
 
-### 24. talent show /ˈtælənt ʃəʊ/ n. 达人秀；才艺表演会；业余演出比赛
-- **同义搭配**：variety show / amateur contest
+### 16. make-up artist n. 化妆师
+- **同义搭配**：cosmetician / makeup artist
 - **反义搭配**：无
 
-### 25. pass out /pæs aʊt/ n. 昏倒，失去知觉；分发
-- **同义搭配**：faint / lose consciousness / hand out
-- **反义搭配**：come round（苏醒）
-
-### 26. keep still /kiːp stɪl/ v. 保持静止；保持不动（的状态）
-- **同义搭配**：stay still / remain motionless
-- **反义搭配**：move about（四处走动）
-
-### 27. emergency exit /ˈimərʤənsi ˈɛksət/ n. 紧急出口，太平门
-- **同义搭配**：fire exit / escape route
+### 17. sound operator v. 音响师
+- **同义搭配**：sound engineer / audio technician
 - **反义搭配**：无
 
-### 28. on weekdays /ɔn ˈwikˌdeɪz/ prep. 在工作日；在平时
-- **同义搭配**：on workdays / during the week
-- **反义搭配**：on weekends（在周末）
+### 18. quiz show n. 智力竞赛节目
+- **同义搭配**：game show / panel game
+- **反义搭配**：无
+
+### 19. reality show /riˈæləti ʃoʊ/ n. 真人秀节目
+- **同义搭配**：reality television / reality program
+- **反义搭配**：无
+
+### 20. talent show /ˈtælənt ʃoʊ/ n. 才艺表演
+- **同义搭配**：talent contest / variety show
+- **反义搭配**：无
+
+### 21. talk show /tɔːk ʃoʊ/ n. 脱口秀
+- **同义搭配**：chat show / interview program
+- **反义搭配**：无
+
+### 22. travel show /ˈtrævl ʃoʊ/ v. 旅游节目
+- **同义搭配**：travel program / travelogue
+- **反义搭配**：无
+
+### 23. TV drama /ˌtiː ˈviː ˈdrɑːmə/ n. 电视连续剧
+- **同义搭配**：TV series / television drama
+- **反义搭配**：无
+
+### 24. shine down upon somebody /ʃaɪn daʊn əˈpɑːn ˈsʌmbədi/ v. 照在某人身上
+- **同义搭配**：shine on somebody / cast light on somebody
+- **反义搭配**：无
+
+### 25. pass out /pæs aʊt/ v. 昏迷;失去知觉
+- **同义搭配**：faint / lose consciousness
+- **反义搭配**：come to（苏醒）/ regain consciousness（恢复知觉）
+
+### 26. time zone /taɪm zoʊn/ n. 时区
+- **同义搭配**：time belt / standard time area
+- **反义搭配**：无
+
+### 27. hang out /hæŋ aʊt/ v. 常去某处
+- **同义搭配**：spend time / frequent（常去）
+- **反义搭配**：无
+
+### 28. film review /fɪlm rɪˈvjuː/ n. 影评
+- **同义搭配**：movie review / film criticism
+- **反义搭配**：无
+
+### 29. board game /bɔːrd ɡeɪm/ n. 棋类游戏
+- **同义搭配**：tabletop game / parlor game
+- **反义搭配**：video game（电子游戏）
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| -er | 表“人”或“物”的名词后缀 | director | teacher, worker, computer, printer |
-| -ist | 表“从事……的人” | artist | scientist, pianist, tourist, journalist |
-| -ant | 表“人”的名词后缀 | contestant | assistant, servant, applicant, immigrant |
-| -ed | 构成形容词，表“处于……状态的” | relaxed | excited, tired, interested, surprised |
-| -y | 构成形容词，表“具有……性质的” | lucky | rainy, windy, healthy, dirty |
-| -ry | 构成名词，表“……的行为/状态” | victory | bravery, discovery, delivery, memory |
-| -al | 构成形容词，表“与……有关的” | still（存疑，非典型） | natural, musical, personal, national |
-| -ing | 构成名词或动名词 | make-up（存疑，非典型） | building, meeting, feeling, painting |
-| -tion | 构成抽象名词 |（本单元无直接例词） | action, education, information, invention |
-| -ment | 构成抽象名词 |（本单元无直接例词） | movement, development, agreement, government |
-| -ous | 构成形容词，表“充满……的” |（本单元无直接例词） | famous, dangerous, nervous, curious |
-| -ful | 构成形容词，表“充满……的” |（本单元无直接例词） | careful, helpful, useful, beautiful |
-| -less | 构成形容词，表“没有……的” |（本单元无直接例词） | careless, hopeless, useless, endless |
-| -able | 构成形容词，表“能……的” |（本单元无直接例词） | comfortable, readable, enjoyable, valuable |
-| -ly | 构成副词，表“……地” |（本单元无直接例词） | quickly, slowly, happily, carefully |
-| -ness | 构成抽象名词，表“……性质” |（本单元无直接例词） | kindness, happiness, darkness, weakness |
+| -or | 表人、施动者 | director, operator | actor, teacher, visitor, inventor |
+| -ant | 表人 | contestant | assistant, servant, applicant, immigrant |
+| -io/-ion | 名词后缀，表行为/状态 | recommendation | action, education, invention, discussion |
+| -ous | 形容词后缀，充满……的 | various | famous, dangerous, nervous, curious |
+| -ing | 名词/动名词后缀 | lighting, snowboarding | swimming, building, meeting, painting |
+| re- | 再、回 | recommendation, reality show | return, rebuild, review, repeat |
+| con- | 共同、一起 | concert, conduct, contestant | connect, combine, collect, confirm |
+| di-/dis- | 分开、离 | director | divide, dismiss, display, discover |
+| out- | 向外、超过 | outdoors, pass out | outside, output, outstanding, outgrow |
+| up- | 向上 | upon | upstairs, upward, update, uplift |
+| -er | 表人、施动者 | sound operator（operator） | worker, singer, player, writer |
+| -ist | 表人 | make-up artist | artist, scientist, pianist, tourist |
+| -al | 形容词后缀 | reality show（存疑） | natural, national, personal, musical |
+| -y | 名词/形容词后缀 | make-up | study, history, happy, rainy |
+| -board | 板、板类运动 | snowboarding, board game | skateboard, surfboard, keyboard, blackboard |
+| -cast | 投、播 | talk show（存疑） | broadcast, podcast, forecast, newscast |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
 | 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| praise | compliment（称赞） | criticize（批评） |
-| view | opinion（观点） | — |
-| director | manager（负责人） | — |
-| artist | painter（画家） | — |
-| contestant | competitor（竞争者） | — |
-| forward | ahead（向前） | backward（向后） |
-| relaxed | calm（冷静的） | nervous（紧张的） |
-| ahead of | in front of（在……前面） | behind（在……后面） |
-| beat | defeat（打败） | lose（输） |
-| still | quiet（安静的） | noisy（吵闹的） |
-| single | only one（仅一个的） | multiple（多个的） |
-| victory | success（成功） | defeat（失败） |
-| lucky | fortunate（幸运的） | unlucky（不幸的） |
-| survey | investigate（调查） | — |
-| pass out | faint（昏倒） | — |
-| keep still | stay motionless（保持不动） | move（移动） |
-| emergency exit | fire escape（太平门） | — |
-| on weekdays | on workdays（在工作日） | on weekends（在周末） |
-| among | in the middle of（在……当中） | — |
-| upon | on（在……上） | — |
+| director | filmmaker（电影制作人） | — |
+| contestant | competitor（竞争者） | spectator（观众） |
+| upon | on（在……上） | under（在……下） |
+| outdoors | outside（在外面） | indoors（在室内） |
+| conduct | carry out（实施） | cancel（取消） |
+| gain | obtain（获得） | lose（失去） |
+| recommendation | suggestion（建议） | — |
+| calm | quiet（使安静） | excite（使激动） |
+| various | different（不同的） | same（相同的） |
+| shine down upon | light on（照在……上） | — |
+| pass out | faint（昏倒） | wake up（醒来） |
+| hang out | spend time（消磨时间） | — |
+| plot | storyline（故事情节） | — |
+| studio | workshop（工作室） | — |
+| zone | area（区域） | — |
+| concert | performance（演出） | — |
+| talent show | variety show（才艺表演） | — |
+| reality show | — | — |
+| quiz show | — | — |
+| film review | movie critique（影评） | — |
 
 ---
 

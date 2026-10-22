@@ -1,6 +1,6 @@
-# 8B_U4 说文解字 · Cartoons and comic strips
+# 8B_U4 说文解字 · Arts and heritage
 
-> 配套 `8B_U4.md`（沪教牛津版 2024/2025 修订，37 条）
+> 配套 `8B_U4.md`（沪教牛津版 2024/2025 修订，26 条）
 > 说明：音标取自本单元词表；**词源为通用词典学信息，不是教材注释**，有争议处标注“存疑”。
 > 每条包含：词根与渊源 / 同根词 / 前缀·后缀 / 同义·反义（带中文）/ 变形（时态·复数·比较级·词性派生）。
 
@@ -8,300 +8,231 @@
 
 | 词根 | 含义 | 来源 | 本单元词 | 常见同根词 |
 |---|---|---|---|---|
-| cart- | 纸，卡片 | 拉丁语 charta（纸）→ 意大利语 cartone（厚纸） | cartoon | chart, charter, card, chart |
-| warn- | 警告，提醒 | 古英语 warnian（提醒、警告） | warning | warn, forewarn |
-| symbol- | 符号，象征 | 希腊语 symbolon（标记、符号） | symbol | symbolic, symbolism, symbolize |
-| sketch- | 草图，速写 | 荷兰语 schets → 意大利语 schizzo（即兴画） | sketch | sketchy, sketcher |
-| record- | 记录，回忆 | 拉丁语 recordari（回忆，re-再+cor心） | record | recorder, recording, recordable |
-| fact-/fect- | 做，制作 | 拉丁语 facere（做） | effect | fact, factory, perfect, infect |
-| bas- | 基础，底部 | 希腊语 basis（基础、底座） | basic | base, basis, basement |
-| st- | 站立 | 拉丁语 stare（站立） | stage | stand, stable, station, statue |
-| pleas- | 使高兴 | 拉丁语 placere（使满意） | pleasant | please, pleasure, pleasantry |
-| act- | 做，行动 | 拉丁语 agere（做、驱动） | actor | act, action, active, react |
-| myst- | 神秘 | 希腊语 mystes（入门者）→ mysterion（秘密） | mystery | mysterious, mystic, mystify |
-| insul- | 岛 | 拉丁语 insula（岛） | island | insular, isolate, peninsula |
-| vid-/vis- | 看 | 拉丁语 videre（看） | video camera | video, visible, vision, visual |
-| decid- | 切断，决定 | 拉丁语 decidere（de-离+cidere切） | decide on | decide, decision, decisive |
-| jac- | 投，扔 | 古法语 jaque（短上衣） | jacket | — |
+| magn/maj/master | 大；主人 | 拉丁语 magnus（大的）、magister（主人） | master, masterpiece | master, masterful, magistrate, magnify, major |
+| serv | 保持；看守 | 拉丁语 servare（保存、守护） | preserve | preserve, reserve, observe, conservation |
+| par | 准备；相等 | 拉丁语 parare（准备） | separate | separate, prepare, repair, compare |
+| port | 携带；搬运 | 拉丁语 portare（携带） | (无直接词，见扩展) | portable, transport, export, import |
+| scrib/script | 写 | 拉丁语 scribere（写） | (无直接词，见扩展) | describe, prescription, manuscript, subscribe |
+| grad | 步；走 | 拉丁语 gradus（步、等级） | graduate | graduate, grade, gradual, upgrade |
+| lim | 界限；门槛 | 拉丁语 limes（边界） | limit | limit, eliminate, preliminary |
+| temp | 时间；季节 | 拉丁语 tempus（时间） | temperature | temperature, temporary, contemporary |
+| sculp | 雕刻 | 拉丁语 sculpere（雕刻） | sculpture | sculpture, sculptor, sculpt |
+| sti/sta | 站立；放置 | 拉丁语 stare（站立） | lifestyle（style） | style, stand, stable, statue |
+| pris/prehend | 抓住；拿 | 拉丁语 prehendere（抓住） | priceless | price, prison, comprehend, surprise |
+| fort | 强；运气 | 拉丁语 fortis（强的）、fortuna（运气） | unfortunately | fortune, fortunate, comfort, effort |
+| vid/vis | 看 | 拉丁语 videre（看） | (无直接词，见扩展) | visible, vision, video, evident |
+| plic | 折叠；连接 | 拉丁语 plicare（折叠） | (无直接词，见扩展) | display, complicated, apply, multiply |
+| duc | 引导 | 拉丁语 ducere（引导） | (无直接词，见扩展) | produce, reduce, introduce, conduct |
+| nat | 出生 | 拉丁语 nasci（出生） | (无直接词，见扩展) | nature, native, nation, innate |
 
 ## 二、逐词说文解字
 
-### 1. cartoon /kɑːˈtuːn/ n. 漫画；动画片；卡通片
-- **词根·渊源**：意大利 **cartone**（大纸、厚纸板）→ 法语 *carton* → 英语；本义指画家在厚纸上画的“草图、底稿”，后指讽刺漫画，20世纪引申为“动画片”。
-- **同根词**：carton（carton 厚纸板→纸盒）、cartoonist（cartoon + **-ist** 人 = 漫画家）、cartoonish（cartoon + **-ish** 如漫画般的）、cartography（希腊 chartēs 纸 + **-graphy** 写 = 制图学）、chart（拉丁 charta 纸→图表）。
-- **前缀·后缀**：名词后缀 **-ist**（例：artist, pianist）、**-ish**（例：childish, foolish）。
-- **同义·反义**：同义 comic（连环漫画）, animation（动画片）；反义 无。
-- **变形**：名词 → 复数：cartoons；形容词派生 → cartoonish adj. 漫画般的；名词派生 → cartoonist n. 漫画家。
+### 1. master /ˈmæstər/ n. 著名画家；绘画大师
+- **词根·渊源**：拉丁 **magister**（首领、教师）→ 古英语 *mægester* → 中古英语 *maister*；本义“掌管者、师傅”，引申为“技艺高超者”，再特指“绘画大师”。
+- **同根词**：mastery（master + **-y** 名词后缀 = 精通、掌握）、masterful（master + **-ful** 充满…的 = 技艺高超的）、masterpiece（master 大师 + piece 作品 = 大师之作→杰作）、magistrate（拉丁 magister 长官 + **-ate** 人 = 地方行政官）、magisterial（magister 教师 + **-ial** …的 = 有权威的）。
+- **前缀·后缀**：名词后缀 **-y**（例：victory, delivery）；形容词后缀 **-ful**（例：helpful, useful）。
+- **同义·反义**：同义 expert（专家）, virtuoso（艺术名家）；反义 novice（新手）, amateur（业余者）。
+- **变形**：名词 → 复数：masters；形容词派生 → masterful adj. 技艺高超的；副词派生 → masterfully adv. 精湛地；名词派生 → mastery n. 精通。
 
-### 2. warning /ˈwɔːrnɪŋ/ n. 警告；警示；告示
-- **词根·渊源**：古英语 **warnian**（提醒、使警惕）→ 英语 warn + **-ing** 名词后缀；本义“使人提防的动作”，引申为“警告、告示”。
-- **同根词**：warn（古英语 warnian 提醒→警告）、wary（古英语 wær 谨慎的→小心的）、aware（**a-** 加强 + ware 警觉 = 意识到的）、beware（**be-** 加强 + ware 警觉 = 当心）、warningly（warning + **-ly** 警告地）。
-- **前缀·后缀**：名词后缀 **-ing**（例：building, meeting）；前缀 **a-**（例：alive）、**be-**（例：belong）。
-- **同义·反义**：同义 caution（警告）, alert（警报）；反义 无。
-- **变形**：名词 → 复数：warnings；动词派生 → warn v. 警告；形容词派生 → warning adj. 警告的；副词派生 → warningly adv. 警告地。
+### 2. masterpiece /ˈmæstərˌpis/ n. 代表作；杰作
+- **词根·渊源**：master（大师）+ piece（作品）复合而成，仿法语 *chef-d'œuvre*（首席作品）构词；本义“大师之作”，即“代表作、杰作”。
+- **同根词**：master（大师→著名画家）、mastery（master + **-y** = 精通）、masterful（master + **-ful** = 技艺高超的）、piece（piece 作品→一件）、patchwork（patch 补丁 + work 作品 = 拼凑之物）。
+- **前缀·后缀**：无前后缀（复合词：master + piece）。
+- **同义·反义**：同义 classic（经典之作）, magnum opus（代表作）；反义 trifle（琐碎之作）, potboiler（粗制滥造之作）。
+- **变形**：名词 → 复数：masterpieces；形容词派生 → masterly adj. 大师级的。
 
-### 3. role-play /ˈroʊl pleɪ/ v. 角色扮演
-- **词根·渊源**：role（古法语 *rolle* 卷轴→角色）+ play（古英语 *plegan* 玩耍→扮演）；本义“按卷轴上的台词扮演”，引申为“角色扮演”。
-- **同根词**：role（古法语 rolle 卷轴→角色）、play（古英语 plegan 玩耍→扮演）、player（play + **-er** 人 = 演员）、playful（play + **-ful** 充满……的 = 好玩的）、roll（拉丁 rotulus 小卷→卷轴）。
-- **前缀·后缀**：名词后缀 **-er**（例：teacher, singer）、**-ful**（例：helpful, useful）。
-- **同义·反义**：同义 act out（表演出来）, improvise（即兴表演）；反义 无。
-- **变形**：动词 → 第三人称单数：role-plays；过去式：role-played；过去分词：role-played；现在分词：role-playing；名词派生 → role-play n. 角色扮演。
+### 3. whenever /wɛˈnɛvər/ conj. 每当；无论何时
+- **词根·渊源**：when（何时）+ ever（任何时候）复合；ever 源自古英语 *ǣfre*（永远），与 when 结合表“无论何时”，引申为“每当”。
+- **同根词**：whatever（what 什么 + ever 任何 = 无论什么）、whoever（who 谁 + ever = 无论谁）、wherever（where 哪里 + ever = 无论哪里）、however（how 如何 + ever = 无论如何）、everlasting（ever 永远 + lasting 持续 = 永恒的）。
+- **前缀·后缀**：后缀 **-ever**（例：whatever, whoever）。
+- **同义·反义**：同义 every time（每当）, no matter when（无论何时）；反义 无。
+- **变形**：连词 → 无形态变化（不作比较）。
 
-### 4. symbol /ˈsɪmbəl/ n. 象征，标志；符号
-- **词根·渊源**：希腊 **symbolon**（标记、信物，由 syn- 一起 + ballein 投掷 构成，本义“投在一起配对的东西”）→ 拉丁 *symbolum* → 英语；由“配对信物”引申为“符号、象征”。
-- **同根词**：symbolic（symbol + **-ic** ……的 = 象征的）、symbolize（symbol + **-ize** 使……化 = 象征）、symbolism（symbol + **-ism** 主义 = 象征主义）、symptom（希腊 syn- 一起 + piptein 落 = 一起出现的症状）、ballistic（希腊 ballein 投掷 + **-istic** 投掷的→弹道的）。
-- **前缀·后缀**：形容词后缀 **-ic**（例：basic, historic）；动词后缀 **-ize**（例：realize, modernize）；名词后缀 **-ism**（例：realism, tourism）。
-- **同义·反义**：同义 sign（标志）, emblem（象征）；反义 无。
-- **变形**：名词 → 复数：symbols；形容词派生 → symbolic adj. 象征的；动词派生 → symbolize v. 象征；名词派生 → symbolism n. 象征主义。
+### 4. alone /əˈloʊn/ adv. 独自
+- **词根·渊源**：中古英语 *al one*（完全一个人），**al-**（全、完全，源自拉丁 *all*）+ one（一）；本义“全然一人”，引申为“独自”。
+- **同根词**：one（一→一个）、only（one + **-ly** = 唯一的）、oneself（one + self 自己 = 自己）、lonely（alone 的变体 + **-ly** = 孤独的）、lone（alone 去 a- = 孤单的）。
+- **前缀·后缀**：前缀 **a-**（全、完全，例：aloud, alike）；无后缀。
+- **同义·反义**：同义 by oneself（独自）, solo（单独地）；反义 together（一起）, accompanied（有人陪伴地）。
+- **变形**：副词 → 无比较级；形容词派生 → lonely adj. 孤独的；名词派生 → loneliness n. 孤独。
 
-### 5. bubble /ˈbʌbl/ v. 气泡，泡沫
-- **词根·渊源**：中古英语 **bubelen**（冒泡），拟声词，模拟水泡破裂声；本义“冒泡”，引申为“气泡、泡沫”。
-- **同根词**：bubbly（bubble + **-y** 多……的 = 多泡的）、bubbling（bubble + **-ing** 冒泡的）、blubber（拟声 blub 哭号→鲸脂）、burble（拟声 bur- 流水声→潺潺声）。
-- **前缀·后缀**：形容词后缀 **-y**（例：rainy, windy）；名词后缀 **-ing**（例：running, swimming）。
-- **同义·反义**：同义 foam（泡沫）, froth（浮沫）；反义 无。
-- **变形**：动词 → 第三人称单数：bubbles；过去式：bubbled；过去分词：bubbled；现在分词：bubbling；名词 → 复数：bubbles；形容词派生 → bubbly adj. 多泡的。
+### 5. copy /ˈkɑpi/ v. 仿造；临摹
+- **词根·渊源**：拉丁 **copia**（丰富、大量）→ 中世纪拉丁 *copia*（抄本，因抄本大量复制）→ 古法语 *copie* → 英语；本义“大量抄写”，引申为“复制、仿造、临摹”。
+- **同根词**：copious（copia 丰富 + **-ous** …的 = 大量的）、copyist（copy + **-ist** 人 = 抄写员）、copyright（copy 复制 + right 权利 = 版权）、copybook（copy + book 书 = 字帖）。
+- **前缀·后缀**：名词后缀 **-ist**（例：artist, scientist）。
+- **同义·反义**：同义 imitate（模仿）, reproduce（复制）；反义 originate（原创）, create（创造）。
+- **变形**：动词 → 第三人称单数：copies；过去式：copied；过去分词：copied；现在分词：copying；名词派生 → copy n. 副本；名词派生 → copyist n. 抄写员。
 
-### 6. thought /θɔːt/ v. 心思，思想
-- **词根·渊源**：古英语 **þōht**（思想），是 þencan（思考）的过去分词名词化；与 think 同源，本义“思考的结果”，引申为“心思、思想”。
-- **同根词**：think（古英语 þencan 思考→想）、thoughtful（thought + **-ful** 充满……的 = 体贴的）、thoughtless（thought + **-less** 无……的 = 轻率的）、thank（古英语 þanc 思想→感谢）、thinker（think + **-er** 人 = 思想家）。
-- **前缀·后缀**：形容词后缀 **-ful**（例：careful, helpful）、**-less**（例：careless, hopeless）；名词后缀 **-er**（例：worker, teacher）。
-- **同义·反义**：同义 idea（想法）, notion（概念）；反义 无。
-- **变形**：名词 → 复数：thoughts；形容词派生 → thoughtful adj. 体贴的；thoughtless adj. 轻率的；副词派生 → thoughtfully adv. 体贴地。
+### 6. risk /rɪsk/ n. 风险；危险
+- **词根·渊源**：意大利语 *risco / risco*（危险，源于航海术语）→ 法语 *risque* → 英语；词源存疑，一说源自拉丁 *resecare*（割断），本义“礁石危险”，引申为“风险”。
+- **同根词**：risky（risk + **-y** …的 = 危险的）、riskily（risky + **-ly** = 冒险地）、riskless（risk + **-less** 无…的 = 无风险的）、riskiness（risky + **-ness** = 危险性）。
+- **前缀·后缀**：形容词后缀 **-y**（例：rainy, windy）；否定后缀 **-less**（例：hopeless, careless）。
+- **同义·反义**：同义 danger（危险）, hazard（风险）；反义 safety（安全）, security（保障）。
+- **变形**：名词 → 复数：risks；形容词派生 → risky adj. 危险的；副词派生 → riskily adv. 冒险地；动词派生 → risk v. 冒…的危险。
 
-### 7. rough /rʌf/ adj. 粗俗的，不讲究的；粗略的，大致的
-- **词根·渊源**：古英语 **rūh**（粗糙的、多毛的）→ 中古英语 *rough*；本义“表面不平的”，引申为“粗俗的、粗略的”。
-- **同根词**：roughly（rough + **-ly** 粗略地）、roughness（rough + **-ness** 粗糙）、ruffle（古英语 ruh 粗糙→弄皱）、rugged（古诺斯语 rogg 粗糙→崎岖的）。
-- **前缀·后缀**：副词后缀 **-ly**（例：quickly, slowly）；名词后缀 **-ness**（例：kindness, darkness）。
-- **同义·反义**：同义 coarse（粗糙的）, approximate（大致的）；反义 smooth（光滑的）, exact（精确的）。
-- **变形**：形容词 → 比较级：rougher；最高级：roughest；副词派生 → roughly adv. 粗略地；名词派生 → roughness n. 粗糙。
+### 7. damage /ˈdæmɪʤ/ v. 损坏；毁坏
+- **词根·渊源**：拉丁 **damnum**（损失、损害）→ 古法语 *damage* → 英语；本义“造成损失”，引申为“损坏、毁坏”。
+- **同根词**：damn（拉丁 damnum 损失→判罪→谴责）、damnation（damn + **-ation** 名词 = 诅咒）、damaging（damage + **-ing** …的 = 有害的）、indemnity（**in-** 不 + damn 损失 + **-ity** = 赔偿）。
+- **前缀·后缀**：名词后缀 **-age**（例：marriage, package）；形容词后缀 **-ing**（例：interesting, boring）。
+- **同义·反义**：同义 harm（伤害）, destroy（毁坏）；反义 repair（修理）, restore（修复）。
+- **变形**：动词 → 第三人称单数：damages；过去式：damaged；过去分词：damaged；现在分词：damaging；名词派生 → damage n. 损害；形容词派生 → damaging adj. 有害的。
 
-### 8. sketch /sketʃ/ n. 素描，速写；粗样，初稿；简述，概述
-- **词根·渊源**：荷兰 **schets**（草图）→ 德语 *Skizze* → 英语；本义“快速画的草稿”，引申为“初稿、概述”。
-- **同根词**：sketchy（sketch + **-y** 多……的 = 粗略的）、sketcher（sketch + **-er** 人 = 画速写的人）、sketchbook（sketch + book 书 = 速写本）。
-- **前缀·后缀**：形容词后缀 **-y**（例：rainy, sunny）；名词后缀 **-er**（例：painter, writer）。
-- **同义·反义**：同义 draft（草稿）, outline（提纲）；反义 无。
-- **变形**：名词 → 复数：sketches；动词派生 → sketch v. 素描；形容词派生 → sketchy adj. 粗略的；名词派生 → sketcher n. 速写者。
+### 8. separate /ˈsɛpərˌeɪt/ adj. 不同的；不相关的
+- **词根·渊源**：拉丁 **separare**（分开），由 **se-**（分开）+ **parare**（准备、安排）构成 → 拉丁 *separatus* → 英语；本义“被分开的”，引申为“不同的、不相关的”。
+- **同根词**：separation（separate + **-ion** 名词 = 分离）、separately（separate + **-ly** = 分别地）、separator（separate + **-or** 物 = 分离器）、inseparable（**in-** 不 + separable 可分的 = 不可分的）、prepare（**pre-** 预先 + parare 准备 = 准备）。
+- **前缀·后缀**：前缀 **se-**（分开，例：select, seclude）；名词后缀 **-ion**（例：action, nation）。
+- **同义·反义**：同义 distinct（不同的）, apart（分开的）；反义 connected（相连的）, combined（结合的）。
+- **变形**：形容词 → 无比较级（关系形容词）；动词 → 第三人称单数：separates；过去式：separated；过去分词：separated；现在分词：separating；名词派生 → separation n. 分离；副词派生 → separately adv. 分别地。
 
-### 9. program /ˈproʊɡræm/ n. 程序；计划；大纲
-- **词根·渊源**：希腊 **programma**（公告，由 pro- 在前 + graphein 写 构成）→ 拉丁 *programma* → 英语；本义“预先写出的公告”，引申为“计划、程序”。
-- **同根词**：programmer（program + **-er** 人 = 程序员）、programming（program + **-ing** 活动 = 编程）、grammar（希腊 gramma 字母→语法）、diagram（**dia-** 穿过 + gram 写 = 图表）、telegram（**tele-** 远 + gram 写 = 电报）。
-- **前缀·后缀**：名词后缀 **-er**（例：designer, manager）、**-ing**（例：shopping, teaching）；前缀 **dia-**（例：dialogue）、**tele-**（例：telephone）。
-- **同义·反义**：同义 plan（计划）, schedule（日程）；反义 无。
-- **变形**：名词 → 复数：programs；动词派生 → program v. 编程；名词派生 → programmer n. 程序员；programming n. 编程。
+### 9. exhibition /ˌɛksəˈbɪʃən/ n. 展览；展出
+- **词根·渊源**：拉丁 **ex-**（出）+ **habere**（持有）→ *exhibere*（拿出、展示）→ 拉丁 *exhibitio* → 古法语 → 英语；本义“拿出来给人看”，引申为“展览、展出”。
+- **同根词**：exhibit（**ex-** 出 + hibit 持有 = 展出）、exhibitor（exhibit + **-or** 人 = 参展者）、inhibit（**in-** 向内 + hibit 持有 = 抑制）、prohibit（**pro-** 向前 + hibit 持有 = 禁止）、habit（habere 持有→习惯）。
+- **前缀·后缀**：前缀 **ex-**（出，例：export, exit）；名词后缀 **-ion**（例：action, vision）。
+- **同义·反义**：同义 display（展示）, show（展览）；反义 concealment（隐藏）, hiding（藏匿）。
+- **变形**：名词 → 复数：exhibitions；动词派生 → exhibit v. 展出；名词派生 → exhibitor n. 参展者。
 
-### 10. record /ˈrekərd/ v. 记录；录制；录（音）
-- **词根·渊源**：拉丁 **recordari**（回忆，由 re- 回 + cor 心 构成，本义“记在心里”）→ 古法语 *recorder* → 英语；由“记在心里”引申为“记录、录制”。
-- **同根词**：recorder（record + **-er** 人/物 = 录音机）、recording（record + **-ing** 活动 = 录音）、cordial（cor 心 + **-ial** 出自内心的→衷心的）、courage（cor 心 + **-age** 名词后缀 = 勇气）、discourage（**dis-** 去除 + courage = 使气馁）。
-- **前缀·后缀**：前缀 **re-**（例：return, rebuild）、**dis-**（例：disagree, disappear）；名词后缀 **-er**（例：player, singer）、**-ing**（例：meeting, building）。
-- **同义·反义**：同义 register（登记）, tape（录音）；反义 erase（抹去）, delete（删除）。
-- **变形**：动词 → 第三人称单数：records；过去式：recorded；过去分词：recorded；现在分词：recording；名词 → 复数：records；名词派生 → recorder n. 录音机；recording n. 录音。
+### 10. lifestyle /ˈlaɪfˌstaɪl/ n. 生活方式
+- **词根·渊源**：life（生活）+ style（方式、风格）复合而成，20 世纪由瑞典语 *livsstil* 影响流行；本义“生活的样式”，即“生活方式”。
+- **同根词**：life（生活→生命）、lifelong（life + long 长 = 终身的）、lifelike（life + like 像 = 逼真的）、stylish（style + **-ish** …的 = 时髦的）、stylist（style + **-ist** 人 = 造型师）。
+- **前缀·后缀**：无前后缀（复合词：life + style）。
+- **同义·反义**：同义 way of life（生活方式）, living pattern（生活模式）；反义 无。
+- **变形**：名词 → 复数：lifestyles；形容词派生 → lifestyle adj. 生活方式的（作定语）。
 
-### 11. effect /ɪˈfekt/ n. 作用，影响；（刻意制造的）效果，印象
-- **词根·渊源**：拉丁 **effectus**（做出来的结果，由 ex- 出 + facere 做 构成）→ 古法语 *effect* → 英语；本义“做出来的结果”，引申为“作用、效果”。
-- **同根词**：effective（effect + **-ive** ……的 = 有效的）、effectively（effective + **-ly** 有效地）、affect（**af-** 向 + fect 做 = 影响）、infect（**in-** 入 + fect 做 = 感染）、perfect（**per-** 完全 + fect 做 = 完美的）。
-- **前缀·后缀**：形容词后缀 **-ive**（例：active, creative）、**-ly**（例：quickly, happily）；前缀 **af-**（例：affirm）、**in-**（例：inside）、**per-**（例：perform）。
-- **同义·反义**：同义 result（结果）, influence（影响）；反义 cause（原因）。
-- **变形**：名词 → 复数：effects；形容词派生 → effective adj. 有效的；副词派生 → effectively adv. 有效地。
+### 11. detail /ˈditeɪl/ n. 细部；局部
+- **词根·渊源**：法语 *détailler*（切碎、逐一列举），由 **de-**（分开）+ *tailler*（切割）构成 → 法语 *détail* → 英语；本义“切成小块”，引申为“细部、局部”。
+- **同根词**：detailed（detail + **-ed** …的 = 详细的）、tailor（tailler 切割→裁缝）、retail（**re-** 再 + tail 切 = 零售）、entail（**en-** 使 + tail 切 = 使承担）。
+- **前缀·后缀**：前缀 **de-**（分开、向下，例：decline, depart）；名词后缀无（detail 为借词整体）。
+- **同义·反义**：同义 particular（细节）, element（要素）；反义 whole（整体）, generality（概略）。
+- **变形**：名词 → 复数：details；形容词派生 → detailed adj. 详细的；动词派生 → detail v. 详述。
 
-### 12. basic /ˈbesɪk/ adj. 基本的；基础的
-- **词根·渊源**：希腊 **basis**（基础、步）→ 拉丁 *basis* → 英语 base + **-ic** 形容词后缀；本义“作为基础的”，引申为“基本的”。
-- **同根词**：base（希腊 basis 基础→基础）、basis（希腊 basis 基础→基础）、basically（basic + **-ally** 基本上）、basement（base + **-ment** 名词后缀 = 地下室）、debase（**de-** 向下 + base = 贬低）。
-- **前缀·后缀**：形容词后缀 **-ic**（例：music, magic）；副词后缀 **-ally**（例：typically, practically）；前缀 **de-**（例：decrease, defend）。
-- **同义·反义**：同义 fundamental（基本的）, elementary（初级的）；反义 advanced（高级的）, complex（复杂的）。
-- **变形**：形容词 → 无比较级（关系形容词，不作比较）；副词派生 → basically adv. 基本上；名词派生 → basis n. 基础。
+### 12. require /ˌrikˈwaɪər/ v. 需要
+- **词根·渊源**：拉丁 **re-**（再、加强）+ **quaerere**（寻求）→ *requirere*（反复寻求）→ 古法语 *requerre* → 英语；本义“一再寻求”，引申为“需要、要求”。
+- **同根词**：requirement（require + **-ment** 名词 = 要求）、request（**re-** 再 + quest 寻求 = 请求）、question（quest 寻求 + **-ion** = 问题）、inquire（**in-** 向内 + quire 寻求 = 询问）、acquire（**ac-** 朝向 + quire 寻求 = 获得）。
+- **前缀·后缀**：前缀 **re-**（再、加强，例：repeat, return）；名词后缀 **-ment**（例：movement, development）。
+- **同义·反义**：同义 need（需要）, demand（要求）；反义 offer（提供）, supply（供给）。
+- **变形**：动词 → 第三人称单数：requires；过去式：required；过去分词：required；现在分词：requiring；名词派生 → requirement n. 要求。
 
-### 13. stage /steɪdʒ/ n. 段；步；步骤
-- **词根·渊源**：古法语 **estage**（住所、楼层，源自拉丁 *stare* 站立）→ 英语；本义“站立之处、楼层”，引申为“阶段、步骤、舞台”。
-- **同根词**：staging（stage + **-ing** 活动 = 上演）、stager（stage + **-er** 人 = 老手）、stadium（希腊 stadion 跑道→体育场）、state（拉丁 status 站立→状态）、station（拉丁 statio 站立→车站）。
-- **前缀·后缀**：名词后缀 **-ing**（例：building, meeting）、**-er**（例：worker, teacher）。
-- **同义·反义**：同义 phase（阶段）, step（步骤）；反义 无。
-- **变形**：名词 → 复数：stages；动词派生 → stage v. 上演；名词派生 → staging n. 上演。
+### 13. daughter /ˈdɔtər/ n. 女儿
+- **词根·渊源**：古英语 **dohtor**，源自原始日耳曼语 *duhtēr*，与希腊 *thygatēr*、梵语 *duhitár* 同出 PIE *dʰugh₂tḗr*（女儿）；本义即“女儿”，词形自古英语至今基本未变。
+- **同根词**：daughterly（daughter + **-ly** …的 = 女儿般的）、daughter-in-law（daughter + in-law 姻亲 = 儿媳）、stepdaughter（step- 继 + daughter = 继女）、goddaughter（god- 教 + daughter = 教女）。
+- **前缀·后缀**：无前后缀（单纯词）。
+- **同义·反义**：同义 girl（女孩，口语）, female child（女童）；反义 son（儿子）。
+- **变形**：名词 → 复数：daughters；形容词派生 → daughterly adj. 女儿般的。
 
-### 14. pleasant /ˈpleznt/ adj. 令人愉快的，惬意的；友好的；和善的；文雅的
-- **词根·渊源**：古法语 **plaisant**（令人愉快的），源自拉丁 *placere*（使高兴）→ 英语；本义“使人高兴的”，引申为“愉快的、友好的”。
-- **同根词**：please（拉丁 placere 使高兴→使满意）、pleasure（please + **-ure** 名词后缀 = 愉快）、pleasing（please + **-ing** ……的 = 令人愉快的）、pleasantly（pleasant + **-ly** 愉快地）、unpleasant（**un-** 不 + pleasant = 不愉快的）。
-- **前缀·后缀**：形容词后缀 **-ant**（例：important, distant）、**-ing**（例：interesting, exciting）；前缀 **un-**（例：unhappy, unfair）。
-- **同义·反义**：同义 agreeable（令人愉快的）, delightful（令人高兴的）；反义 unpleasant（不愉快的）, disagreeable（令人不快的）。
-- **变形**：形容词 → 比较级：more pleasant；最高级：most pleasant；副词派生 → pleasantly adv. 愉快地；名词派生 → pleasure n. 愉快。
+### 14. priceless /ˈpraɪsləs/ adj. 无价的
+- **词根·渊源**：price（价格）+ **-less**（无…的）构成；本义“没有价格的”，即“无法定价的”，引申为“无价的、极珍贵的”。
+- **同根词**：price（价格→代价）、pricelessly（priceless + **-ly** = 无价地）、pricy（price + **-y** = 昂贵的）、overprice（**over-** 过度 + price = 定价过高）、cheap（古英语 cēap 交易→便宜的）。
+- **前缀·后缀**：否定后缀 **-less**（例：hopeless, careless）；前缀 **over-**（例：overwork, overeat）。
+- **同义·反义**：同义 invaluable（无价的）, precious（珍贵的）；反义 worthless（无价值的）, cheap（廉价的）。
+- **变形**：形容词 → 无比较级（绝对形容词）；副词派生 → pricelessly adv. 无价地；名词派生 → pricelessness n. 无价。
 
-### 15. detailed /'diːteɪld/ adj. 详尽的，详细的；精细的，细致的
-- **词根·渊源**：法语 **détailler**（切碎、细说，由 de- 分开 + tailler 切 构成）→ 英语 detail + **-ed** 形容词后缀；本义“切成小块的”，引申为“详尽的”。
-- **同根词**：detail（法语 de- 分开 + tailler 切 = 细节）、tailor（法语 tailler 切→裁缝）、retail（**re-** 再 + tail 切 = 零售）、entail（**en-** 使 + tail 切 = 使承担）。
-- **前缀·后缀**：形容词后缀 **-ed**（例：talented, excited）；前缀 **re-**（例：return, rebuild）、**en-**（例：enable, enrich）。
-- **同义·反义**：同义 thorough（彻底的）, elaborate（精细的）；反义 brief（简短的）, general（大致的）。
-- **变形**：形容词 → 比较级：more detailed；最高级：most detailed；名词派生 → detail n. 细节；动词派生 → detail v. 详述。
+### 15. sculpture /ˈskəlpʧər/ n. 雕像
+- **词根·渊源**：拉丁 **sculpere**（雕刻）→ *sculptura*（雕刻品）→ 拉丁 → 英语；本义“雕刻出来的东西”，引申为“雕像、雕塑”。
+- **同根词**：sculpt（sculpere 雕刻→雕塑）、sculptor（sculpt + **-or** 人 = 雕刻家）、sculptural（sculpture + **-al** …的 = 雕塑的）、scalpel（sculpere 切割→手术刀）。
+- **前缀·后缀**：名词后缀 **-ure**（例：picture, nature）；名词后缀 **-or**（例：actor, doctor）。
+- **同义·反义**：同义 statue（雕像）, carving（雕刻品）；反义 无。
+- **变形**：名词 → 复数：sculptures；动词派生 → sculpt v. 雕刻；名词派生 → sculptor n. 雕刻家；形容词派生 → sculptural adj. 雕塑的。
 
-### 16. appear /əˈpɪr/ v. 显得；看来；似乎
-- **词根·渊源**：拉丁 **apparere**（出现，由 ad- 向 + parere 显现 构成）→ 古法语 *aparoir* → 英语；本义“显现出来”，引申为“显得、似乎”。
-- **同根词**：appearance（appear + **-ance** 名词后缀 = 出现）、apparent（拉丁 apparere 显现 + **-ent** ……的 = 明显的）、apparently（apparent + **-ly** 显然地）、disappear（**dis-** 不 + appear = 消失）、transparent（**trans-** 穿过 + par 显现 = 透明的）。
-- **前缀·后缀**：名词后缀 **-ance**（例：importance, distance）、形容词后缀 **-ent**（例：different, silent）；前缀 **dis-**（例：disagree, discover）、**trans-**（例：transport, translate）。
-- **同义·反义**：同义 seem（似乎）, look（看起来）；反义 disappear（消失）, vanish（消失）。
-- **变形**：动词 → 第三人称单数：appears；过去式：appeared；过去分词：appeared；现在分词：appearing；名词派生 → appearance n. 出现；形容词派生 → apparent adj. 明显的。
+### 16. unfortunately /ənˈfɔrʧənətli/ adv. 不幸地；遗憾地
+- **词根·渊源**：**un-**（不）+ fortunate（幸运的）+ **-ly**（…地）；fortunate 源自拉丁 **fortuna**（命运、运气），本义“运气不好的”，引申为“不幸地、遗憾地”。
+- **同根词**：fortune（fortuna 运气→财富）、fortunate（fortune + **-ate** …的 = 幸运的）、fortunately（fortunate + **-ly** = 幸运地）、misfortune（**mis-** 坏 + fortune = 不幸）、unfortunate（**un-** 不 + fortunate = 不幸的）。
+- **前缀·后缀**：否定前缀 **un-**（例：unhappy, unfair）；副词后缀 **-ly**（例：quickly, happily）。
+- **同义·反义**：同义 sadly（遗憾地）, regrettably（可惜地）；反义 fortunately（幸运地）, luckily（幸好）。
+- **变形**：副词 → 无比较级；形容词派生 → unfortunate adj. 不幸的；名词派生 → misfortune n. 不幸。
 
-### 17. actor /ˈæktə(r)/ n. 演员
-- **词根·渊源**：拉丁 **actor**（行动者，由 agere 做 + **-or** 人 构成）→ 英语；本义“做事的人”，后专指“在舞台上行动的人”，即“演员”。
-- **同根词**：act（拉丁 agere 做→行动）、action（act + **-ion** 名词后缀 = 行动）、active（act + **-ive** ……的 = 积极的）、actress（actor + **-ess** 女性 = 女演员）、react（**re-** 回 + act 做 = 反应）。
-- **前缀·后缀**：名词后缀 **-or**（例：doctor, visitor）、**-ion**（例：invention, education）、**-ess**（例：waitress, princess）；前缀 **re-**（例：return, rebuild）。
-- **同义·反义**：同义 performer（表演者）, player（演员）；反义 无。
-- **变形**：名词 → 复数：actors；名词派生 → actress n. 女演员；形容词派生 → active adj. 积极的；名词派生 → action n. 行动。
+### 17. graduate /ˈgræʤəˌweɪt/ v. 毕业
+- **词根·渊源**：拉丁 **gradus**（步、等级）→ *gradus* → 中世纪拉丁 *graduare*（授予学位，即“提升等级”）→ 英语；本义“逐步升级”，引申为“毕业”。
+- **同根词**：graduation（graduate + **-ion** 名词 = 毕业）、grade（gradus 等级→年级）、gradual（gradus 步 + **-al** …的 = 逐步的）、upgrade（**up-** 向上 + grade 等级 = 升级）、degrade（**de-** 向下 + grade 等级 = 降级）。
+- **前缀·后缀**：名词后缀 **-ion**（例：education, celebration）；前缀 **up-**（例：uplift, update）。
+- **同义·反义**：同义 complete school（完成学业）, finish studies（完成学习）；反义 enroll（入学）, matriculate（注册入学）。
+- **变形**：动词 → 第三人称单数：graduates；过去式：graduated；过去分词：graduated；现在分词：graduating；名词派生 → graduation n. 毕业；名词派生 → graduate n. 毕业生。
 
-### 18. match /mætʃ/ v. 找到与……相配之物，使相配，般配；使成对
-- **词根·渊源**：古英语 **gemæcca**（伴侣、配偶）→ 中古英语 *macche*；本义“伴侣”，引申为“相配、使成对”。
-- **同根词**：matchless（match + **-less** 无……的 = 无与伦比的）、matching（match + **-ing** ……的 = 相配的）、mate（古英语 gemæcca 伴侣→伙伴）、classmate（class + mate 伙伴 = 同学）、roommate（room + mate 伙伴 = 室友）。
-- **前缀·后缀**：形容词后缀 **-less**（例：careless, hopeless）、**-ing**（例：interesting, exciting）。
-- **同义·反义**：同义 pair（配对）, suit（相配）；反义 mismatch（不匹配）, differ（不同）。
-- **变形**：动词 → 第三人称单数：matches；过去式：matched；过去分词：matched；现在分词：matching；名词 → 复数：matches；形容词派生 → matching adj. 相配的；matchless adj. 无与伦比的。
+### 18. limit /ˈlɪmət/ v. 限量；减量
+- **词根·渊源**：拉丁 **limes / limit-**（边界、田埂）→ 拉丁 *limitare*（划定边界）→ 古法语 *limiter* → 英语；本义“划定边界”，引申为“限量、减量”。
+- **同根词**：limitation（limit + **-ation** 名词 = 限制）、limited（limit + **-ed** …的 = 有限的）、limitless（limit + **-less** 无…的 = 无限的）、delimit（**de-** 加强 + limit 边界 = 划定界限）、eliminate（**e-** 出 + limin 门槛 = 逐出→消除）。
+- **前缀·后缀**：名词后缀 **-ation**（例：information, education）；否定后缀 **-less**（例：endless, homeless）。
+- **同义·反义**：同义 restrict（限制）, cap（限定）；反义 expand（扩大）, extend（延伸）。
+- **变形**：动词 → 第三人称单数：limits；过去式：limited；过去分词：limited；现在分词：limiting；名词派生 → limit n. 限度；名词派生 → limitation n. 限制；形容词派生 → limited adj. 有限的。
 
-### 19. separately /'sepərətli/ adv. 单独地；分别地；分离地；个别地
-- **词根·渊源**：拉丁 **separ-**（分开、分离）→ 拉丁 *separare*（分开）→ 英语 separate + **-ly**；本义“以分开的方式”，引申为“单独地、分别地”。
-- **同根词**：separate（**se-** 分开 + par 准备/安排 = 分开安排→使分离）、separation（separate + **-ion** 名词后缀：分离）、inseparable（**in-** 不 + separable 可分开的 = 不可分离的）。
-- **前缀·后缀**：前缀 **se-**（例：select, secure）；副词后缀 **-ly**（例：quickly, happily）。
-- **同义·反义**：同义 individually（个别地）, independently（独立地）；反义 together（一起）, jointly（共同地）。
-- **变形**：副词 → 无比较级（多音节副词，用 more separately / most separately）；形容词派生 → separate adj. 分开的；名词派生 → separateness n. 分离状态。
+### 19. temperature /ˈtɛmpərəʧər/ n. 温度
+- **词根·渊源**：拉丁 **temperare**（调和、混合）→ 拉丁 *temperatura*（调和的状态、适度）→ 法语 *température* → 英语；本义“调和后的适中状态”，后引申为衡量冷热程度的“温度”。
+- **同根词**：temper（**temper** 调和 = 使金属调和→回火；使情绪调和→脾气）、temperate（temper + **-ate** 有…性质的 = 有节制的→温和的）、temperance（temper + **-ance** 名词后缀 = 节制）、distemper（**dis-** 去除 + temper 调和 = 失调→犬瘟热；色胶）。
+- **前缀·后缀**：名词后缀 **-ature**（例：creature, signature）；前缀 **dis-**（例：disturb, discover）。
+- **同义·反义**：同义 heat（热度）, warmth（温暖）；反义 无。
+- **变形**：名词 → 复数：temperatures；形容词派生 → temperatured adj. 有…温度的（多用于复合词）。
 
-### 20. play /pleɪ/ v.（使）播放
-- **词根·渊源**：古英语 *plegan / plegian*（活动、锻炼、玩耍）→ 中古英语 *pleyen* → 英语 play；本义“快速活动、嬉戏”，后引申出“演奏、播放（音像）”之义。
-- **同根词**：player（play + **-er** 人/物：播放器、运动员）、playful（play + **-ful** 充满……的：爱玩的）、playground（play + ground 场地 = 游乐场）。
-- **前缀·后缀**：无前缀；名词后缀 **-er**（例：teacher, singer）；形容词后缀 **-ful**（例：helpful, careful）。
-- **同义·反义**：同义 perform（表演）, broadcast（播放）；反义 stop（停止）, pause（暂停）。
-- **变形**：动词 → 第三人称单数：plays；过去式：played；过去分词：played；现在分词：playing；名词派生 → play n. 玩耍、戏剧；player n. 播放器、运动员；形容词派生 → playful adj. 爱玩的。
+### 20. preserve /prɪˈzərv/ v. 维持……的原状；保存
+- **词根·渊源**：拉丁 **prae-**（前、预先）+ **servare**（保持、看守）→ 拉丁 *praeservare*（预先保护）→ 古法语 *preserver* → 英语；本义“预先守护”，引申为“保存、维持原状”。
+- **同根词**：reserve（**re-** 回 + serve 保持 = 留回→保留、预订）、conserve（**con-** 共同 + serve 保持 = 共同保存→节约、保护）、observe（**ob-** 朝向 + serve 看守 = 朝…看守→观察、遵守）、servant（serv 看守 + **-ant** 人 = 仆人）、service（serv 服务 + **-ice** 名词后缀 = 服务）。
+- **前缀·后缀**：前缀 **pre-**（例：prepare, prevent）；动词后缀 **-e**（例：serve, reserve）。
+- **同义·反义**：同义 conserve（保护）, maintain（维持）；反义 destroy（破坏）, ruin（毁坏）。
+- **变形**：动词 → 第三人称单数：preserves；过去式：preserved；过去分词：preserved；现在分词：preserving；名词派生 → preservation n. 保存；形容词派生 → preservable adj. 可保存的；preservative adj. 防腐的。
 
-### 21. score /skɔː(r)/ n. 分数；得分，进球
-- **词根·渊源**：古诺斯语 *skor*（刻痕、切口）→ 中古英语 *score*；本义“刻痕（计数用的刻记）”，古人以刻痕记数，故引申为“得分、分数”。
-- **同根词**：scorer（score + **-er** 人：得分者）、scoreboard（score + board 板 = 记分板）、underscore（**under-** 在下 + score 刻 = 在下面划线→强调）。
-- **前缀·后缀**：前缀 **under-**（例：understand, underground）；名词后缀 **-er**（例：worker, dancer）。
-- **同义·反义**：同义 point（分数）, mark（分数）；反义 无。
-- **变形**：名词 → 复数：scores；动词派生 → score v. 得分；scorer n. 得分者；scoreboard n. 记分板。
-
-### 22. team /tiːm/ n. 队；组；团队；球队，运动队
-- **词根·渊源**：古英语 *tēam*（一组拉车的牲口、一队）→ 中古英语 *team*；本义“一组共同拉车的牲畜”，引申为“协作的一组人→团队、球队”。
-- **同根词**：teammate（team + mate 伙伴 = 队友）、teamwork（team + work 工作 = 团队合作）、teamster（team + **-ster** 人：赶车队的人）。
-- **前缀·后缀**：无前缀；名词后缀 **-mate**（例：classmate, roommate）、**-ster**（例：gangster, trickster）。
-- **同义·反义**：同义 group（组）, squad（小队）；反义 individual（个人）。
-- **变形**：名词 → 复数：teams；名词派生 → teammate n. 队友；teamwork n. 团队合作。
-
-### 23. star /stɑː(r)/ n. 明星；体坛高手
-- **词根·渊源**：古英语 *steorra*（星）→ 中古英语 *sterre / star*；本义“天空中的星星”，因明星如星般闪耀，引申为“明星、体坛高手”。
-- **同根词**：starry（star + **-ry** 充满……的：星光灿烂的）、stardom（star + **-dom** 身份/领域：明星地位）、starfish（star + fish 鱼 = 海星）。
-- **前缀·后缀**：无前缀；形容词后缀 **-ry**（例：sunny 类同 -y, rainy）；名词后缀 **-dom**（例：freedom, kingdom）。
-- **同义·反义**：同义 celebrity（名人）, idol（偶像）；反义 nobody（无名之辈）。
-- **变形**：名词 → 复数：stars；动词派生 → star v. 主演；形容词派生 → starry adj. 星光灿烂的；stardom n. 明星地位。
-
-### 24. mystery /ˈmɪstəri/ n. 迷；神秘；难以理解的事物
-- **词根·渊源**：希腊 **mystērion**（秘密的仪式）→ 拉丁 *mysterium* → 古法语 *mistere* → 英语 mystery；本义“秘密的宗教仪式”，引申为“神秘、难以理解的事物”。
-- **同根词**：mysterious（mystery + **-ous** ……的：神秘的）、mystify（mystery 变体 + **-fy** 使……：使迷惑）、mystic（希腊 mystikos 神秘的 + **-ic**：神秘的）。
-- **前缀·后缀**：无前缀；形容词后缀 **-ous**（例：famous, dangerous）；动词后缀 **-fy**（例：simplify, beautify）。
-- **同义·反义**：同义 secret（秘密）, puzzle（谜）；反义 clarity（清晰）, certainty（确定性）。
-- **变形**：名词 → 复数：mysteries；形容词派生 → mysterious adj. 神秘的；动词派生 → mystify v. 使迷惑；副词派生 → mysteriously adv. 神秘地。
-
-### 25. island /ˈaɪlənd/ n. 岛
-- **词根·渊源**：古英语 *īegland*（ie 水 + land 陆地 = 水中的陆地）→ 中古英语 *iland*；后受拉丁 *insula*（岛）影响误加不发音的 s，成 island；本义“水中陆地”。
-- **同根词**：islander（island + **-er** 人：岛民）、islet（island 的指小形式 **-et**：小岛）、isle（拉丁 insula → 古法语 isle：小岛）。
-- **前缀·后缀**：无前缀；名词后缀 **-er**（例：villager, farmer）；指小后缀 **-et**（例：booklet, pocket）。
-- **同义·反义**：同义 isle（小岛）, islet（小岛）；反义 mainland（大陆）。
-- **变形**：名词 → 复数：islands；名词派生 → islander n. 岛民；islet n. 小岛。
-
-### 26. storm /stɔ:rm/ v. 风暴，暴风雨
-- **词根·渊源**：古英语 *storm*（风暴、暴风雨）→ 中古英语 *storm*；本义“猛烈的天气”，引申为动词“猛攻、怒气冲冲地走”。
-- **同根词**：stormy（storm + **-y** ……的：暴风雨的）、stormer（storm + **-er** 人/物：猛攻者）、brainstorm（brain 脑 + storm 风暴 = 头脑风暴）。
-- **前缀·后缀**：无前缀；形容词后缀 **-y**（例：rainy, windy）；名词后缀 **-er**（例：fighter, builder）。
-- **同义·反义**：同义 tempest（暴风雨）, gale（大风）；反义 calm（平静）。
-- **变形**：名词 → 复数：storms；动词 → 第三人称单数：storms；过去式：stormed；过去分词：stormed；现在分词：storming；形容词派生 → stormy adj. 暴风雨的。
-
-### 27. jacket /ˈdʒækɪt/ n. 夹克衫；短上衣
-- **词根·渊源**：古法语 *jaquet*（短上衣，jaque 的指小形式）→ 中古英语 *jaket*；本义“短小的上衣”，即夹克衫。
-- **同根词**：jacketed（jacket + **-ed** 有……的：有护套的）、jacketless（jacket + **-less** 无……的：无夹克的）、life jacket（life 生命 + jacket 衣 = 救生衣）。
-- **前缀·后缀**：无前缀；形容词后缀 **-ed**（例：talented, gifted）、**-less**（例：hopeless, careless）。
-- **同义·反义**：同义 coat（外套）, blazer（西装外套）；反义 无。
-- **变形**：名词 → 复数：jackets；形容词派生 → jacketed adj. 有护套的；jacketless adj. 无夹克的。
-
-### 28. wave /weɪv/ n. 海浪；波浪；波涛
-- **词根·渊源**：古英语 *wafian*（挥动、波动）→ 中古英语 *waven*；本义“挥动、起伏”，引申为“波浪、海浪”。
-- **同根词**：wavy（wave + **-y** ……的：波浪形的）、waver（wave + **-er** 反复动作：摇摆）、microwave（**micro-** 微小 + wave 波 = 微波）。
-- **前缀·后缀**：前缀 **micro-**（例：microscope, microphone）；形容词后缀 **-y**（例：cloudy, sunny）。
-- **同义·反义**：同义 billow（巨浪）, ripple（涟漪）；反义 calm（平静）。
-- **变形**：名词 → 复数：waves；动词 → 第三人称单数：waves；过去式：waved；过去分词：waved；现在分词：waving；形容词派生 → wavy adj. 波浪形的。
-
-### 29. comic strip /ˈkɒmɪk strɪp/ n. 连环漫画；连载漫画
-- **同义搭配**：cartoon / comic
+### 21. take photos v. 拍照
+- **同义搭配**：take pictures / shoot photos
 - **反义搭配**：无
 
-### 30. pop out /pɑp aʊt/ n.（眼睛）（因激动、惊奇）张大；睁大；瞪大
-- **同义搭配**：bulge out / stick out
+### 22. works of art n. 艺术品
+- **同义搭配**：artworks / pieces of art
 - **反义搭配**：无
 
-### 31. decide on /dɪ'saɪd ɒn/ n. 决定；选定
-- **同义搭配**：settle on / choose
+### 23. at the age of prep. 在……岁时
+- **同义搭配**：when ... years old / at ... years of age
 - **反义搭配**：无
 
-### 32. video camera /ˈvɪdioʊ ˈkæmərə/ n. 摄影机；摄像机
-- **同义搭配**：camcorder / video recorder
+### 24. on display prep. 展览中；陈列着
+- **同义搭配**：on show / on exhibition
 - **反义搭配**：无
 
-### 33. play against /pleɪ əˈgɛnst/ v. 同……比赛
-- **同义搭配**：compete against / play with（对阵）
-- **反义搭配**：play with（与……合作）
+### 25. in detail prep. 详细地
+- **同义搭配**：in depth / at length
+- **反义搭配**：in brief（简略地）
 
-### 34. weather forecast /ˈweðə fɔːkɑːst/ n. 天气预测，天气预报
-- **同义搭配**：weather report / forecast
-- **反义搭配**：无
-
-### 35. life jacket /ˈlaɪf dʒækɪt/ n. 救生衣
-- **同义搭配**：life vest / life preserver
-- **反义搭配**：无
-
-### 36. thank goodness /θæŋk ˈɡʊdnəs/ n. 谢天谢地；幸亏
-- **同义搭配**：thank God / thank heavens
-- **反义搭配**：无
-
-### 37. make it /meɪk ɪt/ v. 获得成功；（病痛等）好转；达到预定目标
-- **同义搭配**：succeed（成功） / achieve the goal（达到目标） / pull through（康复、渡过难关）
-- **反义搭配**：fail（失败） / fall through（落空）
+### 26. be famous for v. 因……而闻名
+- **同义搭配**：be known for / be well-known for
+- **反义搭配**：be unknown for（不因……而闻名）
 
 ## 三、本单元前缀 / 后缀小结
 
 | 词缀 | 含义 | 本单元例词 | 扩展例词 |
 |---|---|---|---|
-| -ing | 名词后缀，表动作或结果 | warning | building, meeting, feeling |
-| -al | 形容词后缀，……的 | symbol（symbolic） | natural, musical, personal |
-| -le | 名词/动词后缀，表反复动作或小事物 | bubble | sparkle, giggle, handle |
-| -t | 名词后缀，表状态或结果 | thought | weight, height, flight |
-| pro- | 前缀，向前，预先 | program | progress, protect, produce |
-| ef-/ex- | 前缀，向外，出 | effect | exit, export, express |
-| -ic | 形容词后缀，……的 | basic | historic, scientific, poetic |
-| -ant | 形容词后缀，……的 | pleasant | important, distant, elegant |
-| -ed | 形容词后缀，具有……的 | detailed | talented, excited, interested |
-| ap- | 前缀，朝向，加强 | appear | apply, approach, approve |
-| -or | 名词后缀，表人 | actor | doctor, visitor, inventor |
-| -ly | 副词后缀，……地 | separately | quickly, carefully, happily |
-| -y | 名词后缀，表状态或事物 | mystery | history, victory, memory |
-| -er | 名词后缀，表人或物 | weather forecast | teacher, worker, computer |
-| -ness | 名词后缀，表性质或状态 | thank goodness | kindness, happiness, darkness |
+| -er | 表人/物 | master | teacher, worker, computer |
+| -piece | 部分；块 | masterpiece | piece, piecemeal |
+| when- | 何时 | whenever | whenever, wherever, whatever |
+| a- | 在……状态 | alone | asleep, alive, awake |
+| -y | 动词/名词后缀 | copy | study, carry, party |
+| -age | 名词后缀，表行为/状态 | damage | package, marriage, storage |
+| se- | 分开 | separate | select, secure, seclude |
+| ex- | 向外 | exhibition | export, exit, exclude |
+| -tion | 名词后缀，表行为/结果 | exhibition | action, education, information |
+| life- | 生命 | lifestyle | lifetime, lifeguard, lifeboat |
+| de- | 向下；完全 | detail | descend, define, describe |
+| re- | 再；回 | require | return, repeat, review |
+| -less | 无……的 | priceless | hopeless, careless, endless |
+| un- | 不 | unfortunately | unhappy, unable, unfair |
+| -ly | 副词后缀 | unfortunately | quickly, happily, carefully |
+| pre- | 在前；预先 | preserve | prepare, preview, predict |
 
 ## 四、同义 / 反义速查（本单元核心词）
 
 | 词 | 同义（中文） | 反义（中文） |
 |---|---|---|
-| warning | caution（警告） | — |
-| symbol | sign（标志） | — |
-| rough | coarse（粗糙的） | smooth（光滑的） |
-| sketch | draft（草图） | — |
-| program | plan（计划） | — |
-| record | register（记录） | — |
-| effect | influence（影响） | — |
-| basic | fundamental（基本的） | advanced（高级的） |
-| pleasant | agreeable（令人愉快的） | unpleasant（令人不快的） |
-| detailed | thorough（详尽的） | brief（简略的） |
-| appear | seem（似乎） | disappear（消失） |
-| match | pair（配对） | mismatch（不匹配） |
-| separately | individually（单独地） | together（一起） |
-| score | point（得分） | — |
-| star | celebrity（明星） | — |
-| mystery | secret（秘密） | — |
-| storm | tempest（暴风雨） | calm（平静） |
-| wave | ripple（波浪） | — |
-| decide on | choose（选定） | — |
-| make it | succeed（成功） | fail（失败） |
+| master（大师） | expert（专家） | beginner（初学者） |
+| masterpiece（杰作） | classic（经典之作） | failure（失败之作） |
+| alone（独自） | lonely（孤独的） | together（一起） |
+| copy（仿造） | imitate（模仿） | create（创造） |
+| risk（风险） | danger（危险） | safety（安全） |
+| damage（损坏） | harm（伤害） | repair（修复） |
+| separate（不同的） | distinct（不同的） | connected（相关的） |
+| exhibition（展览） | display（展示） | concealment（隐藏） |
+| detail（细部） | particular（细节） | whole（整体） |
+| require（需要） | need（需要） | offer（提供） |
+| priceless（无价的） | invaluable（无价的） | worthless（无价值的） |
+| unfortunately（不幸地） | unluckily（不幸地） | fortunately（幸运地） |
+| graduate（毕业） | complete（完成学业） | enroll（入学） |
+| limit（限量） | restrict（限制） | expand（扩大） |
+| preserve（保存） | protect（保护） | destroy（破坏） |
+| on display（展览中） | on show（展出中） | hidden（隐藏的） |
+| be famous for（因……而闻名） | be known for（因……而著称） | be unknown for（不因……闻名） |
 
 ---
 
