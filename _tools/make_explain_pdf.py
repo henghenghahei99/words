@@ -53,7 +53,9 @@ if not FONT_CJK:
 FONT_CJK_B = _pick(os.path.join(FONT_CACHE, "NotoSerifSC-Bold.ttf"),
                    "/tmp/NotoSerifSC-Bold.ttf") or FONT_CJK
 FONT_LAT = _pick(os.path.join(FONT_CACHE, "DejaVuSans.ttf"),
-                 "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf")
+                 "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+                 "C:/Windows/Fonts/segoeui.ttf",
+                 "C:/Windows/Fonts/arial.ttf")
 if not FONT_LAT:
     raise SystemExit("找不到拉丁字体 DejaVuSans.ttf")
 
@@ -121,6 +123,24 @@ STY = {
                               leading=12.2, textColor=INK, alignment=2),
 }
 
+# ---- 右侧单元标签：仿 seach/dictionary.pdf 的字母索引，内容换成单元编号 ----
+TAB_W = 17.0 * mm          # 标签主体宽度（贴住右页边）
+TAB_H = 12.0 * mm          # 标签高度
+TAB_EXTRA = 1.5 * mm       # 伸出页面外的部分（圆角被页边裁掉）
+TAB_RADIUS = 2.5 * mm
+TAB_Y_FIRST = 259 * mm     # 第一个单元的标签底边
+TAB_Y_LAST = 22 * mm       # 最后一个单元的标签底边
+TAB_EDGE = colors.HexColor("#0a5a73")
+
+
+def unit_code(title, path):
+    """标签文字：优先取标题首词（8A_U1），否则退回文件名。"""
+    first = title.split()[0] if title.split() else ""
+    if re.fullmatch(r"\d[AB]_U\d+", first):
+        return first
+    base = os.path.basename(path)[:-len("_EXPLAIN.md")]
+    return base
+
 
 class Doc(BaseDocTemplate):
     def __init__(self, fn, **kw):
@@ -143,6 +163,9 @@ class Doc(BaseDocTemplate):
                                             onPage=self._footer)])
         self.col_w = col_w
         self.unit_pages = {}
+        self.prev_units = {}    # 上一遍的 单元标题 -> 起始页（用于画标签）
+        self.unit_order = {}    # 单元标题 -> 序号
+        self.unit_codes = {}    # 单元标题 -> 标签文字（如 8A_U1）
 
     def _footer(self, canv, doc):
         canv.saveState()
@@ -152,6 +175,38 @@ class Doc(BaseDocTemplate):
         canv.setStrokeColor(RULE)
         canv.setLineWidth(0.4)
         canv.line(17 * mm, 12.5 * mm, A4[0] - 17 * mm, 12.5 * mm)
+        canv.restoreState()
+        self._draw_tab(canv, doc)
+
+    def _unit_at(self, page):
+        """当前页所属的单元（按上一遍的起始页判断）。"""
+        cur, cur_page = None, -1
+        for title, p in self.prev_units.items():
+            if p <= page and p > cur_page:
+                cur, cur_page = title, p
+        return cur
+
+    def _draw_tab(self, canv, doc):
+        """在右页边画当前单元编号的标签，位置随单元推进下移。"""
+        title = self._unit_at(doc.page)
+        if not title:
+            return
+        idx = self.unit_order.get(title)
+        if idx is None:
+            return
+        total = max(len(self.unit_order) - 1, 1)
+        x = A4[0] - TAB_W
+        y = TAB_Y_FIRST - (TAB_Y_FIRST - TAB_Y_LAST) * idx / float(total)
+        canv.saveState()
+        canv.setFillColor(ACCENT)
+        canv.setStrokeColor(TAB_EDGE)
+        canv.setLineWidth(0.5)
+        canv.roundRect(x, y, TAB_W + TAB_EXTRA, TAB_H, TAB_RADIUS,
+                       stroke=1, fill=1)
+        canv.setFillColor(colors.white)
+        canv.setFont("CJK-Bold", 9.5)
+        canv.drawCentredString(x + TAB_W / 2.0, y + TAB_H / 2.0 - 3.3,
+                               self.unit_codes.get(title, ""))
         canv.restoreState()
 
     def afterFlowable(self, flowable):
@@ -259,6 +314,7 @@ def toc_block(titles, pages, col_w):
 
 def build(files, pages, out):
     doc = Doc(out)
+    doc.prev_units = dict(pages)
     story = []
     story.append(Spacer(1, 45 * mm))
     story.append(Paragraph("初中英语单词表 · 说文解字", STY["title"]))
@@ -279,6 +335,7 @@ def build(files, pages, out):
     story.append(PageBreak())
 
     titles = []
+    codes = {}
     for path in files:
         title = os.path.basename(path)[:-len("_EXPLAIN.md")]
         for line in open(path, encoding="utf-8"):
@@ -286,6 +343,9 @@ def build(files, pages, out):
                 title = line[2:].strip()
                 break
         titles.append(title)
+        codes[title] = unit_code(title, path)
+    doc.unit_order = {t: i for i, t in enumerate(titles)}
+    doc.unit_codes = codes
 
     story.append(Paragraph("目　录", STY["toch"]))
     story.append(toc_block(titles, pages, doc.col_w))
